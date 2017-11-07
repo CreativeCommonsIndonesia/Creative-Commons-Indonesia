@@ -8,6 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
 description: 
 keywords: 
 disqus:
@@ -23,10 +29,3 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 url: http://creativecommons.or.id/
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
