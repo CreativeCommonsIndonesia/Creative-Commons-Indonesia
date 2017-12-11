@@ -41,16 +41,19 @@ Pada laman pengunggahannya, situs web ini mewajibkan setiap pengunggah berkas me
 
 Lain halnya jika berkas-berkas tersebut pernah diumumkan secara daring melalui situs web seperti Flickr, Internet Archive, atau situs-situs web pengunggahan berkas lain dan ditandai dengan ketentuan lisensi Creative Commons (CC). Penandaan berkas dengan ketentuan lisensi CC yang kompatibel dengan Wikimedia Commons, dalam hal ini CC BY (Atribusi)dan CC BY-SA (Atribusi-BerbagiSerupa) atau lisensi lain dengan ketentuan serupa dan/atau mendekati, dapat menjadi pengganti pernyataan izin dari pemilik atau pemegang hak cipta terhadap berkas-berkas tersebut. Karena, setiap tanda lisensi CC yang disematkan pada berkas-berkas tersebut memberikan izin secara langsung kepada pengguna atau pengakses berkas untuk paling tidak menggandakan dan menyebarluaskan berkas tersebut. Tingkat kebebasan penggunaan berkas kemudian menjadi bertambah dengan penerapan ketentuan BY atau BY-SA yang memungkinkan adanya pengubahan dan/atau penggubahan ciptaan untuk kepentingan apapun. 
 
-Dengan seperangkat aturan main ini, Wikimedia Commons bermaksud meminimalisir terjadinya pencucian lisensi. Pencucian lisensi adalah setiap bentuk pengumuman atau pengunggahan berkas secara daring maupun luring yang menyertakan pengubahan ketentuan lisensi ciptaan dari ketentuan lisensi yang diterapkan oleh pemilik atau pemegang hak cipta. Umumnya kejadian ini terjadi karena penggunggah atau pengguna berkas tidak memiliki dasar pemahaman terkait etika penggunaan berkas yang ditemukan secara daring. Menjamurnya fasilitas pengunggahan berkas dan penemuan berkas secara daring menuntut hampir seluruh warganet untuk memiliki pengetahuan terkait etika penggunaan berkas. Dengan memiliki bekal pengetahuan-pengetahuan tersebut para warganet dapat menghindarkan diri dari tindak pencucian lisensi yang merupakan salah satu bentuk penyelundupan hukum di ranah hukum hak cipta.
+Dengan seperangkat aturan main ini, Wikimedia Commons bermaksud meminimalisir terjadinya pencucian lisensi. Pencucian lisensi adalah setiap bentuk pengumuman atau pengunggahan berkas secara daring maupun luring yang menyertakan pengubahan ketentuan lisensi ciptaan dari ketentuan lisensi yang diterapkan oleh pemilik atau pemegang hak cipta. Umumnya kejadian ini terjadi karena penggunggah atau pengguna berkas tidak memiliki dasar pemahaman terkait etika penggunaan berkas yang ditemukan secara daring. Misalnya ada pengguna berkas yang mengunggah ulang berkas dengan ketentuan lisensi NonKomersial ke Wikimedia Commons dengan lisensi yang memperbolehkan penggunaan komersial. Atau misalnya seorang produser musik menggunakan beberapa bagian dari rekaman musik berlisensi CC BY-NC-SA pada ciptaan turunannya yang berlisensi CC BY-NC-ND. Ketentuan lisensi yang bertentangan antara alat atau ciptaan tidak akan dapat disatukan dan jika dipaksakan untuk disatukan maka yang terjadi adalah pencucian lisensi. Pencucian lisensi adalah salah satu bentuk pelanggaran hak cipta. Hal tersebut juga bisa mencederai kepercayaan pemberi lisensi terhadap para penggunanya yang tidak bisa menaati ketentuan lisensi dengan benar. 
 
 **Menghindari pencucian lisensi** 
 
-Menjamurnya fasilitas pengunggahan dan pencarian atau penemuan berkas secara daring kini diikuti dengan beberapa alat yang dapat menunjukan kita lisensi hak cipta dari masing-masing berkas yang ada di dalam jaringan serta memudahkan kita menjaring berkas-berkas yang hendak kita gunakan agar sesuai dengan kriteria penggunaan kita.
+Menjamurnya fasilitas pengunggahan dan pencarian atau penemuan berkas secara daring kini diikuti dengan beberapa alat yang dapat menunjukan kita lisensi hak cipta dari masing-masing berkas yang ada di dalam jaringan serta memudahkan kita menjaring berkas-berkas yang hendak kita gunakan agar sesuai dengan kriteria penggunaan kita. Dengan memiliki bekal pengetahuan-pengetahuan tersebut para pengguna berkas dapat menghindarkan diri dari tindak pencucian lisensi yang merupakan salah satu bentuk penyelundupan hukum di ranah hukum hak cipta.
 
 Alat-alat itu ialah:
 
 1. Google Image Search dan Flickr Commons
+![uwow.jpg](/uploads/uwow.jpg)
 
 2. Fitur Penyaringan Lisensi di Free Music Archive
+![sss.jpg](/uploads/sss.jpg)
 
 3. Fitur Penyaringan Lisensi di Youtube dan Vimeo
+![sfsdf.jpg](/uploads/sfsdf.jpg)
