@@ -1,6 +1,16 @@
 ---
 title: Sosialisasi Lisensi CC di acara WikiLatih Universitas Terbuka
 date: 2017-12-08 22:18:00 +07:00
+categories:
+- Acara
+tags:
+- Acara
+- Universitas Terbuka
+- Open University of Indonesia
+- Sumber Pembelajaran Terbuka
+- Sosialisasi Lisensi Creative Commons
+- Creative Commons Indonesia
+- Indonesia
 author: ccid
 comments: true
 img: "/uploads/Agustus_2_2017_Sosialisasi_Lisensi_CC_pada_WikiLatih_Universitas_Terbuka.jpg"
