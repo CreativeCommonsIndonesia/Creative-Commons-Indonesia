@@ -12,6 +12,9 @@ tags:
 - Copyright Licenses
 - Lisensi Hak Cipta
 - Lisensi Creative Commons
+author: hilman
+comments: true
+img: "/uploads/noun_1032477_cc%2022.png"
 ---
 
 Apakah Anda pernah mengunggah ulang suatu ciptaan milik orang lain yang Anda dapatkan di dalam jaringan ke suatu situs lalu menerapkan ketentuan lisens tertentu pada ciptaan tersebut?
@@ -48,8 +51,6 @@ Alat-alat itu ialah:
 
 1. Google Image Search dan Flickr Commons
 
-2. Fitur Penyaringan Lisensi di Internet Archive
+2. Fitur Penyaringan Lisensi di Free Music Archive
 
-3. Fitur Penyaringan Lisensi di Free Music Archive
-
-4. Fitur Penyaringan Lisensi di Youtube dan Vimeo
+3. Fitur Penyaringan Lisensi di Youtube dan Vimeo
