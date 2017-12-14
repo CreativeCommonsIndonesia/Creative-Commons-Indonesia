@@ -1,6 +1,6 @@
 ---
 title: Sosialisasi Lisensi CC di acara WikiLatih Universitas Terbuka
-date: 2017-12-08 22:18:00 +07:00
+date: 2017-08-02 12:05:00 +07:00
 categories:
 - Acara
 tags:
