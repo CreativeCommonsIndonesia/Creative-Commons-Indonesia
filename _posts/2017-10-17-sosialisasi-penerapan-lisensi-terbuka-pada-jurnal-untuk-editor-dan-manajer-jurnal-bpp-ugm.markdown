@@ -1,7 +1,7 @@
 ---
 title: Sosialisasi Penerapan Lisensi Terbuka Pada Jurnal Untuk Editor dan Manajer
   Jurnal BPP UGM
-date: 2017-12-08 22:20:00 +07:00
+date: 2017-10-17 10:20:00 +07:00
 categories:
 - Acara
 tags:
