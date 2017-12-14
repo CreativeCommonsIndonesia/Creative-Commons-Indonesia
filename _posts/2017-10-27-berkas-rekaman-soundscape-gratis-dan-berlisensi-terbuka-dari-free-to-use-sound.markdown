@@ -17,7 +17,7 @@ img: "/uploads/Free-to-use-sounds-logo-24863a.png"
 ---
 
 "Sementara potret itu sama harganya dengan sejuta kata, rekaman suara sama harganya dengan sejuta potret"
-- Bernie Krause dalam The Great Animal Orchestra -
+*Bernie Krause dalam The Great Animal Orchestra
 
 Bernie Krause adalah seorang ahli perekaman suara ruang (soundscape) yang mendedikasikan hampir seluruh masa hidupnya untuk merekam suara alam baik perkotaan maupun hutan. Ia berada di antara dedikasi Alan Lomax yang sudah tutup usia untuk musik tradisional Amerika Serikat dan dedikasi Palmer Keen untuk musik tradisional Indonesia kontemporer yang bisa dibilang baru saja dimulai. Di samping tokoh-tokoh tersebut, terdapat dedikasi lain lagi yang muncul dan menarik perhatian. Dedikasi ini bernama Free to Use Sounds, inisiatif yang dimulai oleh Libby dan Marcell, aktivis perekam suara dari Amerika Serikat.
 
