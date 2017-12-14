@@ -1,6 +1,6 @@
 ---
 title: Berkas Suara Ruang, Gratis dan Berlisensi Terbuka, dari Free to Use Sounds!
-date: 2017-12-08 22:26:00 +07:00
+date: 2017-10-27 11:45:00 +07:00
 categories:
 - Berita
 tags:
