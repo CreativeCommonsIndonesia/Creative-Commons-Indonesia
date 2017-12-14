@@ -1,6 +1,6 @@
 ---
 title: Kunjungan CCID ke Perpustakaan Nasional Expo 2017
-date: 2017-12-08 00:12:00 +07:00
+date: 2017-09-01 00:12:00 +07:00
 categories:
 - Acara
 tags:
