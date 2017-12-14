@@ -24,4 +24,6 @@ Pada tanggal 15-19 Mei 2017, Perpusatakaan Nasional (Perpusnas) Indonesia menghe
 
 ![Persebaran_papan_informasi_Lisensi_CC_ke_perpustakaan_daerah_di_Indonesia.jpg](/uploads/Persebaran_papan_informasi_Lisensi_CC_ke_perpustakaan_daerah_di_Indonesia.jpg){: .img-responsive .center-block }{: width="500"}
 
+
+
 Selamat ulang tahun ke-37 Perpusnas Indonesia!
