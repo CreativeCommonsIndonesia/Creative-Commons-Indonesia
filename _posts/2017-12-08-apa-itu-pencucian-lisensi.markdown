@@ -49,11 +49,18 @@ Menjamurnya fasilitas pengunggahan dan pencarian atau penemuan berkas secara dar
 
 Alat-alat itu ialah:
 
-1. Google Image Search dan Flickr Commons
+1. Google Image Search
 ![uwow.jpg](/uploads/uwow.jpg)
+
+**Google Image Search** menyediakan fitur penyaring gambar berdasarkan hak penggunaan. Dengan memanfaatkan fitur ini Anda dapat menggunakan gambar yang sesuai dengan kebutuhan penggunaan Anda. Pilihan penyaringan yang diberikan sudah meliputi seluruh ketentuan lisensi CC. Bahkan Anda bisa menyaring agar mesin pencari ini hanya mengeluarkan hasil gambar-gambar yang dapat digunakan kembali untuk kepentingan komersial.
 
 2. Fitur Penyaringan Lisensi di Free Music Archive
 ![sss.jpg](/uploads/sss.jpg)
 
-3. Fitur Penyaringan Lisensi di Youtube dan Vimeo
+Sebagai salah satu situs web penyedia konten musik gratis dan berlisensi terbuka, Free Music Archive (FMA) menyediakan alat penyaring untuk memudahkan pengguna ciptaan dalam menemukan ciptaan yang ketentuan lisensinya sesuai dengan kebutuhan. FMA menyediakan lebih dari 100.000 berkas musik dengan berbagai varian jenis musik sehingga dapat dipastikan Anda dapat menemukan ciptaan yang Anda butuhkan dengan memanfaatkan situs web ini.
+
+
+3. Fitur Penyaringan Lisensi di Youtube
 ![sfsdf.jpg](/uploads/sfsdf.jpg)
+
+Tidak diragukan lagi, Youtube telah menjadi tempat pemberhentian pertama warganet untuk mencari ciptaan video. Dengan 30 juta lebih video berlisensi CC, Youtube dapat memastikan Anda terhindar dari perbuatan pencucian lisensi ketika Anda menggunakan kembali suatu ciptaan video.
