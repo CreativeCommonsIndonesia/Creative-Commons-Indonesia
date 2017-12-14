@@ -1,6 +1,14 @@
 ---
 title: Arsip Pertunjukan Musik Terbuka di Internet Archive oleh Etree!
-date: 2017-12-08 22:27:00 +07:00
+date: 2017-11-06 10:49:00 +07:00
+categories:
+- Berita
+tags:
+- Live Music Archive
+- Internet Archive
+- Etree
+- Konser Musik
+- Musik
 author: hilman
 comments: true
 img: etree.png
@@ -26,7 +34,7 @@ Setiap grup musik atau penyanyi memiliki kebijakan terkait perakaman musik oleh 
 
 ![IA 3.jpg](/uploads/IA%203.jpg)<center><small><i>Kebijakan perekaman dan berbagi berkas rekaman konser musik Grateful Dead</i></small></center>
 
-Grateful Dead merupakan band yang selalu menghadirkan keunikan pada setiap pertunjukannya. Jika seorang penggemar melewatkan salah satu konser musik Grateful Dead, dapat dipastikan bahwa ia tidak akan dapat melihat lagi apa yang telah mereka tampilkan di konser tersebut pada kosner selanjutnya. Maka dari itu upaya perekaman setiap konser yang mereka helat menjadi sebuah kebiasaan di kalangan penggemar mereka. Dan, melihat kebiasaan perekaman dan berbagi rekaman konsert tersebut, kemudian mereka mengumumkan sebuah kebijakan, yang juga selalu diumumkan pada tiap konser mereka, bahwa perekaman yang dilakukan oleh para penggemar adalah hal yang legal. Mereka boleh merekam dan membagikan kembali hasil rekaman tersebut, asal bukan untuk kepentingan komersial. Dengan kebijakan tersebut, mereka kemudian mencetak rekor sebagai salah satu grup musik dengan rekaman konser terbanyak, sejumlah 11.757 konser diarsipkan di kanal Internet Arhive Etree.
+Grateful Dead merupakan band yang selalu menghadirkan keunikan pada setiap pertunjukannya. Jika seorang penggemar melewatkan salah satu konser musik Grateful Dead, dapat dipastikan bahwa ia tidak akan dapat melihat lagi apa yang telah mereka tampilkan di konser tersebut pada kosner selanjutnya. Maka dari itu upaya perekaman setiap konser yang mereka helat menjadi sebuah kebiasaan di kalangan penggemar mereka. Dan, melihat kebiasaan perekaman dan berbagi rekaman konser tersebut, kemudian mereka mengumumkan sebuah kebijakan, yang juga selalu diumumkan pada tiap konser mereka, bahwa perekaman yang dilakukan oleh para penggemar adalah hal yang legal. Mereka boleh merekam dan membagikan kembali hasil rekaman tersebut, asal bukan untuk kepentingan komersial. Dengan kebijakan tersebut, mereka kemudian mencetak rekor sebagai salah satu grup musik dengan rekaman konser terbanyak, sejumlah 11.757 konser diarsipkan di kanal Internet Arhive Etree.
 
 ![IA 2.jpg](/uploads/IA%202.jpg)<center><small><i>Laman rekaman konser musik Grateful Dead di Internet Archive</i></small></center>
 
