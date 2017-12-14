@@ -1,8 +1,10 @@
 ---
 title: 'Pola-Pola Terbuka Untuk Diwarnai: Patterns for Colouring (CC BY-NC-SA)'
-date: 2017-12-08 22:29:00 +07:00
+date: 2017-11-21 00:29:00 +07:00
 categories:
 - Berita
+tags:
+- Patterns for Colouring
 author: ccid
 comments: true
 img: "/uploads/02pencils.gif"
