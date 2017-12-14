@@ -1,6 +1,6 @@
 ---
 title: Sosialisasi Lisensi Creative Commons di SAE Institute
-date: 2017-12-08 22:15:00 +07:00
+date: 2017-11-27 09:15:00 +07:00
 categories:
 - Acara
 tags:
@@ -18,7 +18,7 @@ img:
 
 ![SAE_Institute_Black_Logo.jpg](/uploads/SAE_Institute_Black_Logo.jpg){: .img-responsive .center-block }{: width="500"}
 
-(27/10/2017) Pejaten, Jakarta Selatan, Creative Commons Indonesia (CCID) menerima undangan sebagai dosen tamu untuk SAE Instute, institusi pendidikan di bidang kesenian dan bisnis. CCID diwakili oleh Hilman Fathoni sebagai pemateri tentang lisensi Creative Commons. Kegiatan ini dimulai pada pukul  10:00 hingga pukul 11:30 WIB. 
+(27/11/2017) Pejaten, Jakarta Selatan, Creative Commons Indonesia (CCID) menerima undangan sebagai dosen tamu untuk SAE Instute, institusi pendidikan di bidang kesenian dan bisnis. CCID diwakili oleh Hilman Fathoni sebagai pemateri tentang lisensi Creative Commons. Kegiatan ini dimulai pada pukul  10:00 hingga pukul 11:30 WIB. 
 
 Materi sosialisasi ini dibuka dengan pemaparan mengenai keterkaitan Hak Kekayaan Intelektual (HKI) dengan  hak cipta. Selanjutnya secara berurutan pemateri menjelaskan tentang hak moral dan hak ekonomi, kemudian siapa saja subyek hukum hak cipta, sumber hukum hak cipta, obyek perlindungan hak cipta, dan fungsi sosial hak cipta. Sebelum masuk pada penjabaran tentang lisensi Creative Commons (CC), pemateri memutarkan video penjelasan lisensi CC dalam bahasa Inggris yang dibuat oleh Creative Commons New Zealand (CCNZ). 
 
