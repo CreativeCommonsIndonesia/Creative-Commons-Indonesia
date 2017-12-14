@@ -25,9 +25,7 @@ Bernie Krause adalah seorang ahli perekaman suara ruang (soundscape) yang mended
 
 Melalui proyek ini mereka banyak membagikan rekaman-rekaman suara ruang mulai dari suara binatang, suara kendaraan, suara konstruksi bangunan, suara keramaian pasar, dan lain sebagainya dengan lisensi terbuka Creative Commons BY (Atribusi). Artinya, koleksi rekaman suara-suara tersebut, tanpa izin langsung pencipta, dapat digandakan dan disebarluaskan, diubah atau digubah, dan digunakan kembali untuk kepentingan komersial. Ketentuan lisensi ini mensyaratkan setiap penggunaan kembali untuk menerapkan atribusi yang sesuai terhadap pencipta ciptaan berlisensi CC BY tersebut. 
 
-[Gambar Sound Library - http://freetousesounds.com/sound-library/]
-
-[Gambar Bandcamp - https://freetousesounds.bandcamp.com/music]
+![1-3276f1.jpg](/uploads/1-3276f1.jpg){: .img-responsive .center-block }{: width="500"}
 
 Selain dapat mengakses koleksi suara tersebut secara keseluruhan melalui bagan perpustakaan suara di situs web mereka, kita juga dapat mengakses koleksi pilihan di laman bandcamp mereka. Bandcamp juga merupakan salah satu platform berbagi musik yang memberikan pilihan lisensi CC pada setiap penggunanya. Koleksi suara yang mereka rekam dan bagikan di bandcamp semuanya juga menggunakan lisensi CC BY, namun karena koleksi ini merupakan koleksi pilihan mereka menerapkan sejumlah biaya untuk mendapatkan akses penuh terhadap rekaman-rekaman suara tersebut. 
 
