@@ -11,7 +11,7 @@ tags:
 - Musik
 author: hilman
 comments: true
-img: etree.png
+img: "/uploads/etree.png"
 ---
 
 Anda suka menghadiri konser musik? 
