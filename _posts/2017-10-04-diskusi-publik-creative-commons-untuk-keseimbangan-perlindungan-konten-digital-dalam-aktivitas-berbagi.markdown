@@ -1,7 +1,7 @@
 ---
 title: 'Diskusi Publik: Creative Commons Untuk Keseimbangan Perlindungan Konten Digital
   Dalam Aktivitas Berbagi'
-date: 2017-12-08 22:19:00 +07:00
+date: 2017-10-04 22:19:00 +07:00
 categories:
 - Acara
 tags:
