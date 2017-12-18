@@ -27,9 +27,9 @@ Pemateri mengawali materi dari penjelasan dengan definisi Hak Cipta yang disambu
 Pada sesi diskusi, pemateri menjawab pertanyaan-pertanyaan tentang cara berlaku hak moral untuk melindungi nama dan kehormatan Pencipta di Indonesia. Pemateri juga menambahkan dengan memberikan contoh-contoh teknologi yang mampu melindungi hak moral ciptaan secara digital, seperti yang diterapkan oleh situs web [medium untuk memastikan karya tulis didalamnya mendapat atribusi yang sesuai](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution). Pada kesempatan ini pemateri menegaskan juga bahwa piktogram Atribusi pada lisensi CC merupakan salah satu sarana perlindungan hak moral yang berbentuk penjelasan yang disederhanakan namun sosialisasi luring mengenai hak cipta juga penting untuk meningkatkan pengetahuan tentang Hak Moral di Indonesia. Selain itu dicontohkan juga bagaimana penerapan atribusi yang baik terhadap ciptaan-ciptaan berlisensi CC yang digunakan. Pada sesi diskusi, pemateri juga menjelaskan batasan-batasan dalam penyediaan data publik terbuka oleh pemerintah, misalnya data intelijen dan data pribadi penduduk bukan merupakan bagian dari data publik. 
 
 Pada acara ini pemateri juga memberikan beberapa rekomendasi pada pihak PDII LIPI yakni:
-*Memberikan usulan pada pihak PDII LIPI untuk melakukan identifikasi ciptaan dalam penerapan lisensi terbuka; 
-*Memberikan usulan pada pihak PDII LIPI untuk menerapkan lisensi yang paling rasional dan sesuai kebutuhan ;
-*Memberikan usul untuk membuat koordinasi ketentuan antara IP Policy lembaga dengan MoU yang diserahkan pada pihak penulis (kontributor) jurnal; 
-*Memberikan solusi pada pihak LIPI Press untuk memilih lisensi yang sesuai dengan model diseminasi (profit atau non profit) dan tiap konten atau ciptaan yang diterbitkan. 
+* Memberikan usulan pada pihak PDII LIPI untuk melakukan identifikasi ciptaan dalam penerapan lisensi terbuka; 
+* Memberikan usulan pada pihak PDII LIPI untuk menerapkan lisensi yang paling rasional dan sesuai kebutuhan ;
+* Memberikan usul untuk membuat koordinasi ketentuan antara IP Policy lembaga dengan MoU yang diserahkan pada pihak penulis (kontributor) jurnal; 
+* Memberikan solusi pada pihak LIPI Press untuk memilih lisensi yang sesuai dengan model diseminasi (profit atau non profit) dan tiap konten atau ciptaan yang diterbitkan. 
 
 Materi presentasi pada sosialisasi ini dapat Anda akses melalui [tautan berikut (CC BY)](https://www.slideshare.net/CreativeCommonsIndonesia/ccid-4-oktober-2017-diskusi-publik-creative-commons-untuk-keseimbangan-perlindungan-konten-digital-dalam-aktivitas-berbagi).
