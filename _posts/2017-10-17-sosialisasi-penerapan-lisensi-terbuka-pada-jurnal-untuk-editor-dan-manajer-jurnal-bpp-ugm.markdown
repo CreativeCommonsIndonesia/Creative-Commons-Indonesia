@@ -32,9 +32,9 @@ Materi tentang lisensi CC dibuka dengan pengenalan CC sebagai organisasi yang ke
 Selanjutnya pemateri menjelaskan percontohan kegiatan yang menerapkan lisensi CC berdasarkan pembagian bidangnya yang relevan dengan tema sosialisasi saat itu yakni Open Data, Open Education, Open Access to Research, dan Open Government. Pemateri juga menambahkan contoh-contoh lain penerapan lisensi CC pada situs-situs web populer. 
 
 Pada kesempatan ini, pemateri juga memberikan rekomendasi spesifik kepada BPP UGM dalam menerapkan lisensi CC pada aktifitias penerbitan jurnal, yakni:
-*Memilih lisensi sesuai kebutuhan dan melibatkan pihak kontributor dalam pemilihan ketentuan; 
-*Membuat sistem dan/atau kebijakan terkait keterbukaan akses pada jurnal terbitan;
-*Memfasilitasi pengumuman jurnal dengan teknologi yang sesuai dengan aktivitas berbagi konten terbuka.
+* Memilih lisensi sesuai kebutuhan dan melibatkan pihak kontributor dalam pemilihan ketentuan; 
+* Membuat sistem dan/atau kebijakan terkait keterbukaan akses pada jurnal terbitan;
+* Memfasilitasi pengumuman jurnal dengan teknologi yang sesuai dengan aktivitas berbagi konten terbuka.
 
 Sebagai penutup pemateri juga memberikan penjelasan sedikit terkait cara menggunakan mesin-mesin pencari dengan penjaring konten berlisensi CC. Tidak lupa juga pemateri memberikan pranala-pranala serta untuk mengakses laman FAQ di situs web CCID. Yang kemudian juga ditambahkan dengan sedikit penjelasan tentang Creative Commons Global Network dan forum pembicaraan Slack yang kini terus digunakan oleh seluruh kontributor CC dari seluruh dunia.
 
