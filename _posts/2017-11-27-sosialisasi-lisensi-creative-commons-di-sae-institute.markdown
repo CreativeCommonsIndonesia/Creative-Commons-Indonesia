@@ -13,7 +13,7 @@ tags:
 - Indonesia
 author: CCID
 comments: true
-img: 
+img: "/uploads/SAE_Institute_Black_Logo.jpg"
 ---
 
 ![SAE_Institute_Black_Logo.jpg](/uploads/SAE_Institute_Black_Logo.jpg){: .img-responsive .center-block }{: width="500"}
