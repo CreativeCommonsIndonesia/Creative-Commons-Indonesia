@@ -1,5 +1,5 @@
 ---
-title: Sosialisasi Lisensi Creative Commons di SAE Institute
+title: Sosialisasi Lisensi Creative Commons dan Model Bisnis Terbuka di SAE Institute
 date: 2017-11-27 09:15:00 +07:00
 categories:
 - Acara
