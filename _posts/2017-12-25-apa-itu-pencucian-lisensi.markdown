@@ -17,7 +17,7 @@ comments: true
 img: "/uploads/noun_1032477_cc%2022.png"
 ---
 
-Apakah Anda pernah mengunggah ulang suatu ciptaan milik orang lain yang Anda dapatkan di dalam jaringan ke suatu situs lalu menerapkan ketentuan lisens tertentu pada ciptaan tersebut?
+Apakah Anda pernah mengunggah ulang suatu ciptaan milik orang lain yang Anda dapatkan di dalam jaringan ke suatu situs lalu menerapkan ketentuan lisensi tertentu pada ciptaan tersebut?
 
 Waspadalah! Bisa saja Anda tengah melakukan pencucian lisensi! 
 
