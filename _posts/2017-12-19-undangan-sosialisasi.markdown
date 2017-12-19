@@ -3,7 +3,7 @@ title: Undangan Sosialisasi
 date: 2017-12-19 17:48:00 +07:00
 ---
 
-![Mei 20 2017 CCID16 Sosialisasi Lisensi CC di Dekranasda Kominfo Samarinda.JPG](/uploads/Mei%2020%202017%20CCID16%20Sosialisasi%20Lisensi%20CC%20di%20Dekranasda%20Kominfo%20Samarinda.JPG){: .img-responsive .center-block }{: width="300"}
+![Mei 20 2017 CCID16 Sosialisasi Lisensi CC di Dekranasda Kominfo Samarinda.JPG](/uploads/Mei%2020%202017%20CCID16%20Sosialisasi%20Lisensi%20CC%20di%20Dekranasda%20Kominfo%20Samarinda.JPG){: .img-responsive .right-block }{: width="300"}
 
 Creative Commons Indonesia bersedia mengadakan atau bekerjasama dengan Anda untuk mengadakan sosialisasi tentang lisensi CC.
 
