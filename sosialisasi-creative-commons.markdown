@@ -1,6 +1,7 @@
 ---
 title: Sosialisasi Creative Commons
 date: 2017-12-19 16:42:00 +07:00
+published: false
 ---
 
 [Mei 20 2017 CCID16 Sosialisasi Lisensi CC di Dekranasda Kominfo Samarinda-c4446b.JPG](/uploads/Mei%2020%202017%20CCID16%20Sosialisasi%20Lisensi%20CC%20di%20Dekranasda%20Kominfo%20Samarinda-c4446b.JPG){: .img-responsive .center-block }{: width="500"}<img style="float: right;" src="/uploads/Mei%2020%202017%20CCID16%20Sosialisasi%20Lisensi%20CC%20di%20Dekranasda%20Kominfo%20Samarinda-c4446b.JPG">
