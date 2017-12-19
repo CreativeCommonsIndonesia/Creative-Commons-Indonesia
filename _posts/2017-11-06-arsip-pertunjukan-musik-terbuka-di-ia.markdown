@@ -14,7 +14,7 @@ comments: true
 img: "/uploads/etree.png"
 ---
 
-**Anda suka menghadiri konser musik? **
+**Anda suka menghadiri konser musik?**
 
 **Anda suka merekam pertunjukan tersebut?**
 
