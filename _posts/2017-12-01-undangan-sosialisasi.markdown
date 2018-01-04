@@ -1,6 +1,16 @@
 ---
 title: Undangan Sosialisasi
-date: 2017-12-19 17:48:00 +07:00
+date: 2017-12-01 17:48:00 +07:00
+categories:
+- Acara
+tags:
+- Sosialisasi Lisensi Creative Commons
+- Undangan Sosialiasi
+- Lisensi Creative Commons
+- Lisensi Terbuka
+- Sosialisasi
+- Sosialisasi Lisensi
+- Sosialisasi Hak Cipta
 ---
 
 <img style="float: right;" src="/uploads/Mei%2020%202017%20CCID16%20Sosialisasi%20Lisensi%20CC%20di%20Dekranasda%20Kominfo%20Samarinda.JPG" class="img-responsive" width="300">
