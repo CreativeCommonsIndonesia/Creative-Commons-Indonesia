@@ -13,7 +13,7 @@ tags:
 - Sosialisasi Hak Cipta
 img: 
 comments: true
-Field name: ccid
+author: ccid
 ---
 
 <img style="float: right;" src="/uploads/Mei%2020%202017%20CCID16%20Sosialisasi%20Lisensi%20CC%20di%20Dekranasda%20Kominfo%20Samarinda.JPG" class="img-responsive" width="300">
