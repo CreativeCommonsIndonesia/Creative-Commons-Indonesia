@@ -11,7 +11,7 @@ tags:
 - Sosialisasi
 - Sosialisasi Lisensi
 - Sosialisasi Hak Cipta
-img: 
+img: "/uploads/Mei%2020%202017%20CCID16%20Sosialisasi%20Lisensi%20CC%20di%20Dekranasda%20Kominfo%20Samarinda.JPG"
 comments: true
 author: ccid
 ---
