@@ -1,9 +1,9 @@
 ---
-title: Terima Kasih Sudah Mengikuti Survei Ini!
+title: Terima Kasih Sudah Mengisi Survei ini!
 date: 2018-01-09 16:51:00 +07:00
 Field name: 
 author: ccid
 layout: post
 ---
 
-![tq2.jpg](/uploads/tq2.jpg){: .img-responsive .center-block }
+![tq3.jpg](/uploads/tq3.jpg){: .img-responsive .center-block }
