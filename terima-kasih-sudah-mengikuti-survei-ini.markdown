@@ -6,4 +6,4 @@ author: ccid
 layout: post
 ---
 
-![tq.jpg](/uploads/tq.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>
+![tq2.jpg](/uploads/tq2.jpg){: .img-responsive .center-block }
