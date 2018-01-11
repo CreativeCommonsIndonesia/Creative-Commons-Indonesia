@@ -6,4 +6,6 @@ author: ccid
 layout: post
 ---
 
-![tq3.jpg](/uploads/tq3.jpg){: .img-responsive .center-block }
+![tq3.jpg](/uploads/tq3.jpg){: .img-responsive .center-block }![Survey.png](/uploads/Survey.png)
+
+
