@@ -13,6 +13,7 @@ Pada twitter @ciptamedia, @elizavitri  mengajukan
 pertanyaan tentang ketentuan lisensi Creative Commons:
 
 **1. Apakah karya yang dihasilkan dari hibah (cipta media ekspresi) harus menerapkan lisensi Creative Commons CC-BY 4.0?**
+
 **2. Bagaimana dengan mereka (pencipta) yang menerapkan 
 lisensi CC BY 4.0 dan berharap dapat memperoleh penghasilan dari karyanya seperti novel, lukisan dan sebagainya?**
 
