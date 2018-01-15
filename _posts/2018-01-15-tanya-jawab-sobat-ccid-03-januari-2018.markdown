@@ -9,7 +9,7 @@ tags:
 
 ![Soba CCID 1.png](/uploads/Soba%20CCID%201.png)
 
-Pada twitter @ciptamedia, @elizavitri  mengajukan 
+Pada twitter [@ciptamedia](http:///twitter.com/ciptamedia), @elizavitri  mengajukan 
 pertanyaan tentang ketentuan lisensi Creative Commons:
 
 **1. Apakah karya yang dihasilkan dari hibah (cipta media ekspresi) harus menerapkan lisensi Creative Commons CC-BY 4.0?**
