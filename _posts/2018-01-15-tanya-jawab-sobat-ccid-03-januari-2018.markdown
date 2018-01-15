@@ -17,11 +17,11 @@ pertanyaan tentang ketentuan lisensi Creative Commons:
 **2. Bagaimana dengan mereka (pencipta) yang menerapkan 
 lisensi CC BY 4.0 dan berharap dapat memperoleh penghasilan dari karyanya seperti novel, lukisan dan sebagainya?**
 
-Benar, seluruh ciptaan yang diciptakan dengan dana hibah Proyek Cipta Media Ekspresi (CME) wajib menerapkan lisensi CC BY 4.0 versi Internasional.
+Benar, seluruh ciptaan yang diciptakan dengan dana hibah Proyek Cipta Media Ekspresi (CME) wajib menerapkan lisensi [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/deed.id) versi Internasional.
 
 Berikut ini adalah beberapa hal yang layak Anda perhatikan berkaitan dengan pertanyaan Anda:
 
-Penerapan lisensi CC BY 4.0 versi internasional memungkinkan Pencipta untuk membuka akses kepada pengguna ciptaan agar dapat:
+Penerapan lisensi [CC BY 4.0 ](http://creativecommons.org/licenses/by/4.0/deed.id)versi internasional memungkinkan Pencipta untuk membuka akses kepada pengguna ciptaan agar dapat:
 
 * Berbagi: Menggandakan dan menyebarluaskan ciptaan.
 * Adaptasi: Mengubah, menggubah, dan membuat ciptaan turunan dari suatu ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
@@ -38,7 +38,7 @@ Lisensi Creative Commons nantinya akan menjadi perangkat legal yang menjamin hak
 
 Penerapan lisensi Creative Commons sesuai dengan konteks [proyek Cipta Media Ekspresi](http://www.ciptamedia.org/) yang mensyaratkan tema "keadilan sosial" bagi para penerima dana hibah. Supaya karya-karya (ciptaan) yang dihasilkan nantinya juga dapat dimanfaatkan secara langsung oleh para pengapresiasi karya. Sambil tetap menjamin perlindungan terhadap hak cipta masing-masing penerima dana hibah.
 
-Ketentuan lisensi CC BY-SA lebih lengkap dapat dibaca di [sini](http://creativecommons.org/licenses/by/4.0/deed.id). Dan Untuk contoh kasus penerapan lisensi tersebut sambil tetap memperoleh keuntungan komerisal pada penerapan lisensi CC BY-SA oleh Nina Paley pada animasi ciptaannya yang berjudul ["Sita Sings The Blues" ](http://https://wiki.creativecommons.org/wiki/Case_Studies/Sita_Sings_The_Blues)
+Ketentuan lisensi CC BY lebih lengkap dapat dibaca di [sini](http://creativecommons.org/licenses/by/4.0/deed.id). Dan Untuk contoh kasus penerapan lisensi tersebut sambil tetap memperoleh keuntungan komersial pada penerapan lisensi CC BY-SA oleh Nina Paley pada animasi ciptaannya yang berjudul ["Sita Sings The Blues" ](http://wiki.creativecommons.org/wiki/Case_Studies/Sita_Sings_The_Blues)
 
 Semoga membantu, 
-salam.
+Salam.
