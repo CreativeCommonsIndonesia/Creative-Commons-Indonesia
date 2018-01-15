@@ -33,10 +33,9 @@ Dengan melihat ketentuan ini, artinya Pencipta sama sekali tidak kehilangan hak 
 
 Lisensi Creative Commons nantinya akan menjadi perangkat legal yang menjamin hak atas ciptaan para penerima dana hibah (Pencipta).Ketika mereka membuka akses atas beberapa hak kepada pengguna ciptaan.
 
-Penerapan lisensi Creative Commons sesuai dengan konteks proyek Cipta Media Ekspresi yang mensyaratkan tema "keadilan sosial" bagi para penerima dana hibah. Supaya karya-karya (ciptaan) yang dihasilkan nantinya juga dapat dimanfaatkan secara langsung oleh para pengapresiasi karya. Sambil tetap menjamin perlindungan terhadap hak cipta masing-masing penerima dana hibah.
+Penerapan lisensi Creative Commons sesuai dengan konteks [proyek Cipta Media Ekspresi](http://www.ciptamedia.org/) yang mensyaratkan tema "keadilan sosial" bagi para penerima dana hibah. Supaya karya-karya (ciptaan) yang dihasilkan nantinya juga dapat dimanfaatkan secara langsung oleh para pengapresiasi karya. Sambil tetap menjamin perlindungan terhadap hak cipta masing-masing penerima dana hibah.
 
-Ketentuan lisensi lebih lengkap dapat di baca di: https://creativecommons.org/licenses/by/4.0/deed.id
-Contoh kasus penerapan lisensi tersebut sambil tetap memperoleh keuntungan komerisal pada penerapan lisensi CC BY-SA oleh Nina Paley pada animasi ciptaannya yang berjudul "Sita Sings The Blues" https://wiki.creativecommons.org/wiki/Case_Studies/Sita_Sings_The_Blues
+Ketentuan lisensi CC BY-SA lebih lengkap dapat dibaca di [sini](http://creativecommons.org/licenses/by/4.0/deed.id). Dan Untuk contoh kasus penerapan lisensi tersebut sambil tetap memperoleh keuntungan komerisal pada penerapan lisensi CC BY-SA oleh Nina Paley pada animasi ciptaannya yang berjudul ["Sita Sings The Blues" ](http://https://wiki.creativecommons.org/wiki/Case_Studies/Sita_Sings_The_Blues)
 
 Semoga membantu, 
 salam.
