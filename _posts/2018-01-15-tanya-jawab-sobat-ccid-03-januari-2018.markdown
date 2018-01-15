@@ -3,6 +3,8 @@ title: 'Tanya Jawab Sobat CCID: 03 Januari 2018'
 date: 2018-01-15 17:22:00 +07:00
 categories:
 - Sobat CCID
+tags:
+- CiptaMediaEkspresi
 ---
 
 ![Soba CCID 1.png](/uploads/Soba%20CCID%201.png)
@@ -10,8 +12,8 @@ categories:
 Pada twitter @ciptamedia, @elizavitri  mengajukan 
 pertanyaan tentang ketentuan lisensi Creative Commons:
 
-**1. Apakah karya yang dihasilkan dari hibah (cipta media ekspresi) harus menerapkan lisensi Creative Commons CC-BY 4.0?
-2. Bagaimana dengan mereka (pencipta) yang menerapkan 
+**1. Apakah karya yang dihasilkan dari hibah (cipta media ekspresi) harus menerapkan lisensi Creative Commons CC-BY 4.0?**
+**2. Bagaimana dengan mereka (pencipta) yang menerapkan 
 lisensi CC BY 4.0 dan berharap dapat memperoleh penghasilan dari karyanya seperti novel, lukisan dan sebagainya?**
 
 Benar, seluruh ciptaan yang diciptakan dengan dana hibah Proyek Cipta Media Ekspresi (CME) wajib menerapkan lisensi CC BY 4.0 versi Internasional.
@@ -20,9 +22,9 @@ Berikut ini adalah beberapa hal yang layak Anda perhatikan berkaitan dengan pert
 
 Penerapan lisensi CC BY 4.0 versi internasional memungkinkan Pencipta untuk membuka akses kepada pengguna ciptaan agar dapat:
 
--Berbagi: Menggandakan dan menyebarluaskan ciptaan
--Adaptasi: Mengubah, menggubah, dan membuat ciptaan turunan dari suatu ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
--Tanpa izin langsung dari Pencipta
+* Berbagi: Menggandakan dan menyebarluaskan ciptaan.
+* Adaptasi: Mengubah, menggubah, dan membuat ciptaan turunan dari suatu ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
+* Tanpa izin langsung dari Pencipta.
 
 Dengan catatan:
 Ketentuan lisensi ini tetap mewajibkan pengguna ciptaan untuk menerapkan Atribusi, yaitu menyebutkan nama pencipta, sumber ciptaan, dan lisensi yang diterapkan dalam setiap penggunaan.
