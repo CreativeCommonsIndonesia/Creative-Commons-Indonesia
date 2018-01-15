@@ -1,5 +1,5 @@
 ---
-title: Tanya Jawab Sobat CCID 03 Januari 2018
+title: 'Tanya Jawab Sobat CCID: 03 Januari 2018'
 date: 2018-01-15 17:22:00 +07:00
 categories:
 - Sobat CCID
