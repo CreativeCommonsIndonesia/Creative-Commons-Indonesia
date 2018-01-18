@@ -38,7 +38,7 @@ Lisensi Creative Commons nantinya akan menjadi perangkat legal yang menjamin hak
 
 Penerapan lisensi Creative Commons sesuai dengan konteks [proyek Cipta Media Ekspresi](http://www.ciptamedia.org/) yang mensyaratkan tema "keadilan sosial" bagi para penerima dana hibah. Supaya karya-karya (ciptaan) yang dihasilkan nantinya juga dapat dimanfaatkan secara langsung oleh para pengapresiasi karya. Sambil tetap menjamin perlindungan terhadap hak cipta masing-masing penerima dana hibah.
 
-**Strategi pemerolehan pendapatan yang kerap digunakan pencipta yang menerapkan lisensi CC pada ciptaanya.** 
+**Strategi Pemerolehan Pendapatan yang Kerap Digunakan Pencipta yang Menerapkan Lisensi CC pada Ciptaanya.** 
 
 Nilai yang terkandung pada suatu ciptaan akan membuat penikmat ciptaan dengan rela mengeluarkan uang sebagai tanda apresiasi pada ciptaan tersebut. Hubungan timbal balik antara pencipta dan penikmat ciptaan tersebut juga berlaku pada pencipta yang menerapkan lisensi CC pada ciptaanya. Adapun yang membedakan antara ciptaan berlisensi CC dengan yang tidak yakni, dalam memeroleh pendapatan dari ciptaan tersebut. 
 
