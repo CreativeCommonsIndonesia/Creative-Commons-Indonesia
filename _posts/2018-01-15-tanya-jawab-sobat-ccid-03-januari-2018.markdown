@@ -53,7 +53,7 @@ Selain membuat ciptaan yang bebas diakses, pencipta juga dapat menawarkan layana
 
 * Membuat Format Fisik dari Ciptaan.
 
-Telepas dari ketersediaanya ciptaan yang bebas biaya dalam bentuk digital. Pencipta dapat memeroleh penghasilan dengan menjual ciptaan yang sama dalam format fisik. Sebagai contoh Frau, musisi Indonesia, menerapkan lisensi CC BY-NC-SA pada karyanya dan juga memeroleh penghasilan dari CD musik yang ia jual. 
+Telepas dari ketersediaanya ciptaan yang bebas biaya dalam bentuk digital. Pencipta dapat memeroleh penghasilan dengan menjual ciptaan yang sama dalam format fisik. Sebagai contoh Frau, musisi Indonesia, menerapkan lisensi [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) pada karyanya dan juga memeroleh penghasilan dari CD musik yang ia jual. 
 
 Hal serupa juga dapat diterapkan oleh seorang pencipta pada ciptaan seperti buku, dengan menjual format fisiknya karena tanpa dipungkiri masih banyak pembaca yang menginginkan buku yang dapat digenggam dan dijadikan sebagai koleksi pribadi. Pada hal ini perlu diperhatikan bahwa penerbit atau distributor ciptaan tersebut diwajibkan menerapkan kententuan lisensi CC yang sama atau dengan ketentuanya serupa.
 
