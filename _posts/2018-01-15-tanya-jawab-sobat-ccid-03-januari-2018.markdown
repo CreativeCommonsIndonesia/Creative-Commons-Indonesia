@@ -46,12 +46,12 @@ Dalam hal ini, pencipta yang menerapkan lisensi CC pada ciptaanya berkompetisi d
 
 Berikut beberapa strategi yang kerap digunakan pencipta dalam memeroleh pendapatan dari ciptaan berlisensi CC:
 
-1. Menyediakan layanan pembuatan ciptaan yang dapat disesuaikan dengan pemesan.
+1. Menyediakan Layanan Pembuatan Ciptaan yang Dapat Disesuaikan dengan Pemesan.
 
-Selain membuat ciptaan yang bebas diakses, pencipta juga dapat menawarkan layanan yang mana penikmat ciptaan dapat menyesuaikan ciptaan yang dikehendaki. Sebagai contoh Jhonathan Mann, seorang penyanyi dan penulis lagu asal Amerika. Ia terkenal sebagai pemusik yang aktif setiap harinya dalam menciptakan dan memublikasikan karyanya di beberapa kanal konten seperti Youtube dan Bandcamp. Karya-karyanya sebagian ada yang diterapkan lisesnsi CC BY dan sebagian juga CC BY-NC. Dalam memeroleh keuntungan,Jhonathan Mann menyediakan jasa komersial pembuatan lagu yang dapat disesuaikan dengan keinginan pemesan pada situs web pribadinya. [http://jonathanmann.net/.](http://jonathanmann.net/)
+Selain membuat ciptaan yang bebas diakses, pencipta juga dapat menawarkan layanan yang mana penikmat ciptaan dapat menyesuaikan ciptaan yang dikehendaki. Sebagai contoh Jhonathan Mann, seorang penyanyi dan penulis lagu asal Amerika. Ia terkenal sebagai pemusik yang aktif setiap harinya dalam menciptakan dan memublikasikan karyanya di beberapa kanal konten seperti Youtube dan Bandcamp. Karya-karyanya sebagian ada yang diterapkan lisesnsi CC BY dan sebagian juga [CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.id). Dalam memeroleh keuntungan,Jhonathan Mann menyediakan jasa komersial pembuatan lagu yang dapat disesuaikan dengan keinginan pemesan pada situs web pribadinya. [http://jonathanmann.net/.](http://jonathanmann.net/)
 
 
-2. Membuat format fisik dari ciptaan
+2. Membuat Format Fisik dari Ciptaan.
 
 Telepas dari ketersediaanya ciptaan yang bebas biaya dalam bentuk digital. Pencipta dapat memeroleh penghasilan dengan menjual ciptaan yang sama dalam format fisik. Sebagai contoh Frau, musisi Indonesia, menerapkan lisensi CC BY-NC-SA pada karyanya dan juga memeroleh penghasilan dari CD musik yang ia jual. 
 
@@ -61,7 +61,7 @@ Hal serupa juga dapat diterapkan oleh seorang pencipta pada ciptaan seperti buku
 
 Seperti halnya pada ciptaan lainya, ketika penikmat ciptaan begitu mengandrungi suatu ciptaan. Maka keinginan untuk bertemu langsung dengan pencipta karya tersebut tak terelakan. Sebagai contoh pemusik yang menghelat konser dapat memeroleh pendapatan dari penjualan tiket konser, meskipun telah tersedia akses bebas dari karya musiknya dalam bentuk video ataupun audio. Hal serupa dapat dilakukan pada ciptaan berupa buku, pencipta buku dapat membuat acara berbayar bedah buku ataupun penandatangan buku secara langsung. 
 
-4. Menjual cindera mata
+4. Menjual Cendera Mata.
 
 Ketika penikmat ciptaan sangat menyukai suatu ciptaan. Maka, tidak menutup kemungkinan untuk pencipta turut memproduksi dan menjual cindera mata yang berkaitan dengan ciptaan pencipta tersebut seperti kaos, tas, pin dan lain sebagainya
 
