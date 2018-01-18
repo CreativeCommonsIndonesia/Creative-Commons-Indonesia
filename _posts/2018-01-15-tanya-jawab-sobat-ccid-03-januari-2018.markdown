@@ -61,7 +61,7 @@ Hal serupa juga dapat diterapkan oleh seorang pencipta pada ciptaan seperti buku
 
 Seperti halnya pada ciptaan lainya, ketika penikmat ciptaan begitu mengandrungi suatu ciptaan. Maka keinginan untuk bertemu langsung dengan pencipta karya tersebut tak terelakan. Sebagai contoh pemusik yang menghelat konser dapat memeroleh pendapatan dari penjualan tiket konser, meskipun telah tersedia akses bebas dari karya musiknya dalam bentuk video ataupun audio. Hal serupa dapat dilakukan pada ciptaan berupa buku, pencipta buku dapat membuat acara berbayar bedah buku ataupun penandatangan buku secara langsung. 
 
-*Menjual Cendera Mata.
+* Menjual Cendera Mata.
 
 Ketika penikmat ciptaan sangat menyukai suatu ciptaan. Maka, tidak menutup kemungkinan untuk pencipta turut memproduksi dan menjual cindera mata yang berkaitan dengan ciptaan pencipta tersebut seperti kaos, tas, pin dan lain sebagainya
 
