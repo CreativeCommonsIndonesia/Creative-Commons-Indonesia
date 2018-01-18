@@ -3,8 +3,6 @@ title: Survei Pengetahuan Hak Cipta dan Lisensi Creative Commons
 date: 2018-01-18 11:13:00 +07:00
 ---
 
-![Survey-860dc3.png](/uploads/Survey-860dc3.png)
-
 Halo semua!
 
 Pada tahun ini, Creative Commons Indonesia (CCID) sudah menginjak tahun ke-enam sebagai salah satu afiliasi Creative Commons International (CC HQ). Hingga saat ini, terhitung sebanyak 34 lokakarya telah terselenggara dan lebih dari 2 juta konten yang menerapkan lisensi Creative Commons (CC) di Indonesia. Kami ingin mengetahui seberapa besar dampak angka-angka tersebut terhadap pengetahuan hak cipta dan lisensi Creative Commons, khususnya bagi pengguna internet di Indonesia. 
