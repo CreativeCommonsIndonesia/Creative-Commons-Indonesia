@@ -91,5 +91,6 @@ Dari penjelasan di atas perlu diperhatikan lagi contoh kasus yang disebutkan mer
 Contoh-contoh pencipta lainya yang berhasil memeroleh penghasilan dari penerapan lisensi CC pada ciptaanya yakni dapat dibaca pada e-book berikut [https://creativecommons.org/use-remix/made-with-cc/](http://creativecommons.org/use-remix/made-with-cc/)
 
 
-Semoga membantu, 
+Semoga membantu,
+
 Salam.
