@@ -6,7 +6,7 @@ author: ccid
 layout: post
 ---
 
-![tq3.jpg](/uploads/tq3.jpg){: .img-responsive .center-block }![Survey.png](/uploads/Survey.png)
+![tq3.jpg](/uploads/tq3.jpg){: .img-responsive .center-block }
 
 
 Creative Commons Indonesia mengucapkan terima kasih atas partisipasi Anda dalam Survei ini. 
