@@ -9,7 +9,7 @@ Pada tahun ini, Creative Commons Indonesia (CCID) sudah menginjak tahun ke-enam 
 
 Harap jawab setiap pertanyaan survei ini dengan sungguh-sungguh dan penuh tanggung jawab. Karena, setiap respon memiliki pengaruh terhadap kesimpulan dari survei ini, yang nantinya mungkin berpengaruh dalam setiap pengambilan kebijakan CCID.
 
-Silakan akses tautan berikut untuk mengisi survei:
+Silakan akses tautan berikut untuk mengisi survei: [http://bit.ly/2mQfLMb](http://http://bit.ly/2mQfLMb)
 
 
 Terima kasih.
