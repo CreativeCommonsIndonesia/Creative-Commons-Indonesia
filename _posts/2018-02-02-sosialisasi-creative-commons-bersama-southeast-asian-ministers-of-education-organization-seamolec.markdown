@@ -2,6 +2,7 @@
 title: Sosialisasi Creative Commons bersama Southeast Asian Ministers of Education
   Organization (SEAMOLEC)
 date: 2018-02-02 17:10:00 +07:00
+published: false
 categories:
 - Berita
 ---
