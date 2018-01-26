@@ -44,10 +44,12 @@ Untuk mengetahui ketentuan lisensi Creative Commons apa yang diterapkan pada vid
 Pada contoh video di atas, Anda dapat lihat bahwa video tersebut menerapkan lisensi Creative Comons Atribusi (CC BY) yang mana: 
 
 Anda diizinkan:
+
 Berbagi: Menyalin dan menyebarluaskan ciptaan.
 Adaptasi: Mengubah, menggubah, dan membuat ciptaan turunan dari suatu ciptaan.
 
 Dengan catatan:
+
 Atribusi: mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menunjukan perubahan yang dibuat.
 
 Untuk mengetahui penjelasan lebih lanjut mengenai penerapan lisensi ini, Anda dapat klik tautan lisensi tersebut yang nantinya akan muncul tampilan seperti gambar di bawah
