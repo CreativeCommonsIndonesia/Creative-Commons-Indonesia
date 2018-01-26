@@ -19,7 +19,7 @@ Dari 4 spektrum tersebut, kemudian dirangkai menjadi 6 pilihan lisensi Creative 
 
 Berikut ini adalah petunjuk untuk mencari konten video terbuka berlisensi Creative Commons di situs web Youtube.
 
-**Tahap #1 **
+**Tahap #1**
 
 Masukan kata kunci konten video yang ingin dicari  pada  situs web [Youtube](http:///www.youtube.com). Lalu, pilih fitur penyaringan.
 
