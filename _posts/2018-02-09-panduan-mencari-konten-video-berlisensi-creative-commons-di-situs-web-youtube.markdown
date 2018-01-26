@@ -1,7 +1,6 @@
 ---
 title: Panduan Mencari Konten Video Berlisensi Creative Commons di Situs Web Youtube
 date: 2018-02-09 17:10:00 +07:00
-published: false
 categories:
 - Kajian
 ---
