@@ -42,10 +42,12 @@ Berikut panduannya dalam lima tahap:
 ![foto 2.png](/uploads/foto%202.png){: .img-responsive .center-block }{: width="500"}
 
 Berikut penjelasan masing-masing “Hak Penggunaan” yang tersedia: 
-**Bebas digunakan ulang**: Memungkinkan Anda untuk menggandakan atau menyebarkan kembali gambar, namun tidak untuk mengubah dan menggubahnya.
-**Bebas digunakan ulang dengan modifikasi**: Memungkinkan Anda untuk menggandakan dan menyebarkan kembali, sekaligus mengubah dan menggubah gambar yang ditampilkan. 
-**Secara non-komersial**: Ciptaan yang menerapkan ketentuan ini tidak dapat Anda gunakan dalam aktivitas komersial.
 
+**Bebas digunakan ulang**: Memungkinkan Anda untuk menggandakan atau menyebarkan kembali gambar, namun tidak untuk mengubah dan menggubahnya.
+
+**Bebas digunakan ulang dengan modifikasi**: Memungkinkan Anda untuk menggandakan dan menyebarkan kembali, sekaligus mengubah dan menggubah gambar yang ditampilkan. 
+
+**Secara non-komersial**: Ciptaan yang menerapkan ketentuan ini tidak dapat Anda gunakan dalam aktivitas komersial.
 
 **Pengingat**: Jangan lupa untuk menerapkan Atribusi yang sesuai pada setiap penggunaan gambar. Atribusi merupakan kewajiban pengguna gambar untuk memenuhi hak moral pencipta gambar. Yaitu kewajiban untuk menyebutkan nama, sumber, dan ketentuan lisensi atau “Hak Penggunaan” yang diterapkan pada gambar. Ketentuan ini berlaku pada setiap jenis “Hak Penggunaan” gambar, dan berlaku tanpa batas waktu.
 
@@ -91,7 +93,7 @@ Creative Commons Atribusi-NonKomersial-TanpaTurunan ([CC BY-NC-ND](http://creati
 
 6 pilihan lisensi tersebut dirangkai dari 4 spektrum berikut ini:
 
-**Atribusi (BY)**
+                 **Atribusi (BY)**
  
 ![BY-354f63.png](/uploads/BY-354f63.png){: .img-responsive .center-block }{: width="100"}
 Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi dalam format yang sesuai dengan tempat ciptaan dibagikan, tanpa memberikan tambahan pernyataan dukungan dari pencipta terkait penggunaan ciptaan tersebut.
