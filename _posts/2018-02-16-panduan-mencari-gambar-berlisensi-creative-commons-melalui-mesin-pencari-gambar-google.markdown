@@ -83,12 +83,16 @@ Artinya, Anda diizinkan untuk menggunakan ciptaan tersebut dengan mencantumkan n
 
 ### **Lisensi Creative Commons**
 
-Selain lisensi CC BY, terdapat pilihan lisensi lainnya yaitu 
-Creative Commons Atribusi-BerbagiSerupa ([CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/deed.id)), 
-Creative Commons Atribusi-NonKomersial ([CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.id)), 
+Selain lisensi [CC BY](http://creativecommons.org/licenses/by/4.0/deed.id), terdapat pilihan lisensi lainnya yaitu:
+
+* Creative Commons Atribusi-BerbagiSerupa ([CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/deed.id))
+
+* Creative Commons Atribusi-NonKomersial ([CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.id)), 
 Creative Commons ([BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)), 
-Creative Commons Atribusi-TanpaTurunan ([CC BY-ND](http://creativecommons.org/licenses/by-nd/4.0/d)), 
-Creative Commons Atribusi-NonKomersial-TanpaTurunan ([CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id)).
+
+* Creative Commons Atribusi-TanpaTurunan ([CC BY-ND](http://creativecommons.org/licenses/by-nd/4.0/d)), 
+
+* Creative Commons Atribusi-NonKomersial-TanpaTurunan ([CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id)).
 
 6 pilihan lisensi tersebut dirangkai dari 4 spektrum berikut ini:
 
@@ -101,7 +105,6 @@ Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan un
 Spektrum ini hanya berlaku ketika ciptaan mengubah, menggubah, atau membuat turunan dari ciptaan. Setiap perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
 
 **NonKomersial (NC)**
-
 ![NC.png](/uploads/NC.png){: .img-responsive .center-block }{: width="100"}
 
 Spektrum ini melarang pengguna ciptaan untuk menggunakan ciptaan untuk kepentingan komersial apapun.
