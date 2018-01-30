@@ -16,10 +16,10 @@ Aktivitas mencari dan menggunakan gambar secara daring, khususnya melalui alat p
 
 Pengetahuan tersebut bermanfaat untuk menjawab pertanyaan seperti: 
 
-**Apakah gambar yang tersedia dapat digunakan secara langsung tanpa meminta izin? 
-**
-**Apakah boleh gambar tersebut digunakan dalam aktivitas komersial?
-**
+**Apakah gambar yang tersedia dapat digunakan secara langsung tanpa meminta izin?**
+
+**Apakah boleh gambar tersebut digunakan dalam aktivitas komersial?**
+
 **Dapatkah gambar-gambar tersebut diubah dan digubah?**
 
 Dengan memanfaatkan alat penyaring “Hak Penggunaan” di mesin pencari gambar Google, pengguna gambar dapat mengetahui apa yang boleh dan tidak boleh dilakukan terhadap gambar yang ditemukan. Alat penyaring ini membantu Anda untuk menemukan gambar-gambar berlisensi terbuka yang tersedia di situs web penyimpanan gambar seperti Wikimedia Commons, Flickr, maupun Pixabay. Namun, perlu diingat bahwa gambar-gambar berlisensi terbuka bukan berarti tanpa hak cipta. Untuk mengetahui lebih lanjut mengenai hak penggunaan gambar yang diberikan, Anda dapat mengunjungi situs web-situs web tersebut dan membaca ketentuan lisensi terbuka yang diterapkan. Gambar-gambar yang muncul biasanya merupakan gambar berlisensi Creative Commons dengan ketentuan yang berbeda-beda. Yang artinya, paling tidak Anda dapat menggandakan (mengunduh) dan menyebarkan kembali gambar tersebut, tanpa izin langsung pencipta.  
