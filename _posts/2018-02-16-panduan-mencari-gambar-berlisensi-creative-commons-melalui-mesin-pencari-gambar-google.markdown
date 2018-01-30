@@ -49,7 +49,7 @@ Berikut penjelasan masing-masing “Hak Penggunaan” yang tersedia:
 
 **Pengingat**: Jangan lupa untuk menerapkan Atribusi yang sesuai pada setiap penggunaan gambar. Atribusi merupakan kewajiban pengguna gambar untuk memenuhi hak moral pencipta gambar. Yaitu kewajiban untuk menyebutkan nama, sumber, dan ketentuan lisensi atau “Hak Penggunaan” yang diterapkan pada gambar. Ketentuan ini berlaku pada setiap jenis “Hak Penggunaan” gambar, dan berlaku tanpa batas waktu.
 
-4. Setelah mendapatkan gambar yang diinginkan berdasarkan hak penggunaan yang sesuai dengan kebutuhan Anda, Anda dapat mengikuti petunjuk berikut ini untuk memahami lebih lanjut tentang ketentuan lisensi yang diterapkan.
+3. Setelah mendapatkan gambar yang diinginkan berdasarkan hak penggunaan yang sesuai dengan kebutuhan Anda, Anda dapat mengikuti petunjuk berikut ini untuk memahami lebih lanjut tentang ketentuan lisensi yang diterapkan.
 
 ![foto 3.png](/uploads/foto%203.png){: .img-responsive .center-block }{: width="500"}
 
@@ -57,7 +57,7 @@ Contoh di atas merupakan hasil pencarian dengan kata kunci “Macau”, yang ket
 
 Seperti yang Anda lihat pada keterangan di atas, gambar ini berasal dari Wikimedia Commons.
 
-5. Kemudian, Anda dapat membuka laman sumber gambar tersebut, untuk memahami keterangan gambar dengan lebih lanjut, seperti, nama pencipta gambar, pranala sumber gambar, dan teks ketentuan lisensi yang diterapkan.
+4. Kemudian, Anda dapat membuka laman sumber gambar tersebut, untuk memahami keterangan gambar dengan lebih lanjut, seperti, nama pencipta gambar, pranala sumber gambar, dan teks ketentuan lisensi yang diterapkan.
 
 ![foto 4.png](/uploads/foto%204.png){: .img-responsive .center-block }{: width="500"}
 
@@ -93,21 +93,21 @@ Creative Commons Atribusi-NonKomersial-TanpaTurunan ([CC BY-NC-ND](http://creati
 
 **Atribusi (BY)**
  
-![BY-354f63.png](/uploads/BY-354f63.png){: .img-responsive .center-block }{: width="300"}
+![BY-354f63.png](/uploads/BY-354f63.png){: .img-responsive .center-block }{: width="150"}
 Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi dalam format yang sesuai dengan tempat ciptaan dibagikan, tanpa memberikan tambahan pernyataan dukungan dari pencipta terkait penggunaan ciptaan tersebut.
 
 **BerbagiSerupa (SA)**
-![SA.png](/uploads/SA.png){: .img-responsive .center-block }{: width="300"}
+![SA.png](/uploads/SA.png){: .img-responsive .center-block }{: width="150"}
 Spektrum ini hanya berlaku ketika ciptaan mengubah, menggubah, atau membuat turunan dari ciptaan. Setiap perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
 
 **NonKomersial (NC)**
 
-![NC.png](/uploads/NC.png){: .img-responsive .center-block }{: width="300"}
+![NC.png](/uploads/NC.png){: .img-responsive .center-block }{: width="150"}
 
 Spektrum ini melarang pengguna ciptaan untuk menggunakan ciptaan untuk kepentingan komersial apapun.
 
 **TanpaTurunan (ND)**
-![ND.png](/uploads/ND.png){: .img-responsive .center-block }{: width="300"}
+![ND.png](/uploads/ND.png){: .img-responsive .center-block }{: width="150"}
 
 Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan, penggubahan atau pembuatan ciptaan turunan dari ciptaan.
 
