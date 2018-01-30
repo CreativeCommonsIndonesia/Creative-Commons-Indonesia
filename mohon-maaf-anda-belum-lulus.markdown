@@ -13,11 +13,11 @@ Anda mendapatkan satu kali lagi untuk mengulang Misi 1.
 **Peserta yang ketahuan berupaya melakukan kecurangan dalam misi ini akan langsung didiskualifikasi.**
 
 Silakan ikuti langkah berikut untuk mendapatkan kesempatan mengulang dari panitia:
-1. Kirim surel ke ccidtot@wikimedia.or.id dengan format sebagai berikut:
+a. Kirim surel ke ccidtot@wikimedia.or.id dengan format sebagai berikut:
 
-a. Subyek surel: [CCIDTOT - ULANGM1 - NAMA LENGKAP PESERTA]
+Subyek surel: [CCIDTOT - ULANGM1 - NAMA LENGKAP PESERTA]
 
-b. Isi surel:
+Isi surel:
 
 **Halo nama saya [NAMA LENGKAP PESERTA],**
 
