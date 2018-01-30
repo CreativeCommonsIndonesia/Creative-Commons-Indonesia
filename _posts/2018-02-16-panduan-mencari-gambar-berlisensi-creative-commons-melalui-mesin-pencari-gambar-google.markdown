@@ -89,25 +89,25 @@ Creative Commons ([BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/de
 Creative Commons Atribusi-TanpaTurunan ([CC BY-ND](http://creativecommons.org/licenses/by-nd/4.0/d)), 
 Creative Commons Atribusi-NonKomersial-TanpaTurunan ([CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id)).
 
-* 6 pilihan lisensi tersebut dirangkai dari 4 spektrum berikut ini:
+6 pilihan lisensi tersebut dirangkai dari 4 spektrum berikut ini:
 
 **Atribusi (BY)**
  
-![BY-354f63.png](/uploads/BY-354f63.png){: .img-responsive .center-block }{: width="150"}
+![BY-354f63.png](/uploads/BY-354f63.png){: .img-responsive .center-block }{: width="100"}
 Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi dalam format yang sesuai dengan tempat ciptaan dibagikan, tanpa memberikan tambahan pernyataan dukungan dari pencipta terkait penggunaan ciptaan tersebut.
 
 **BerbagiSerupa (SA)**
-![SA.png](/uploads/SA.png){: .img-responsive .center-block }{: width="150"}
+![SA.png](/uploads/SA.png){: .img-responsive .center-block }{: width="100"}
 Spektrum ini hanya berlaku ketika ciptaan mengubah, menggubah, atau membuat turunan dari ciptaan. Setiap perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
 
 **NonKomersial (NC)**
 
-![NC.png](/uploads/NC.png){: .img-responsive .center-block }{: width="150"}
+![NC.png](/uploads/NC.png){: .img-responsive .center-block }{: width="100"}
 
 Spektrum ini melarang pengguna ciptaan untuk menggunakan ciptaan untuk kepentingan komersial apapun.
 
 **TanpaTurunan (ND)**
-![ND.png](/uploads/ND.png){: .img-responsive .center-block }{: width="150"}
+![ND.png](/uploads/ND.png){: .img-responsive .center-block }{: width="100"}
 
 Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan, penggubahan atau pembuatan ciptaan turunan dari ciptaan.
 
