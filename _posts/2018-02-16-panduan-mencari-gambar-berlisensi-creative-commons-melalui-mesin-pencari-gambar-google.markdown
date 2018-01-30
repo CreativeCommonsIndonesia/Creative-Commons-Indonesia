@@ -16,11 +16,11 @@ Aktivitas mencari dan menggunakan gambar secara daring, khususnya melalui alat p
 
 Pengetahuan tersebut bermanfaat untuk menjawab pertanyaan seperti: 
 
-Apakah gambar yang tersedia dapat digunakan secara langsung tanpa meminta izin? 
-
-Apakah boleh gambar tersebut digunakan dalam aktivitas komersial?
-
-Dapatkah gambar-gambar tersebut diubah dan digubah?
+**Apakah gambar yang tersedia dapat digunakan secara langsung tanpa meminta izin? 
+**
+**Apakah boleh gambar tersebut digunakan dalam aktivitas komersial?
+**
+**Dapatkah gambar-gambar tersebut diubah dan digubah?**
 
 Dengan memanfaatkan alat penyaring “Hak Penggunaan” di mesin pencari gambar Google, pengguna gambar dapat mengetahui apa yang boleh dan tidak boleh dilakukan terhadap gambar yang ditemukan. Alat penyaring ini membantu Anda untuk menemukan gambar-gambar berlisensi terbuka yang tersedia di situs web penyimpanan gambar seperti Wikimedia Commons, Flickr, maupun Pixabay. Namun, perlu diingat bahwa gambar-gambar berlisensi terbuka bukan berarti tanpa hak cipta. Untuk mengetahui lebih lanjut mengenai hak penggunaan gambar yang diberikan, Anda dapat mengunjungi situs web-situs web tersebut dan membaca ketentuan lisensi terbuka yang diterapkan. Gambar-gambar yang muncul biasanya merupakan gambar berlisensi Creative Commons dengan ketentuan yang berbeda-beda. Yang artinya, paling tidak Anda dapat menggandakan (mengunduh) dan menyebarkan kembali gambar tersebut, tanpa izin langsung pencipta.  
 
@@ -93,8 +93,7 @@ Creative Commons Atribusi-NonKomersial-TanpaTurunan ([CC BY-NC-ND](http://creati
 
 6 pilihan lisensi tersebut dirangkai dari 4 spektrum berikut ini:
 
-                 **Atribusi (BY)**
- 
+**Atribusi (BY)**
 ![BY-354f63.png](/uploads/BY-354f63.png){: .img-responsive .center-block }{: width="100"}
 Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi dalam format yang sesuai dengan tempat ciptaan dibagikan, tanpa memberikan tambahan pernyataan dukungan dari pencipta terkait penggunaan ciptaan tersebut.
 
