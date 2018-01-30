@@ -27,12 +27,11 @@ Dengan memanfaatkan alat penyaring “Hak Penggunaan” di mesin pencari gambar 
 Artikel ini akan memandu Anda untuk mencari gambar berlisensi Creative Commons melalui mesin pencari Google dengan memanfaatkan alat penyaring “Hak Penggunaan”. 
 Berikut panduannya dalam lima tahap:
 
-1. Masuk ke laman mesin pencarian [gambar Google](http://images.google.com). Lalu, masukan kata kunci gambar yang hendak Anda cari, misalnya kata kunci “Macau”: Kemudian klik “alat” (terletak di bawah ikon kaca pembesar), untuk menemukan fitur alat penyaring  “Hak Penggunaan”.
+**#1.** Masuk ke laman mesin pencarian [gambar Google](http://images.google.com). Lalu, masukan kata kunci gambar yang hendak Anda cari, misalnya kata kunci “Macau”: Kemudian klik “alat” (terletak di bawah ikon kaca pembesar), untuk menemukan fitur alat penyaring  “Hak Penggunaan”.
 
 ![foto 1.png](/uploads/foto%201.png){: .img-responsive .center-block }{: width="500"}
 
-
-2. Alat tersebut akan memberikan Anda pilihan sebagai berikut:
+**#2**. Alat tersebut akan memberikan Anda pilihan sebagai berikut:
 * Tidak difilter menurut lisensi;
 * Dilabeli untuk digunakan ulang dengan modifikasi; 
 * Dilabeli untuk digunakan ulang;
@@ -51,7 +50,7 @@ Berikut penjelasan masing-masing “Hak Penggunaan” yang tersedia:
 
 **Pengingat**: Jangan lupa untuk menerapkan Atribusi yang sesuai pada setiap penggunaan gambar. Atribusi merupakan kewajiban pengguna gambar untuk memenuhi hak moral pencipta gambar. Yaitu kewajiban untuk menyebutkan nama, sumber, dan ketentuan lisensi atau “Hak Penggunaan” yang diterapkan pada gambar. Ketentuan ini berlaku pada setiap jenis “Hak Penggunaan” gambar, dan berlaku tanpa batas waktu.
 
-3. Setelah mendapatkan gambar yang diinginkan berdasarkan hak penggunaan yang sesuai dengan kebutuhan Anda, Anda dapat mengikuti petunjuk berikut ini untuk memahami lebih lanjut tentang ketentuan lisensi yang diterapkan.
+**#3.** Setelah mendapatkan gambar yang diinginkan berdasarkan hak penggunaan yang sesuai dengan kebutuhan Anda, Anda dapat mengikuti petunjuk berikut ini untuk memahami lebih lanjut tentang ketentuan lisensi yang diterapkan.
 
 ![foto 3.png](/uploads/foto%203.png){: .img-responsive .center-block }{: width="500"}
 
@@ -59,7 +58,7 @@ Contoh di atas merupakan hasil pencarian dengan kata kunci “Macau”, yang ket
 
 Seperti yang Anda lihat pada keterangan di atas, gambar ini berasal dari Wikimedia Commons.
 
-4. Kemudian, Anda dapat membuka laman sumber gambar tersebut, untuk memahami keterangan gambar dengan lebih lanjut, seperti, nama pencipta gambar, pranala sumber gambar, dan teks ketentuan lisensi yang diterapkan.
+**#4.** Kemudian, Anda dapat membuka laman sumber gambar tersebut, untuk memahami keterangan gambar dengan lebih lanjut, seperti, nama pencipta gambar, pranala sumber gambar, dan teks ketentuan lisensi yang diterapkan.
 
 ![foto 4.png](/uploads/foto%204.png){: .img-responsive .center-block }{: width="500"}
 
@@ -82,7 +81,7 @@ Dengan catatan:
 
 Artinya, Anda diizinkan untuk menggunakan ciptaan tersebut dengan mencantumkan nama pencipta dan mengubah, menggubah bahkan untuk  menyebarluaskan gambar tersebut guna kepentingan apapun.  Namun, tidak berarti pemegang hak cipta mendukung secara penggunaan ciptaan.
 
-**Lisensi Creative Commons**
+### **Lisensi Creative Commons**
 
 Selain lisensi CC BY, terdapat pilihan lisensi lainnya yaitu 
 Creative Commons Atribusi-BerbagiSerupa ([CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/deed.id)), 
