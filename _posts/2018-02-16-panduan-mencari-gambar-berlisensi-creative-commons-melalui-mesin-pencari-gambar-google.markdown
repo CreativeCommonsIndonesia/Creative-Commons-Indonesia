@@ -94,7 +94,7 @@ Creative Commons ([BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/de
 
 * Creative Commons Atribusi-NonKomersial-TanpaTurunan ([CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id)).
 
-6 pilihan lisensi tersebut dirangkai dari 4 spektrum berikut ini:
+**6 pilihan lisensi tersebut dirangkai dari 4 spektrum berikut ini:**
 
 **Atribusi (BY)**
 ![BY-354f63.png](/uploads/BY-354f63.png){: .img-responsive .center-block }{: width="100"}
