@@ -14,16 +14,18 @@ Anda mendapatkan satu kali lagi untuk mengulang Misi 1.
 
 Silakan ikuti langkah berikut untuk mendapatkan kesempatan mengulang dari panitia:
 1. Kirim surel ke ccidtot@wikimedia.or.id dengan format sebagai berikut:
-a. Subyek surel: [CCIDTOT - ULANGM1 - NAMA LENGKAP PESERTA] 
+
+a. Subyek surel: [CCIDTOT - ULANGM1 - NAMA LENGKAP PESERTA]
+
 b. Isi surel:
 
-**Halo nama saya [NAMA LENGKAP PESERTA],
+**Halo nama saya [NAMA LENGKAP PESERTA],**
 
-Melalui surel ini saya hendak mengajukan permohonan mengulang MISI 1 Training of Trainers Creative Commons Indonesia sebanyak 1 kali kepada panitia CCID ToT.
+**Melalui surel ini saya hendak mengajukan permohonan mengulang MISI 1 Training of Trainers Creative Commons Indonesia sebanyak 1 kali kepada panitia CCID ToT.**
 
-Terima kasih.
+**Terima kasih.**
 
-Salam,**
+**Salam,**
 
 c. Peserta akan menerima balasan berupa pranala khusus untuk mengulang MISI 1 bagi peserta yang mengajukan permohonan mengulang paling lambat 2x24 jam setelah permohonan diterima oleh panitia CCID ToT.
 
