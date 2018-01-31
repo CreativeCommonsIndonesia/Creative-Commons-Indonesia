@@ -6,13 +6,11 @@ categories:
 img: "/uploads/YouTube%20Logo%20Andrew%20Perri%20CC%20BY.jpg"
 ---
 
-Salah satu bentuk konten terbuka selain teks, suara, dan gambar ialah konten video. 
+Salah satu bentuk konten terbuka selain teks, suara, dan gambar ialah konten video. Situs web Youtube merupakan salah satu tempat untuk menemukan berbagai macam video yang termasuk dalam kategori konten terbuka.
 
 ![YouTube Logo Andrew Perri CC BY.jpg](/uploads/YouTube%20Logo%20Andrew%20Perri%20CC%20BY.jpg){: .img-responsive .center-block }{: width="500"}
 
 [Youtube Logo](http://www.flickr.com/photos/cheesepuff/2406468228/in/photolist-4EDMaw-s7SFvu-dgDoTf-55gLyD-77TAQR-fmKE92-SWGxG8-6onadg-9itmQR-VTFGxQ-aTG8xX-7hbQMM-6PHmG9-7xht8k-bpkUfh-65nLCL-5ND1Lt-4zxoW6-5YPoCv-WRXiWN-7tMy7s-dC62ZR-7jJ8md-ejyQvD-cgE7ZE-5JAJdo-7jp42k-77NFJ2-9i2bCo-SftTDp-6B53Ja-94FeT8-2BPCeY-9Kz3Td-35PfXQ-6tRjru-3KLuR7-9GnLW7-4qyHTV-5HcZ9E-azTtkT-5JJLuN-77WXud-dofZVD-a2mBLG-8bjTQB-XpQzMX-nxUoke-dLgpAR-6NVeA7) oleh [Andrew Perri](http://www.flickr.com/photos/cheesepuff/), [CC BY 2.0.](http://creativecommons.org/licenses/by/2.0/)
-
-Situs web Youtube merupakan salah satu tempat untuk menemukan berbagai macam video yang termasuk dalam kategori konten terbuka.
 
 **Bagaimana cara membedakannya?**
 
