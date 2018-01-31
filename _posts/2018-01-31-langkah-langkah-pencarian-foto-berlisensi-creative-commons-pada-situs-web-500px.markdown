@@ -2,6 +2,7 @@
 title: "Langkah-Langkah Pencarian Foto Berlisensi Creative Commons \nPada Situs Web
   500px"
 date: 2018-01-31 10:59:00 +07:00
+published: false
 tags:
 - Kajian
 img: uploads/500px_logo_2016.svg
@@ -45,14 +46,14 @@ Pada contoh kata kunci yang digunakan “tulips”. Maka, akan muncul hasil penc
 
 ### **#Langkah ketiga**, pilih “Creative Commons” untuk mendapatkan foto-foto yang berlisensikan Creative Commons.
 
-![gambar 4.png](/uploads/gambar%204.png){: .img-responsive .center-block }{: width="500"}
+![gambar 4.png](/uploads/gambar%204.png){: .img-responsive .center-block }{: width="600"}
 
 Berikut penjelasan pilihan lisensi Creative Commons yakni:
 
 **Non CC License**
 Tanpa lisensi Creative Commons artinya akan menampilkan hasil pencarian foto-foto yang tidak menerapkan lisensi Creative Commons
 
-**Lisensi Creative Commons Zero/ Tanpa Hak Cipta (CC0)**
+**Lisensi Creative Commons Zero/ Dedikasi Domain Publik ( [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.id))
 CC0 adalah alat untuk secara sengaja mendedikasikan ciptaan yang dilindungi hak cipta ke dalam domain publik. Artinya memungkinkan pemberi lisensi untuk melepaskan seluruh hak cipta dan menempatkan ciptaannya sebagai domain publik.
 
 Anda diizinkan:
@@ -61,7 +62,7 @@ Menggunakan ciptaan tersebut tanpa harus mencantumkan atribusi|
 Dengan catatan:
 Jika anda mengadaptasi video yang menerapkan lisensi CC0, Anda sebaiknya menerapkan lisensi yang serupa yakni CC BY. Perlu diingat ketentuan ciptaan yang masuk pada domain publik di tiap negara berbeda yang memungkinkan resiko sengketa. Di Indonesia belum ada payung hukum yang melindungi lisensi CC0. Sehingga khusus untuk  penerapan CC0 tidak disarankan.|
 
-**Lisensi Creative Commons Public Domain (CC PD)**
+**Lisensi Creative Commons Public Domain ([CC PD](http://creativecommons.org/publicdomain/mark/1.0/deed.id))**
 Ciptaan tersebut sudah masuk dalam Public Domain atau ranah publik yang mana sudah bebas dari perlindungan hak cipta sehingga ciptaan tersebut menjadi bebas hak cipta dan bebas untuk digunakan. 
 
 Anda diizinkan:
@@ -137,15 +138,15 @@ Dengan catatan:
 
 Pada sisi kanan foto Anda dapat melihat keterangan foto seperti  nama fotografer atau pemilik hak cipta foto.
 
-![gambar 6.png](/uploads/gambar%206.png){: .img-responsive .center-block }{: width="500"}
+![gambar 6.png](/uploads/gambar%206.png){: .img-responsive .center-block }{: width="600"}
 
 Pilih "license Creative Commons" untuk mengetahui pilihan lisensi lebih jelas 
 
-![gambar 5.png](/uploads/gambar%205.png){: .img-responsive .center-block }{: width="500"}
+![gambar 5.png](/uploads/gambar%205.png){: .img-responsive .center-block }{: width="600"}
 
 Dan untuk mengetahui penjelasan lisensi Creative Commons yang diterapkan, kilik tautan Creative Commons maka akan muncul gambar sebagai berikut:
 
-![gambar 7.png](/uploads/gambar%207.png){: .img-responsive .center-block }{: width="500"}
+![gambar 7.png](/uploads/gambar%207.png){: .img-responsive .center-block }{: width="600"}
 
 Demikian langkah-langkah dalam menemukan foto yang menerapkan lisensi Creative Commons dan ketentuanya pada situs web 500px. Semoga dapat membantu!
 
