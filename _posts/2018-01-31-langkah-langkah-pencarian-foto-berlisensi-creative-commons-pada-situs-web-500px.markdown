@@ -14,7 +14,7 @@ Selain itu, situs web 500px tidak hanya diperuntukan bagi para fotografer yang m
 
 Akan tetapi, jika lisensi Creative Commons (CC) diterapkan pada suatu foto. Anda tidak perlu meminta izin secara langsung kepada pemilik foto untuk mengunduh dan membagikan atau menggunakan foto tersebut dengan catatan memperhatikan spektrum ketentuan yang ada guna mengetahui hal-hal apa saja yang tidak dan yang diperbolehkan. 
 
-Berikut penjelasan **4 spektrum ketentuan  lisensi Creative Commons** :
+**Berikut penjelasan 4 spektrum ketentuan  lisensi Creative Commons** :
  
 <img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="20">  **Atribusi (BY)**
 Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi dalam format yang sesuai dengan tempat ciptaan dibagikan, tanpa memberikan tambahan pernyataan dukungan dari pencipta terkait penggunaan ciptaan tersebut.
@@ -34,15 +34,15 @@ Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan
 
 Selanjutnya akan dibahas cara menemukan foto-foto yang berlisensi CC pada situs web 500px. Berikut langkah-langkahnya: 
 
-### **#Langkah pertama** buka situs web 500px.com dan pilih “discover”.
+**#Langkah pertama** buka situs web 500px.com dan pilih “discover”.
 
 ![gambar 1.png](/uploads/gambar%201.png){: .img-responsive .center-block }{: width="300"}
 
-### **#Langkah kedua**, masukan kata kunci foto yang hendak dicari. Pada contoh kata kunci yang digunakan “tulips”. Maka, akan muncul hasil pencarian foto-foto tulips.
+**#Langkah kedua**, masukan kata kunci foto yang hendak dicari. Pada contoh kata kunci yang digunakan “tulips”. Maka, akan muncul hasil pencarian foto-foto tulips.
 
 ![gambar 2.png](/uploads/gambar%202.png){: .img-responsive .center-block }{: width="300"}
 
-### **#Langkah ketiga**, tampilan laman situs web akan menampilkan hasil pencarian foto yang sesuai dengan kata kunci. Anda bisa pilih “Creative Commons” untuk mendapatkan foto-foto yang berlisensikan Creative Commons.
+**#Langkah ketiga**, tampilan laman situs web akan menampilkan hasil pencarian foto yang sesuai dengan kata kunci. Anda bisa pilih “Creative Commons” untuk mendapatkan foto-foto yang berlisensikan Creative Commons.
 
 ![gambar 3.png](/uploads/gambar%203.png){: .img-responsive .center-block }{: width="300"}
 
