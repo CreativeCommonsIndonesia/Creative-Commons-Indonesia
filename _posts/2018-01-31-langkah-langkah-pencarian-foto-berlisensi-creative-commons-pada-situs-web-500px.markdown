@@ -2,6 +2,7 @@
 title: "Langkah-Langkah Pencarian Foto Berlisensi Creative Commons \nPada Situs Web
   500px"
 date: 2018-01-31 10:59:00 +07:00
+published: false
 img: uploads/500px_logo_2016.svg
 ---
 
@@ -33,7 +34,7 @@ Spektrum ini melarang pengguna ciptaan untuk menggunakan ciptaan untuk kepenting
 Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan, penggubahan atau pembuatan ciptaan turunan dari ciptaan
 
 
-Selanjutnya akan dibahas cara menemukan foto-foto yang berlisensi CC pada situs web 500px. Berikut langkah-langkahnya: 
+**Selanjutnya akan dibahas cara menemukan foto-foto yang berlisensi CC pada situs web 500px. Berikut langkah-langkahnya:** 
 
 **#Langkah pertama** buka situs web 500px.com dan pilih “discover”.
 
