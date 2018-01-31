@@ -20,7 +20,8 @@ Akan tetapi, jika lisensi Creative Commons (CC) diterapkan pada suatu foto. Anda
 Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi dalam format yang sesuai dengan tempat ciptaan dibagikan, tanpa memberikan tambahan pernyataan dukungan dari pencipta terkait penggunaan ciptaan tersebut.
 
 
-<img style="float: left;" src="/uploads/SA.png" class="img-responsive" width="20">  **BerbagiSerupa (SA)** 
+<img style="float: left;" src="/uploads/SA.png" class="img-responsive" width="20">  
+**BerbagiSerupa (SA)** 
 Spektrum ini hanya berlaku ketika ciptaan mengubah, menggubah, atau membuat turunan dari ciptaan. Setiap perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
 
 
