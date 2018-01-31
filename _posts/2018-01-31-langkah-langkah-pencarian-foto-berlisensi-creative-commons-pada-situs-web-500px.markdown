@@ -8,7 +8,7 @@ img: uploads/500px_logo_2016.svg
 ![500px_logo_2016.svg](/uploads/500px_logo_2016.svg){: .img-responsive .center-block }{: width="300"}
 
 
-[500px.com](http://500px.com) merupakan salah satu situs web berbagi foto yang populer dikalangan pecinta fotografi. Pada situs web ini terdapat fitur-fitur layaknya sosial media yang dapat menghubungkan Anda dengan lebih dari 12 juta fotografer yang berasal dari berbagai negara. Melalui situs web 500px, Anda dapat berbagi pengalaman, mengasah kemampuan dan tentunya memamerkan karya fotografi Anda. 
+[500px.com](http://500px.com) merupakan salah satu situs web berbagi foto yang populer dikalangan pecinta fotografi yang di dalamnya terdapat fitur-fitur layaknya sosial media yang dapat menghubungkan Anda dengan lebih dari 12 juta fotografer yang berasal dari berbagai negara. Melalui situs web 500px, Anda dapat berbagi pengalaman, mengasah kemampuan dan tentunya memamerkan karya fotografi Anda. 
 
 Selain itu, situs web 500px tidak hanya diperuntukan bagi para fotografer yang memiliki akun saja. Namun, diperuntukan juga bagi penikmat karya fotografi juga dapat melihat-lihat jutaan foto dengan berbagai macam tema. Anda hanya cukup mengunjungi situs web 500px dan memasukan kata kunci foto apa yang Anda ingin cari. Bahkan anda dapat mengunduh foto tersebut menyebarkan kembali. Akan tetapi, perlu diingat seluruh foto yang ada pada situs web 500px memiliki hak cipta. Pada situs ini,pemilik hak cipta foto yakni fotografer yang memotret. Anda perlu mencermati lebih jauh mengenai ketentuan penggunaan foto yang diizinkan oleh pemilik hak cipta foto. 
 
@@ -37,17 +37,17 @@ Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan
 
 ### **#Langkah pertama** buka situs web 500px.com dan pilih “discover”.
 
-![gambar 1.png](/uploads/gambar%201.png){: .img-responsive .center-block }{: width="300"}
+![gambar 1.png](/uploads/gambar%201.png){: .img-responsive .center-block }{: width="500"}
 
 ### **#Langkah kedua**, masukan kata kunci foto yang hendak dicari. 
 
 Pada contoh kata kunci yang digunakan “tulips”. Maka, akan muncul hasil pencarian foto-foto tulips.
 
-![gambar 2.png](/uploads/gambar%202.png){: .img-responsive .center-block }{: width="300"}
+![gambar 2.png](/uploads/gambar%202.png){: .img-responsive .center-block }{: width="500"}
 
 ### **#Langkah ketiga**, pilih “Creative Commons” untuk mendapatkan foto-foto yang berlisensikan Creative Commons.
 
-![gambar 3.png](/uploads/gambar%203.png){: .img-responsive .center-block }{: width="300"}
+![gambar 3.png](/uploads/gambar%203.png){: .img-responsive .center-block }{: width="500"}
 
 Berikut penjelasan pilihan lisensi Creative Commons yakni:
 
@@ -87,97 +87,97 @@ Kedua, menurut UUHC 2014 pasal 41 dan 42 yang tidak masuk dalam perlindungan hak
 
 Anda diizinkan:
 
-**Berbagi**: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
+Berbagi: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
 
-**Adaptasi**: menggubah, mengubah, dan membuat ciptaan turunan dari suatu ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
+Adaptasi: menggubah, mengubah, dan membuat ciptaan turunan dari suatu ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
 
 Dengan catatan:
 
-**Atribusi**: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisesni mendukung Anda atau penggunaan Anda.
+Atribusi: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisesni mendukung Anda atau penggunaan Anda.
 
 **Lisensi Creative Commons Atribusi-BerbagiSerupa (CC BY-SA)**
 
 Anda diizinkan:
 
-**Berbagi**: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
+Berbagi: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
 
-**Adaptasi**: menggubah, mengubah, dan membuat ciptaan turunan dari suatu ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
+Adaptasi: menggubah, mengubah, dan membuat ciptaan turunan dari suatu ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
 
 Dengan catatan:
 
-**Atribusi**: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisesni mendukung Anda atau penggunaan Anda.
+Atribusi: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisesni mendukung Anda atau penggunaan Anda.
 
-**BerbagiSerupa**: Apabila Anda menggubah, mengubah, atau membuat ciptaan turunan dari ciptaan ini, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan ciptaan asli.
+BerbagiSerupa: Apabila Anda menggubah, mengubah, atau membuat ciptaan turunan dari ciptaan ini, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan ciptaan asli.
 
 
 **Lisensi Creative Commons Atribusi-TanpaTurunan ( CC BY-ND)**
 
 Anda diizinkan:
 
-**Berbagi**: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
+Berbagi: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
 
 Dengan catatan:
 
-**Atribusi**: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisesni mendukung Anda atau penggunaan Anda.
+Atribusi: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisesni mendukung Anda atau penggunaan Anda.
 
-**TanpaTurunan**: Apabila Anda menggubah,mengubah, atau membuat turunan dari ciptaan ini, Anda tidak boleh menyebarluaskan ciptaan yang telah dimodifikasi.
+TanpaTurunan: Apabila Anda menggubah,mengubah, atau membuat turunan dari ciptaan ini, Anda tidak boleh menyebarluaskan ciptaan yang telah dimodifikasi.
 
 
 **Lisensi Creative Commons NonKomersial (CC BY-NC)**
 
 Anda diizinkan:
 
-**Berbagi**: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
+Berbagi: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
 
-**Adaptasi**: menggubah, mengubah, dan membuat ciptaan turunan dari suatu ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
+Adaptasi: menggubah, mengubah, dan membuat ciptaan turunan dari suatu ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
 
 Dengan catatan:
 
-**Atribusi**: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisesni mendukung Anda atau penggunaan Anda.
+Atribusi: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisesni mendukung Anda atau penggunaan Anda.
 
-**NonKomersial**: Anda tidak dapat menggunakan ciptaan untuk kepentingan komersial.
+NonKomersial: Anda tidak dapat menggunakan ciptaan untuk kepentingan komersial.
 
 **Lisensi Creative Commons Atribusi NonKomersial BerbagiSerupa (CC BY-NC-SA)**
 
 Anda diizinkan:
 
-**Berbagi**: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
+Berbagi: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
 
-**Adaptasi**: menggubah, mengubah, dan membuat ciptaan turunan dari suatu ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
+Adaptasi: menggubah, mengubah, dan membuat ciptaan turunan dari suatu ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
 
 Dengan catatan:
 
-**Atribusi**: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisesni mendukung Anda atau penggunaan Anda.
+Atribusi: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisesni mendukung Anda atau penggunaan Anda.
 
-**NonKomersial**: Anda tidak dapat menggunakan ciptaan untuk kepentingan komersial.
+NonKomersial: Anda tidak dapat menggunakan ciptaan untuk kepentingan komersial.
 
-**BerbagiSerupa**: Apabila Anda menggubah, mengubah, atau membuat ciptaan turunan dari ciptaan ini, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan ciptaan asli.
+BerbagiSerupa: Apabila Anda menggubah, mengubah, atau membuat ciptaan turunan dari ciptaan ini, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan ciptaan asli.
 
 **Lisensi Creative Commons Atribusi NonKomersial TanpaTurunan (CC BY-NC-ND)**
 
 Anda diizinkan:
 
-**Berbagi**: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
+Berbagi:menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
 
 Dengan catatan:
 
-**NonKomersial**: Anda tidak dapat menggunakan ciptaan untuk kepentingan komersial. 
+NonKomersial: Anda tidak dapat menggunakan ciptaan untuk kepentingan komersial. 
 
-**TanpaTurunan**: Apabila Anda menggubah,mengubah, atau membuat turunan dari ciptaan ini, Anda tidak boleh menyebarluaskan ciptaan yang telah dimodifikasi.
+TanpaTurunan: Apabila Anda menggubah,mengubah, atau membuat turunan dari ciptaan ini, Anda tidak boleh menyebarluaskan ciptaan yang telah dimodifikasi.
 
 ### **#Langkah kelima**, akan muncul tampilan hasil penyaringan gambar. 
 
 Pada sisi kanan foto Anda dapat melihat keterangan foto seperti  nama fotografer atau pemilik hak cipta foto.
 
-![gambar 6.png](/uploads/gambar%206.png){: .img-responsive .center-block }{: width="300"}
+![gambar 6.png](/uploads/gambar%206.png){: .img-responsive .center-block }{: width="500"}
 
 Klik "license Creative Commons" untuk mengetahui pilihan lisensi lebih jelas 
 
-![gambar 5.png](/uploads/gambar%205.png){: .img-responsive .center-block }{: width="300"}
+![gambar 5.png](/uploads/gambar%205.png){: .img-responsive .center-block }{: width="500"}
 
 Dan untuk mengetahui penjelasan lisensi Creative Commons yang diterapkan, kilik tautan Creative Commons maka akan muncul gambar sebagai berikut:
 
-![gambar 7.png](/uploads/gambar%207.png){: .img-responsive .center-block }{: width="300"}
+![gambar 7.png](/uploads/gambar%207.png){: .img-responsive .center-block }{: width="500"}
 
 Demikian langkah-langkah dalam menemukan foto yang menerapkan lisensi Creative Commons dan ketentuanya pada situs web 500px. Semoga dapat membantu!
 
