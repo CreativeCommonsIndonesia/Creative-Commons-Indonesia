@@ -7,6 +7,7 @@ img: uploads/500px_logo_2016.svg
 
 ![500px_logo_2016.svg](/uploads/500px_logo_2016.svg){: .img-responsive .center-block }{: width="300"}
 
+
 500px.com merupakan salah satu situs web berbagi foto yang populer dikalangan pecinta fotografi. Pada situs web ini terdapat fitur-fitur layaknya sosial media yang dapat menghubungkan Anda dengan lebih dari 12 juta fotografer yang berasal dari berbagai negara. Melalui situs web 500px, Anda dapat berbagi pengalaman, mengasah kemampuan dan tentunya memamerkan karya fotografi Anda. 
 
 Selain itu, situs web 500px tidak hanya diperuntukan bagi para fotografer yang memiliki akun saja. Namun, diperuntukan juga bagi penikmat karya fotografi juga dapat melihat-lihat jutaan foto dengan berbagai macam tema. Anda hanya cukup mengunjungi situs web 500px dan memasukan kata kunci foto apa yang Anda ingin cari. Bahkan anda dapat mengunduh foto tersebut menyebarkan kembali. Akan tetapi, perlu diingat seluruh foto yang ada pada situs web 500px memiliki hak cipta. Pada situs ini,pemilik hak cipta foto yakni fotografer yang memotret. Anda perlu mencermati lebih jauh mengenai ketentuan penggunaan foto yang diizinkan oleh pemilik hak cipta foto. 
