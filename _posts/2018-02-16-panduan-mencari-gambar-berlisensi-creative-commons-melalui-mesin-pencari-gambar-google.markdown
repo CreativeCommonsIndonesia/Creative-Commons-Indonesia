@@ -13,6 +13,8 @@ author: Fitriayu
 comments: true
 ---
 
+![Google Gambar.png](/uploads/Google%20Gambar.png){: .img-responsive .center-block }{: width="300"}
+
 Aktivitas mencari dan menggunakan gambar secara daring, khususnya melalui alat pencari gambar Google, perlu dibekali dengan pengetahuan tentang hak penggunaan setiap gambar yang ditemukan. 
 
 Pengetahuan tersebut bermanfaat untuk menjawab pertanyaan seperti: 
