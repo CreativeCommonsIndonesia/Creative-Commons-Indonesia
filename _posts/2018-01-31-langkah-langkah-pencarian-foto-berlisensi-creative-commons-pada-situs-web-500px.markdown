@@ -31,7 +31,7 @@ Spektrum ini melarang pengguna ciptaan untuk menggunakan ciptaan untuk kepenting
 
 
 <img style="float: left;" src="/uploads/ND.png" class="img-responsive" width="50">
-### **TanpaTurunan (ND)** 
+`**TanpaTurunan (ND)**`
 Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan, penggubahan atau pembuatan ciptaan turunan dari ciptaan
 
 
