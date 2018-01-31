@@ -5,7 +5,7 @@ date: 2018-01-31 10:59:00 +07:00
 img: uploads/500px_logo_2016.svg
 ---
 
-[500px_logo_2016.svg](/uploads/500px_logo_2016.svg){: .img-responsive .center-block }{: width="300"}
+![500px_logo_2016.svg](/uploads/500px_logo_2016.svg){: .img-responsive .center-block }{: width="300"}
 
 500px.com merupakan salah satu situs web berbagi foto yang populer dikalangan pecinta fotografi. Pada situs web ini terdapat fitur-fitur layaknya sosial media yang dapat menghubungkan Anda dengan lebih dari 12 juta fotografer yang berasal dari berbagai negara. Melalui situs web 500px, Anda dapat berbagi pengalaman, mengasah kemampuan dan tentunya memamerkan karya fotografi Anda. 
 
@@ -15,17 +15,25 @@ Akan tetapi, jika lisensi Creative Commons (CC) diterapkan pada suatu foto. Anda
 
 Berikut penjelasan 4 spektrum ketentuan  lisensi Creative Commons :
 
-**1. Atribusi (BY)**  
-<img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="50"> Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi dalam format yang sesuai dengan tempat ciptaan dibagikan, tanpa memberikan tambahan pernyataan dukungan dari pencipta terkait penggunaan ciptaan tersebut.
+**1. Atribusi (BY)** 
+ 
+<img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="50"> 
+Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi dalam format yang sesuai dengan tempat ciptaan dibagikan, tanpa memberikan tambahan pernyataan dukungan dari pencipta terkait penggunaan ciptaan tersebut.
 
 **2. BerbagiSerupa (SA)**
-<img style="float: left;" src="/uploads/SA.png" class="img-responsive" width="50"> Spektrum ini hanya berlaku ketika ciptaan mengubah, menggubah, atau membuat turunan dari ciptaan. Setiap perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
 
-3. NonKomersial (NC)
-<img style="float: left;" src="/uploads/NC.png" class="img-responsive" width="50"> Spektrum ini melarang pengguna ciptaan untuk menggunakan ciptaan untuk kepentingan komersial apapun.
+<img style="float: left;" src="/uploads/SA.png" class="img-responsive" width="50"> 
+Spektrum ini hanya berlaku ketika ciptaan mengubah, menggubah, atau membuat turunan dari ciptaan. Setiap perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
 
-4. TanpaTurunan (ND)
-<img style="float: left;" src="/uploads/ND.png" class="img-responsive" width="50"> Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan, penggubahan atau pembuatan ciptaan turunan dari ciptaan
+**3. NonKomersial (NC)**
+
+<img style="float: left;" src="/uploads/NC.png" class="img-responsive" width="50"> 
+Spektrum ini melarang pengguna ciptaan untuk menggunakan ciptaan untuk kepentingan komersial apapun.
+
+**4. TanpaTurunan (ND)**
+
+<img style="float: left;" src="/uploads/ND.png" class="img-responsive" width="50"> 
+Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan, penggubahan atau pembuatan ciptaan turunan dari ciptaan
 
 Selanjutnya akan dibahas cara menemukan foto-foto yang berlisensi CC pada situs web 500px. Berikut langkah-langkahnya: 
 
