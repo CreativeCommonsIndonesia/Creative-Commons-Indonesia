@@ -1,6 +1,7 @@
 ---
 title: Survei Pengetahuan Hak Cipta dan Lisensi Creative Commons
 date: 2018-01-18 11:13:00 +07:00
+img: uploads/12-d4f46e.jpg
 ---
 
 ![12-d4f46e.jpg](/uploads/12-d4f46e.jpg){: .img-responsive .center-block }{: width="500"}
