@@ -51,7 +51,7 @@ Berikut penjelasan pilihan lisensi Creative Commons yakni:
 
 `Non CC License
 
-Tanpa lisensi Creative Commons artinya akan menampilkan hasil pencarian foto-foto yang tidak menerapkan lisensi Creative Commons`
+Tanpa lisensi Creative Commons artinya akan menampilkan hasil pencarian foto-foto yang tidak menerapkan lisensi Creative Commons``
 
 Lisensi Creative Commons Zero/ Tanpa Hak Cipta (CC0)
 
