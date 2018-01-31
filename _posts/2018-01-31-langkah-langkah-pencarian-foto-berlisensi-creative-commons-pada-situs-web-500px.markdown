@@ -15,21 +15,24 @@ Akan tetapi, jika lisensi Creative Commons (CC) diterapkan pada suatu foto. Anda
 
 Berikut penjelasan 4 spektrum ketentuan  lisensi Creative Commons :
  
-<img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="50">
-**Atribusi (BY)**  
+<img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="50"> 
+### **Atribusi (BY)**
 Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi dalam format yang sesuai dengan tempat ciptaan dibagikan, tanpa memberikan tambahan pernyataan dukungan dari pencipta terkait penggunaan ciptaan tersebut.
 
 
 <img style="float: left;" src="/uploads/SA.png" class="img-responsive" width="50">
-**BerbagiSerupa (SA)** Spektrum ini hanya berlaku ketika ciptaan mengubah, menggubah, atau membuat turunan dari ciptaan. Setiap perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
+### **BerbagiSerupa (SA)** 
+Spektrum ini hanya berlaku ketika ciptaan mengubah, menggubah, atau membuat turunan dari ciptaan. Setiap perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
 
 
 <img style="float: left;" src="/uploads/NC.png" class="img-responsive" width="50">
-**NonKomersial (NC)** Spektrum ini melarang pengguna ciptaan untuk menggunakan ciptaan untuk kepentingan komersial apapun.
+### **NonKomersial (NC)** 
+Spektrum ini melarang pengguna ciptaan untuk menggunakan ciptaan untuk kepentingan komersial apapun.
 
 
 <img style="float: left;" src="/uploads/ND.png" class="img-responsive" width="50">
-**TanpaTurunan (ND)** Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan, penggubahan atau pembuatan ciptaan turunan dari ciptaan
+### **TanpaTurunan (ND)** 
+Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan, penggubahan atau pembuatan ciptaan turunan dari ciptaan
 
 
 Selanjutnya akan dibahas cara menemukan foto-foto yang berlisensi CC pada situs web 500px. Berikut langkah-langkahnya: 
