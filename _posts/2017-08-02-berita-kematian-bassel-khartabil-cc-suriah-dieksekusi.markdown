@@ -1,5 +1,5 @@
 ---
-title: 'Berita Kematian: Bassel Khartabil (CC Suriah) Dieksekusi'
+title: 'Kabar Duka: Bassel Khartabil (CC Suriah) Dieksekusi'
 date: 2017-08-02 16:21:00 +07:00
 categories:
 - Berita
