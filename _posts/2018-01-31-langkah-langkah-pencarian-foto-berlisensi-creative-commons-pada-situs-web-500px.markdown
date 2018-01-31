@@ -50,4 +50,3 @@ Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan
 
 Berikut penjelasan pilihan lisensi Creative Commons yakni: 
 
-
