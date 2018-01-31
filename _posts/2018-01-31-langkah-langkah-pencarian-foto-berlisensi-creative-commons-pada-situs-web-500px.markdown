@@ -49,19 +49,18 @@ Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan
 
 Berikut penjelasan pilihan lisensi Creative Commons yakni:
 
-[[**Non CC License**]]
+**Non CC License**
 
 Tanpa lisensi Creative Commons artinya akan menampilkan hasil pencarian foto-foto yang tidak menerapkan lisensi Creative Commons
 
-**Lisensi Creative Commons Zero/ Tanpa Hak Cipta (CC0)**
-
+|**Lisensi Creative Commons Zero/ Tanpa Hak Cipta (CC0)**|
 CC0 adalah alat untuk secara sengaja mendedikasikan ciptaan yang dilindungi hak cipta ke dalam domain publik. Artinya memungkinkan pemberi lisensi untuk melepaskan seluruh hak cipta dan menempatkan ciptaannya sebagai domain publik.
-
-Anda diizinkan:
-Menggunakan ciptaan tersebut tanpa harus mencantumkan atribusi
-
-Dengan catatan:
-Jika anda mengadaptasi video yang menerapkan lisensi CC0, Anda sebaiknya menerapkan lisensi yang serupa yakni CC BY. Perlu diingat ketentuan ciptaan yang masuk pada domain publik di tiap negara berbeda yang memungkinkan resiko sengketa. Di Indonesia belum ada payung hukum yang melindungi lisensi CC0. Sehingga khusus untuk  penerapan CC0 tidak disarankan. 
+|-
+|Anda diizinkan:
+Menggunakan ciptaan tersebut tanpa harus mencantumkan atribusi|
+|-
+|Dengan catatan:
+Jika anda mengadaptasi video yang menerapkan lisensi CC0, Anda sebaiknya menerapkan lisensi yang serupa yakni CC BY. Perlu diingat ketentuan ciptaan yang masuk pada domain publik di tiap negara berbeda yang memungkinkan resiko sengketa. Di Indonesia belum ada payung hukum yang melindungi lisensi CC0. Sehingga khusus untuk  penerapan CC0 tidak disarankan.|
 
 Lisensi Creative Commons Public Domain (CC PD)
 Ciptaan tersebut sudah masuk dalam Public Domain atau ranah publik yang mana sudah bebas dari perlindungan hak cipta sehingga ciptaan tersebut menjadi bebas hak cipta dan bebas untuk digunakan. 
