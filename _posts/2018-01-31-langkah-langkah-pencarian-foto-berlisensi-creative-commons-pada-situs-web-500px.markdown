@@ -51,7 +51,7 @@ Berikut penjelasan pilihan lisensi Creative Commons yakni:
 
 `Non CC License
 
-Tanpa lisensi Creative Commons artinya akan menampilkan hasil pencarian foto-foto yang tidak menerapkan lisensi Creative Commons
+Tanpa lisensi Creative Commons artinya akan menampilkan hasil pencarian foto-foto yang tidak menerapkan lisensi Creative Commons`
 
 Lisensi Creative Commons Zero/ Tanpa Hak Cipta (CC0)
 
@@ -138,5 +138,5 @@ Berbagi: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau form
 Dengan catatan:
 NonKomersial: Anda tidak dapat menggunakan ciptaan untuk kepentingan komersial. 
 TanpaTurunan: Apabila Anda menggubah,mengubah, atau membuat turunan dari ciptaan ini, Anda tidak boleh menyebarluaskan ciptaan yang telah dimodifikasi.
-`
+
 
