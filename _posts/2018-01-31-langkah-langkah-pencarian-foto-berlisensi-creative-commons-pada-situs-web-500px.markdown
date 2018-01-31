@@ -49,13 +49,13 @@ Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan
 
 Berikut penjelasan pilihan lisensi Creative Commons yakni:
 
-|**Non CC License**
-|-
-|Tanpa lisensi Creative Commons artinya akan menampilkan |hasil pencarian foto-foto yang tidak menerapkan lisensi |Creative Commons
-|-
-|-**Lisensi Creative Commons Zero/ Tanpa Hak Cipta (CC0)**
-|-
-|CC0 adalah alat untuk secara sengaja mendedikasikan |ciptaan yang dilindungi hak cipta ke dalam domain publik. |Artinya memungkinkan pemberi lisensi untuk melepaskan |seluruh hak cipta dan menempatkan ciptaannya sebagai |domain publik.
+[[**Non CC License**]]
+
+Tanpa lisensi Creative Commons artinya akan menampilkan hasil pencarian foto-foto yang tidak menerapkan lisensi Creative Commons
+
+**Lisensi Creative Commons Zero/ Tanpa Hak Cipta (CC0)**
+
+CC0 adalah alat untuk secara sengaja mendedikasikan ciptaan yang dilindungi hak cipta ke dalam domain publik. Artinya memungkinkan pemberi lisensi untuk melepaskan seluruh hak cipta dan menempatkan ciptaannya sebagai domain publik.
 
 Anda diizinkan:
 Menggunakan ciptaan tersebut tanpa harus mencantumkan atribusi
