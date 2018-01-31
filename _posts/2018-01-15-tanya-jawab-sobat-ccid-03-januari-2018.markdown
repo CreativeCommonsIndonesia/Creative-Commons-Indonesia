@@ -5,6 +5,7 @@ categories:
 - Sobat CCID
 tags:
 - CiptaMediaEkspresi
+img: uploads/Soba%20CCID%201.png
 ---
 
 ![Soba CCID 1.png](/uploads/Soba%20CCID%201.png)
