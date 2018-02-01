@@ -16,21 +16,22 @@ Video yang berlisensi CC maka secara tidak langsung pencipta video tersebut memp
 
 Artikel ini akan lebih lanjut membahas mengenai tahap-tahap dalam menemukan video berlisensi CC dan penjelasan mengenai pilihan-pilihan lisensi yang diterapkan. Berikut pandunannya:
 
-1. Akses situs web Vimeo.com kemudian masukan kata kunci video yang ingin dicari pada kolom “Search”.
+**### Pertama**,Akses situs web Vimeo.com kemudian masukan kata kunci video yang ingin dicari pada kolom “Search”.
 
 ![satu.png](/uploads/satu.png){: .img-responsive .center-block }{: width="600"}
 
-2. Perhatikan fitur penyaringan pada sisi kiri laman, pilih “more filters” untuk menemukan fitur penyaringan video yang menerapkan lisensi Creative Commons.
+### **Kedua**, perhatikan fitur penyaringan pada sisi kiri laman, pilih “more filters” untuk menemukan fitur penyaringan video yang menerapkan lisensi Creative Commons.
 
 ![dua.png](/uploads/dua.png){: .img-responsive .center-block }{: width="600"}
 
-3. Kemudian akan muncul menu lisensi yang akan menampilkan hasil penyaringan video berdasarkan dari pilihan terapan Creative Commons pada video.
+### **Ketiga**,Kemudian akan muncul menu lisensi yang akan menampilkan hasil penyaringan video berdasarkan dari pilihan terapan Creative Commons pada video.
 
 ![tiga.png](/uploads/tiga.png){: .img-responsive .center-block }{: width="600"}
 
 Penjelasan lebih lanjut mengenai pilihan lisensi Creative Commons sebagai berikut: 
 
 **Any**
+
 Pada pilihan ini, akan menampilkan berbagai macam dari 6 pilihan lisensi Creative Commons secara acak.
 
 **Lisensi Creative Commons Atribusi NonKomersial TanpaTurunan ([CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id))**
@@ -102,7 +103,7 @@ Dengan catatan:
 *Jika anda mengadaptasi video yang menerapkan lisensi CC0, Anda sebaiknya menerapkan lisensi yang serupa yakni CC BY.  
 *Perlu diingat ketentuan ciptaan yang masuk pada domain publik di tiap negara berbeda. Di Indonesia belum ada payung hukum yang melindungi lisensi CC0. Sehingga penerapan CC0 tidak disarankan.
 
-4. Kemudian Berikutnya, ketika video berlisensikan CC   yang inginkan ada sudah ditemukan. Maka, di bawah judul video terdapat “more” yang dapat Anda pilih guna melihat informasi lebih lanjut pada video tersebut seperti Judul, pengungah dan lisensi CC yang diterapkan. 
+### **Keempat**,ketika video berlisensikan CC yang inginkan ada sudah ditemukan. Maka, di bawah judul video terdapat “more” yang dapat Anda pilih guna melihat informasi lebih lanjut pada video tersebut seperti Judul, pengungah dan pilihan lisensi CC yang diterapkan. 
 
 ![empat.png](/uploads/empat.png){: .img-responsive .center-block }{: width="600"}
 
