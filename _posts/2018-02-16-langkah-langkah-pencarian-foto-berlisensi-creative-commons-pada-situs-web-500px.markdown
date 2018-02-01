@@ -2,7 +2,6 @@
 title: "Langkah-Langkah Pencarian Foto Berlisensi Creative Commons \nPada Situs Web
   500px"
 date: 2018-02-16 17:00:00 +07:00
-published: false
 tags:
 - Kajian
 img: uploads/500px_logo_2016.svg
@@ -52,8 +51,9 @@ Berikut penjelasan pilihan lisensi Creative Commons yakni:
 **Non CC License**
 Tanpa lisensi Creative Commons artinya akan menampilkan hasil pencarian foto-foto yang tidak menerapkan lisensi Creative Commons.
 
-**Lisensi Creative Commons Zero/ Dedikasi Domain Publik ( [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.id))
-![cc-zero.png](/uploads/cc-zero.png){: .img-responsive .center-block }{: width="50"}
+<img style="float: left;" src="/uploads/cc-zero.png" class="img-responsive" width="100">
+**Lisensi Creative Commons Zero/ Dedikasi Domain Publik** ( [CC0]
+
 CC0 adalah alat untuk secara sengaja mendedikasikan ciptaan yang dilindungi hak cipta ke dalam domain publik. Artinya memungkinkan pemberi lisensi untuk melepaskan seluruh hak cipta dan menempatkan ciptaannya sebagai domain publik.
 
 Anda diizinkan:
@@ -62,8 +62,8 @@ Menggunakan ciptaan tersebut tanpa harus mencantumkan atribusi|
 Dengan catatan:
 Jika anda mengadaptasi video yang menerapkan lisensi CC0, Anda sebaiknya menerapkan lisensi yang serupa yakni CC BY. Perlu diingat ketentuan ciptaan yang masuk pada domain publik di tiap negara berbeda yang memungkinkan resiko sengketa. Di Indonesia belum ada payung hukum yang melindungi lisensi CC0. Sehingga khusus untuk  penerapan CC0 tidak disarankan.|
 
-**Lisensi Creative Commons Public Domain ([CC PD](http://creativecommons.org/publicdomain/mark/1.0/deed.id))**
-![publicdomain-4fe283.png](/uploads/publicdomain-4fe283.png){: .img-responsive .center-block }{: width="50"}
+<img style="float: left;" src="/uploads/publicdomain-4fe283.png" class="img-responsive" width="100">**Lisensi Creative Commons Public Domain ([CC PD](http://creativecommons.org/publicdomain/mark/1.0/deed.id))**
+
 Ciptaan tersebut sudah masuk dalam Public Domain atau ranah publik yang mana sudah bebas dari perlindungan hak cipta sehingga ciptaan tersebut menjadi bebas hak cipta dan bebas untuk digunakan. 
 
 Anda diizinkan:
@@ -75,8 +75,8 @@ Pertama, jangka waktu perlindungan telah berakhir, menurut UUHC 2014 Bab IX hak 
 
 Kedua, menurut UUHC 2014 pasal 41 dan 42 yang tidak masuk dalam perlindungan hak cipta seperti hasil karya yang belum diwujudkan dalam bentuk nyata, hasil rapat terbuka lembaga negara,  peraturan perundang-undangan,  pidato kenegaraan atau pidato pejabat pemerintah, putusan pengadilan atau penetapan hakim dan kitab suci atau simbol keagamaan.
 
-**Lisensi Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id))**
-![CC by.png](/uploads/CC%20by.png){: .img-responsive .center-block }{: width="50"}
+<img style="float: left;" src="/uploads/CC%20by.png" class="img-responsive" width="100">**Lisensi Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id))**
+
 Anda diizinkan:
 * Berbagi: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
 * Adaptasi: menggubah, mengubah, dan membuat ciptaan turunan dari suatu ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
@@ -93,7 +93,6 @@ Anda diizinkan:
 Dengan catatan:
 * Atribusi: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisesni mendukung Anda atau penggunaan Anda.
 * BerbagiSerupa: Apabila Anda menggubah, mengubah, atau membuat ciptaan turunan dari ciptaan ini, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan ciptaan asli.
-
 
 **Lisensi Creative Commons Atribusi-TanpaTurunan ([CC BY-ND](http://creativecommons.org/licenses/by-nd/4.0/deed.id))**
 ![by-nd-04b970.png](/uploads/by-nd-04b970.png){: .img-responsive .center-block }{: width="50"}
@@ -131,7 +130,7 @@ Dengan catatan:
 
 **Lisensi Creative Commons Atribusi NonKomersial TanpaTurunan ([CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id))**
 
-![by-nc-nd-01dc41.png](/uploads/by-nc-nd-01dc41.png){: .img-responsive .center-block }{: width="50"}
+![by-nc-nd-01dc41.png](/uploads/by-nc-nd-01dc41.png){: .img-responsive .center-block }{: width="100"}
 Anda diizinkan:
 * Berbagi:menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
 
@@ -139,9 +138,7 @@ Dengan catatan:
 * NonKomersial: Anda tidak dapat menggunakan ciptaan untuk kepentingan komersial. 
 * TanpaTurunan: Apabila Anda menggubah,mengubah, atau membuat turunan dari ciptaan ini, Anda tidak boleh menyebarluaskan ciptaan yang telah dimodifikasi.
 
-### **#Langkah kelima**, akan muncul tampilan hasil penyaringan gambar. 
-
-Pada sisi kanan foto terdapat keterangan foto seperti nama fotografer atau pemilik hak cipta foto dan lisensi creative commons yang diterapkan. 
+### **#Langkah kelima**, setelah anda memilih foto yang diinginkan. Maka pada sisi kanan foto terdapat keterangan foto seperti nama fotografer atau pemilik hak cipta foto dan lisensi creative commons yang diterapkan.  
 
 ![gambar 5.png](/uploads/gambar%205.png){: .img-responsive .center-block }{: width="600"}
 
@@ -150,5 +147,3 @@ Dan untuk mengetahui penjelasan lisensi Creative Commons yang diterapkan, kilik 
 ![gambar 7.png](/uploads/gambar%207.png){: .img-responsive .center-block }{: width="600"}
 
 Demikian langkah-langkah dalam menemukan foto yang menerapkan lisensi Creative Commons dan ketentuanya pada situs web 500px. Semoga dapat membantu!
-
-
