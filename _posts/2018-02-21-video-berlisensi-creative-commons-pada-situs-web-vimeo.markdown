@@ -15,21 +15,25 @@ Bagi Anda yang sedang mencari video untuk kepentingan tertentu, situs web vimeo 
 Ketika Anda  menemukan video berlisensi Creative Commons pada situs web Vimeo, Anda tidak perlu meminta izin secara langsung ke pencipta dalam penggunaanya karena disitulah letak kemudahan dari lisensi Creative Commons guna mempermudah pencipta-pencipta lain dalam memengembangkan keratifitasnya. Akan tetapi perlu diketahui ketentuan apa saja yang diterapkan pada lisensi Creative Commons tersebut. Terdapat 4 spektrum ketentuan lisensi Creative Commons, yakni: 
 
 <img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="20">**Atribusi (BY)**
+
 Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi dalam format yang sesuai dengan tempat ciptaan dibagikan, tanpa memberikan tambahan pernyataan dukungan dari pencipta terkait penggunaan ciptaan tersebut.
 
 <img style="float: left;" src="/uploads/SA.png" class="img-responsive" width="20">**BerbagiSerupa (SA)** 
+
 Spektrum ini hanya berlaku ketika ciptaan mengubah, menggubah, atau membuat turunan dari ciptaan. Setiap perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
 
 <img style="float: left;" src="/uploads/NC.png" class="img-responsive" width="20">**NonKomersial (NC)** 
+
 Spektrum ini melarang pengguna ciptaan untuk menggunakan ciptaan untuk kepentingan komersial apapun.
 
 
 <img style="float: left;" src="/uploads/ND.png" class="img-responsive" width="20">**TanpaTurunan (ND)**
+
 Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan, penggubahan atau pembuatan ciptaan turunan dari ciptaan.
 
-Keempaat spektrum ketentuan tersebut akan menjadi dasar dari 6 pilihan lisensi Creative Commons yang diterapkan pada ciptaan. Artikel ini akan lebih lanjut membahas mengenai tahap-tahap dalam menemukan video berlisensi CC dan penjelasan mengenai pilihan-pilihan lisensi yang diterapkan. Berikut panduannya:
-
-**### Pertama**, akses situs web [vimeo.com](http://vimeo.com) kemudian masukan kata kunci video yang ingin dicari pada kolom “Search”.
+Dari keempaat spektrum ketentuan tersebut akan dirangkai menjadi dari 6 pilihan lisensi Creative Commons yang diterapkan pada ciptaan. Artikel ini akan lebih lanjut membahas mengenai tahap-tahap dalam menemukan video berlisensi CC dan penjelasan mengenai pilihan-pilihan lisensi yang diterapkan. Berikut panduannya:
+### 
+**Pertama**, akses situs web [vimeo.com](http://vimeo.com) kemudian masukan kata kunci video yang ingin dicari pada kolom “Search”.
 
 ![satu.png](/uploads/satu.png){: .img-responsive .center-block }{: width="600"}
 
