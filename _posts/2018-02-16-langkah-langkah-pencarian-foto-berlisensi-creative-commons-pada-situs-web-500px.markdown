@@ -9,7 +9,7 @@ img: uploads/500px_logo_2016.svg
 author: 'Fitriayu '
 ---
 
-<img style="float: left;" src="/uploads/500px_logo_2016.svg" class="img-responsive" width="250">[500px.com](http://500px.com) merupakan salah satu situs web berbagi foto yang populer dikalangan pecinta fotografi yang di dalamnya terdapat fitur-fitur layaknya sosial media yang dapat menghubungkan Anda dengan lebih dari 12 juta fotografer yang berasal dari berbagai negara. Melalui situs web 500px, Anda dapat berbagi pengalaman, mengasah kemampuan dan tentunya memamerkan karya fotografi Anda. 
+<img style="float: left;" src="/uploads/500px_logo_2016.svg" class="img-responsive" width="250">    merupakan salah satu situs web berbagi foto yang populer dikalangan pecinta fotografi yang di dalamnya terdapat fitur-fitur layaknya sosial media yang dapat menghubungkan Anda dengan lebih dari 12 juta fotografer yang berasal dari berbagai negara. Melalui situs web 500px, Anda dapat berbagi pengalaman, mengasah kemampuan dan tentunya memamerkan karya fotografi Anda. 
 
 Selain itu, situs web 500px tidak hanya diperuntukan bagi para fotografer yang memiliki akun saja. Namun, diperuntukan juga bagi penikmat karya fotografi juga dapat melihat-lihat jutaan foto dengan berbagai macam tema. Anda hanya cukup mengunjungi situs web 500px dan memasukan kata kunci foto apa yang Anda ingin cari. Bahkan anda dapat mengunduh foto tersebut menyebarkan kembali. Akan tetapi, perlu diingat seluruh foto yang ada pada situs web 500px memiliki hak cipta. Pada situs ini, pemilik hak cipta foto yakni fotografer yang memotret. Anda perlu mencermati lebih jauh mengenai ketentuan penggunaan foto yang diizinkan oleh pemilik hak cipta foto. 
 
@@ -35,7 +35,7 @@ Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan
 
 **Selanjutnya akan dibahas cara menemukan foto-foto yang berlisensi CC pada situs web 500px. Berikut langkah-langkahnya:** 
 
-### **#Langkah pertama** buka situs web 500px.com dan pilih “discover”.
+### **#Langkah pertama** buka situs web [500px.com](http://500px.com) dan pilih “Discover”.
 
 ![gambar 1.png](/uploads/gambar%201.png){: .img-responsive .center-block }{: width="600"}
 
