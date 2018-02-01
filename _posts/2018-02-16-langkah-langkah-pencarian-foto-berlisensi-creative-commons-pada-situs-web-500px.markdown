@@ -77,10 +77,11 @@ Anda diizinkan:
 Menyalin, memodifikasi, menyebarluaskan, dan menampilkan ciptaan tersebut, bahkan untuk tujuan komersial, secara keseluruhan tanpa meminta izin. 
 
 Dengan Catatan:
-Terdapat dua hal yang menyebabkan sebuah ciptaan termasuk pada domain publik yakni: 
-Pertama, jangka waktu perlindungan telah berakhir, menurut [UUHC 2014](http://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_28_Tahun_2014) Bab IX hak cipta berlaku selama hidup Pencipta dan terus berlangsung selama 70 (tujuh puluh) tahun setelah Pencipta meninggal dunia, terhitung mulai tanggal 1 Januari tahun berikutnya untuk buku,lagu,karya seni rupa dll). Khusus untuk karya fotografi, sinematografi, terjemahan dll berlaku 50 tahun sejak pengumuman ciptaan dan juga 25 tahun untuk karya seni terapan).  
+*Atribusi: Anda harus mencatumkan nama yang sesuai dan menyatakan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai. *
+*Di Indonesia, berdasarkan [UUHC 2014](http://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_28_Tahun_2014), terdapat dua hal yang menyebabkan sebuah ciptaan termasuk pada domain publik yakni: 
+Pertama, ketika jangka waktu perlindungan ciptaan telah berakhir, menurut  UUHC Bab IX, perlindungan hak cipta berlaku selama hidup pencipta dan terus berlangsung selama 70(tujuh puluh) tahun setelah Pencipta meninggal dunia, terhitung mulai tanggal 1 Januari tahun berikutnya untuk buku,lagu,karya seni rupa dll). Khusus untuk karya fotografi, sinematografi, terjemahan dll berlaku 50 tahun sejak pengumuman ciptaan dan juga 25 tahun untuk karya seni terapan).  
 
-Kedua, menurut [UUHC 2014](http://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_28_Tahun_2014) pasal 41 dan 42 yang tidak masuk dalam perlindungan hak cipta seperti hasil karya yang belum diwujudkan dalam bentuk nyata, hasil rapat terbuka lembaga negara,  peraturan perundang-undangan, pidato kenegaraan atau pidato pejabat pemerintah, putusan pengadilan atau penetapan hakim dan kitab suci atau simbol keagamaan.
+Kedua, menurut [UUHC 2014](http://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_28_Tahun_2014) pasal 41 dan 42 yang tidak masuk dalam perlindungan hak cipta seperti hasil karya yang belum diwujudkan dalam bentuk nyata, hasil rapat terbuka lembaga negara, peraturan perundang-undangan, pidato kenegaraan atau pidato pejabat pemerintah, putusan pengadilan atau penetapan hakim dan kitab suci atau simbol keagamaan.
 
 **Lisensi Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id))**
 
