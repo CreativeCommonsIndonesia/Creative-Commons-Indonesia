@@ -56,16 +56,13 @@ Tanpa lisensi Creative Commons artinya akan menampilkan hasil pencarian foto-fot
 **Lisensi Creative Commons Zero/ Dedikasi Domain Publik ([CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.id))**
 ![cc-zero.png](/uploads/cc-zero.png){: .img-responsive .center-block }{: width="100"}
 
-Setiap orang yang menghubungkan sebuah ciptaan dengan ketentuan ini telah mendedikasikan ciptaan tersebut sebagai domain publik dan mengabaikan semua hak-haknya atas ciptaan tersebut di seluruh dunia di bawah hukum hak cipta, termasuk semua hak terkait, sejauh yang ditentukan hukum yang berlaku
-
-Anda diizinkan:
 Setiap orang yang menghubungkan sebuah ciptaan dengan ketentuan ini telah mendedikasikan ciptaan tersebut sebagai domain publik dan mengabaikan semua hak-haknya atas ciptaan tersebut di seluruh dunia di bawah hukum hak cipta, termasuk semua hak terkait, sejauh yang ditentukan hukum yang berlaku.
 
 Anda diizinkan: 
 Menyalin, memodifikasi, menyebarluaskan, dan menampilkan ciptaan tersebut, bahkan untuk tujuan komersial, secara keseluruhan tanpa meminta izin. 
 
 Dengan catatan:
-Perlu diingat ketentuan ciptaan yang masuk pada domain publik di tiap negara berbeda. Di Indonesia belum ada payung hukum yang melindungi lisensi CC0. Sehingga penerapan CC0 tidak disarankan.|
+Perlu diingat ketentuan ciptaan yang masuk pada domain publik di tiap negara berbeda. Di Indonesia belum ada payung hukum yang melindungi lisensi CC0. Sehingga penerapan CC0 tidak disarankan.
 
 **Lisensi Creative Commons Public Domain ([CC PD](http://creativecommons.org/publicdomain/mark/1.0/deed.id))**
 
