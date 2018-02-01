@@ -32,8 +32,8 @@ Spektrum ini melarang pengguna ciptaan untuk menggunakan ciptaan untuk kepenting
 Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan, penggubahan atau pembuatan ciptaan turunan dari ciptaan.
 
 Dari keempaat spektrum ketentuan tersebut akan dirangkai menjadi dari 6 pilihan lisensi Creative Commons yang diterapkan pada ciptaan. Artikel ini akan lebih lanjut membahas mengenai tahap-tahap dalam menemukan video berlisensi CC dan penjelasan mengenai pilihan-pilihan lisensi yang diterapkan. Berikut panduannya:
-### 
-**Pertama**, akses situs web [vimeo.com](http://vimeo.com) kemudian masukan kata kunci video yang ingin dicari pada kolom “Search”.
+
+### **Pertama**, akses situs web [vimeo.com](http://vimeo.com) kemudian masukan kata kunci video yang ingin dicari pada kolom “Search”.
 
 ![satu.png](/uploads/satu.png){: .img-responsive .center-block }{: width="600"}
 
