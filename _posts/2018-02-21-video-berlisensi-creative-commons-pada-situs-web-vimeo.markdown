@@ -1,6 +1,7 @@
 ---
 title: Video Berlisensi Creative Commons Pada Situs Web Vimeo
 date: 2018-02-21 17:00:00 +07:00
+published: false
 categories:
 - Kajian
 img: "/uploads/Vimeo_logo.png"
