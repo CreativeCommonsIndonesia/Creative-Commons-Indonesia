@@ -2,6 +2,7 @@
 title: "Langkah-Langkah Pencarian Foto Berlisensi Creative Commons \nPada Situs Web
   500px"
 date: 2018-02-16 17:00:00 +07:00
+published: false
 tags:
 - Kajian
 img: uploads/500px_logo_2016.svg
@@ -58,7 +59,7 @@ Tanpa lisensi Creative Commons artinya akan menampilkan hasil pencarian foto-fot
 CC0 adalah alat untuk secara sengaja mendedikasikan ciptaan yang dilindungi hak cipta ke dalam domain publik. Artinya memungkinkan pemberi lisensi untuk melepaskan seluruh hak cipta dan menempatkan ciptaannya sebagai domain publik.
 
 Anda diizinkan:
-Menggunakan ciptaan tersebut tanpa harus mencantumkan atribusi|
+Menggunakan ciptaan tersebut tanpa harus mencantumkan atribusi.
 
 Dengan catatan:
 Jika anda mengadaptasi video yang menerapkan lisensi CC0, Anda sebaiknya menerapkan lisensi yang serupa yakni CC BY. Perlu diingat ketentuan ciptaan yang masuk pada domain publik di tiap negara berbeda yang memungkinkan resiko sengketa. Di Indonesia belum ada payung hukum yang melindungi lisensi CC0. Sehingga khusus untuk  penerapan CC0 tidak disarankan.|
@@ -76,7 +77,7 @@ Dengan catatan:
 Terdapat dua hal yang menyebabkan sebuah ciptaan termasuk pada domain publik: 
 Pertama, jangka waktu perlindungan telah berakhir, menurut UUHC 2014 Bab IX hak cipta berlaku selama hidup Pencipta dan terus berlangsung selama 70 (tujuh puluh) tahun setelah Pencipta meninggal dunia, terhitung mulai tanggal 1 Januari tahun berikutnya untuk buku,lagu,karya seni rupa dll). Khusus untuk karya fotografi, sinematografi, terjemahan dll berlaku 50 tahun sejak pengumuman ciptaan dan juga 25 tahun untuk karya seni terapan).  
 
-Kedua, menurut UUHC 2014 pasal 41 dan 42 yang tidak masuk dalam perlindungan hak cipta seperti hasil karya yang belum diwujudkan dalam bentuk nyata, hasil rapat terbuka lembaga negara,  peraturan perundang-undangan,  pidato kenegaraan atau pidato pejabat pemerintah, putusan pengadilan atau penetapan hakim dan kitab suci atau simbol keagamaan.
+Kedua, menurut UUHC 2014 pasal 41 dan 42 yang tidak masuk dalam perlindungan hak cipta seperti hasil karya yang belum diwujudkan dalam bentuk nyata, hasil rapat terbuka lembaga negara,  peraturan perundang-undangan, pidato kenegaraan atau pidato pejabat pemerintah, putusan pengadilan atau penetapan hakim dan kitab suci atau simbol keagamaan.
 
 **Lisensi Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id))**
 
