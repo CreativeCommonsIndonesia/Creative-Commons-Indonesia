@@ -2,13 +2,14 @@
 title: "Langkah-Langkah Pencarian Foto Berlisensi Creative Commons \nPada Situs Web
   500px"
 date: 2018-02-16 17:00:00 +07:00
+published: false
 tags:
 - Kajian
 img: uploads/500px_logo_2016.svg
 author: 'Fitriayu '
 ---
 
-<img style="float: right;" src="/uploads/500px_logo_2016.svg">[500px.com](http://500px.com) merupakan salah satu situs web berbagi foto yang populer dikalangan pecinta fotografi yang di dalamnya terdapat fitur-fitur layaknya sosial media yang dapat menghubungkan Anda dengan lebih dari 12 juta fotografer yang berasal dari berbagai negara. Melalui situs web 500px, Anda dapat berbagi pengalaman, mengasah kemampuan dan tentunya memamerkan karya fotografi Anda. 
+<img style="float: left;" src="/uploads/500px_logo_2016.svg" class="img-responsive" width="250">[500px.com](http://500px.com) merupakan salah satu situs web berbagi foto yang populer dikalangan pecinta fotografi yang di dalamnya terdapat fitur-fitur layaknya sosial media yang dapat menghubungkan Anda dengan lebih dari 12 juta fotografer yang berasal dari berbagai negara. Melalui situs web 500px, Anda dapat berbagi pengalaman, mengasah kemampuan dan tentunya memamerkan karya fotografi Anda. 
 
 Selain itu, situs web 500px tidak hanya diperuntukan bagi para fotografer yang memiliki akun saja. Namun, diperuntukan juga bagi penikmat karya fotografi juga dapat melihat-lihat jutaan foto dengan berbagai macam tema. Anda hanya cukup mengunjungi situs web 500px dan memasukan kata kunci foto apa yang Anda ingin cari. Bahkan anda dapat mengunduh foto tersebut menyebarkan kembali. Akan tetapi, perlu diingat seluruh foto yang ada pada situs web 500px memiliki hak cipta. Pada situs ini, pemilik hak cipta foto yakni fotografer yang memotret. Anda perlu mencermati lebih jauh mengenai ketentuan penggunaan foto yang diizinkan oleh pemilik hak cipta foto. 
 
@@ -40,11 +41,9 @@ Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan
 
 ### **#Langkah kedua**, masukan kata kunci foto yang hendak dicari. 
 
-Pada contoh kata kunci yang digunakan “tulips”. Maka, akan muncul hasil pencarian foto-foto tulips.
-
 ![gambar 2.png](/uploads/gambar%202.png){: .img-responsive .center-block }{: width="500"}
 
-### **#Langkah ketiga**, pilih “Creative Commons” untuk mendapatkan foto-foto yang berlisensikan Creative Commons.
+### **#Langkah ketiga**, pilih “Creative Commons” untuk mendapatkan hasil penyaringan foto-foto yang berlisensikan Creative Commons.
 
 ![gambar 4.png](/uploads/gambar%204.png){: .img-responsive .center-block }{: width="600"}
 
