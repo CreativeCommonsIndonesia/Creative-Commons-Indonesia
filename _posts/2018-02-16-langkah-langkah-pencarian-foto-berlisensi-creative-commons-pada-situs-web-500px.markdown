@@ -2,7 +2,6 @@
 title: "Langkah-Langkah Pencarian Foto Berlisensi Creative Commons \nPada Situs Web
   500px"
 date: 2018-02-16 17:00:00 +07:00
-published: false
 tags:
 - Kajian
 img: uploads/500px_logo_2016.svg
@@ -53,7 +52,7 @@ Berikut penjelasan pilihan lisensi Creative Commons yakni:
 Tanpa lisensi Creative Commons artinya akan menampilkan hasil pencarian foto-foto yang tidak menerapkan lisensi Creative Commons.
 
 
-**Lisensi Creative Commons Zero/ Dedikasi Domain Publik** ([CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.id))
+**Lisensi Creative Commons Zero/ Dedikasi Domain Publik ([CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.id))**
 ![cc-zero.png](/uploads/cc-zero.png){: .img-responsive .center-block }{: width="100"}
 
 CC0 adalah alat untuk secara sengaja mendedikasikan ciptaan yang dilindungi hak cipta ke dalam domain publik. Artinya memungkinkan pemberi lisensi untuk melepaskan seluruh hak cipta dan menempatkan ciptaannya sebagai domain publik.
@@ -79,7 +78,9 @@ Pertama, jangka waktu perlindungan telah berakhir, menurut UUHC 2014 Bab IX hak 
 
 Kedua, menurut UUHC 2014 pasal 41 dan 42 yang tidak masuk dalam perlindungan hak cipta seperti hasil karya yang belum diwujudkan dalam bentuk nyata, hasil rapat terbuka lembaga negara,  peraturan perundang-undangan,  pidato kenegaraan atau pidato pejabat pemerintah, putusan pengadilan atau penetapan hakim dan kitab suci atau simbol keagamaan.
 
-<img style="float: left;" src="/uploads/CC%20by.png" class="img-responsive" width="100">**Lisensi Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id))**
+**Lisensi Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id))**
+
+![CC%20by.png](/uploads/CC%20by.png){: .img-responsive .center-block }{: width="100"}
 
 Anda diizinkan:
 * Berbagi: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
@@ -89,7 +90,7 @@ Dengan catatan:
 * Atribusi: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisesni mendukung Anda atau penggunaan Anda.
 
 **Lisensi Creative Commons Atribusi-BerbagiSerupa ([CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/deed.id))**
-![by-sa-e15bba.png](/uploads/by-sa-e15bba.png){: .img-responsive .center-block }{: width="50"}
+![by-sa-e15bba.png](/uploads/by-sa-e15bba.png){: .img-responsive .center-block }{: width="100"}
 Anda diizinkan:
 * Berbagi: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
 * Adaptasi: menggubah, mengubah, dan membuat ciptaan turunan dari suatu ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
