@@ -51,8 +51,9 @@ Berikut penjelasan pilihan lisensi Creative Commons yakni:
 **Non CC License**
 Tanpa lisensi Creative Commons artinya akan menampilkan hasil pencarian foto-foto yang tidak menerapkan lisensi Creative Commons.
 
-<img style="float: left;" src="/uploads/cc-zero.png" class="img-responsive" width="100">
+
 **Lisensi Creative Commons Zero/ Dedikasi Domain Publik** ( [CC0]
+![cc-zero.png](/uploads/cc-zero.png){: .img-responsive .center-block }{: width="100"}
 
 CC0 adalah alat untuk secara sengaja mendedikasikan ciptaan yang dilindungi hak cipta ke dalam domain publik. Artinya memungkinkan pemberi lisensi untuk melepaskan seluruh hak cipta dan menempatkan ciptaannya sebagai domain publik.
 
@@ -62,7 +63,9 @@ Menggunakan ciptaan tersebut tanpa harus mencantumkan atribusi|
 Dengan catatan:
 Jika anda mengadaptasi video yang menerapkan lisensi CC0, Anda sebaiknya menerapkan lisensi yang serupa yakni CC BY. Perlu diingat ketentuan ciptaan yang masuk pada domain publik di tiap negara berbeda yang memungkinkan resiko sengketa. Di Indonesia belum ada payung hukum yang melindungi lisensi CC0. Sehingga khusus untuk  penerapan CC0 tidak disarankan.|
 
-<img style="float: left;" src="/uploads/publicdomain-4fe283.png" class="img-responsive" width="100">**Lisensi Creative Commons Public Domain ([CC PD](http://creativecommons.org/publicdomain/mark/1.0/deed.id))**
+**Lisensi Creative Commons Public Domain ([CC PD](http://creativecommons.org/publicdomain/mark/1.0/deed.id))**
+
+![publicdomain-4fe283.png](/uploads/publicdomain-4fe283.png){: .img-responsive .center-block }{: width="100"}
 
 Ciptaan tersebut sudah masuk dalam Public Domain atau ranah publik yang mana sudah bebas dari perlindungan hak cipta sehingga ciptaan tersebut menjadi bebas hak cipta dan bebas untuk digunakan. 
 
@@ -95,7 +98,9 @@ Dengan catatan:
 * BerbagiSerupa: Apabila Anda menggubah, mengubah, atau membuat ciptaan turunan dari ciptaan ini, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan ciptaan asli.
 
 **Lisensi Creative Commons Atribusi-TanpaTurunan ([CC BY-ND](http://creativecommons.org/licenses/by-nd/4.0/deed.id))**
-![by-nd-04b970.png](/uploads/by-nd-04b970.png){: .img-responsive .center-block }{: width="50"}
+
+![by-nd-04b970.png](/uploads/by-nd-04b970.png){: .img-responsive .center-block }{: width="100"}
+
 Anda diizinkan:
 * Berbagi: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
 
@@ -105,7 +110,8 @@ Dengan catatan:
 
 
 **Lisensi Creative Commons NonKomersial ([CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.id))**
-![by-nc-d2ccff.png](/uploads/by-nc-d2ccff.png){: .img-responsive .center-block }{: width="50"}
+
+![by-nc-d2ccff.png](/uploads/by-nc-d2ccff.png){: .img-responsive .center-block }{: width="100"}
 
 Anda diizinkan:
 * Berbagi: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
@@ -117,7 +123,7 @@ Dengan catatan:
 
 **Lisensi Creative Commons Atribusi NonKomersial BerbagiSerupa ([CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id))**
 
-![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png){: .img-responsive .center-block }{: width="50"}
+![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png){: .img-responsive .center-block }{: width="100"}
 
 Anda diizinkan:
 * Berbagi: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
@@ -131,6 +137,7 @@ Dengan catatan:
 **Lisensi Creative Commons Atribusi NonKomersial TanpaTurunan ([CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id))**
 
 ![by-nc-nd-01dc41.png](/uploads/by-nc-nd-01dc41.png){: .img-responsive .center-block }{: width="100"}
+
 Anda diizinkan:
 * Berbagi:menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
 
