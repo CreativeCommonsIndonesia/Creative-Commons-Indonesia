@@ -1,13 +1,14 @@
 ---
 title: Video Berlisensi Creative Commons Pada Situs Web Vimeo
 date: 2018-02-21 17:00:00 +07:00
+published: false
 categories:
 - Kajian
 img: "/uploads/Vimeo_logo.png"
 Author: Fitriayu
 ---
 
-Vimeo, situs web yang didedikasikan bagi orang-orang kreatif di seluruh dunia. Melalui situs web ini Anda dapat mengunduh,membagikan dan melihat video. Bahkan Anda juga dapat mengunggah video favorit anda dengan kualitas HD dan SD. Anda dapat membuat akun pada platform Vimeo dan menggunakannya layaknya platform sosial media lainya. 
+Vimeo, situs web yang didedikasikan bagi orang-orang kreatif di seluruh dunia. Melalui situs web ini Anda dapat mengunduh, membagikan, dan menonton video. Bahkan Anda juga dapat mengunggah video Anda dengan kualitas HD dan SD. Anda dapat membuat akun pada situs vimeo dan menggunakannya layaknya platform sosial media lainya. 
 Bagi Anda yang sedang mencari konten video untuk kepentingan tertentu, situs web Vimeo dapat membantu. Karena terdapat pula fitur penyaringan yang membantu anda lebih spesifik lagi mengenai kategori video yang ingin Anda cari. Beberapa diantaranya yakni: jenis video, durasi video, berbayar atau bebas biaya dan juga penerapan lisensi pada video tersebut.
 
 **Lisensi Creative Commons (CC)**
@@ -16,7 +17,7 @@ Video yang berlisensi CC maka secara tidak langsung pencipta video tersebut memp
 
 Artikel ini akan lebih lanjut membahas mengenai tahap-tahap dalam menemukan video berlisensi CC dan penjelasan mengenai pilihan-pilihan lisensi yang diterapkan. Berikut pandunannya:
 
-**### Pertama**,Akses situs web Vimeo.com kemudian masukan kata kunci video yang ingin dicari pada kolom “Search”.
+**### Pertama**, akses situs web [vimeo.com](http://vimeo.com) kemudian masukan kata kunci video yang ingin dicari pada kolom “Search”.
 
 ![satu.png](/uploads/satu.png){: .img-responsive .center-block }{: width="600"}
 
