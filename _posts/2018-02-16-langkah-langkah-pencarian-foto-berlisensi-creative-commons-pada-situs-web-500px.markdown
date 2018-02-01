@@ -52,7 +52,7 @@ Berikut penjelasan pilihan lisensi Creative Commons yakni:
 Tanpa lisensi Creative Commons artinya akan menampilkan hasil pencarian foto-foto yang tidak menerapkan lisensi Creative Commons.
 
 
-**Lisensi Creative Commons Zero/ Dedikasi Domain Publik** ( [CC0]
+**Lisensi Creative Commons Zero/ Dedikasi Domain Publik** ([CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.id))
 ![cc-zero.png](/uploads/cc-zero.png){: .img-responsive .center-block }{: width="100"}
 
 CC0 adalah alat untuk secara sengaja mendedikasikan ciptaan yang dilindungi hak cipta ke dalam domain publik. Artinya memungkinkan pemberi lisensi untuk melepaskan seluruh hak cipta dan menempatkan ciptaannya sebagai domain publik.
