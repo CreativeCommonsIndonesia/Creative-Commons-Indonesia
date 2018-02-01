@@ -115,11 +115,13 @@ Dengan catatan:
 Setiap orang yang menghubungkan sebuah ciptaan dengan ketentuan ini telah mendedikasikan ciptaan tersebut sebagai domain publik dan mengabaikan semua hak-haknya atas ciptaan tersebut di seluruh dunia di bawah hukum hak cipta, termasuk semua hak terkait, sejauh yang ditentukan hukum yang berlaku.
 
 Anda diizinkan: 
-Menyalin, memodifikasi, menyebarluaskan, dan menampilkan ciptaan tersebut, bahkan untuk tujuan komersial, secara keseluruhan tanpa meminta izin. 
+
+* Menyalin, memodifikasi, menyebarluaskan, dan menampilkan ciptaan tersebut, bahkan untuk tujuan komersial, secara keseluruhan tanpa meminta izin. 
 
 Dengan catatan:
-*Jika anda mengadaptasi video yang menerapkan lisensi CC0, Anda sebaiknya menerapkan lisensi yang serupa yakni CC BY.  
-*Perlu diingat ketentuan ciptaan yang masuk pada domain publik di tiap negara berbeda. Di Indonesia belum ada payung hukum yang melindungi lisensi CC0. Sehingga penerapan CC0 tidak disarankan.
+
+* Jika Anda mengadaptasi video yang menerapkan lisensi CC0, Anda sebaiknya menerapkan lisensi yang serupa yakni CC BY.  
+* Perlu diingat ketentuan ciptaan yang masuk pada domain publik di tiap negara berbeda. Di Indonesia belum ada payung hukum yang melindungi lisensi CC0. Sehingga penerapan CC0 tidak disarankan.
 
 ### **Keempat**,ketika video berlisensikan CC yang inginkan ada sudah ditemukan. Maka, di bawah judul video terdapat “more” yang dapat Anda pilih guna melihat informasi lebih lanjut pada video tersebut seperti Judul, pengungah dan pilihan lisensi CC yang diterapkan. 
 
