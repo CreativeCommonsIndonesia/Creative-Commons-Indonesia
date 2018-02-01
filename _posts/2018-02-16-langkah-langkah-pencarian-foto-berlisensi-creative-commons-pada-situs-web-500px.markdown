@@ -15,7 +15,7 @@ Selain itu, situs web 500px tidak hanya diperuntukan bagi para fotografer yang m
 
 Lain halnya jika lisensi Creative Commons (CC) diterapkan pada foto. Anda tidak perlu meminta izin secara langsung kepada pemilik foto untuk mengunduh dan membagikan atau menggunakan foto tersebut dengan catatan memperhatikan spektrum ketentuan yang ada guna mengetahui hal-hal apa saja yang tidak dan yang diperbolehkan. 
 
-**Berikut penjelasan 4 spektrum ketentuan  lisensi Creative Commons** :
+**Berikut penjelasan 4 spektrum ketentuan lisensi Creative Commons** :
  
 <img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="20">**Atribusi (BY)**
 Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi dalam format yang sesuai dengan tempat ciptaan dibagikan, tanpa memberikan tambahan pernyataan dukungan dari pencipta terkait penggunaan ciptaan tersebut.
