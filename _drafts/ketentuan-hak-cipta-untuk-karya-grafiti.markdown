@@ -21,7 +21,7 @@ comments: true
 
 ![1-d2a780.jpg](/uploads/1-d2a780.jpg){: .img-responsive .center-block }{: width="500"}<center>
 
-Sejak 17 Januari 2018 lalu Creative Commons Headquarter (CCHQ) akhirnya meluncurkan secara resmi sistem jaringan terbaru mereka yaitu Creative Commons Global Network (CCGN) atau Jaringan Global Creative Commons. Model jaringan ini mulai dirancang dalam diskusi-diskusi yang diadakan pada dua Konferensi Tingkat Tinggi Creative Commons terdahulu yaitu Creative Commons Global Summit 2015 di [Seoul, Korea Selatan](https://creativecommonsglobalsummit2015.sched.com/) dan [Creative Commons Global Summit 2017 di Toronto, Kanada](https://creativecommonsglobalsummit2017t.sched.com/). Dengan adanya model jaringan ini diharapkan CC Internasional dapat memperluas kesempatan kolaborasi dalam hal apapun dengan insititusi maupun individu yang tidak termasuk di dalam daftar jaringan afiliasi sebelumnya. Model jaringan ini juga merupakan pengganti model jaringan afiliasi dari negara-negara yang kemudian dikelompokan secara regional, [CC Asia Pasifik](https://creativecommons.org/), [CC Arab](https://creativecommons.org/tag/arab-world/), [CC Eropa](https://europe.creativecommons.org/), serta CC Amerika Latin. Masing-masing afiliasi  dan dipimpin oleh koordinator regional. Posisi koordinator tersebut kini dipegang oleh satu orang sebagai Global Coordinator atau Network Manager (Manajer Jaringan Global) yakni [Simeon Oriko](https://creativecommons.org/author/simeoncreativecommons-org/) dari CCHQ.
+Sejak 17 Januari 2018 lalu Creative Commons Headquarter (CCHQ) meluncurkan secara resmi sistem jaringan terbaru mereka yaitu Creative Commons Global Network (CCGN) atau Jaringan Global Creative Commons. Model jaringan ini mulai dirancang dalam diskusi-diskusi yang diadakan pada dua Konferensi Tingkat Tinggi Creative Commons terdahulu yaitu Creative Commons Global Summit 2015 di [Seoul, Korea Selatan](https://creativecommonsglobalsummit2015.sched.com/) dan [Creative Commons Global Summit 2017 di Toronto, Kanada](https://creativecommonsglobalsummit2017t.sched.com/). Dengan adanya model jaringan ini diharapkan CCHQ dapat memperluas kesempatan kolaborasi dalam hal apapun dengan insititusi maupun individu yang tidak termasuk di dalam daftar jaringan afiliasi sebelumnya. Model jaringan ini juga merupakan pengganti model jaringan afiliasi dari negara-negara yang kemudian dikelompokan secara regional, [CC Asia Pasifik](https://creativecommons.org/), [CC Arab](https://creativecommons.org/tag/arab-world/), [CC Eropa](https://europe.creativecommons.org/), serta [CC Amerika Latin](https://creativecommons.org/tag/latin-america). Masing-masing afiliasi  dan dipimpin oleh koordinator regional. Posisi koordinator tersebut kini dipegang oleh satu orang sebagai Global Coordinator atau Network Manager (Manajer Jaringan Global) yakni [Simeon Oriko](https://creativecommons.org/author/simeoncreativecommons-org/) dari CCHQ.
 
 **Sistem Keanggotaan Jaringan Global Creative Commons**
 
@@ -63,14 +63,11 @@ Anggota Dewan Sementara terdiri dari orang-orang yang terlibat dalam penyusunan 
 
 CCGN merumuskan perbidangan dalam melaksanakan kegiatan yang berkaitan degan gerakan keterbukaan dengan sebutan [platforms](https://github.com/creativecommons/network-platforms). Platform dibuat sebagai pedoman bagi anggota jaringan atau kontributor dalam melaksanakan kegiatan. Hingga saat ini terdapat 4 macam pilihan kegiatan yang dirumuskan. Kegiatan-kegiatan itu diantaranya adalah:
 
-* [Open GLAM platform](https://github.com/creativecommons/network-platforms/blob/master/GLAM.md)
-* [Open Education platform](https://github.com/creativecommons/network-platforms/blob/master/Open-Education.md)
-* [Community Development](https://github.com/creativecommons/network-platforms/blob/master/community-dev.md)
-* [Copyright Reform](https://github.com/creativecommons/network-platforms/blob/master/copyright-reform.md)
+* [Open GLAM platform](https://github.com/creativecommons/network-platforms/blob/master/GLAM.md) - Untuk segala gerakan keterbukaan yang berkaitan dengan Galeri, Perpustakaan, Lembaga Arsip, dan Museum.
+* [Open Education platform](https://github.com/creativecommons/network-platforms/blob/master/Open-Education.md) - Untuk segala gerakan keterbukaan yang berkaitan dengan Pendidikan Terbuka.
+* [Community Development](https://github.com/creativecommons/network-platforms/blob/master/community-dev.md) - Untuk segala kegiatan yang mendukung pengembangan kapasitas dan kuantitias komunitas dalam gerakan Creative Commons.
+* [Copyright Reform](https://github.com/creativecommons/network-platforms/blob/master/copyright-reform.md) - Untuk segala kegiatan yang berkaitan dengan reformasi regulasi hak cipta.
 
-**Kelebihan-Kelebihan**
+Selain itu, CCHQ sebagai pengelola gerakan Creative Commons dan CCGN juga akan berupaya untuk memberikan [fasilitas](https://github.com/creativecommons/global-network-strategy/blob/master/GlobalNetworkStrategy-Final.md#hq-support-and-funding) seperti bantuan pendanaan atau publikasi penggalangan dana, serta segala infrastruktur seperti tempat untuk berkumpul dan acara untuk berkumpul bagi seluruh anggota gerakan Creative Commons dan CCGN. 
 
-
-
-
-https://github.com/creativecommons/global-network-strategy/blob/master/GlobalNetworkStrategy-Final.md#role-of-cc-hq-within-the-global-network
+CCGN baru dimulai, pada bulan April 2018 nanti di Creative Commons Globa Summit hasil lebih spesifik dari model jaringan ini akan dibagikan. Mari bergabung bersama kami, menuju berbagi memberdayakan!
