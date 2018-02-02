@@ -1,6 +1,19 @@
 ---
-title: Mari bergabung dalam Jaringan Global Creative Commons!
+title: Jaringan Global Creative Commons
 date: 2017-12-08 22:27:00 +07:00
+categories:
+- Berita
+tags:
+- Jaringan Global Creative Commons
+- Creative Commons
+- Creative Commons Global Network
+- CCGN
+- Organisasi Creative Commons
+- Lisensi Creative Commons
+- Afiliasi Creative Commons
+- Organisasi Nirlaba
+- Organisasi Internasional
+- Organisasi
 author: ccid
 img: 
 comments: true
@@ -56,6 +69,7 @@ CCGN merumuskan perbidangan dalam melaksanakan kegiatan yang berkaitan degan ger
 * [Copyright Reform](https://github.com/creativecommons/network-platforms/blob/master/copyright-reform.md)
 
 **Kelebihan-Kelebihan**
+
 
 
 
