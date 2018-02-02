@@ -23,8 +23,7 @@ img: "/uploads/1-2af56d.jpg"
 
 ![1-2af56d.jpg](/uploads/1-2af56d.jpg){: .img-responsive .center-block }{: width="500"}
 
-**
-Sertifikat Creative Commons**
+**Sertifikat Creative Commons**
 
 Creative Commons (CC) Certificates atau Sertifikat CC merupakan salah satu upaya jangkauan keluar CC Internasional dalam menyebarkan pengetahuan terkait lisensi CC. Proses ini terbuka bagi siapa saja yang berminat mendapatkan sertifikat keahlian ini dengan menempuh suatu proses sertifikasi. Upaya ini menerapkan sistem "pelatihan untuk pelatih" (''Training of Trainers'') dengan materi-materi pembelajaran berlisensi terbuka, yang memastikan bahwa proses sertifikasi dapat dijalankan di mana saja, dengan format yang berbeda-beda. Materi yang diajarkan diantara lain adalah tentang [keorganisasian CC, hak cipta dasar, dan pemahaman terkait CC sebagai alat pelisensian ciptaan](https://creativecommons.org/wp-content/uploads/2017/10/TOC-final.pdf). Pihak-pihak yang mendapatkan sertifikat ini nantinya diharapkan dapat menjadi ahli CC yang mampu berperan sebagai pelatih dalam setiap lokakarya atau sosialisasi tentang lisensi CC.
 
