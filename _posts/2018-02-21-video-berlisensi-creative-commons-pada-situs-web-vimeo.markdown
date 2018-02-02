@@ -1,11 +1,18 @@
 ---
 title: Video Berlisensi Creative Commons Pada Situs Web Vimeo
 date: 2018-02-21 17:00:00 +07:00
+published: false
 categories:
 - Kajian
 img: "/uploads/Vimeo_logo.png"
 Author: Fitriayu
 ---
+
+
+
+
+
+
 
 Vimeo, situs web yang didedikasikan bagi orang-orang kreatif di seluruh dunia. Melalui situs web ini Anda dapat mengunduh, membagikan, dan menonton video. Bahkan Anda juga dapat mengunggah video Anda dengan kualitas HD dan SD. Anda dapat membuat akun pada situs vimeo dan menggunakannya layaknya platform sosial media lainya.
 Bagi Anda yang sedang mencari video untuk kepentingan tertentu, situs web vimeo pilihan yang tepat. Karena terdapat fitur penyaringan yang dapat membantu Anda secara spesifik mengenai kategori video yang ingin Anda cari. Beberapa diantaranya yakni: jenis video, durasi video, berbayar atau bebas biaya dan juga penerapan lisensi pada video tersebut.
