@@ -5,9 +5,7 @@ date: 2018-02-02 19:27:00 +07:00
 
 Hingga awal tahun 2016 lalu, terhitung setidaknya terdapat 3,2 miliar ciptaan berlisensi CC di seluruh dunia. Dalam perkembangannya, penerapan-penerapan lisensi CC tersebut terbagi menjadi beberapa bidang pergerakan. Gerakan-gerakan berbasis keterbukaan ini antara lain:
 
-### 
-**
-1. Open Access to Research & Open Education**
+## **1. Open Access to Research & Open Education**
    Gerakan ini muncul karena tingginya biaya untuk mengakses atau mendapatkan pendidikan. Hal ini kemudian dirasa sebagai sebuah ketidakadilan bagi pihak-pihak yang paling membutuhkan, para pihak dari negara dunia ketiga misalnya, yang harus membayar biaya yang sama mahalnya dengan para pihak dari negara dunia pertama. Hak untuk mendapatkan ilmu pengetahuan pada hakekatnya merupakan milik semua orang. Batas-batas yang menyebabkan sulitnya ilmu pengetahuan untuk diakses berusaha untuk dikurangi oleh beberapa pihak seperti, Directory of Open Access Journal (DOAJ), Public Library of Science (PLOS), Open Educational Resources Commons (OER Commons) atau gerakan pendidikan terbuka di Indonesia seperti Universitas Terbuka. Kabar gembiranya, pada akhir tahun lalu Indonesia menempati urutan nomor 1 sebagai pengindeks karya ilmiah terbanyak di situs DOAJ, karena kini semakin banyak Universitas yang telah menerapkan prinsip Open Access pada setiap hasil penelitian.
 
 ### 2. Open Gallery, Library, Art, & Museum (GLAM) & Open Arts & Culture
