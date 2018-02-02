@@ -2,14 +2,13 @@
 title: "Panduan Mencari Gambar Berlisensi Creative Commons \nMelalui Mesin Pencari
   Gambar Google"
 date: 2018-02-16 17:30:00 +07:00
-published: false
 categories:
 - Kajian
 tags:
 - Google Image
 - Lisensi Creative Commons
 img: "/uploads/Google%20Gambar.png"
-author: Fitriayu
+author: fitri
 comments: true
 ---
 
