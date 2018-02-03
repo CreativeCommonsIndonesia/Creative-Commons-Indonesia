@@ -29,13 +29,11 @@ Angka total ciptaan berlisensi Creative Commons (lisensi CC) telah mencapai angk
 
 Kesadaran ini menjadi dasar perluasan model jaringan CC dengan model CCGN. CC mengundang Anda semua untuk bergabung dengan mengikuti pola-pola berikut:
 
-0. Memahami Kode Etik Anggota Jaringan Global Creative Commons
-
 Dengan menciptakan model jaringan yang lebih inklusif dan fleksibel, sebagai organisasi dengan bentuk "[Organisasi Amal](https://en.wikipedia.org/wiki/501(c)(3)_organization)" yang berfungsi sebagai pengelola gerakan, CC telah merumuskan kode etik bagi pihak-pihak yang tergabung sebagai anggota Jaringan Global Creative Commons. Kode etik ini adalah perjanjian yang mengikat seluruh anggota jaringan global ini untuk melaksanakan hak dan kewajibannya sebagai anggota. Kode etik ini juga berfungsi untuk mengatur pelaksanaan setiap kegiatan yang membawa nama Creative Commons supaya tidak menodai reputasi dan upaya kolaborasi Jaringan Global Creative Commons dalam mencapai tujuan-tujuannya. 
 
 [Dokumentasi lengkap mengenai Kode Etik Anggota Jaringan Global Creative Commons dapat Anda akses dengan mengklik teks ini](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md#codes-of-conduct).
 
-1. [Individual Member](https://network.creativecommons.org/sign-up/individual/) dan [Institutional Member](https://network.creativecommons.org/sign-up/institution/)
+*  [Individual Member](https://network.creativecommons.org/sign-up/individual/) dan [Institutional Member](https://network.creativecommons.org/sign-up/institution/)
 
 ![2-533f8a.jpg](/uploads/2-533f8a.jpg){: .img-responsive .center-block }{: width="500"}<center>
 
@@ -47,13 +45,13 @@ Maka dari itu pola yang diusulkan oleh Creative Commons ialah di setiap negara s
 
 [Anda dapat membaca cara mendaftarkan diri sebagai Institutional Member di CCGN dengan mengklik teks ini](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Guide_to_becoming_an_institutional_member.md).
 
-2. [Contributors](https://network.creativecommons.org/get-involved/)
+* [Contributors](https://network.creativecommons.org/get-involved/)
 
 ![Gabung.jpg](/uploads/Gabung.jpg){: .img-responsive .center-block }{: width="500"}<center>
 
 Contributors atau Kontributor yang dimaksudkan dalam konteks CCGN adalah setiap pihak, baik individu maupun institusi, yang menerapkan lisensi Creative Commons pada produk-produk dari kegiatannya. Dalam hal ini CCHQ memberikan panduan secara spesifik apa saja yang bisa dilakukan oleh kontributor untuk gerakan Creative Commons, seperti yang tertera pada gambar di atas. Kontributor dapat bergabung dalam komunitas gerakan Creative Commons dengan berlangganan [nawala terbitan CCHQ](https://creativecommons.org/newsletter) atau ikut serta dalam setiap diskusi di [kanal Slack gerakan Creative Commons](https://slack-signup.creativecommons.org/). Kemudian, kontributor juga berkesempatan untuk ikut secara langsung untuk mengelola gerakan keterbukaan sebagai koordinator dengan [mendaftarkan diri sebagai anggota individu atau anggota insititusi di CCGN](https://network.creativecommons.org/sign-up/). Hal-hal lain yang bisa disumbang oleh kontributor adalah ikut serta dalam pembangunan teknologi Creative Commons, mengadakan acara tentang gerakan keterbukaan secara umum atau lisensi CC secara khusus, dan berdonasi untuk gerakan Creative Commons.
 
-3. Anggota Dewan Sementara
+* Anggota Dewan Sementara
 
 Anggota Dewan Sementara terdiri dari orang-orang yang terlibat dalam penyusunan [Anggaran Dasar CCGN](https://network.creativecommons.org/charter/). Pihak-pihak ini berhak untuk menyetujui atau menolak individu atau institusi yang mendaftar untuk bergabung dengan CCGN. 
 
