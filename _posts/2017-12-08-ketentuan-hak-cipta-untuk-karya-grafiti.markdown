@@ -25,17 +25,17 @@ Sejak 17 Januari 2018 lalu Creative Commons Headquarter (CCHQ) meluncurkan secar
 
 **Sistem Keanggotaan Jaringan Global Creative Commons**
 
-Angka total ciptaan berlisensi CC telah mencapai angka [1 miliar](https://stateof.creativecommons.org/?lang=id) lebih ciptaan. Fungsi Creative Commons Internasional untuk lisensi CC sebagai organisasi mirip seperti Wikimedia Foundation untuk Wikipedia. Kekuatan terbesar Creative Commons sebenarnya bukan didapatkan dari organisasi utamanya atau afiliasi resmi di tiap negara, melainkan dari jumlah ciptaan berlisensi CC yang **dengan sukarela disumbang oleh para kontributor CC dari seluruh dunia**. CC tidak hanya berada di satu tempat atau milik satu pihak saja, **pada hakikatnya adala milik semua orang**. 
+Angka total ciptaan berlisensi Creative Commons (lisensi CC) telah mencapai angka [1 miliar](https://stateof.creativecommons.org/?lang=id) lebih ciptaan. Fungsi Creative Commons Internasional untuk lisensi CC sebagai organisasi mirip seperti [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Home) untuk Wikipedia. Kekuatan terbesar Creative Commons sebenarnya bukan didapatkan dari organisasi utamanya atau afiliasi resmi di tiap negara, melainkan dari jumlah ciptaan berlisensi CC yang **dengan sukarela disumbang oleh para kontributor CC dari seluruh dunia**. CC tidak hanya berada di satu tempat atau milik satu pihak saja, **pada hakikatnya adala milik semua orang**. 
 
 Kesadaran ini menjadi dasar perluasan model jaringan CC dengan model CCGN. CC mengundang Anda semua untuk bergabung dengan mengikuti pola-pola berikut:
 
 0. Memahami Kode Etik Anggota Jaringan Global Creative Commons
 
-Dengan menciptakan model jaringan yang lebih inklusif dan lentur, sebagai organisasi dengan bentuk "[Organisasi Amal](https://en.wikipedia.org/wiki/501(c)(3)_organization)" yang berfungsi sebagai pengelola gerakan, CC telah merumuskan kode etik bagi pihak-pihak yang tergabung sebagai anggota Jaringan Global Creative Commons. Kode etik ini adalah perjanjian yang mengikat seluruh anggota jaringan global ini untuk melaksanakan hak dan kewajibannya sebagai anggota. Kode etik ini juga berfungsi untuk mengatur pelaksanaan setiap kegiatan yang membawa nama Creative Commons supaya tidak menodai reputasi dan upaya kolaborasi Jaringan Global Creative Commons dalam mencapai tujuan-tujuannya. 
+Dengan menciptakan model jaringan yang lebih inklusif dan fleksibel, sebagai organisasi dengan bentuk "[Organisasi Amal](https://en.wikipedia.org/wiki/501(c)(3)_organization)" yang berfungsi sebagai pengelola gerakan, CC telah merumuskan kode etik bagi pihak-pihak yang tergabung sebagai anggota Jaringan Global Creative Commons. Kode etik ini adalah perjanjian yang mengikat seluruh anggota jaringan global ini untuk melaksanakan hak dan kewajibannya sebagai anggota. Kode etik ini juga berfungsi untuk mengatur pelaksanaan setiap kegiatan yang membawa nama Creative Commons supaya tidak menodai reputasi dan upaya kolaborasi Jaringan Global Creative Commons dalam mencapai tujuan-tujuannya. 
 
 [Dokumentasi lengkap mengenai Kode Etik Anggota Jaringan Global Creative Commons dapat Anda akses dengan mengklik teks ini](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Global_Network_Membership_Charter.md#codes-of-conduct).
 
-1. [Individual Member] (https://network.creativecommons.org/sign-up/individual/) dan [Institutional Member] (https://network.creativecommons.org/sign-up/institution/)
+1. [Individual Member](https://network.creativecommons.org/sign-up/individual/) dan [Institutional Member](https://network.creativecommons.org/sign-up/institution/)
 
 ![2-533f8a.jpg](/uploads/2-533f8a.jpg){: .img-responsive .center-block }{: width="500"}<center>
 
