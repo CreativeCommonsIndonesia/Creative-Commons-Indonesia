@@ -1,7 +1,6 @@
 ---
 title: 'CC Certificates: Saatnya Menjadi Ahli Lisensi CC Bersertifikat!'
 date: 2017-12-08 21:02:00 +07:00
-published: false
 categories:
 - Berita
 tags:
