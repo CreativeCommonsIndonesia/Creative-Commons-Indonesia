@@ -16,7 +16,7 @@ Tidak, seluruh rangkaian program ini bebas biaya.
 
 Tidak, program ini terbuka bagi peserta yang memiliki berbagai latar belakang dan disiplin ilmu atau keahlian yang memiliki minat pada bidang hak cipta dan lisensi terbuka, khususnya Creative Commons.
 
-* **Kapan saya bisa mendapatkan manfaat dari Training of Trainers ini? **
+* **Kapan saya bisa mendapatkan manfaat dari Training of Trainers ini?**
 
 Beasiswa sertifikasi Creative Commons akan diterima oleh peserta pada tahun 2018, namun proses sertifikasi akan dilaksanakan pada pertengahan tahun 2019.
 
@@ -40,7 +40,7 @@ Nilai terbaik dihasilkan dari akumulasi seluruh penilaian di tiap misi.
 
 Anda dapat menyampaikan hal tersebut ke ccidtot@wikimedia.or.id untuk tindaklanjut dari panitia.
 
-* **Apakah terdapat sistem gugur dalam tahap penyaringan? **
+* **Apakah terdapat sistem gugur dalam tahap penyaringan?**
 
 Sistem gugur diterapkan pada misi 1, 2, dan 3. 
 
@@ -74,11 +74,11 @@ Anda mendapatkan sertifikat ahli lisensi CC ketika Anda telah menyelesaikan pros
 
 Predikat tidak lulus hanya berlaku bagi peserta yang tidak mampu mengiktui program sertifikasi Creative Commons hingga selesai.
 
-* **Siapa yang menerbitkan sertifikat tersebut? **
+* **Siapa yang menerbitkan sertifikat tersebut?**
 
 Pihak penerbit sertifikat adalah Creative Commons Internasional.
 
-* **Apa yang bisa saya dapat dengan mengikuti Creative Commons Global Summit? **
+* **Apa yang bisa saya dapat dengan mengikuti Creative Commons Global Summit?**
 
 Creative Commons Global Summit adalah Konferensi Tingkat Tinggi Dunia yang dihadiri oleh para tokoh yang terlibat dalam gerakan keterbukaan dari seluruh dunia. Dengan menghadiri acara ini Anda mendapat kesempatan untuk bertemu langsung dengan tokoh-tokoh utama dalam gerakan keterbukaan global, serta membangun jaringan atau bahkan inisiatif kerja sama dengan tokoh dalam gerakan keterbukaan dari seluruh dunia.
 
