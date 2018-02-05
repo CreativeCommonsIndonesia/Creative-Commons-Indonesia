@@ -92,8 +92,36 @@ Ya, 3 peserta dengan nilai terbaik dari 15 peserta penerima beasiswa sertifikasi
 
 **Glosarium**
 
-* Sosialisasi
-Adalah upaya organisasi Creative Commons untuk menyebarkan pengetahuan tentang lisensi Cretaive Commons baik secara daring maupun luring.
+* **Sosialisasi** adalah upaya organisasi Creative Commons untuk menyebarkan pengetahuan tentang lisensi Cretaive Commons baik secara daring maupun luring.
 
+* **Lokakarya** adalah bagian dari sosialisasi oleh Creative Commons dengan mengadakan pelatihan tentang lisensi Creative Commons secara tatap muka.
+
+* **Lisensi terbuka** adalah alat berupa pemberitahuan hak cipta yang menerapkan prinsip keterbukaan yang paling tidak mengizinkan pengguna ciptaan untuk menggandakan dan menyebarluaskan ciptaan dengan lisensi tersebut.
+
+* **Creative Commons** adalah organisasi nirlaba yang didirikan di Amerika Serikat dan berkantor pusat di Kanada dengan fokus pada gerakan keterbukaan.
+
+* **Lisensi Creative Commons** adalah alat berupa pemberitahuan hak cipta dengan prinsip keterbukaan yang diciptakan oleh organisasi Creative Commons.
+
+* **Creative Commons Indonesia** adalah afiliasi atau bagian dari jaringan global organisasi Creative Commons yang ada di Indonesia.
+
+* **Pelatih/Ahli Creative Commons** adalah 15 orang yang berhasil lulus dari 3 tahap penyaringan CCID ToT dan nantinya juga lulus dari program sertifikasi Creative Commons.
+
+* **Perwakilan** adalah 15 orang yang berhasil lulus dari 3 tahap penyaringan CCID ToT serta lulus dari program sertifikasi Creative Commons dan menjadi perwakila CCID yang berfungsi sebagai pelatih atau ahli lisensi Creative Commons di daerahnya.
+
+* **Kontak Resmi** adalah salah satu dari banyak ahli lisensi Creative Commons yang diakui dan terdaftar sebagai pelatih di situs web organisasi Creative Commons.
+
+* **Peserta** adalah pihak yang mengikuti setiap tahap penyaringan atau misi di perhelatan Training of Trainers Creative Commons Indonesia.
+
+* **Penyaringan** adalah tahap yang harus dilalui oleh para peserta untuk mendapatkan keuntungan-keuntungan yang ditawarkan oleh program Training of Trainers Creative Commons Indonesia.
+
+* **Misi** adalah tugas-tugas yang diberikan kepada peserta di setiap tahap penyaringan.
+
+* **Sertifikasi** adalah proses yang harus dilalui peserta, yaitu 15 peserta penerima beasiswa sertifikasi Creative Commons untuk mendapatkan sertifikat ahli Creative Commons pada tahun 2019.
+
+* **Beasiswa Sertifikasi** adalah biaya yang ditanggung oleh Creative Commons Indonesia untuk 15 penerima beasiswa sertifikasi Creative Commons.
+
+* **Nilai Terbaik** adalah nilai total tiap peserta dari masing-masing misi yang dituntaskan. 
+
+* **Creative Commons Global Summit** adalah acara tahunan yang diselenggarakan oleh organisasi Creative Commons di Toronto, Kanada, selama 3 hari.
 
 Apabila terdapat informasi yang belum tercantum di laman ini dan ingin Anda tanyakan silakan hubungi ccidtot@wikimedia.or.id
