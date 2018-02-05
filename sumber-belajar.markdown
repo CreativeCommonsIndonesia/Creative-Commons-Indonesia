@@ -43,11 +43,10 @@ Kabar-kabar dari gerakan-gerakan keterbukaan ini membuktikan bahwa gerakan keter
 
 **Selain sumber-sumber di atas**, peserta dapat menggunakan sumber-sumber berikut untuk menunjang penyelesaian:
 
-* Pranala buku budaya bebas Lawrence Lessig;
-* Teks lisensi ringkas Creative Commons dalam Bahasa Indonesia;
-* Teks lisensi lengkap Creative Commons dalam Bahasa Indonesia;
-* Buku “Konten Terbuka - Panduan Praktis Penggunaan Lisensi Creative Commons” dalam Bahasa Indonesia; (Direkomendasikan)
-* Berkas Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta; (Direkomendasikan)
-* Artikel tentang lisensi Creative Commons dalam Bahasa Indonesia;
-* Infografis Hak Cipta oleh Hariadhi;
-* Infografis Creative Commons oleh Creative Commons Indonesia;
+* [Pranala buku budaya bebas Lawrence Lessig oleh Kunci Cultural Studies](http://kunci.or.id/collections/buku-lawrence-lessig-budaya-bebas/);
+* [Teks lisensi Creative Commons dalam Bahasa Indonesia](http://creativecommons.or.id/lisensi-cc-bahasa-indonesia/);
+* [Buku “Konten Terbuka - Panduan Praktis Penggunaan Lisensi Creative Commons” dalam Bahasa Indonesia](https://commons.wikimedia.org/wiki/File:Konten_Terbuka_%E2%80%93_Pedoman_Praktis_Penggunaan_Lisensi_Creative_Commons.pdf); (**Direkomendasikan**)
+* [Berkas Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta](https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_28_Tahun_2014); (**Direkomendasikan**)
+* [Artikel kajian tentang lisensi Creative Commons dalam Bahasa Indonesia](http://creativecommons.or.id/kajian/);
+* [Infografis Hak Cipta oleh Hariadhi](https://commons.wikimedia.org/wiki/File:Infografis-Hak-Cipta-7-Agustus-2015.jpg);
+* [Infografis Creative Commons oleh Hilman Fathoni](https://www.flickr.com/photos/155583491@N05/39672654281/in/dateposted-public/);
