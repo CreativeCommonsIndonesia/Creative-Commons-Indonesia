@@ -1,5 +1,6 @@
 ---
 title: PERTANYAAN UMUM DAN GLOSARIUM
 date: 2018-02-05 20:16:00 +07:00
+layout: post
 ---
 
