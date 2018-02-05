@@ -6,5 +6,5 @@ layout: post
 
 ![ToT-17012018-01.jpg](/uploads/ToT-17012018-01.jpg){: .img-responsive .center-block }{: width="300"}
 
-<img style="float: left;" src="/uploads/Tentang%202.jpg" class="img-responsive" width="200"><img style="float: left;" src="/uploads/Ketentuan%20Pelaksanaan.jpg" class="img-responsive" width="200"><img style="float: left;" src="/uploads/Sumber%20Belajar.jpg" class="img-responsive" width="200">
+<img style="float: left;" src="/uploads/Tentang%202.jpg" class="img-responsive" width="200"><img style="float: left;" src="/uploads/Ketentuan%20Pelaksanaan.jpg" class="img-responsive" width="200"><img style="float: left;" src="/uploads/Sumber%20Belajar.jpg" class="img-responsive" width="200"><img style="float: left;" src="/uploads/Pertanyaan%20Umum%20dan%20Glosarium.jpg" class="img-responsive" width="200">
 
