@@ -1,6 +1,7 @@
 ---
 title: Terima Kasih Sudah Mendaftar!
 date: 2018-02-05 22:11:00 +07:00
+layout: post
 ---
 
 ![Header Web.jpg](/uploads/Header%20Web.jpg){: .img-responsive .center-block }{: width="500"}
