@@ -13,7 +13,7 @@ Tahap penyaringan terdiri dari 3 misi, yaitu:
 * Peserta mendaftarkan diri dengan mengisi Formulir Pendaftaran;
 * Peserta akan mendapatkan pemberitahuan terkait Misi 1 dari panitia maksimum 1x24 jam setelah  mendaftar.
 
-Misi 1
+**Misi 1**
 * Pemberitahuan terkait Misi 1 dari panitia berupa pranala (link) untuk mengakses aplikasi kuis daring Class Marker;
 * Setiap peserta akan menerima soal yang berbeda;
 * Kuis daring terdiri dari 25 soal;
@@ -27,5 +27,5 @@ Misi 1
 **Misi 2**
 Peserta yang lulus dari Misi 1 akan mendapatkan pemberitahuan terkait Misi 2 dari panitia selambat-lambatnya 2x24 jam setelah tenggat Misi 1.
 
-**Misi 3 **
+**Misi 3**
 Peserta yang lulus dari Misi 1 akan mendapatkan pemberitahuan terkait Misi 2 dari panitia pada tanggal 30 April 2018.
