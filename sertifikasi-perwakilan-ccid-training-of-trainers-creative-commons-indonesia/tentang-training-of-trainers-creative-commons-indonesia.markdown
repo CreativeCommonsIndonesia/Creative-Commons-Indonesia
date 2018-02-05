@@ -29,7 +29,7 @@ Dalam melaksanakan lokakarya tatap muka yang ideal, CCID dihadapkan dengan beber
 
 Sebagai solusi atas hal tersebut, CCID mengadakan Program “**Training of Trainers Creative Commons Indonesia**”.
 
-Melalui program ini CCID akan** menyaring sumber daya-sumber daya terbaik yang mewakili daerah-daerah di Indonesia, secara daring dan luring**.
+Melalui program ini CCID akan **menyaring sumber daya-sumber daya terbaik yang mewakili daerah-daerah di Indonesia, secara daring dan luring**.
 
 Penyaringan diperlukan untuk **mendapatkan perwakilan terbaik yang nantinya akan menjadi pelatih bersertifikat dalam setiap lokakarya tatap muka di setiap daerah**.
 
