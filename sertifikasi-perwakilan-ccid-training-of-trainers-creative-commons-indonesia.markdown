@@ -8,4 +8,4 @@ layout: post
 
 ![ToT-17012018-01.jpg](/uploads/ToT-17012018-01.jpg){: .img-responsive .center-block }{: width="500"}
 
-<a href="https://freeonlinesurveys.com/s/cAvWBW99">![ToT-17012018-01.jpg](/uploads/ToT-17012018-01.jpg){: .img-responsive .center-block }{: width="500"}
+<a href="https://freeonlinesurveys.com/s/cAvWBW99">![ToT-17012018-01.jpg](/uploads/daftar.jpg){: .img-responsive .center-block }{: width="500"}
