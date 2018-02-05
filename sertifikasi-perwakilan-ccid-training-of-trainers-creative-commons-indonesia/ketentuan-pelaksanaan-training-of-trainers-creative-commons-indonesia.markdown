@@ -28,4 +28,4 @@ Tahap penyaringan terdiri dari 3 misi, yaitu:
 Peserta yang lulus dari Misi 1 akan mendapatkan pemberitahuan terkait Misi 2 dari panitia selambat-lambatnya 2x24 jam setelah tenggat Misi 1.
 
 **Misi 3**
-Peserta yang lulus dari Misi 1 akan mendapatkan pemberitahuan terkait Misi 2 dari panitia pada tanggal 30 April 2018.
+Peserta yang lulus dari Misi 1 akan mendapatkan pemberitahuan terkait Misi 2 dari panitia selambat-lambatnya 2x24 jam setelah tenggat Misi 2.
