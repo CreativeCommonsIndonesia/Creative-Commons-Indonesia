@@ -8,22 +8,22 @@ layout: post
 
 Creative Commons (CC) adalah organisasi nirlaba yang berpusat di Mountain View, Canada, dengan jaringan global yang tersebar di lebih dari 100 negara. Creative Commons Indonesia (CCID) adalah salah satu bagian dari jaringan global CC yang ada di Indonesia. 
 
-![1-009747.jpg](/uploads/1-009747.jpg){: .img-responsive .center-block }{: width="300"}
+![1-009747.jpg](/uploads/1-009747.jpg){: .img-responsive .center-block }{: width="500"}
 
 Kegiatan kami ialah melakukan serangkaian upaya untuk meningkatkan jumlah ciptaan yang dapat dengan mudah dimanfaatkan kembali oleh pengguna ciptaan secara legal. Upaya tersebut didukung dengan penyediaan seperangkat lisensi terbuka bernama lisensi Creative Commons (lisensi CC) yang dapat diterapkan pencipta atau pemegang hak cipta kepada ciptaannya untuk membuka akses terhadap ciptaannya sambil tetap mempertahankan hak atas ciptaannya (Some Rights Reserved). Upaya ini dilaksanakan karena melihat bagaimana ketentuan dalam regulasi hak cipta semakin membatasi pengguna ciptaan, tanpa memperhatikan asas keseimbangan. Keseimbangan yang dimaksud ialah bagaimana peraturan seharusnya memberikan ruang keterbukaan akses terhadap ciptaan yang disediakan oleh teknologi terkini. Termasuk, bagaimana nilai kemanfaatan ciptaan dapat dirasakan lebih lanjut lagi oleh publik.
 Karena, ketika lisensi ini diterapkan pada suatu ciptaan, pengguna ciptaan paling tidak dapat menggandakan (mengunduh) dan menyebarluaskan kembali ciptaan tanpa izin langsung dari pencipta. Sesuatu yang tidak dimungkinkan apabila prinsip yang dianut adalah prinsip hak cipta konvensional (All Rights Reserved).
 
 **PENERAPAN LISENSI CREATIVE COMMONS**
 
-![creative-commons.jpg](/uploads/creative-commons.jpg){: .img-responsive .center-block }{: width="300"}
+![creative-commons.jpg](/uploads/creative-commons.jpg){: .img-responsive .center-block }{: width="500"}
 
 Dasar berlaku lisensi CC adalah Angka 20 Ketentuan Umum Undang-Undang Hak Cipta Tahun 2014 (UUHC 2014). Secara teknis, lisensi CC memiliki fungsi yang sama dengan sistem lisensi pada umumnya yaitu sebagai pemberitahuan tertulis. Pemberitahuan ini merupakan lisensi publik, yang diterapkan dengan menempelkan suatu tanda dalam bentuk piktogram dan teks pada ciptaan. Tanda tersebut dimaksudkan sebagai penjelasan sederhana tentang apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap ciptaan. Penjelasan sederhana ini juga dimaksudkan sebagai pengganti biaya konsultasi hukum yang mahal.
 
-![license meter.jpg](/uploads/license%20meter.jpg){: .img-responsive .center-block }{: width="300"}
+![license meter.jpg](/uploads/license%20meter.jpg){: .img-responsive .center-block }{: width="500"}
 
 Lisensi ini terdiri dari 4 spektrum (lihat gambar sebelumnya) yang kemudian dapat dirangkai menjadi 6 pilihan lisensi seperti gambar di atas. Setiap spektrum menjadi ketentuan tambahan selain kewajiban Atribusi, yaitu penyebutan sumber dan nama pencipta dalam setiap penggunaan ciptaan. Apabila ciptaan menerapkan lisensi dengan ketentuan NonKomersial, maka segala penggunaan untuk kepentingan komersial tidak diperbolehkan. Lalu, jika ciptaan menerapkan lisensi dengan ketentuan TanpaTurunan, maka segala pengubahan, penggubahan, dan pembuatan ciptaan turunan dari ciptaan tersebut tidak diperbolehkan.
 
-![projects.jpg](/uploads/projects.jpg){: .img-responsive .center-block }{: width="300"}
+![projects.jpg](/uploads/projects.jpg){: .img-responsive .center-block }{: width="500"}
 
 Hingga awal tahun 2016 lalu, terhitung setidaknya terdapat 3,2 miliar ciptaan berlisensi CC di seluruh dunia. Dalam perkembangannya, penerapan-penerapan lisensi CC tersebut terbagi menjadi beberapa bidang pergerakan. Gerakan-gerakan berbasis keterbukaan ini antara lain:
 
