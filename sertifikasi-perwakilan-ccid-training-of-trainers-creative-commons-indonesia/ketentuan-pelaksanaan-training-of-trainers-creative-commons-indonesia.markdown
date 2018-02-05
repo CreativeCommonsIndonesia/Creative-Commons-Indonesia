@@ -53,3 +53,9 @@ Peserta yang lulus dari Misi 1 akan mendapatkan pemberitahuan terkait Misi 2 dar
 
 **Misi 3**
 Peserta yang lulus dari Misi 1 akan mendapatkan pemberitahuan terkait Misi 2 dari panitia selambat-lambatnya 2x24 jam setelah tenggat Misi 2.
+
+**Keuntungan**
+
+* 15 paket beasiswa sertifikasi ahli lisensi Creative Commons dengan nilai total 30 juta rupiah;
+* Menjadi salah satu kontak resmi untuk lokakarya lisensi Creative Commons di situs web Creative Commons International;
+* Kesempatan berangkat ke Kanada dan mengikuti Creative Commons Global Summit 2019 untuk 3 orang selama 3 hari untuk peserta dengan nilai terbaik dari 15 peserta penerima beasiswa sertifikasi.
