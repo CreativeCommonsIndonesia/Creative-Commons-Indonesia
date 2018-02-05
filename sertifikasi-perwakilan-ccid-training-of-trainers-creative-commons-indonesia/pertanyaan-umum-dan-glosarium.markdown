@@ -93,6 +93,7 @@ Ya, 3 peserta dengan nilai terbaik dari 15 peserta penerima beasiswa sertifikasi
 **Glosarium**
 
 * Sosialisasi
+Adalah upaya organisasi Creative Commons untuk menyebarkan pengetahuan tentang lisensi Cretaive Commons baik secara daring maupun luring.
 
 
 Apabila terdapat informasi yang belum tercantum di laman ini dan ingin Anda tanyakan silakan hubungi ccidtot@wikimedia.or.id
