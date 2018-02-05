@@ -15,7 +15,7 @@ tags:
 - Organisasi Internasional
 - Organisasi
 author: ccid
-img: 
+img: "/uploads/34000735990_7326d4dc69_b.jpg"
 comments: true
 ---
 
