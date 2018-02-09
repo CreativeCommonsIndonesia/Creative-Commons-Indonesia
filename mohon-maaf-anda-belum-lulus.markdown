@@ -8,7 +8,7 @@ layout: post
 
 Bagaimana caranya?
 
-Kirim surel ke** ccidtot@wikimedia.or.id** dengan format sebagai berikut:
+Kirim surel ke **ccidtot@wikimedia.or.id** dengan format sebagai berikut:
 
 ```
 Subyek surel: [CCIDTOT - ULANG - NAMA LENGKAP PESERTA]
