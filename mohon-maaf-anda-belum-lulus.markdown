@@ -10,16 +10,14 @@ Bagaimana caranya?
 
 Kirim surel ke **ccidtot@wikimedia.or.id** dengan format sebagai berikut:
 
-```
-Subyek surel: [CCIDTOT - ULANG - NAMA LENGKAP PESERTA]
-
-Halo nama saya [NAMA LENGKAP PESERTA], 
-
-Melalui surel ini saya hendak mengajukan permohonan mengulang MISI 1 Training of Trainers Creative Commons Indonesia sebanyak 1 kali kepada panitia CCID ToT. 
-
-Terima Kasih. 
-Salam
-```
+    Subyek surel: [CCIDTOT - ULANG - NAMA LENGKAP PESERTA]
+    
+    Halo nama saya [NAMA LENGKAP PESERTA], 
+    
+    Melalui surel ini saya hendak mengajukan permohonan mengulang MISI 1 Training of Trainers Creative Commons Indonesia sebanyak 1 kali kepada panitia CCID ToT. 
+    
+    Terima Kasih. 
+    Salam
 
 Panitia akan merespon permohonan mengulang Misi 1 paling lambat 2x24 setelah permohonan diajukan.
 
@@ -33,6 +31,5 @@ Peserta akan mendapatkan balasan berupa pranala khusus untuk mengulang Misi 1.
 * **Peserta yang tertangkap berupaya melakukan kecurangan dalam misi ini akan langsung didiskualifikasi.**
 
 Salam,
-
 
 Creative Commons Indonesia
