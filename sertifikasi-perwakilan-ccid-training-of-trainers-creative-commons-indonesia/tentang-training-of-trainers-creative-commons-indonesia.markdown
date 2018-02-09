@@ -20,7 +20,7 @@ Meskipun begitu, tidak dapat dipungkiri bahwa lokakarya tatap muka tetap menjadi
 
 **Training of Trainers Creative Commons Indonesia**
 
-![Header Web.jpg](/uploads/Header%20Web.jpg){: .img-responsive .center-block }{: width="500"}
+![Header Web FINAL.jpg](/uploads/Header%20Web%20FINAL.jpg){: .img-responsive .center-block }{: width="500"}
 
 Dalam melaksanakan lokakarya tatap muka yang ideal, CCID dihadapkan dengan beberapa tantangan seperti:
 
