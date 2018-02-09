@@ -4,32 +4,28 @@ date: 2018-01-26 15:29:00 +07:00
 layout: post
 ---
 
-Anda mendapatkan satu kali lagi untuk mengulang Misi 1. 
+### Jangan khawatir,  Anda mendapatkan satu kali lagi kesempatan untuk mengulang Misi 1 . Silakan  manfaatkan peluang ini sebaik-baiknya dengan membaca [sumber-sumber belajar](http://http://creativecommons.or.id/sertifikasi-perwakilan-ccid-training-of-trainers-creative-commons-indonesia/sumber-belajar/) yang telah kami sediakan.
 
-**INGAT! **
+Bagaimana caranya?
 
-**Upaya-upaya untuk mengulang lebih dari satu kali dapat diketahui oleh panitia, karena seluruh data peserta telah direkam oleh aplikasi ClassMarker untuk menghindari adanya kecurangan.**
+Kirim surel ke ccidtot@wikimedia.or.id dengan format sebagai berikut:
 
-**Peserta yang ketahuan berupaya melakukan kecurangan dalam misi ini akan langsung didiskualifikasi.**
-
-Silakan ikuti langkah berikut untuk mendapatkan kesempatan mengulang dari panitia:
-a. Kirim surel ke ccidtot@wikimedia.or.id dengan format sebagai berikut:
-
-Subyek surel: [CCIDTOT - ULANGM1 - NAMA LENGKAP PESERTA]
+`Subyek surel: [CCIDTOT - ULANG - NAMA LENGKAP PESERTA]`
 
 Isi surel:
 
-**Halo nama saya [NAMA LENGKAP PESERTA],**
+`Halo nama saya [NAMA LENGKAP PESERTA],                             Melalui surel ini saya hendak mengajukan permohonan mengulang MISI 1 Training of Trainers Creative Commons Indonesia sebanyak 1 kali kepada panitia CCID ToT.                                                                                                                                                 Terima Kasih.                                                                  Salam`
 
-**Melalui surel ini saya hendak mengajukan permohonan mengulang MISI 1 Training of Trainers Creative Commons Indonesia sebanyak 1 kali kepada panitia CCID ToT.**
+Panitia akan merespon permohonan mengulang Misi 1 paling lambat 2x24 setelah permohonan diajukan. 
 
-**Terima kasih.**
+Peserta akan mendapatkan balasan berupa pranala khusus untuk mengulang Misi 1.
 
-**Salam,**
+CATATAN:
 
-c. Peserta akan menerima balasan berupa pranala khusus untuk mengulang MISI 1 bagi peserta yang mengajukan permohonan mengulang paling lambat 2x24 jam setelah permohonan diterima oleh panitia CCID ToT.
+* **Upaya-upaya untuk mengulang lebih dari satu kali dapat diketahui oleh panitia, karena seluruh data peserta telah direkam oleh aplikasi ClassMarker untuk menghindari adanya kecurangan.**
 
-d. Manfaatkan peluang untuk mengulang sebaik-baiknya, dan jangan lupa untuk memanfaatkan sumber-sumber belajar yang telah kami sediakan.
+
+* **Peserta yang tertangkap berupaya melakukan kecurangan dalam misi ini akan langsung didiskualifikasi.**
 
 Salam,
 Creative Commons Indonesia
