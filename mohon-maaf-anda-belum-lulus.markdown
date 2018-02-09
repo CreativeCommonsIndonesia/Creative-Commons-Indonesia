@@ -14,6 +14,7 @@ Kirim surel ke** ccidtot@wikimedia.or.id** dengan format sebagai berikut:
 Subyek surel: [CCIDTOT - ULANG - NAMA LENGKAP PESERTA]
 
 Halo nama saya [NAMA LENGKAP PESERTA], 
+
 Melalui surel ini saya hendak mengajukan permohonan mengulang MISI 1 Training of Trainers Creative Commons Indonesia sebanyak 1 kali kepada panitia CCID ToT. 
 
 Terima Kasih. 
