@@ -50,3 +50,5 @@ Kabar-kabar dari gerakan-gerakan keterbukaan ini membuktikan bahwa gerakan keter
 * [Artikel kajian tentang lisensi Creative Commons dalam Bahasa Indonesia](http://creativecommons.or.id/kajian/);
 * [Infografis Hak Cipta oleh Hariadhi](https://commons.wikimedia.org/wiki/File:Infografis-Hak-Cipta-7-Agustus-2015.jpg);
 * [Infografis Creative Commons oleh Hilman Fathoni](https://www.flickr.com/photos/155583491@N05/39672654281/in/dateposted-public/);
+* [Materi presentasi Lokakarya Lisensi Creative Commons](https://www.slideshare.net/CreativeCommonsIndonesia/edit_my_uploads)
+* [Laman FAQ Creative Commons dalam Bahasa Indonesia](http://creativecommons.or.id/faq/)
