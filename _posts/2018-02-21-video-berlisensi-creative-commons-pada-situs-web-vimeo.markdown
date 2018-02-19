@@ -8,12 +8,6 @@ img: "/uploads/Vimeo_logo.png"
 Author: Fitriayu
 ---
 
-
-
-
-
-
-
 Vimeo, situs web yang didedikasikan bagi orang-orang kreatif di seluruh dunia. Melalui situs web ini Anda dapat mengunduh, membagikan, dan menonton video. Bahkan Anda juga dapat mengunggah video Anda dengan kualitas HD dan SD. Anda dapat membuat akun pada situs vimeo dan menggunakannya layaknya platform sosial media lainya.
 Bagi Anda yang sedang mencari video untuk kepentingan tertentu, situs web vimeo pilihan yang tepat. Karena terdapat fitur penyaringan yang dapat membantu Anda secara spesifik mengenai kategori video yang ingin Anda cari. Beberapa diantaranya yakni: jenis video, durasi video, berbayar atau bebas biaya dan juga penerapan lisensi pada video tersebut.
 
@@ -70,6 +64,20 @@ Dengan catatan:
 * NonKomersial: Anda tidak dapat menggunakan ciptaan untuk kepentingan komersial.
 
 * TanpaTurunan: Apabila Anda menggubah,mengubah, atau membuat turunan dari ciptaan ini, Anda tidak boleh menyebarluaskan ciptaan yang telah dimodifikasi.
+
+**Lisensi Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id))**
+
+![CC%20by.png](/uploads/CC%20by.png){: .img-responsive .center-block }{: width="100"}
+
+Anda diizinkan:
+
+* Berbagi: menyalin dan menyebarluaskan kembali ciptaan ini dalam bentuk atau format apapun.
+
+* Adaptasi: menggubah, mengubah, dan membuat ciptaan turunan dari suatu ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
+
+Dengan catatan:
+
+* Atribusi: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisesni mendukung Anda atau penggunaan Anda.
 
 **Lisensi Creative Commons Atribusi-BerbagiSerupa ([CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/deed.id))**
 ![by-sa-e15bba.png](/uploads/by-sa-e15bba.png){: .img-responsive .center-block }{: width="100"}
