@@ -1,7 +1,7 @@
 ---
 title: "Langkah-Langkah Pencarian Foto Berlisensi Creative Commons \nPada Situs Web
   500px"
-date: 2018-02-16 17:00:00 +07:00
+date: 2018-02-19 17:00:00 +07:00
 categories:
 - Kajian
 img: uploads/500px_logo_2016.svg
@@ -20,7 +20,7 @@ Lain halnya jika lisensi Creative Commons (CC) diterapkan pada foto. Anda tidak 
 Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi dalam format yang sesuai dengan tempat ciptaan dibagikan, tanpa memberikan tambahan pernyataan dukungan dari pencipta terkait penggunaan ciptaan tersebut.
 
 <img style="float: left;" src="/uploads/SA.png" class="img-responsive" width="20">**BerbagiSerupa (SA)**
-Spektrum ini hanya berlaku ketika ciptaan mengubah, menggubah, atau membuat turunan dari ciptaan. Setiap perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
+Spektrum ini hanya berlaku ketika ciptaan diubah, digubah, atau dibuat turunan dari ciptaan. Setiap perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
 
 <img style="float: left;" src="/uploads/NC.png" class="img-responsive" width="20">**NonKomersial (NC)**
 Spektrum ini melarang pengguna ciptaan untuk menggunakan ciptaan untuk kepentingan komersial apapun.
