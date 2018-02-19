@@ -14,9 +14,9 @@ comments: true
 
 ![Google Gambar.png](/uploads/Google%20Gambar.png){: .img-responsive .center-block }{: width="300"}
 
-Aktivitas mencari dan menggunakan gambar secara daring, khususnya melalui alat pencari gambar Google, perlu dibekali dengan pengetahuan tentang hak penggunaan setiap gambar yang ditemukan. 
+Aktivitas mencari dan menggunakan gambar secara daring, khususnya melalui alat pencari gambar Google, perlu dibekali dengan pengetahuan tentang hak penggunaan setiap gambar yang ditemukan.
 
-Pengetahuan tersebut bermanfaat untuk menjawab pertanyaan seperti: 
+Pengetahuan tersebut bermanfaat untuk menjawab pertanyaan seperti:
 
 **Apakah gambar yang tersedia dapat digunakan secara langsung tanpa meminta izin?**
 
@@ -24,9 +24,9 @@ Pengetahuan tersebut bermanfaat untuk menjawab pertanyaan seperti:
 
 **Dapatkah gambar-gambar tersebut diubah dan digubah?**
 
-Dengan memanfaatkan alat penyaring “Hak Penggunaan” di mesin pencari gambar Google, pengguna gambar dapat mengetahui apa yang boleh dan tidak boleh dilakukan terhadap gambar yang ditemukan. Alat penyaring ini membantu Anda untuk menemukan gambar-gambar berlisensi terbuka yang tersedia di situs web penyimpanan gambar seperti Wikimedia Commons, Flickr, maupun Pixabay. Namun, perlu diingat bahwa gambar-gambar berlisensi terbuka bukan berarti tanpa hak cipta. Untuk mengetahui lebih lanjut mengenai hak penggunaan gambar yang diberikan, Anda dapat mengunjungi situs web-situs web tersebut dan membaca ketentuan lisensi terbuka yang diterapkan. Gambar-gambar yang muncul biasanya merupakan gambar berlisensi Creative Commons dengan ketentuan yang berbeda-beda. Yang artinya, paling tidak Anda dapat menggandakan (mengunduh) dan menyebarkan kembali gambar tersebut, tanpa izin langsung pencipta.  
+Dengan memanfaatkan alat penyaring “Hak Penggunaan” di mesin pencari gambar Google, pengguna gambar dapat mengetahui apa yang boleh dan tidak boleh dilakukan terhadap gambar yang ditemukan. Alat penyaring ini membantu Anda untuk menemukan gambar-gambar berlisensi terbuka yang tersedia di situs web penyimpanan gambar seperti Wikimedia Commons, Flickr, maupun Pixabay. Namun, perlu diingat bahwa gambar-gambar berlisensi terbuka bukan berarti tanpa hak cipta. Untuk mengetahui lebih lanjut mengenai hak penggunaan gambar yang diberikan, Anda dapat mengunjungi situs web-situs web tersebut dan membaca ketentuan lisensi terbuka yang diterapkan. Gambar-gambar yang muncul biasanya merupakan gambar berlisensi Creative Commons dengan ketentuan yang berbeda-beda. Yang artinya, paling tidak Anda dapat menggandakan (mengunduh) dan menyebarkan kembali gambar tersebut, tanpa izin langsung pencipta.
 
-Artikel ini akan memandu Anda untuk mencari gambar berlisensi Creative Commons melalui mesin pencari Google dengan memanfaatkan alat penyaring “Hak Penggunaan”. 
+Artikel ini akan memandu Anda untuk mencari gambar berlisensi Creative Commons melalui mesin pencari Google dengan memanfaatkan alat penyaring “Hak Penggunaan”.
 Berikut panduannya dalam lima tahap:
 
 **#1.** Masuk ke laman mesin pencarian [gambar Google](http://images.google.com). Lalu, masukan kata kunci gambar yang hendak Anda cari, misalnya kata kunci “Macau”: Kemudian klik “alat” (terletak di bawah ikon kaca pembesar), untuk menemukan fitur alat penyaring  “Hak Penggunaan”.
@@ -34,19 +34,24 @@ Berikut panduannya dalam lima tahap:
 ![foto 1.png](/uploads/foto%201.png){: .img-responsive .center-block }{: width="500"}
 
 **#2**. Alat tersebut akan memberikan Anda pilihan sebagai berikut:
+
 * Tidak difilter menurut lisensi;
-* Dilabeli untuk digunakan ulang dengan modifikasi; 
+
+* Dilabeli untuk digunakan ulang dengan modifikasi;
+
 * Dilabeli untuk digunakan ulang;
+
 * Dilabeli untuk digunakan ulang secara non-komersial dengan modifikasi;
+
 * Dilabeli untuk digunakan ulang secara non-komersial.
 
 ![foto 2.png](/uploads/foto%202.png){: .img-responsive .center-block }{: width="500"}
 
-Berikut penjelasan masing-masing “Hak Penggunaan” yang tersedia: 
+Berikut penjelasan masing-masing “Hak Penggunaan” yang tersedia:
 
 **Bebas digunakan ulang**: Memungkinkan Anda untuk menggandakan atau menyebarkan kembali gambar, namun tidak untuk mengubah dan menggubahnya.
 
-**Bebas digunakan ulang dengan modifikasi**: Memungkinkan Anda untuk menggandakan dan menyebarkan kembali, sekaligus mengubah dan menggubah gambar yang ditampilkan. 
+**Bebas digunakan ulang dengan modifikasi**: Memungkinkan Anda untuk menggandakan dan menyebarkan kembali, sekaligus mengubah dan menggubah gambar yang ditampilkan.
 
 **Secara non-komersial**: Ciptaan yang menerapkan ketentuan ini tidak dapat Anda gunakan dalam aktivitas komersial.
 
@@ -56,7 +61,7 @@ Berikut penjelasan masing-masing “Hak Penggunaan” yang tersedia:
 
 ![foto 3.png](/uploads/foto%203.png){: .img-responsive .center-block }{: width="500"}
 
-Contoh di atas merupakan hasil pencarian dengan kata kunci “Macau”, yang ketentuan “Hak Penggunaanya” adalah digunakan ulang dengan modifikasi. 
+Contoh di atas merupakan hasil pencarian dengan kata kunci “Macau”, yang ketentuan “Hak Penggunaanya” adalah digunakan ulang dengan modifikasi.
 
 Seperti yang Anda lihat pada keterangan di atas, gambar ini berasal dari Wikimedia Commons.
 
@@ -72,14 +77,16 @@ Jika tautan lisensi “[Creative Commons Attribution 2.0 Generic](http://creativ
 
 ![CC-BY.png](/uploads/CC-BY.png){: .img-responsive .center-block }{: width="500"}
 
-
 Isi ketentuannya adalah:
 
 Anda diizinkan:
+
 * **Berbagi**: Menyalin dan menyebarluaskan ciptaan.
+
 * **Adaptasi**: Menggubah, mengubah, dan membuat turunan dari  materi ini untuk kepentingan apapun , termasuk kepentingan komersial.
-Dengan catatan:
-* **Atribusi**: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menunjukan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda. 
+  Dengan catatan:
+
+* **Atribusi**: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menunjukan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda.
 
 Artinya, Anda diizinkan untuk menggunakan ciptaan tersebut dengan mencantumkan nama pencipta dan mengubah, menggubah bahkan untuk  menyebarluaskan gambar tersebut guna kepentingan apapun.  Namun, tidak berarti pemegang hak cipta mendukung secara penggunaan ciptaan.
 
@@ -89,10 +96,10 @@ Selain lisensi [CC BY](http://creativecommons.org/licenses/by/4.0/deed.id), terd
 
 * Creative Commons Atribusi-BerbagiSerupa ([CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/deed.id))
 
-* Creative Commons Atribusi-NonKomersial ([CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.id)), 
-Creative Commons ([BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)), 
+* Creative Commons Atribusi-NonKomersial ([CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.id)),
+  Creative Commons ([BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)),
 
-* Creative Commons Atribusi-TanpaTurunan ([CC BY-ND](http://creativecommons.org/licenses/by-nd/4.0/d)), 
+* Creative Commons Atribusi-TanpaTurunan ([CC BY-ND](http://creativecommons.org/licenses/by-nd/4.0/d)),
 
 * Creative Commons Atribusi-NonKomersial-TanpaTurunan ([CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id)).
 
@@ -104,7 +111,7 @@ Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan un
 
 **BerbagiSerupa (SA)**
 ![SA.png](/uploads/SA.png){: .img-responsive .center-block }{: width="100"}
-Spektrum ini hanya berlaku ketika ciptaan mengubah, menggubah, atau membuat turunan dari ciptaan. Setiap perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
+Spektrum ini hanya berlaku ketika ciptaan diubah, digubah, atau dibuat turunan dari ciptaan. Setiap perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
 
 **NonKomersial (NC)**
 ![NC.png](/uploads/NC.png){: .img-responsive .center-block }{: width="100"}
