@@ -1,5 +1,5 @@
 ---
-title: Lokakarya Lisensi Creative Commons bersama C2o Library Surabaya
+title: Lokakarya Lisensi Creative Commons bersama C2o Library & Collabtive di Surabaya
 date: 2018-02-19 10:19:00 +07:00
 published: false
 categories:
