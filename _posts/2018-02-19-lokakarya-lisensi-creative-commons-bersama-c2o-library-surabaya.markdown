@@ -14,21 +14,25 @@ Surabaya, Creative Commons Indonesia (CCID) berkerjasama  [C20 Library & collabt
 Presentasi
 
 1. Program Training of Trainers CCID
-Pemateri mengawali presentasi dengan menperkenalkan program ToT CCID.Lalu pemateri menjelaskan cara bagaimana untuk ikut serta pada prorgram ini dengan melakukan pednaftaran di pranala berikut ini 
+Presentasi diawali dengan menperkenalkan program ToT CCID yang memberikan 15 Paket Beasiswa Sertifikasi Creative Commons, 3 Paket beasiswa perjalanan ke CC Summit 2019 bagi peserta yang berhasil menyelsaikan seluruh penyaringan yang dirangkai menjadi 3 misi. Kemudian dijelaskan juga mengenai apa yang harus dilakukan peserta dalam menjalankan 3 misi tersebut. Untuk misi 0 dan 3 telah dibuka hingga hingga 1 Mei 2018. Lalu pemateri menjelaskan cara bagaimana untuk ikut serta pada prorgram ini dengan melakukan pendaftaran yang dapat dikases di tautan berikut[](http://bit.do/CCID-ToT) 
 
 2. Dasar-dasar hak cipta
- Penjelasan dilanjutkan dengan pemaparan tentang pengetahuan hak cipta dasar yaitu kekuatan berlaku hak cipta, macam-macam hak dalam hak cipta, subyek hukum hak cipta, dalam hal ini antara guru dengan guru atau guru dengan murid, dan jenis-jenis hak penggunaan yang mengatur proses penggunaan dan berbagi ciptaan dalam hak cipta. 
-
-Selanjutnya dijelaskan pula tentang obyek-obyek perlindungan hak cipta dan kaitannya dengan sumber-sumber pembelajaran terbuka.
+Penjelasan dilanjutkan dengan pemaparan tentang pengetahuan hak cipta yang merupakan bagian dari hak kekayaan intelektual. Kemudian dijelaskan pula dasar kekuatan berlaku hak cipta, macam-macam hak dalam hak cipta, subyek dan obyek hukum perlindungan hak cipta yang merujuk pada UUHC. Selanjutnya pemateri menjelaskan tentang bentuk perlindungan hak cipta yang mana pengguna ciptaan harus meminta izin pencipta dalam penggunaan, penggandaan dan penyebaran ciptaan. 
 
 3. Fungsi sosial hak cipta
- Sebagai penutup babak penjelasan tentang pengetahuan hak cipta dasar, pemateri memaparkan fungsi sosial hak cipta yang terdiri dari pembatasan hak cipta atau pembatasan perlindungan ([fair use](http://creativecommons.or.id/2016/08/tanya-jawab-sobat-ccid-2-agustus-2016/)) dan fungsi lisensi hak cipta.
+Materi mengenai hak cipta diakhiri dengan penjelasan mengenai fungsi sosial hak cipta yang membahas tentang masa perlindungan, ciptaan apa saja yang tidak dilindungi oleh hak cipta dan juga mengenai  penggunaan wajar atau ([fair use](http://creativecommons.or.id/2016/08/tanya-jawab-sobat-ccid-2-agustus-2016/)).
 
-4. Lisensi terbuka
-Beralih ke materi selanjutnya, pemateri menjelaskan tentang lisensi terbuka, khususnya lisensi CC. Babak ini diawali dengan pemaparan jenis-jenis lisensi terbuka, dan penekanan bahwa konten gratis tidak sama halnya dengan konten terbuka. 
+4. Lisensi hak cipta
+Beralih ke materi selanjutnya dijelaskan juga mengenai lisensi hak cipta sebagai alat pemberitahuan kepada pengguna tentang apa yang boleh dan tidak boleh dilakukan terhadap ciptaan. Dan juga dijelaskan mengenai lisensi ke dalam dan ke luar. Pemateri juga menambahkan perlunya lisensi agar memudahkan dialog antara pemegang hak cipta dan pengguna terkait ketentuan penggunaan ciptaan dan sekaligus menyederhanakan hal-hal yang diatur oleh Undang-Undang.
 
-5. Lisensi Creative Commons (CC)
-Kemudian dipaparkan juga mengenai organisasi Creative Commons (CC), bahwa lisensi CC paling tidak mengizinkan pengguna untuk menggandakan dan menyebarluaskan ciptaan. Selain itu penerapan lisensi CC pada ciptaan sebagai pemberitahuan kepada pengguna ciptaan bahwa pencipta mempertahankan beberapa hak dan tidak kehilangan hak atas ciptaannya. Mengenai lisensi CC, pemateri menjelaskan masing-masing ketentuan spektrum lisensi CC dan kebebasan penggunaan dari setiap pilihan lisensi CC. Tidak hanya itu secara teknis penerapan lisensi CC dapat diakses melalui [creativecommons.org/choose/](http://creativecommons.org/choose/).Pada pranala, terdapat penjelasan teks secara ringkas dan lengkap mengenai pilihan lisensi CC. Untuk tahap berikutnya pencipta dapat mengunduh piktogram lisensi CC melalui [creativecommons.org/about/downloads](http://creativecommons.org/about/downloads).
+5. Lisensi Terbuka
+Setelah itu, pembahasan secara spesifik mengenai perbedaan antara lisensi tertutup atau yang dikenal dengan "All Rights Reserved" dan  lisensi terbuka ( Some Rights Reserved". Lisensi Creative Commons merupakan salah satu lisensi terbuka. 
+
+
+6. Lisensi Creative Commons (CC)
+Masuk pada pembahasan utama yakni mengenai lisensi Creative Commons (CC), bahwa lisensi CC paling tidak mengizinkan pengguna untuk menggandakan dan menyebarluaskan ciptaan. Selain itu penerapan lisensi CC pada ciptaan sebagai pemberitahuan kepada pengguna ciptaan bahwa pencipta mempertahankan beberapa hak dan tidak kehilangan hak atas ciptaannya. Mengenai lisensi CC, pemateri menjelaskan masing-masing ketentuan spektrum lisensi CC dan kebebasan penggunaan dari setiap pilihan lisensi CC. Tidak hanya itu secara teknis penerapan lisensi CC dapat diakses melalui [creativecommons.org/choose/](http://creativecommons.org/choose/).Pada pranala, terdapat penjelasan teks secara ringkas dan lengkap mengenai pilihan lisensi CC. Untuk tahap berikutnya pencipta dapat mengunduh piktogram lisensi CC melalui [creativecommons.org/about/downloads](http://creativecommons.org/about/downloads).
+
+Lisensi Creative Commons merupakan produk layanan dari Organisasi nirlaba Creative Commons sehingga penggunaan lisensi CC tidak berbayar.
 
 6. Penerapan lisensi CC
 Pemateri juga menunjukan hasil penghitungan ciptaan berlisensi CC dari seluruh dunia oleh State of the Commons. Dan juga menjelaskan pembagian bidang dalam lingkup penerapan lisensi CC. 
@@ -36,7 +40,7 @@ Pemateri juga menunjukan hasil penghitungan ciptaan berlisensi CC dari seluruh d
 7. Contoh penerapan lisensi CC
 
 8. Cara mencari ciptaan berlisensi CC
-Terkait dengan kegiatan SEAMOLEC maka pemateri menujukan contoh-contoh penerapan lisensi CC di beberapa situs web terkait kegiatan pendidikan. Selain itu dijelaskan pula tentang fitur pencarian berkas menggunakan mesin pencarian CC Search dan Alat Penyaring Hak Penggunaan dari Mesin Pencari Gambar Google
+Selain itu dijelaskan pula tentang fitur pencarian berkas menggunakan mesin pencarian CC Search dan Alat Penyaring Hak Penggunaan dari Mesin Pencari Gambar Google
 
 Sebagai penutup presentasi, xxxxx. Informasi lebih lanjut mengenai Creative Commons dalam bahasa dapat diperoleh melalui web site creativecommons.or.id atau juga dapat  bergabung ke kanal pembicaraan Slack untuk berjejaring dengan komunitas (CC) dari seluruh dunia.
 
