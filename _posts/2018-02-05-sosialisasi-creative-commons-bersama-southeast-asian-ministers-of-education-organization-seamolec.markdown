@@ -5,6 +5,7 @@ date: 2018-02-05 17:10:00 +07:00
 published: false
 categories:
 - Berita
+img: "![Desember 22 2017 SPCCID Sosialisasi SEAMOLEC FA.jpeg]"
 ---
 
 ![Desember 22 2017 SPCCID Sosialisasi SEAMOLEC FA.jpeg](/uploads/Desember%2022%202017%20SPCCID%20Sosialisasi%20SEAMOLEC%20FA.jpeg){: .img-responsive .center-block }{: width="500"}
