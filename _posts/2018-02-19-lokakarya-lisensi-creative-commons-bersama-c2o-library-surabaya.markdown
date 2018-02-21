@@ -9,7 +9,9 @@ img: "![Februari 19 2018 SPCCID Sosialisasi CC di C2o Library Surabaya.jpeg]"
 
 ![Februari 19 2018 SPCCID Sosialisasi CC di C2o Library Surabaya.jpeg](/uploads/Februari%2019%202018%20SPCCID%20Sosialisasi%20CC%20di%20C2o%20Library%20Surabaya.jpeg){: .img-responsive .center-block }{: width="500"}
 
-Surabaya, Creative Commons Indonesia (CCID) berkerjasama  [C20 Library & collabtive](http://c2o-library.net) dalam menyengelarakan lokakarya lisensi Creative Commons yang dimulai pada pukul 16.00 WIB di Aula C2o.lokakarya ini salah satu perwujudan dari program CCID di tahun 2018 yakni mengadakan sosialisasi di 12 kota. Materi lokakarya mengenai lisensi Creative Commons & perkenalan program Training of Trainers Creative Commons Indonesia (ToT CCID) ini dibawakan oleh oleh Hilman Fathoni selaku konsultan CCID. Lokakarya diikuti oleh 25 peserta yang berasal dari berbagai latar balakang mulai dari mahasiswa, karyawan, dosen dan juga seniman. 
+Surabaya, Creative Commons Indonesia (CCID) berkerjasama  [C20 Library & collabtive](http://c2o-library.net) dalam menyengelarakan lokakarya lisensi Creative Commons yang dimulai pada pukul 16.00 WIB di Aula C2o. Lokakarya ini salah satu perwujudan dari program CCID di tahun 2018 yakni mengadakan sosialisasi di 12 kota. 
+
+Materi lokakarya mengenai lisensi Creative Commons & perkenalan program Training of Trainers Creative Commons Indonesia (ToT CCID) ini dibawakan oleh oleh Hilman Fathoni selaku konsultan CCID. Lokakarya diikuti oleh 25 peserta yang berasal dari berbagai latar balakang mulai dari mahasiswa, karyawan, dosen dan juga seniman. 
 
 Presentasi
 
@@ -32,7 +34,7 @@ Setelah itu, pembahasan secara spesifik mengenai perbedaan antara lisensi tertut
 6. Lisensi Creative Commons (CC)
 Masuk pada pembahasan utama yakni mengenai lisensi Creative Commons (CC), bahwa lisensi CC paling tidak mengizinkan pengguna untuk menggandakan dan menyebarluaskan ciptaan. Selain itu penerapan lisensi CC pada ciptaan sebagai pemberitahuan kepada pengguna ciptaan bahwa pencipta mempertahankan beberapa hak dan tidak kehilangan hak atas ciptaannya. Mengenai lisensi CC, pemateri menjelaskan masing-masing ketentuan spektrum lisensi CC dan kebebasan penggunaan dari setiap pilihan lisensi CC. Tidak hanya itu secara teknis penerapan lisensi CC dapat diakses melalui [creativecommons.org/choose/](http://creativecommons.org/choose/).Pada pranala, terdapat penjelasan teks secara ringkas dan lengkap mengenai pilihan lisensi CC. Untuk tahap berikutnya pencipta dapat mengunduh piktogram lisensi CC melalui [creativecommons.org/about/downloads](http://creativecommons.org/about/downloads).
 
-Lisensi Creative Commons merupakan produk layanan dari Organisasi nirlaba Creative Commons sehingga penggunaan lisensi CC tidak berbayar.
+Lisensi Creative Commons merupakan produk layanan dari Organisasi nirlaba Creative Commons yang memiliki jaringan global dan diterapkan di 100 negara, sehingga penggunaan lisensi CC tidak berbayar.
 
 6. Penerapan lisensi CC
 Pemateri juga menunjukan hasil penghitungan ciptaan berlisensi CC dari seluruh dunia oleh State of the Commons. Dan juga menjelaskan pembagian bidang dalam lingkup penerapan lisensi CC. 
