@@ -2,6 +2,8 @@
 title: Lokakarya Lisensi Creative Commons bersama C2o Library Surabaya
 date: 2018-02-19 10:19:00 +07:00
 published: false
+categories:
+- Lokakarya CC
 img: "![Februari 19 2018 SPCCID Sosialisasi CC di C2o Library Surabaya.jpeg]"
 ---
 
@@ -38,7 +40,11 @@ Pemateri juga menunjukan hasil penghitungan ciptaan berlisensi CC dari seluruh d
 Sebagai penutup presentasi, pemateri menekankan bahwa lisensi CC menjadi alat bantu dalam menerapkan 5rs atau lima prinsip pokok dalam gerakan sumber pembelajaran terbuka. Informasi lebih lanjut mengenai Creative Commons dalam bahasa dapat diperoleh melalui web site creativecommons.or.id atau juga dapat  bergabung ke kanal pembicaraan Slack untuk berjejaring dengan komunitas (CC) dari seluruh dunia.
 
 Tanya Jawab
-
+1.  Basis data apa dapat dilindungi hak cipta?
+2.  Bagaimana jika ciptaan (berupa hasil penelitian) yang digunakan di akun sosmed yang mengambil keuntungan dari iklan? mediasi dan delik aduan.
+3. Bagaimana perlindungan hak cipta untuk perlindungan ciptaan berupa game atau software? bisakah menggunakan lisensi CC.
+4. Pendanaan Organisasi CC sebagai organisasi nirlaba?
+5. Apakah resep masakan termasuk dalam perlindungan hak cipta?
 Pada sesi tanya jawab, pemateri menjawab pertanyaan mengenai pengalihan hak cipta atau pernyataan izin hak cipta dari pembuat materi pembelajaran kepada SEAMOLEC. Kemudian menjawab pertanyaan tentang penerapan lisensi yang tidak melulu harus menggunakan lisensi CC, namun bisa digantikan dengan lisensi terbuka yang ketentuanya sesuai. Pemateri juga menjawab mengenai penggunaan piktogram spektrum dan pilihan lisensi CC yang dapat langsung digunakan tanpa biaya. Selanjutnya pemateri menjawab pertanyaan tentang pelacakan aktivitas penggunaan ciptaan berlisensi CC dan menjawab pertanyaan tentang teknologi yang digunakan untuk memastikan atribusi diterapkan oleh pengguna ciptaan. Terakhir pemateri Menmberikan usulan penggunaan istilah pada setiap bahan ajar yang menerapkan lisensi terbuka. 
 
 Lokakarya kemudian ditutup dengan foto bersama. Materi presentasi lokakarya lisensi CC di C2o Library dapat diakses di pranala 
