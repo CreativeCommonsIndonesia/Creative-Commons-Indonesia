@@ -32,25 +32,15 @@ Setelah itu, pembahasan secara spesifik mengenai perbedaan antara lisensi tertut
 
 
 6. Lisensi Creative Commons (CC)
-Masuk pada pembahasan utama yakni mengenai lisensi Creative Commons (CC), bahwa lisensi CC paling tidak mengizinkan pengguna untuk menggandakan dan menyebarluaskan ciptaan. Selain itu penerapan lisensi CC pada ciptaan sebagai pemberitahuan kepada pengguna ciptaan bahwa pencipta mempertahankan beberapa hak dan tidak kehilangan hak atas ciptaannya. Mengenai lisensi CC, pemateri menjelaskan masing-masing ketentuan spektrum lisensi CC dan kebebasan penggunaan dari setiap pilihan lisensi CC. Tidak hanya itu secara teknis penerapan lisensi CC dapat diakses melalui [creativecommons.org/choose/](http://creativecommons.org/choose/).Pada pranala, terdapat penjelasan teks secara ringkas dan lengkap mengenai pilihan lisensi CC. Untuk tahap berikutnya pencipta dapat mengunduh piktogram lisensi CC melalui [creativecommons.org/about/downloads](http://creativecommons.org/about/downloads).
+Masuk pada pembahasan utama yakni mengenai lisensi Creative Commons (CC) yang hanya berlaku pada obyek perlindungan hak cipta dan juga lisensi CC paling tidak mengizinkan pengguna untuk menggandakan dan menyebarluaskan ciptaan. Penerapan lisensi CC pada ciptaan sebagai pemberitahuan kepada pengguna ciptaan bahwa pencipta mempertahankan beberapa hak dan tidak kehilangan hak atas ciptaannya.Selain itu ketentuan lisensi CC yang sudah diterapkan tidak dapat dicabut (irrevocable).
 
-Lisensi Creative Commons merupakan produk layanan dari Organisasi nirlaba Creative Commons yang memiliki jaringan global dan diterapkan di 100 negara, sehingga penggunaan lisensi CC tidak berbayar.
+Mengenai lisensi CC, pemateri menjelaskan masing-masing ketentuan spektrum lisensi CC dan kebebasan penggunaan dari setiap pilihan lisensi CC. Tidak hanya itu secara teknis penerapan lisensi CC dapat diakses melalui [creativecommons.org/choose/](http://creativecommons.org/choose/).Pada pranala, terdapat penjelasan teks secara ringkas dan lengkap mengenai pilihan lisensi CC. Untuk tahap berikutnya pencipta dapat mengunduh piktogram lisensi CC melalui [creativecommons.org/about/downloads](http://creativecommons.org/about/downloads). Lisensi Creative Commons disediakan oleh Organisasi nirlaba Creative Commons sehingga penerapan lisensi CC tidak berbayar.
 
-6. Penerapan lisensi CC
-Pemateri juga menunjukan hasil penghitungan ciptaan berlisensi CC dari seluruh dunia oleh State of the Commons. Dan juga menjelaskan pembagian bidang dalam lingkup penerapan lisensi CC. 
+6. Mencari Ciptaan Berlisensi CC
+Pemateri juga menunjukan cara mencari ciptaan berlisensi CC dengan mengakses http://ccsearch.creativecommons.org/dan juga melalui alat penyaring Hak Penggunaan dari mesin pencari Google dan situs web lainya seperti Flicker, Vimeo, 500px dan yang lainya.
 
-7. Contoh penerapan lisensi CC
-
-8. Cara mencari ciptaan berlisensi CC
-Selain itu dijelaskan pula tentang fitur pencarian berkas menggunakan mesin pencarian CC Search dan Alat Penyaring Hak Penggunaan dari Mesin Pencari Gambar Google
-
-Sebagai penutup presentasi, xxxxx. Informasi lebih lanjut mengenai Creative Commons dalam bahasa dapat diperoleh melalui web site creativecommons.or.id atau juga dapat  bergabung ke kanal pembicaraan Slack untuk berjejaring dengan komunitas (CC) dari seluruh dunia.
 
 Tanya Jawab
-1.  Basis data apa dapat dilindungi hak cipta?
-2.  3. Bagaimana perlindungan hak cipta untuk perlindungan ciptaan berupa game atau software? bisakah menggunakan lisensi CC.
-4. Pendanaan Organisasi CC sebagai organisasi nirlaba?
-5. Apakah resep masakan termasuk dalam perlindungan hak cipta?
 
 Pada sesi tanya jawab, pemateri menjawab pertanyaan mengenai perbedaan hak cipta dan hak paten. Kemudian menjawab pertanyaan tentang basis data yang dilindungi hak cipta ketika sudah menjadi produk akhirnya misalnya dalam bentuk infografis.
 
