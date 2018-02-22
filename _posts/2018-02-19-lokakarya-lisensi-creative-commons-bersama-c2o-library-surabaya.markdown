@@ -3,7 +3,7 @@ title: Lokakarya Lisensi Creative Commons bersama C2o Library & Collabtive di Su
 date: 2018-02-19 10:19:00 +07:00
 categories:
 - Berita
-img: Februari 19 2018 SPCCID Sosialisasi CC di C2o Library Surabaya.jpeg
+img: uploads/Februari%2019%202018%20SPCCID%20Sosialisasi%20CC%20di%20C2o%20Library%20Surabaya.jpeg
 aou: Fitriayu
 ---
 
@@ -19,11 +19,11 @@ Penjelasan dilanjutkan dengan pemaparan tentang pengetahuan hak cipta yang merup
 
 Pemaparan mengenai hak cipta diakhiri dengan penjelasan mengenai fungsi sosial hak cipta yang membahas tentang masa berlaku perlindungan hak cipta, ciptaan apa saja yang tidak dilindungi oleh hak cipta dan juga mengenai  penggunaan wajar atau ([fair use](http://creativecommons.or.id/2016/08/tanya-jawab-sobat-ccid-2-agustus-2016/)).
 
-Beralih ke materi selanjutnya, pemateri menjelaskan bahwa lisensi hak cipta merupakan alat pemberitahuan kepada pengguna ciptaan tentang apa yang boleh dan tidak boleh dilakukan terhadap ciptaan. Pemateri juga menambahkan bawha lisensi diperlukan sebagai ruang dialog antara pemegang hak cipta dan pengguna terkait ketentuan penggunaan ciptaan dan sekaligus untuk menyederhanakan hal-hal yang diatur oleh Undang-Undang. [Tambah Satu Kalimat Lagi, Satu Paragraf Minimal 4 Kalimat]
+Beralih ke materi selanjutnya, pemateri menjelaskan bahwa lisensi hak cipta merupakan alat pemberitahuan kepada pengguna ciptaan tentang apa yang boleh dan tidak boleh dilakukan terhadap ciptaan. Pemateri juga menambahkan bawha lisensi diperlukan sebagai ruang dialog antara pemegang hak cipta dan pengguna terkait ketentuan penggunaan ciptaan dan sekaligus untuk menyederhanakan hal-hal yang diatur oleh Undang-Undang. \[Tambah Satu Kalimat Lagi, Satu Paragraf Minimal 4 Kalimat\]
 
 Setelah itu, dipaparkan secara spesifik perbedaan antara prinisip lisensi tertutup yang dikenal dengan istilah "All Rights Reserved" atau (penggunaan yang jangan terlalu banyak-banyak dalam satu kalimat) seluruh hak dipertahankan dan lisensi terbuka yang dikenal dengan istilah "Some Rights Reserved" atau beberapa hak dipertahankan. Dalam hal ini, Lisensi Creative Commons merupakan salah satu contoh dari lisensi terbuka.
 
-Masuk pada pembahasan utama, yakni mengenai lisensi Creative Commons (CC). Lisensi CC hanya berlaku pada obyek perlindungan hak cipta [NGGAK NYAMBUNG. Mendingan kalo menurut gue: ",namun tidak mencakup program komputer] dan juga lisensi CC paling tidak mengizinkan pengguna untuk menggandakan dan menyebarluaskan ciptaan. Lisensi CC diterapkan pada ciptaan sebagai alat pemberitahuan kepada pengguna ciptaan bahwa pencipta mempertahankan beberapa hak dan bukan melepas hak atas ciptaannya sama sekali. (Dicek abis titik spasi abis titik spasi, ok?)Selain itu ketentuan lisensi CC yang sudah diterapkan tidak dapat dicabut (irrevocable).
+Masuk pada pembahasan utama, yakni mengenai lisensi Creative Commons (CC). Lisensi CC hanya berlaku pada obyek perlindungan hak cipta \[NGGAK NYAMBUNG. Mendingan kalo menurut gue: ",namun tidak mencakup program komputer\] dan juga lisensi CC paling tidak mengizinkan pengguna untuk menggandakan dan menyebarluaskan ciptaan. Lisensi CC diterapkan pada ciptaan sebagai alat pemberitahuan kepada pengguna ciptaan bahwa pencipta mempertahankan beberapa hak dan bukan melepas hak atas ciptaannya sama sekali. (Dicek abis titik spasi abis titik spasi, ok?)Selain itu ketentuan lisensi CC yang sudah diterapkan tidak dapat dicabut (irrevocable).
 
 Pemateri kemudian menjelaskan masing-masing ketentuan spektrum lisensi CC dan kebebasan penggunaan dari setiap pilihan lisensi CC. Secara teknis, ketentuan  lisensi CC dapat dipilih untuk diterapkan dengan mengakses melalui [creativecommons.org/choose/](http://creativecommons.org/choose/). Pada pranala, terdapat penjelasan teks secara ringkas dan lengkap mengenai pilihan lisensi CC. Untuk tahap berikutnya pencipta dapat mengunduh piktogram lisensi CC melalui [creativecommons.org/about/downloads](http://creativecommons.org/about/downloads). Pemateri juga menunjukan cara mencari ciptaan berlisensi CC dengan mengakses http://ccsearch.creativecommons.org/dan juga melalui alat penyaring Hak Penggunaan dari mesin pencari Google.
 
