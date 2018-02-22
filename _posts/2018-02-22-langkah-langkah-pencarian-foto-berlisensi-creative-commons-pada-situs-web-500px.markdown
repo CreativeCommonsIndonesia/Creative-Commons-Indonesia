@@ -1,7 +1,7 @@
 ---
 title: "Langkah-Langkah Pencarian Foto Berlisensi Creative Commons \nPada Situs Web
   500px"
-date: 2018-02-19 17:00:00 +07:00
+date: 2018-02-22 17:00:00 +07:00
 categories:
 - Kajian
 img: uploads/500px_logo_2016.svg
