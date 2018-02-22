@@ -4,6 +4,7 @@ date: 2018-02-19 10:19:00 +07:00
 categories:
 - Lokakarya CC
 img: "![Februari 19 2018 SPCCID Sosialisasi CC di C2o Library Surabaya.jpeg]"
+aou: Fitriayu
 ---
 
 ![Februari 19 2018 SPCCID Sosialisasi CC di C2o Library Surabaya.jpeg](/uploads/Februari%2019%202018%20SPCCID%20Sosialisasi%20CC%20di%20C2o%20Library%20Surabaya.jpeg){: .img-responsive .center-block }{: width="500"}
