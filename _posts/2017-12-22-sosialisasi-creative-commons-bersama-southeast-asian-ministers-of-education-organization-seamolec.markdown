@@ -1,10 +1,16 @@
 ---
 title: Sosialisasi Creative Commons bersama Southeast Asian Ministers of Education
   Organization (SEAMOLEC)
-date: 2018-02-05 17:10:00 +07:00
-published: false
+date: 2017-12-22 17:10:00 +07:00
 categories:
 - Berita
+tags:
+- Acara
+- SEAMOLEC
+- Lokakarya
+- Sosialisasi Lisensi Creative Commons
+- Creative Commons Indonesia
+- Indonesia
 img: "![Desember 22 2017 SPCCID Sosialisasi SEAMOLEC FA.jpeg]"
 ---
 
@@ -14,7 +20,7 @@ Jumat (22/12/2017), Cerative Commons Indonesia (CCID) diwakili oleh Hilman Fatho
 
 Sosialisasi ini diikuti oleh seluruh anggota Divisi Training SEAMOLEC yang bertugas dalam mengembangkan sumber pembelajaran yang terbuka dan diakses secara daring oleh semua orang. Acara dibuka dengan kata sambutan dari bapak Abdul Rizal Adompo (Manajer Divisi Teknologi dan Informasi Konten SEAMOLEC) melalui panggilan video. Pada sambutan tersebut, Abdul mengutarakan bahwa SEAMOLEC sedang mengembangkan platform Massive Open Online Course  (MOOC) yang menyediakan beragam sumber pembelajaran. Hingga saat itu, terhitung ada 1000 materi sumber pembelajaran terbuka yang dapat diakses secara daring di paltform tersebut.
  
-Presentasi
+**Presentasi**
 
 Pemateri membuka presentasi dengan menjelaskan bahwa gerakan sumber pembelajaran terbuka terbagi menjadi dua fokus yakni Open Education (Pendidikan Terbuka) dan Open Access to Research (Akses Terbuka Untuk Hasil Penelitian). Lalu pemateri menjelaskan tentang prinsip 5rs yaitu lima prinsip pokok dalam gerakan sumber pembelajaran terbuka dan kaitannya dengan hak cipta. Penjelasan dilanjutkan dengan pemaparan tentang pengetahuan hak cipta dasar yaitu kekuatan berlaku hak cipta, macam-macam hak dalam hak cipta, subyek hukum hak cipta, dalam hal ini antara guru dengan guru atau guru dengan murid, dan jenis-jenis hak penggunaan yang mengatur proses penggunaan dan berbagi ciptaan dalam hak cipta. 
 
@@ -27,8 +33,10 @@ Pemateri juga menunjukan hasil penghitungan ciptaan berlisensi CC dari seluruh d
 
 Sebagai penutup presentasi, pemateri menekankan bahwa lisensi CC menjadi alat bantu dalam menerapkan 5rs atau lima prinsip pokok dalam gerakan sumber pembelajaran terbuka. Informasi lebih lanjut mengenai Creative Commons dalam bahasa dapat diperoleh melalui web site creativecommons.or.id atau juga dapat  bergabung ke kanal pembicaraan Slack untuk berjejaring dengan komunitas (CC) dari seluruh dunia.
 
-Tanya Jawab
+**Tanya Jawab**
 
 Pada sesi tanya jawab, pemateri menjawab pertanyaan mengenai pengalihan hak cipta atau pernyataan izin hak cipta dari pembuat materi pembelajaran kepada SEAMOLEC. Kemudian menjawab pertanyaan tentang penerapan lisensi yang tidak melulu harus menggunakan lisensi CC, namun bisa digantikan dengan lisensi terbuka yang ketentuanya sesuai. Pemateri juga menjawab mengenai penggunaan piktogram spektrum dan pilihan lisensi CC yang dapat langsung digunakan tanpa biaya. Selanjutnya pemateri menjawab pertanyaan tentang pelacakan aktivitas penggunaan ciptaan berlisensi CC dan menjawab pertanyaan tentang teknologi yang digunakan untuk memastikan atribusi diterapkan oleh pengguna ciptaan. Terakhir pemateri Menmberikan usulan penggunaan istilah pada setiap bahan ajar yang menerapkan lisensi terbuka. 
 
-Sosialsasi kemudian ditutup dengan foto bersama. Materi presentasi sosialisasi lisensi CC di SEAMOLEC dapat diakses di pranala [berikut](http://www.slideshare.net/CreativeCommonsIndonesia/ccid-22-desember-2017-seamolec) terima kasih, SEAMOLEC!
+Sosialisasi kemudian ditutup dengan foto bersama. Materi presentasi sosialisasi lisensi CC di SEAMOLEC dapat diakses di pranala [berikut](http://www.slideshare.net/CreativeCommonsIndonesia/ccid-22-desember-2017-seamolec) 
+
+Terima kasih, SEAMOLEC!
