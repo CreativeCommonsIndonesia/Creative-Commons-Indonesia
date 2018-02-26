@@ -29,7 +29,9 @@ Pemateri kemudian menjelaskan masing-masing ketentuan spektrum lisensi CC dan ke
 
 Pada sesi tanya jawab, pemateri menjawab pertanyaan menjawab  bahwa lisensi CC disediakan oleh organisasi Creative Commons yang berasal dari Amerika Serikat (sekarang berpusat di Kanada) dan dapat digunakan secara gratis. Selain itu ketika menerapkan lisensi CC pada ciptaan,  pencipta masih memungkinkan dalam memeroleh keuntungan. Dibantu oleh Kathleen Azali selaku pendiri dan pengelola  C2O Library & Collabtive menujukan salah satu koleksi yang CD yang dijual di perpustakaan C2o menggunakan lisensi[ CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id).
 
-![Album Banda Neira.jpg](/uploads/Album%20Banda%20Neira.jpg){: .img-responsive .center-block }{: width="400"}  <center><small><i> Sampul Album Banda Neira oleh Fitriayu /[CC BY](http://creativecommons.org/licenses/by/4.0/deed.id)</i></small></center>
+![Album Banda Neira.jpg](/uploads/Album%20Banda%20Neira.jpg){: .img-responsive .center-block }{: width="400"}  
+
+<center><small><i> Sampul Album Banda Neira oleh Fitriayu /[CC BY](http://creativecommons.org/licenses/by/4.0/deed.id)</i></small></center>
 
 Kemudian pemateri juga mengenai perbedaan hak cipta dan hak paten. Kemudian menjawab pertanyaan tentang basis data yang dilindungi hak cipta ketika sudah menjadi produk akhirnya misalnya dalam bentuk infografis.
 
