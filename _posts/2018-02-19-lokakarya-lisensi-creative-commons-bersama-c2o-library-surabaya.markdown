@@ -8,7 +8,7 @@ img: uploads/Februari%2019%202018%20SPCCID%20Sosialisasi%20CC%20di%20C2o%20Libra
 aou: Fitriayu
 ---
 
-![Februari 19 2018 SPCCID Sosialisasi CC di C2o Library Surabaya.jpeg](/uploads/Februari%2019%202018%20SPCCID%20Sosialisasi%20CC%20di%20C2o%20Library%20Surabaya.jpeg){: .img-responsive .center-block }{: width="500"} Lokakarya CCID di Surabaya, Fitriayu, [CC BY](http://creativecommons.org/licenses/by/4.0/deed.id)</i></small></center>
+![Februari 19 2018 SPCCID Sosialisasi CC di C2o Library Surabaya.jpeg](/uploads/Februari%2019%202018%20SPCCID%20Sosialisasi%20CC%20di%20C2o%20Library%20Surabaya.jpeg){: .img-responsive .center-block }{: width="500"}  <center><small><i> Lokakarya CCID di Surabaya</a> oleh Fitriayu /CC BY</i></small></center>
 
 Surabaya (19/02/2018), Creative Commons Indonesia (CCID) berkerjasama dengan  [C20 Library & Collabtive](http://c2o-library.net) (perpustakaan  dan ruang kerja bersama yang dikelola secara swadaya) dalam penyelenggaraan lokakarya lisensi Creative Commons (CC).  Kali ini selain memperkenalkan apa itu lisensi Creative Commons, CCID juga memperkenalakan program [Training of Trainers Creative Commons Indonesia](bit.do/CCID-ToT) (CCID-ToT). Sesi lokakarya kali ini dibawakan oleh oleh Hilman Fathoni selaku konsultan CCID.  Acara yang dimulai pada pukul 16.00 WIB ini diikuti oleh 25 peserta dari berbagai latar balakang mulai dari mahasiswa, karyawan, dosen, dan juga seniman. Lokakarya ini merupakan salah satu kota dari kurang lebih 12 kota  yang akan dikunjungi oleh CCID untuk memperkenalkan program CCID-ToT.
 
