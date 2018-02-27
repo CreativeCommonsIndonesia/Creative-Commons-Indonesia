@@ -3,8 +3,9 @@ title: Lokakarya Lisensi Creative Commons bersama C2o Library & Collabtive di Su
 date: 2018-02-19 10:19:00 +07:00
 categories:
 - Berita
-img: uploads/Februari%2019%202018%20SPCCID%20Sosialisasi%20CC%20di%20C2o%20Library%20Surabaya.jpeg
+img: "/uploads/Februari%2019%202018%20SPCCID%20Sosialisasi%20CC%20di%20C2o%20Library%20Surabaya.jpeg"
 aou: Fitriayu
+comments: true
 ---
 
 ![Februari 19 2018 SPCCID Sosialisasi CC di C2o Library Surabaya.jpeg](/uploads/Februari%2019%202018%20SPCCID%20Sosialisasi%20CC%20di%20C2o%20Library%20Surabaya.jpeg){: .img-responsive .center-block }{: width="500"}  <center><small><i> Lokakarya CCID di Surabaya oleh Fitriayu/CC BY</i></small></center>
