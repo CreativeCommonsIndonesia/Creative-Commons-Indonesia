@@ -18,6 +18,7 @@ tags:
 author: ccid
 comments: true
 img: "/uploads/1-2af56d.jpg"
+featured: true
 ---
 
 **Sertifikat Creative Commons**
