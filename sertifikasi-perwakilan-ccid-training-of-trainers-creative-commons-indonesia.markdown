@@ -1,8 +1,6 @@
 ---
 title: SERTIFIKASI PERWAKILAN CCID - TRAINING OF TRAINERS CREATIVE COMMONS INDONESIA
 date: 2018-02-07 15:21:00 +07:00
-img: "/uploads/ToT-31012018-01%20(1).jpg"
-featured: true
 comments: true
 layout: post
 ---
