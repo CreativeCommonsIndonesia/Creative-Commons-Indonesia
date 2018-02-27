@@ -11,7 +11,9 @@ tags:
 - Sosialisasi Lisensi Creative Commons
 - Creative Commons Indonesia
 - Indonesia
-img: "![Desember 22 2017 SPCCID Sosialisasi SEAMOLEC FA.jpeg]"
+img: "/uploads/Desember%2022%202017%20SPCCID%20Sosialisasi%20SEAMOLEC%20FA.jpeg"
+comments: true
+author: ccid
 ---
 
 ![Desember 22 2017 SPCCID Sosialisasi SEAMOLEC FA.jpeg](/uploads/Desember%2022%202017%20SPCCID%20Sosialisasi%20SEAMOLEC%20FA.jpeg){: .img-responsive .center-block }{: width="500"}
