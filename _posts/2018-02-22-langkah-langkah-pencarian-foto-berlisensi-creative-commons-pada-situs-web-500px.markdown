@@ -4,8 +4,9 @@ title: "Langkah-Langkah Pencarian Foto Berlisensi Creative Commons \nPada Situs 
 date: 2018-02-22 17:00:00 +07:00
 categories:
 - Kajian
-img: uploads/500px_logo_2016.svg
+img: "/uploads/500px_logo_2016.svg"
 author: fitri
+comments: true
 ---
 
 <img style="float: left;" src="/uploads/500px_logo_2016.svg" class="img-responsive" width="200">    merupakan salah satu situs web berbagi foto yang populer dikalangan pecinta fotografi yang di dalamnya terdapat fitur-fitur layaknya sosial media yang dapat menghubungkan Anda dengan lebih dari 12 juta fotografer yang berasal dari berbagai negara. Melalui situs web 500px, Anda dapat berbagi pengalaman, mengasah kemampuan dan tentunya memamerkan karya fotografi Anda.
