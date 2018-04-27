@@ -5,7 +5,7 @@ date: 2018-03-07 13:40:00 +07:00
 categories:
 - Berita
 Key: 
-img: "/_uploads/%5BSPCCID%5D%207%20Maret%202018%20Lokakarya%20di%20Padang-crop.jpg"
+img: "/uploads/%5BSPCCID%5D%207%20Maret%202018%20Lokakarya%20di%20Padang-crop.jpg"
 ---
 
 ![\[SPCCID\] 7 Maret 2018 Lokakarya di Padang-crop.jpg](https://manage.siteleaf.com/api/v2/sites/58a15a68c1d6701a51c08017/source/_uploads/%5BSPCCID%5D%207%20Maret%202018%20Lokakarya%20di%20Padang-crop.jpg?download){: .img-responsive .center-block }{: width="500"}<center><small><i> Lokakarya CCID bersama Alsa Lc Unand di Padang oleh Fitriayu/CC BY</i></small></center>
@@ -30,3 +30,5 @@ Fitriayu kemudian menjelaskan masing-masing ketentuan spektrum lisensi CC dan ke
 Pada sesi tanya jawab, Fitriayu manjawab pertanyaan yang mana CC merupakan organisasi non profit yang menyediakan lisensi CC dimana tidak memeroleh keuntungan dari setiap kegiatannya. Selanjutnya pemateri juga menjelaskan bahwa hak cipta berbeda dengan hak paten. Pada hak cipta tidak diperlukannya pencatatan ciptaan seperti halnya pada hak paten.
 
 Kemudian pemateri menjawab mengenai dasar belaku lisensi CC di Indonesia yang mana selaras dengan angka 20 ketentuan umum undang-undang hak cipta tahun 2014 (UUHC 2014). Secara teknis, lisensi CC memiliki fungsi yang sama dengan sistem lisensi pada umumnya yaitu sebagai pemberitahuan tertulis.
+
+Terima kasih Padang dan Alsa Lc Unand!
