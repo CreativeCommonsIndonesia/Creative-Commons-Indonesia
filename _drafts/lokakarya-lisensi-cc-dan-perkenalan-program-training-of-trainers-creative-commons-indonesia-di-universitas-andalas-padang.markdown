@@ -2,7 +2,11 @@
 title: Lokakarya Lisensi CC dan Perkenalan Program Training of Trainers Creative Commons
   Indonesia di Universitas Andalas, Padang
 date: 2018-04-26 13:40:00 +07:00
+Key: 
+img: https://manage.siteleaf.com/api/v2/sites/58a15a68c1d6701a51c08017/source/_uploads/\[SPCCID\]%207%20Maret%202018%20Lokakarya%20di%20Padang-crop.jpg?download
 ---
+
+![\[SPCCID\] 7 Maret 2018 Lokakarya di Padang-crop.jpg](https://manage.siteleaf.com/api/v2/sites/58a15a68c1d6701a51c08017/source/_uploads/\[SPCCID\]%207%20Maret%202018%20Lokakarya%20di%20Padang-crop.jpg?download){: .img-responsive .center-block }{: width="500"}  <center><small><i> Lokakarya CCID bersama Alsa Lc Unand di Padang oleh Fitriayu/CC BY</i></small></center>
 
 Padang(7/03/17), Creative Commons Indonesia (CCID) berkerjasama dengan Asian Law Student Association (Alsa) Local Chapter Universitas Andalas (Unand) dalam penyengelaraan lokakarya lisensi Creative Commons (CC) di Padang. Sekitar 50 peserta mengahdiri lokakarya yang disegelarakan di gedung seminar F Universitas Andalas dan dimulai pada pukul 09.00-11.00 WIB. Pada kesempatan ini CCID diwakili oleh Fitriayu sebagai pemateri dalam memaparkan materi mengenai program ToT-CCID, hak cipta, lisensi terbuka dan lisensi Creative Commons beserta contoh dan panduan penerapannya.
 
