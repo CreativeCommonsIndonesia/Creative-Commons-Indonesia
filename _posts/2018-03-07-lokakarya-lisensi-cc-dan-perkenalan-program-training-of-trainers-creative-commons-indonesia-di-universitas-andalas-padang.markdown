@@ -12,7 +12,7 @@ img: "/uploads/%5BSPCCID%5D%207%20Maret%202018%20Lokakarya%20di%20Padang-crop.jp
 
 Padang(7/03/17), Creative Commons Indonesia (CCID) berkerjasama dengan Asian Law Student Association (Alsa) Local Chapter Universitas Andalas (Unand) dalam penyengelaraan lokakarya lisensi Creative Commons (CC) di Padang. Sekitar 50 peserta mengahdiri lokakarya yang disegelarakan di gedung seminar F Universitas Andalas dan dimulai pada pukul 09.00-11.00 WIB. Pada kesempatan ini CCID diwakili oleh Fitriayu sebagai pemateri dalam memaparkan materi mengenai program ToT-CCID, hak cipta, lisensi terbuka dan lisensi Creative Commons beserta contoh dan panduan penerapannya.
 
-**Prensentasi**
+> **Prensentasi**
 
 Fitriayu mengawali lokakarya dengan menperkenalkan program Creative Commons Indonesia - Training of Trainers (CCID-ToT). Program ini diharapkan dapat memperluas pesebaran pengetahuan lisensi Creative Commons (CC)  di Indonesia. Selain itu, program CCID-ToT sebagai upaya dalam menginformasikan  kepada masyarakat mengenai pemanfaatan potensi dari konten-konten berlisensi CC untuk menghindarkan diri dari pelangaran hak cipta.
 
@@ -26,7 +26,8 @@ Setelah itu, dipaparkan secara spesifik perbedaan antara prinisip lisensi tertut
 
 Fitriayu kemudian menjelaskan masing-masing ketentuan spektrum lisensi CC dan kebebasan penggunaan dari setiap pilihan lisensi CC. Secara teknis, ketentuan lisensi CC dapat dipilih untuk diterapkan dengan mengakses melalui creativecommons.org/choose/. Pada pranala, terdapat penjelasan teks secara ringkas dan lengkap mengenai pilihan lisensi CC. Untuk tahap berikutnya pencipta dapat mengunduh piktogram lisensi CC melalui creativecommons.org/about/downloads. Pemateri juga menunjukan cara mencari ciptaan berlisensi CC dengan mengakses http://ccsearch.creativecommons.org/dan juga melalui alat penyaring Hak Penggunaan dari mesin pencari Google.
 
-**Tanya-Jawab**
+> **Tanya-Jawab**
+
 Pada sesi tanya jawab, Fitriayu manjawab pertanyaan yang mana CC merupakan organisasi non profit yang menyediakan lisensi CC dimana tidak memeroleh keuntungan dari setiap kegiatannya. Selanjutnya pemateri juga menjelaskan bahwa hak cipta berbeda dengan hak paten. Pada hak cipta tidak diperlukannya pencatatan ciptaan seperti halnya pada hak paten.
 
 Kemudian pemateri menjawab mengenai dasar belaku lisensi CC di Indonesia yang mana selaras dengan angka 20 ketentuan umum undang-undang hak cipta tahun 2014 (UUHC 2014). Secara teknis, lisensi CC memiliki fungsi yang sama dengan sistem lisensi pada umumnya yaitu sebagai pemberitahuan tertulis.
