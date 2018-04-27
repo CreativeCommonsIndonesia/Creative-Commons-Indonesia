@@ -1,7 +1,7 @@
 ---
 title: Lokakarya Lisensi CC dan Perkenalan Program Training of Trainers Creative Commons
   Indonesia di Universitas Andalas, Padang
-date: 2018-04-26 13:40:00 +07:00
+date: 2018-03-07 13:40:00 +07:00
 Key: 
 img: https://manage.siteleaf.com/api/v2/sites/58a15a68c1d6701a51c08017/source/_uploads/\[SPCCID\]%207%20Maret%202018%20Lokakarya%20di%20Padang-crop.jpg?download
 ---
