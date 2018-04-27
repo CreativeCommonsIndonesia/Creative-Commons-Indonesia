@@ -15,5 +15,11 @@ berkesempatan untuk turut serta menjadi salah satu pemateri dalam rangkaian kegi
 > **Presentasi**
 
 > **Tanya Jawab**
-1.  Open tidak sama dengan free. (meski seluruh ciptaan yang berlisensikan CC terbuka namun tidak semuanya free dikarenakan ada salah satu ketentuan lisensi CC yakni Non Komersial atau NC yang mana ciptaan yang belisensikan ketentuan CC tersebut tidak diperkenankan pengguna memeroleh ketentuan dari ciptaan tersebut.
-2.Jika jurnal digunakan pada situs yang memeroleh keuntungan? ( delik aduan)
+
+Pada sesi tanya jawab, pemateri menjelaskan lebih lanjut mengenai ciptaan yang berlisensikan CC merupakan terbuka namun, tidak sama dengan bebas (open tidak sama dengan free). Yang dimaksud dalam hal tersebut yakni meski seluruh ciptaan yang berlisensikan CC terbuka (setidaknya pengguna ciptaan dapat menggunakan dan menyebarkan kembali) namun tidak semua ciptaan yang berlisensikan CC itu bebas. 
+
+Hal tersebut dikarenakan adanya beberapa ketentuan CC seperti: Non Komersial atau NC yang mana ciptaan yang belisensikan ketentuan CC tersebut tidak diperkenankan pengguna memeroleh ketentuan dari ciptaan tersebut dan juga ketentuan lainya yakni NonDerivative (ND) atau tanpa turunan yang mana pencipta yang menerapakan ketentuan tersebut tidak mengizinkan penggunanya menggunakan ciptaan tersbeut untuk dibuat ciptaan turunannya. Begitu juga halnya dengan ketentuan ShareAlike (SA) yang mengharuskan pengguna menggunakan ketentuan yang serupa jika terjadi penggubahan pada ciptaan tersebut.
+
+Kemudian pemateri juga menjawab mengenai sebuah kasus di mana jurnal yang berlisensikan CC-BY-NC terdapat pada suatu situs yang memeroleh keuntungan. Pada kasus tersebut yang dapat dilakukan oleh pencipta yakni menginformasikan kepada pihak situs web untuk dimusyawarahkan bahwasanya pencipta merasa keberatan dalam penayangan jurnalnya pada situs tersebut. Jika belum juga menemui mufakat maka delik aduan dapat ditempuh dengan melaporkan kasus tersbeut ke pihak terkait dan lisensi CC yang diterapkan pada jurnal tersebut dapat menjadi salah satu alat bukti.
+
+Terima kasih banyak Relawan Jurnal Indonesia atas kesempatannya!
