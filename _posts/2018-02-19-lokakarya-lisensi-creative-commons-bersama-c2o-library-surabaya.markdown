@@ -34,7 +34,7 @@ Pada sesi tanya jawab, pemateri menjawab pertanyaan menjawab  bahwa lisensi CC d
 
 <center><small><i>Sampul Album Banda Neira oleh Fitriayu /CC BY</i></small></center>
 
-Kemudian pemateri juga mengenai perbedaan hak cipta dan hak paten. Kemudian menjawab pertanyaan tentang basis data yang dilindungi hak cipta ketika sudah menjadi produk akhirnya misalnya dalam bentuk infografis.
+Kemudian pemateri juga menjawab mengenai perbedaan hak cipta dan hak paten. Kemudian menjawab pertanyaan tentang basis data yang dilindungi hak cipta ketika sudah menjadi produk akhirnya misalnya dalam bentuk infografis.
 
 Selanjutnya pemateri menjawab pertanyaan tentang penerapan lisensi CC pada ciptaan berupa video game atau software yang oleh pemateri tidak disarankan menggunakan lisensi CC dikarenakan kurang sesuai dengan ciptaan yang ada. Khusus untuk ciptaan tersebut ada lisensi yang lebih sesuai
 
