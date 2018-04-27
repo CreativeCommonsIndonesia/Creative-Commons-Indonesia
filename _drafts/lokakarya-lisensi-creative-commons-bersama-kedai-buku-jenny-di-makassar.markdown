@@ -11,3 +11,5 @@ Makassar(23/03/17), Creative Commons Indonesia (CCID) berkerjasama dengan Kedai 
 > **Presentasi**
 
 > **Tanya Jawab**
+1. Keterkaitan ford foundation pada program CCID-ToT
+2.
