@@ -1,7 +1,10 @@
 ---
 title: Lokakarya Lisensi CC dan Perkenalan Program Training of Trainers Creative Commons
   Indonesia di Universitas Syiah Kuala, Aceh
-date: 2018-04-26 13:40:00 +07:00
+date: 2018-03-07 13:40:00 +07:00
+categories:
+- Berita
+img: "/uploads/450px--SPCCID-_7_Maret_2018_Lokakarya_di_Aceh.jpg"
 ---
 
 ![450px--SPCCID-_7_Maret_2018_Lokakarya_di_Aceh.jpg](/uploads/450px--SPCCID-_7_Maret_2018_Lokakarya_di_Aceh.jpg){: .img-responsive .center-block }{: width="500"}
