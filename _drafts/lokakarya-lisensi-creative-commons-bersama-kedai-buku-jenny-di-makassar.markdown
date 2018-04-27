@@ -1,6 +1,8 @@
 ---
 title: Lokakarya Lisensi Creative Commons Bersama Kedai Buku Jenny di Makassar
 date: 2018-04-27 11:51:00 +07:00
+categories:
+- Berita
 img: "/uploads/%5BSPCCID%5D%2023%20Maret%202018%20Lokakarya%20CC%20bersama%20Kedai%20Buku%20Jenny%20di%20Makassar.jpeg"
 ---
 
@@ -11,5 +13,9 @@ Makassar(23/03/17), Creative Commons Indonesia (CCID) berkerjasama dengan Kedai 
 > **Presentasi**
 
 > **Tanya Jawab**
-1. Keterkaitan ford foundation pada program CCID-ToT
-2.
+Pada sesi tanya jawab, pemateri menjawab bahwa pada ciptaan yang berlisensikan CC pengguna tidak perlu meminta izin secara langsung kepada pencipta ciptaan tersebut. Pengguna ciptaan cukup membaca ketentuan-ketentuan apa saja yang diberikan oleh pencipta tersebut perihal penggunaan ciptaanya dengan memperhatikan pilihan lisensi CC apa yang diterapkan pada ciptaan tersebut.  
+
+Selanjutnya mengenai program CCID-ToT, pemateri juga menjawab mengenai keterkait adanya logo ford foundation dan Wikimedia Indonesia pada poster program CCID-ToT. Wikimedia Indonsia merupakan perkumpulan yang menaungi keberadaan CCID dan Ford Foundation sebagai lembaga donor yang mendanai seluruh kegiatan CCID.
+
+
+Terima kasih Kedai Buku Jenny!
