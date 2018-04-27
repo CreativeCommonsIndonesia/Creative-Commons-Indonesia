@@ -15,5 +15,5 @@ berkesempatan untuk turut serta menjadi salah satu pemateri dalam rangkaian kegi
 > **Presentasi**
 
 > **Tanya Jawab**
-1. Jika jurnal digunakan pada situs yang memeroleh keuntungan? ( delik aduan)
-2. Open tidak sama dengan free. (meski seluruh ciptaan yang berlisensikan CC terbuka namun tidak semuanya free dikarenakan ada salah satu ketentuan lisensi CC yakni Non Komersial atau NC yang mana ciptaan yang belisensikan ketentuan CC tersebut tidak diperkenankan pengguna memeroleh ketentuan dari ciptaan tersebut.
+1.  Open tidak sama dengan free. (meski seluruh ciptaan yang berlisensikan CC terbuka namun tidak semuanya free dikarenakan ada salah satu ketentuan lisensi CC yakni Non Komersial atau NC yang mana ciptaan yang belisensikan ketentuan CC tersebut tidak diperkenankan pengguna memeroleh ketentuan dari ciptaan tersebut.
+2.Jika jurnal digunakan pada situs yang memeroleh keuntungan? ( delik aduan)
