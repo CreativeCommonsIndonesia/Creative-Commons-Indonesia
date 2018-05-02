@@ -1,5 +1,5 @@
 ---
-title: Keterlibatan CCID pada kegiatan HKI RUN BEKRAF
+title: Partisipasi CCID pada kegiatan BEKRAF HKI RUN 2018
 date: 2018-04-29 13:30:00 +07:00
 categories:
 - Acara
