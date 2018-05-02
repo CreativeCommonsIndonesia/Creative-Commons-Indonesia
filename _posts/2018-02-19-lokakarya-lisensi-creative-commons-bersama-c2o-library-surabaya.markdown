@@ -2,9 +2,14 @@
 title: Lokakarya Lisensi Creative Commons bersama C2o Library & Collabtive di Surabaya
 date: 2018-02-19 10:19:00 +07:00
 categories:
-- Berita
+- Acara
+tags:
+- Lisensi Creative Commons
+- C2O Library & Collabtive
+- Sosialisasi Lisensi Creative Commons
+- Surabaya
 img: "/uploads/Februari%2019%202018%20SPCCID%20Sosialisasi%20CC%20di%20C2o%20Library%20Surabaya.jpeg"
-aou: Fitriayu
+author: Fitriayu
 comments: true
 ---
 
