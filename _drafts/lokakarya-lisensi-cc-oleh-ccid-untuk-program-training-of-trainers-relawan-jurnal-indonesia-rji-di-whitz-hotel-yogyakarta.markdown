@@ -4,6 +4,10 @@ title: Lokakarya Lisensi CC oleh CCID untuk program Training of Trainers Relawan
 date: 2018-03-16 13:41:00 +07:00
 categories:
 - Berita
+tags:
+- Relawan Jurnal Indonesia
+- Lokakarya Lisensi Creative Commons
+- Creative Commons Indonesia
 img: "/uploads/%5BSPCCID%5D%2016%20Maret%202018%20Lokakarya%20di%20Jogja.jpg"
 ---
 
