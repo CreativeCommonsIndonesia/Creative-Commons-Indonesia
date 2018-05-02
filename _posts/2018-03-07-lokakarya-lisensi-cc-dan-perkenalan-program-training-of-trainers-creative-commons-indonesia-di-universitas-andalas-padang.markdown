@@ -3,9 +3,16 @@ title: Lokakarya Lisensi CC dan Perkenalan Program Training of Trainers Creative
   Indonesia di Universitas Andalas, Padang
 date: 2018-03-07 13:40:00 +07:00
 categories:
-- Berita
-Key: 
+- Acara
+tags:
+- Alsa Legal Coaching Clinic
+- Universitas Andalas
+- Alsa LC FH Universitas Andalas
+- Padang
+- Sosialisasi Lisensi Creative Commons
+Author: ccid
 img: "/uploads/%5BSPCCID%5D%207%20Maret%202018%20Lokakarya%20di%20Padang-crop.jpg"
+comments: true
 ---
 
 ![\[SPCCID\] 7 Maret 2018 Lokakarya di Padang-crop.jpg](https://manage.siteleaf.com/api/v2/sites/58a15a68c1d6701a51c08017/source/_uploads/%5BSPCCID%5D%207%20Maret%202018%20Lokakarya%20di%20Padang-crop.jpg?download){: .img-responsive .center-block }{: width="500"}<center><small><i> Lokakarya CCID bersama Alsa Lc Unand di Padang oleh Fitriayu/[CC BY]</i></small></center>
