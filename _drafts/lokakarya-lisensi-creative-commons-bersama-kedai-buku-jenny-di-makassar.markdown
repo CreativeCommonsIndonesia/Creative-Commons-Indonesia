@@ -7,7 +7,7 @@ tags:
 - Kedai Buku Jenny
 - Lokakarya Lisensi Creative Commons
 - Training of Trainers Creative Commons Indonesia
-- Makassar
+- Creative Commons Indonesia
 img: "/uploads/%5BSPCCID%5D%2023%20Maret%202018%20Lokakarya%20CC%20bersama%20Kedai%20Buku%20Jenny%20di%20Makassar.jpeg"
 ---
 
