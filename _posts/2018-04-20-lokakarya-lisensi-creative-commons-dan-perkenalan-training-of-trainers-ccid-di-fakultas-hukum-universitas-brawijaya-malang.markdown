@@ -13,7 +13,7 @@ tags:
 - Lokakarya Lisensi Creative Commons
 - Sosialisasi Lisensi Creative Commons
 author: ccid
-img: 
+img: "/uploads/SPCCID%2020%20April%202018%20Lokakarya%20Lisensi%20CC%20dan%20Perkenalan%20CCID-ToT%20di%20FH%20Universitas%20Brawijaya.JPG"
 comments: true
 ---
 
