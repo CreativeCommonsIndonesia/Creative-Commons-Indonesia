@@ -1,6 +1,6 @@
 ---
 title: Lokakarya Lisensi CC dan Perkenalan Program Training of Trainers Creative Commons
-  Indonesia di Universitas Andalas, Padang
+  Indonesia di Fakultas Hukum Universitas Andalas, Padang
 date: 2018-03-07 13:40:00 +07:00
 categories:
 - Acara
