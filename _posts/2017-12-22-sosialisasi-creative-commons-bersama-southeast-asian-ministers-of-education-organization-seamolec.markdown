@@ -3,7 +3,7 @@ title: Sosialisasi Creative Commons bersama Southeast Asian Ministers of Educati
   Organization (SEAMOLEC)
 date: 2017-12-22 17:10:00 +07:00
 categories:
-- Berita
+- Acara
 tags:
 - Acara
 - SEAMOLEC
