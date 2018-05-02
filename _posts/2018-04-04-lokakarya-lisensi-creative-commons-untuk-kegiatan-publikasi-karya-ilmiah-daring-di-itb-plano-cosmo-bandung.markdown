@@ -29,4 +29,6 @@ Dalam kesempatan ini, materi dimulai dengan penyampaian prinsip-prinsip fundamen
 
 Setelah menjelaskan hal-hal fundamental kepada peserta, Hilman kemudian melanjutkan sesi kali ini dengan penjelasan terkait masing-masing spektrum dan jenis-jenis pilihan lisensi CC yang dapat dimanfaatkan oleh para Pencipta untuk mengontrol hak ciptanya. Kemudian, Erwin juga menambahkan dengan rekomendasi pilihan lisensi CC kepada peserta, yaitu lisensi CC BY (Atribution/Atribusi). Pilihan ini dirasa menguntungkan karena semakin bebas ketentuan lisensi yang diterapkan maka semakin besar pula potensi model-model penggunaan karya ilmiah yang diterbikan dapat terjawab. Selain itu, penggunaan ketentuan lisensi CC yang paling bebas juga dapat mengurangi pembatasan-pembatasan yang sebenarnya tidak perlu dan malah menutupi potensi penggunaan karya ilmiah tersebut. 
 
+Seluruh materi lokakarya ini dapat Anda akses di [tautan ini](http://dasaptaerwin.net/wp/2018/04/open-publication-and-creative-commons-license-for-academics-itb-planocosmo-2018.html).
+
 Terima kasih, INARxiv dan ITB Plano Cosmo!
