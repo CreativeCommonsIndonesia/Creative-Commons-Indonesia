@@ -3,7 +3,7 @@ title: Lokakarya Lisensi CC oleh CCID untuk program Training of Trainers Relawan
   Indonesia (RJI) di Whitz Hotel, Yogyakarta
 date: 2018-03-16 13:41:00 +07:00
 categories:
-- Berita
+- Acara
 tags:
 - Relawan Jurnal Indonesia
 - Lokakarya Lisensi Creative Commons
@@ -30,10 +30,10 @@ Sebagai penutup, pemateri menperkenalkan program CCID-ToT yang memberikan 15 Pak
 
 > **Tanya Jawab**
 
-Pada sesi tanya jawab, pemateri menjelaskan lebih lanjut mengenai ciptaan yang berlisensikan CC merupakan terbuka namun, tidak sama dengan bebas (open tidak sama dengan free). Yang dimaksud dalam hal tersebut yakni meski seluruh ciptaan yang berlisensikan CC terbuka (setidaknya pengguna ciptaan dapat menggunakan dan menyebarkan kembali) namun tidak semua ciptaan yang berlisensikan CC itu bebas. 
+Pada sesi tanya jawab, pemateri menjelaskan lebih lanjut mengenai ciptaan berlisensi CC merupakan ciptaan terbuka. Dalam hal ini, terminologi "open" yang muncul dari penerapan lisensi terbuka seperti CC, dapat membantu pengguna ciptaan untuk membedakan ciptaan yang dapat diakses secara daring dan gratis, dengan ciptaan yang dapat diakses secara daring, gratis, dan terbuka. Yang dimaksud dengan terbuka adalah ciptaan-ciptaan tersebut selain dapat digandakan dan disebarkan kembali, ciptaan tersebut dapat digunakan kembali oleh pengguna ciptaan tanpa izin langsung Pencipta atau Pemegang Hak Cipta dengan mengikuti ketentuan-ketentuan yang diterapkan. 
 
-Hal tersebut dikarenakan adanya beberapa ketentuan CC seperti: Non Komersial atau NC yang mana ciptaan yang belisensikan ketentuan CC tersebut tidak diperkenankan pengguna memeroleh ketentuan dari ciptaan tersebut dan juga ketentuan lainya yakni NonDerivatives (ND) atau tanpa turunan yang mana pencipta yang menerapakan ketentuan tersebut tidak mengizinkan penggunanya menggunakan ciptaan tersbeut untuk dibuat ciptaan turunannya. Begitu juga halnya dengan ketentuan ShareAlike (SA) yang mengharuskan pengguna menggunakan ketentuan yang serupa jika terjadi penggubahan pada ciptaan tersebut.
+Ketentuan yang dimaksud adalah: Non Komersial atau NC yang mana ciptaan yang belisensikan ketentuan CC tersebut tidak diperkenankan pengguna memeroleh ketentuan dari ciptaan tersebut dan juga ketentuan lainya yakni NonDerivatives (ND) atau tanpa turunan yang mana pencipta yang menerapakan ketentuan tersebut tidak mengizinkan penggunanya menggunakan ciptaan tersbeut untuk dibuat ciptaan turunannya. Begitu juga halnya dengan ketentuan ShareAlike (SA) yang mengharuskan pengguna menggunakan ketentuan yang serupa jika terjadi penggubahan pada ciptaan tersebut.
 
-Kemudian pemateri juga menjawab mengenai sebuah kasus di mana jurnal yang berlisensikan CC-BY-NC terdapat pada suatu situs yang memeroleh keuntungan. Pada kasus tersebut yang dapat dilakukan oleh pencipta yakni menginformasikan kepada pihak situs web untuk dimusyawarahkan bahwasanya pencipta merasa keberatan dalam penayangan jurnalnya pada situs tersebut. Jika belum juga menemui mufakat maka delik aduan dapat ditempuh dengan melaporkan kasus tersbeut ke pihak terkait dan lisensi CC yang diterapkan pada jurnal tersebut dapat menjadi salah satu alat bukti.
+Kemudian pemateri juga menjawab mengenai sebuah kasus di mana jurnal yang berlisensikan CC-BY-NC terdapat pada suatu situs yang memeroleh keuntungan. Pada kasus tersebut yang dapat dilakukan oleh pencipta yakni menginformasikan kepada pihak situs web untuk didiskusikan bahwasanya pencipta merasa keberatan dalam penayangan jurnalnya pada situs tersebut. Jika belum juga menemui mufakat maka delik aduan dapat ditempuh dengan melaporkan kasus tersbeut ke pihak terkait dan lisensi CC yang diterapkan pada jurnal tersebut dapat menjadi salah satu alat bukti.
 
 Terima kasih banyak Relawan Jurnal Indonesia atas kesempatannya!
