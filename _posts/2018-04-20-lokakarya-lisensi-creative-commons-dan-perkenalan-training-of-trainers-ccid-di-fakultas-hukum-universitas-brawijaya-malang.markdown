@@ -17,17 +17,20 @@ img: "/uploads/SPCCID%2020%20April%202018%20Lokakarya%20Lisensi%20CC%20dan%20Per
 comments: true
 ---
 
-[SPCCID 20 April 2018 Lokakarya Lisensi CC dan Perkenalan CCID-ToT di FH Universitas Brawijaya.JPG](/uploads/SPCCID%2020%20April%202018%20Lokakarya%20Lisensi%20CC%20dan%20Perkenalan%20CCID-ToT%20di%20FH%20Universitas%20Brawijaya.JPG){: .img-responsive .center-block }{: width="500"}
+![SPCCID 20 April 2018 Lokakarya Lisensi CC dan Perkenalan CCID-ToT di FH Universitas Brawijaya.JPG](/uploads/SPCCID%2020%20April%202018%20Lokakarya%20Lisensi%20CC%20dan%20Perkenalan%20CCID-ToT%20di%20FH%20Universitas%20Brawijaya.JPG)
 
 Pada tanggal 20 April 2018, Creative Commons Indonesia (CCID) berkesempatan menyampaikan materi tentang lisensi Creative Commons (lisensi CC) bekerjasama dengan Bussines Law Club Fakultas Hukum Universitas Brawijaya (BLC FH UB), komunitas mahasiswa peminatan hukum bisnis di Fakultas Hukum Universitas Brawijaya (FH UB), kota Malang. CCID diwakili oleh Hilman Fathoni datang untuk juga memperkenalkan program Training of Trainers Creative Commons Indonesia (CCID-ToT) kepada para peserta lokakarya yang hadir pada kesempatan tersebut. Namun, sebelum perkenalan tentang program tersebut dipaparkan, pemateri terlebih dahulu memperkenalkan apa itu Creative Commons (CC) dan lisensi CC.
 
-Melihat komposisi peserta yang sama dengan lokakarya lisensi Creative Commons di [Fakultas Hukum Universitas Syiah Kuala](http://creativecommons.or.id/2018/03/lokakarya-lisensi-cc-dan-perkenalan-program-training-of-trainers-creative-commons-indonesia-di-universitas-syiah-kuala-aceh/), Hilman mengajak peserta untuk menyamakan persepsi dengan menjelaskan perbedaan antara perlindungan Hak Cipta dengan bentuk perlindungan Kekayaan Intelektual yang lainnya. Selanjutnya dijelaskan pula prinsip-prinsip bentuk perlindungan hak cipta dari Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014) seperti bagaimana ciptaan telah diumumkan dan diwujudkan secara nyata ketika hendak digunakan, maka pengguna harus memperoleh izin langsung terlebih dahulu dari pihak Pencipta dan/atau Pemegang Hak Cipta. Pada bagian penjelasan ini juga dipaparkan bahwa selain izin penggunaan ciptaan, hubungan hukum antara Pencipta dengan Pemegang Hak Cipta dan Pengguna Ciptaan juga diatur oleh pengaturan tentang hak moral dan hak ekonomi. Setelah memaparkan apa-apa saja yang termasuk dalam obyek perlindungan hak cipta, khususnya yang disebutkan dalam Pasal 40 UUHC 2014, Hilman kemudian menjelaskan lisensi CC yang dibuka dengan penjelasan bahwa lisensi CC yang dibuka dengan pemaparan tentang perbedaan antara lisensi tertutup dan lisensi terbuka serta perbedaan antara lisensi ke luar (publik) dan lisensi ke dalam (privat). Kemudian pemateri mengaitkannya dengan keberadaan organisasi Creative Commons yang berupaya untuk memajukan lisensi terbuka dengan menyediakan seperangkat lisensi dengan ketentuan yang bermacam-maca. Ketentuan awal lisensi CC yang dipaparkan ialah 
+Melihat komposisi peserta yang sama dengan lokakarya lisensi Creative Commons di [Fakultas Hukum Universitas Syiah Kuala](http://creativecommons.or.id/2018/03/lokakarya-lisensi-cc-dan-perkenalan-program-training-of-trainers-creative-commons-indonesia-di-universitas-syiah-kuala-aceh/), Hilman mengajak peserta untuk menyamakan persepsi dengan menjelaskan perbedaan antara perlindungan Hak Cipta dengan bentuk perlindungan Kekayaan Intelektual yang lainnya. Selanjutnya dijelaskan pula prinsip-prinsip bentuk perlindungan hak cipta dari Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014) seperti bagaimana ciptaan telah diumumkan dan diwujudkan secara nyata ketika hendak digunakan, maka pengguna harus memperoleh izin langsung terlebih dahulu dari pihak Pencipta dan/atau Pemegang Hak Cipta. Pada bagian penjelasan ini juga dipaparkan bahwa selain izin penggunaan ciptaan, hubungan hukum antara Pencipta dengan Pemegang Hak Cipta dan Pengguna Ciptaan juga diatur oleh pengaturan tentang hak moral dan hak ekonomi. Setelah memaparkan apa-apa saja yang termasuk dalam obyek perlindungan hak cipta, khususnya yang disebutkan dalam Pasal 40 UUHC 2014, Hilman kemudian menjelaskan lisensi CC yang dibuka dengan penjelasan bahwa lisensi CC yang dibuka dengan pemaparan tentang perbedaan antara lisensi tertutup dan lisensi terbuka serta perbedaan antara lisensi ke luar (publik) dan lisensi ke dalam (privat). Kemudian pemateri mengaitkannya dengan keberadaan organisasi Creative Commons yang berupaya untuk memajukan lisensi terbuka dengan menyediakan seperangkat lisensi dengan ketentuan yang bermacam-maca. Ketentuan awal lisensi CC yang dipaparkan ialah
 
 * Setiap ciptaan berlisensi CC dapat langsung digandakan dan disebarluaskan
+
 * Ketentuan lisensi yang diterapkan tidak dapat dicabut (irrevocable)
+
 * Penerapan Digital Rights Management dilarang untuk ciptaan berlisensi CC
+
 * Ciptaan yang dilisensikan harus merupakan ciptaan sendiri, atau diizinkan oleh pencipta atau pemegang hak cipta lain untuk melisensikan ciptaan dengan lisensi CC
- 
+
 Pemateri kemudian menjelaskan spektrum-spektrum yang menentukan model perlindungan hak cipta pada setiap pilihan lisensi CC yang diterapkan pada ciptaan, yaitu:
 
 * Pemaparan kewajiban-kewajiban yang muncul dari spektrum BY (Atribution/Atribusi) yaitu kewajiban untuk menyebutkan nama pencipta dan sumber ciptaan dan menyatakan perubahan yang dilaksanakan terhadap ciptaan. Pemateri juga mencontohkan rumus atribusi yang sesuai yang disediakan oleh CC. Selain itu, pemateri juga mencontohkan praktek penerapan spektrum BY sebagai kebijakan "One License Policy" yang berjalan dengan baik oleh Satu Data Indonesia dan Noun Projects. Karena penggunaan spektrum BY memerlukan pertimbangan-pertimbangan seperti penerapannya pada ciptaan yang hampir mendekati kriteria sebagai “bukan ciptaan yang dilindungi” dan merupakan bagian dari upaya untuk memudahkan penggunaan ciptaan-ciptaan kecil yang kerap digunakan pada kegiatan-kegiatan yang sederhana.
@@ -40,15 +43,20 @@ Pemateri kemudian menjelaskan spektrum-spektrum yang menentukan model perlindung
 
 * Penjelasan ketentuan lisensi CC0 yaitu belum adanya payung hukum yang mendasari pendedikasian hak ke domain publik di Indonesia dan penerapan Tanda Domain Publik Creative Commons untuk menandai ciptaan-ciptaan yang sudah bebas hak cipta.
 
-Setelah itu pemateri memberikan contoh-contoh situs web lain yang menerapkan lisensi CC yang tidak menggunakan prinsip "One License Policy" yaitu Free Music Archive, Flickr, dan Directory of Open Access Journal.  Pada kesempatan tersebut juga dijelaskan teknis penerapan secara daring lisensi CC melalui [creativecommons.org/choose](creativecommons.org/choose) dan pemaparan fungsi masing-masing laman teks ringkas dan teks lengkap lisensi CC. Pemateri juga menjelaskan bagaimana Pencipta dan/atau Pemegang Hak Cipta dapat menerapkan lisensi CC dengan mengakses tombol-tombol lisensi CC siap guna melalui creativecommons.org/downloads. 
+Setelah itu pemateri memberikan contoh-contoh situs web lain yang menerapkan lisensi CC yang tidak menggunakan prinsip "One License Policy" yaitu Free Music Archive, Flickr, dan Directory of Open Access Journal.  Pada kesempatan tersebut juga dijelaskan teknis penerapan secara daring lisensi CC melalui [creativecommons.org/choose](creativecommons.org/choose) dan pemaparan fungsi masing-masing laman teks ringkas dan teks lengkap lisensi CC. Pemateri juga menjelaskan bagaimana Pencipta dan/atau Pemegang Hak Cipta dapat menerapkan lisensi CC dengan mengakses tombol-tombol lisensi CC siap guna melalui creativecommons.org/downloads.
 
 Setelah menyampaikan isi materi, Hilman menyampaikan  materi tentang lisensi Creative Commons (lisensi CC) dengan memaparkan ketentuan-ketentuan dalam program Training of Trainers Creative Commons Indonesia (CCID-ToT) yang antara lain adalah:
 
 * Dasar Pelaksanaan CCID-ToT
+
 * Jenis-jenis sertifikat Creative Commons
+
 * Fungsi sertifikat Creative Commons
+
 * Ketentuan umum untuk peserta tahap penyaringan CCID-ToT
+
 * Tahap-tahap penyaringan CCID-ToT
+
 * Penghargaan untuk 15 peserta yang lolos dari tahap-tahap penyaringan CCID-ToT
 
 Sebagai penutup pemateri mengundang seluruh peserta untuk turut serta dalam diskusi di kanal pembicaraan CC di Slack.
