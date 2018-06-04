@@ -28,6 +28,7 @@ Setelah itu, dipaparkan secara spesifik perbedaan antara prinsip lisensi tertutu
 Pemateri kemudian menjelaskan masing-masing ketentuan spektrum lisensi CC dan kebebasan penggunaan dari setiap pilihan lisensi CC. Secara teknis, ketentuan lisensi CC dapat dipilih untuk diterapkan dengan mengakses melalui creativecommons.org/choose/. Pada pranala, terdapat penjelasan teks secara ringkas dan lengkap mengenai pilihan lisensi CC. Untuk tahap berikutnya pencipta dapat mengunduh piktogram lisensi CC melalui creativecommons.org/about/downloads. Pemateri juga menunjukan cara mencari ciptaan berlisensi CC dengan mengakses http://ccsearch.creativecommons.org/dan juga melalui alat penyaring Hak Penggunaan dari mesin pencari Google.
 
 **Tanya Jawab**
+
 Pada sesi tanya jawab, pemateri menjawab bahwa pada ciptaan yang berlisensikan CC pengguna tidak perlu meminta izin secara langsung kepada pencipta ciptaan tersebut. Pengguna ciptaan cukup membaca ketentuan-ketentuan apa saja yang diberikan oleh pencipta tersebut perihal penggunaan ciptaanya dengan memperhatikan pilihan lisensi CC apa yang diterapkan pada ciptaan tersebut.
 
 Selanjutnya mengenai program CCID-ToT, pemateri juga menjawab mengenai keterkait adanya logo ford foundation dan Wikimedia Indonesia pada poster program CCID-ToT. Wikimedia Indonesia merupakan perkumpulan yang menaungi keberadaan CCID di Indonesia dan Ford Foundation sebagai lembaga donor yang mendanai seluruh kegiatan CCID.
