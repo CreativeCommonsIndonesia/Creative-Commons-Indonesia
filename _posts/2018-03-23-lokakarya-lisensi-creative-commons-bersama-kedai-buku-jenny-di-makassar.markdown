@@ -29,6 +29,7 @@ Pemateri kemudian menjelaskan masing-masing ketentuan spektrum lisensi CC dan ke
 
 **Tanya Jawab**
 
+
 Pada sesi tanya jawab, pemateri menjawab bahwa pada ciptaan yang berlisensikan CC pengguna tidak perlu meminta izin secara langsung kepada pencipta ciptaan tersebut. Pengguna ciptaan cukup membaca ketentuan-ketentuan apa saja yang diberikan oleh pencipta tersebut perihal penggunaan ciptaanya dengan memperhatikan pilihan lisensi CC apa yang diterapkan pada ciptaan tersebut.
 
 Selanjutnya mengenai program CCID-ToT, pemateri juga menjawab mengenai keterkait adanya logo ford foundation dan Wikimedia Indonesia pada poster program CCID-ToT. Wikimedia Indonesia merupakan perkumpulan yang menaungi keberadaan CCID di Indonesia dan Ford Foundation sebagai lembaga donor yang mendanai seluruh kegiatan CCID.
