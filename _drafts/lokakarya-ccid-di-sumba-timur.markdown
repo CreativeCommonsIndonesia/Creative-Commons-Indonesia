@@ -1,6 +1,14 @@
 ---
 title: Lokakarya CCID di Sumba Timur
-date: 2018-06-04 11:49:00 +07:00
+date: 2018-06-25 15:35:00 +07:00
+categories:
+- Acara
+tags:
+- GLAM
+- KSI
+- WMID
+- Dgitalisasi Koleksi Museum
+img: "/uploads/SPCCID%20Mei%2031%202018%20CCID%20di%20Sumba.jpeg"
 ---
 
 ![SPCCID Mei 31 2018 CCID di Sumba.jpeg](/uploads/SPCCID%20Mei%2031%202018%20CCID%20di%20Sumba.jpeg){: .img-responsive .center-block }{: width="500"}<center><small><i> Lokakarya pengarsipan digital koleksi Museum Dr. H.C. Oemboe Hina Kapita oleh  KSI dan Wikimedia</i></small></center>
