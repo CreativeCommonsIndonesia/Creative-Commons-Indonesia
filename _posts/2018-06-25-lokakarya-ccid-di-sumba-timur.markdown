@@ -9,6 +9,8 @@ tags:
 - WMID
 - Dgitalisasi Koleksi Museum
 img: "/uploads/SPCCID%20Mei%2031%202018%20CCID%20di%20Sumba.jpeg"
+author: ccid
+comments: true
 ---
 
 ![SPCCID Mei 31 2018 CCID di Sumba.jpeg](/uploads/SPCCID%20Mei%2031%202018%20CCID%20di%20Sumba.jpeg){: .img-responsive .center-block }{: width="500"}<center><small><i> Lokakarya pengarsipan digital koleksi Museum Dr. H.C. Oemboe Hina Kapita oleh  KSI dan Wikimedia</i></small></center>
@@ -19,10 +21,10 @@ Pemateri pertama yakni Annayu Maharani perwakilan KSI membawakan materi mengenai
 
 Pemateri selanjutnya Rachmat Wahidi perwakilan WMID yang memaparkan mengenai "Pentingnya Pendokumentasian Benda di Museum dan Wikimedia Commons". Materi tersebut diawali dengan penjelasan fungsi dan tugas museum. Selanjutnya dijabarkan pula mengenai tahapan dokumentasi museum seperti pemilihan koleksi, katalogisasi & metadata, pendigitalisasian, penyimpanan dan diseminasi. Terakhir Rachmat mengakhiri materi dengan menjelaskan tata cara  pengunggahan ke platform Wikimedia Commons.
 
-Materi terakhir dibawakan Hilman Fathoni perwakilan CCID menyampaikan materi  mengenai Lisensi Creative Commons (CC) pada koleksi digital museum.
+Materi terakhir dibawakan Hilman Fathoni perwakilan CCID menyampaikan materi mengenai penerapan Lisensi Creative Commons (CC) pada koleksi digital museum.
 
 **Presentasi CCID**
 
 Materi diawali dengan penjelasan proses penaksiran status hak cipta ciptaan yang di dalammnya terdapat status hak cipta ciptaan yakni hak moral dan hak ekonomi. Selanjutnya berlanjut pada penjelasan subyek dan obyek perlindungan hak cipta. Tak luput juga penjelasan mengenai jenis ciptaan yang tidak dilindungi serta jangka waktu perlindungan hak cipta. Beranjak ke materi selanjutnya yakni proses pelisensian hak cipta pada ciptaan. Pada sesi ini, pemateri menjabarkan berbedaan antara lisensi terbuka dan tertutup.Kemudian dijelaskan juga ketentuan-ketentuan lisensi Creative Commons (CC) dan cara menerapkannya.
 
-Sebagai penutup, dijelaskan mengenai proses dan pengadaan sarana publikasi dan penggunaan kembali ciptaan yang terdapat pada platform-platform dan situs web yang menyediakan ciptaan digital yang berlisensi CC. Contoh-contohnya yakni Wikmedia Commons sebagai platform yang berfungsi sebagai tempat penyimpanan berkas media seperti gambar, audio, dan video. Platform ini mempermudah pencipta dalam mengunggah karyanya dan pengguna dalam mengunduh. Kemudian platform Sketkchfab yang mendukung untuk publikasi konten digital dalam format media 3D, AR dan VR. Serta situs web The British Museum yang memuat koleksi seni yang telah didigitalisasikan.
+Sebagai penutup, dijelaskan mengenai proses dan pengadaan sarana publikasi dan penggunaan kembali ciptaan yang terdapat pada platform-platform dan situs web yang menyediakan ciptaan digital yang berlisensi CC. Contoh-contohnya yakni Wikmedia Commons sebagai platform yang berfungsi sebagai tempat penyimpanan berkas media seperti gambar, audio, dan video. Platform ini mempermudah pencipta dalam mengunggah karyanya dan pengguna dalam mengunduh. Kemudian platform Sketkchfab yang mendukung untuk publikasi konten digital dalam format media 3D, AR dan VR. Serta situs web The British Museum yang memuat koleksi model 3 dimensi museum yang siap digunakan melalui platform [sketchfab](https://sketchfab.com/britishmuseum).
