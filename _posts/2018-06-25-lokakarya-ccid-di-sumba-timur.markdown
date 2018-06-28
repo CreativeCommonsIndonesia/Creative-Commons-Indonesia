@@ -1,5 +1,5 @@
 ---
-title: Lokakarya CCID di Sumba Timur
+title: CCID Turut Serta Dalam Lokakarya di Museum Dr. H.C. Oemboe Hina Kapita
 date: 2018-06-25 15:35:00 +07:00
 categories:
 - Acara
