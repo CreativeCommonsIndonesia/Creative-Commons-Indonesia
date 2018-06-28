@@ -9,17 +9,17 @@ Ketika Anda membuka situs web Sketchfab.com terdapat 3 menu utama. Menu "Explore
 
 Selain itu terdapat pula konten yang dapat diunggah gratis dan disebarkan tanpa izin langsung kepada pencipta konten tersebut dan legal. Namun dengan tetap menaati ketentuan lisensi terbuka yakni lisensi Creative Commons yang diterapkan pada konten tersebut. Ketika Anda menggunduh konten berformat 3D, Anda dapat men
 
+Berikut panduan dalam mencari konten berformat model 3D yang berlisensi CC pada paltform Sketchfab:
+
+1. Akese situs web https://sketchfab.com/
+2. klik "explorer" dan pilih pilhan downloadable
+3. 
+
 Menyediakan pilihan lisensi dengan CC
 https://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models
 
-Berikut panduan dalam mencari konten berformat model 3D yang berlisensi CC pada paltform Sketchfab:
-
-
-1. Akese situs web https://sketchfab.com/
-2.klik "explorer" dan pilih pilhan downloadable
-3. 
-
-Model 3D yang dapat diunggah nantinya dapat dihubungkan ke printer 3D untuk dicetak kebentuk 3D 
+Hasil unggahan tersebut dapat disebarkan pengguna ke suatu situs web ataupun
+ dihubungkan ke printer 3D untuk dicetak kebentuk 3D ataupun dapat dimanfaatkan untuk keperluan lainya. 
  
 
 
