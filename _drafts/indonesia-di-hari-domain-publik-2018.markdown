@@ -1,5 +1,5 @@
 ---
-title: Indonesia di Hari Domain Publik 2018
+title: Laporan Karya Bebas Hak Cipta di Indonesia Tahun 2018
 date: 2018-01-15 18:03:00 +07:00
 ---
 
