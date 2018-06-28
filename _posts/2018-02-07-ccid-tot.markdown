@@ -19,6 +19,8 @@ img: "/uploads/ToT-31012018-01%20(1).jpg"
 featured: true
 ---
 
+# **PENDAFTARAN SUDAH DITUTUP**
+
 <a href="http://creativecommons.or.id/sertifikasi-perwakilan-ccid-training-of-trainers-creative-commons-indonesia/tentang-training-of-trainers-creative-commons-indonesia/"><img style="float: left;" src="/uploads/Tentang%202.jpg" class="img-responsive" width="200"><a href="http://creativecommons.or.id/sertifikasi-perwakilan-ccid-training-of-trainers-creative-commons-indonesia/ketentuan-pelaksanaan-training-of-trainers-creative-commons-indonesia/"><img style="float: left;" src="/uploads/Ketentuan%20Pelaksanaan.jpg" class="img-responsive" width="200"><a href="http://creativecommons.or.id/sertifikasi-perwakilan-ccid-training-of-trainers-creative-commons-indonesia/sumber-belajar/"><img style="float: left;" src="/uploads/Sumber%20Belajar.jpg" class="img-responsive" width="200"><a href="http://creativecommons.or.id/sertifikasi-perwakilan-ccid-training-of-trainers-creative-commons-indonesia/pertanyaan-umum-dan-glosarium/"><img style="float: left;" src="/uploads/Pertanyaan%20Umum%20dan%20Glosarium.jpg" class="img-responsive" width="200">
 
 ![ToT-31012018-01 (1).jpg](/uploads/ToT-31012018-01%20(1).jpg){: .img-responsive .center-block }{: width="500"}
