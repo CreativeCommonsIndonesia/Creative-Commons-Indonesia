@@ -38,7 +38,7 @@ Setelah mengetahui ketentuan dan pilihan lisensi CC. Berikut panduan dalam menca
 
 ![satu.jpg](/uploads/satu.jpg)
 
-2\. klik "explorer" dan pilih downloadable
+2\. Klik "explorer" dan pilih "downloadable".
 
 ![dua.jpg](/uploads/dua.jpg)
 
@@ -46,24 +46,24 @@ Setelah mengetahui ketentuan dan pilihan lisensi CC. Berikut panduan dalam menca
 
 ![tiga.jpg](/uploads/tiga.jpg)
 
-untuk mengetahui lisensi CC yang diterapkan pada model 3 dimensi tersebut, Anda dapat melihat keterangan dibawah model dan untuk lebih jelas Anda dapat klik "more model information". Maka akan muncul tampilan sebagai berikut
+Untuk mengetahui lisensi CC yang diterapkan pada model 3 dimensi tersebut, Anda dapat melihat keterangan dibawah model dan untuk lebih jelas Anda dapat klik "more model information". Maka akan muncul tampilan sebagai berikut:
 
 ![lima.jpg](/uploads/lima.jpg)
 
-Ketika menu "more info" diklik pada keterangan lisensi CC maka akan muncul tamilan sebagai berikut.
+Ketika menu "more info" diklik pada keterangan lisensi CC maka akan muncul tamilan sebagai berikut:
 
 ![CC BY 4.0.jpg](/uploads/CC%20BY%204.0.jpg)
 
-Lebih detailnya Sketfab menyediakan laman khusus untuk panduan secara detail dalam mengunduh konten format model [ https://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models](http://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models)
+Khusus untuk panduan pengunduhan  format model 3 dimensi, Sketfab lebih detailnya menyediakan laman [ https://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models](http://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models)
 
 Hasil unggahan format model 3 D dapat disebarkan pengguna ke suatu situs web, dihubungkan ke printer 3D untuk dicetak kebentuk 3D ataupun dapat dimanfaatkan pembuatan gim dan keperluan lainya.
 
 **Koleksi The Brtish Museum  di Sketchfab**
 
-Dilansir oleh situs web [creativecommons.org ](http://creativecommons.org/2017/04/28/state-of-the-commons-2016/sketchfab-2/) pada tahun 2017, The Brtish Museum  merilis 128 koleksi museumnya yang telah didigitalisasika dalam model 3 dimensi ke platform Sketchfab. 
-
 ![The British Museum.jpg](/uploads/The%20British%20Museum.jpg)
 
-Dan kini koleksi British Museum yang ada di platform Sketchfab bertambah menjadi 249 koleksi dan akan tersebut bertambah. Hal tersebut dapat dilihat pada akun The British Museum [https://sketchfab.com/britishmuseum/models](http://sketchfab.com/britishmuseum/models).
+Dilansir oleh situs web [creativecommons.org ](http://creativecommons.org/2017/04/28/state-of-the-commons-2016/sketchfab-2/) pada tahun 2017, The Brtish Museum  merilis 128 koleksi museumnya yang telah didigitalisasika dalam model 3 dimensi ke platform Sketchfab.
 
 ![British museum di SF.jpg](/uploads/British%20museum%20di%20SF.jpg)
+
+Dan kini koleksi British Museum yang ada di platform Sketchfab bertambah menjadi 249 koleksi dan akan tersebut bertambah. Koleksi-koleksi tersebut dapat dilihat pada akun The British Museum [https://sketchfab.com/britishmuseum/models.](http://sketchfab.com/britishmuseum/models)
