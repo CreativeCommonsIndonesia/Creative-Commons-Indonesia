@@ -8,13 +8,11 @@ img: "/uploads/logo-sketchfab-grey.png"
 
 Sketchfab sebagai platform yang memberdayakan era baru kreativitas  yang memudahkan siapa saja memublikasikan, berbagi, dan menemukan konten 3D di web, AR, dan VR. Dengan komunitas lebih dari 1 juta pembuat konten yang telah memublikasikan jutaan model dan juga sebagai platform terbesar dalam pencarian dan publikasi model 3D daring. Terdapat 18 kategori konten yang tersedia seperti Animals & Pets, Architecture, Art & Abstract, Cultural History & heritage dan lain sebagainya.
 
-Pada situs web Sketchfab.com terdapat 3 menu utama. Menu "Explore"  berisikan konten-konten yang hanya bisa Anda lihat. Kemudian menu "Store" yang berisikan konten yang jika Anda ingin menguggah Anda diwajibkan untuk membayar. Selanjutnya menu "Community" yang di dalamnya terdapat pilihan kumpulan blog,forum dan juga member komunitas. Sketchfab tidah hanya menjadi wadah untuk konten-konten tersebut, namun juga membantu para anggotanya berinteraksi satu sama lain dan mendapatkan informasi terbaru.
+Pada situs web Sketchfab.com terdapat 3 menu utama. Menu "Explore"  berisikan konten-konten yang hanya bisa Anda lihat. Kemudian menu "Store" yang berisikan konten yang jika Anda ingin menguggah Anda diwajibkan untuk membayar. Selanjutnya menu "Community" yang di dalamnya terdapat pilihan kumpulan blog,forum dan juga anggota komunitas. Sketchfab  juga memfasilitasi agar para anggotanya berinteraksi satu sama lain dan mendapatkan informasi terbaru.
 
-Selain itu terdapat pula konten yang dapat diunggah gratis dan disebarkan tanpa izin langsung kepada pencipta konten tersebut dan legal. Namun dengan tetap menaati ketentuan lisensi terbuka yakni lisensi Creative Commons yang diterapkan pada konten tersebut. Ketika Anda menggunduh konten berformat 3D, Anda dapat mememilih konten yang berbayar atau tidak. Khusus konten yang tidak berbayar akan dilisensikan dengan lisensi Creative Commons.
+Selain itu terdapat pula konten yang dapat diunggah gratis dan disebarkan tanpa izin langsung kepada pencipta konten tersebut dan legal. Namun dengan tetap menaati ketentuan lisensi terbuka yakni lisensi Creative Commons (CC) yang diterapkan pada konten tersebut. Ketika Anda menggunduh konten berformat 3D, Anda dapat mememilih konten yang berbayar atau tidak. Khusus konten yang tidak berbayar akan dilisensikan dengan lisensi Creative Commons.
 
-Meskipun konten yang berlisensikan CC gratis untuk diunduh, pengguna konten tetap diwajibkan mengikuti ketentuan-ketentuan yang ada pada pilihan lisensi CC yang diterpakan oleh pencipta. Adapun 4 ketentuan CC yakni:
-
-4 spektrum ketentuan lisensi Creative Commons, yakni:
+Meskipun konten format model 3 dimensi  yang berlisensikan CC gratis untuk diunduh, pengguna tetap diwajibkan mengikuti ketentuan-ketentuan yang ada pada pilihan lisensi CC yakni:
 
 <img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="20"> - **Atribusi (BY)**
 
@@ -32,7 +30,7 @@ Spektrum ini melarang pengguna ciptaan untuk menggunakan ciptaan untuk kepenting
 
 Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan, penggubahan atau pembuatan ciptaan turunan dari ciptaan.
 
-Dari keempat ketentuan tersebut terangkai 6 pilihan lisensi CC yaitu Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id)), Creative Commons Atribusi BerbagiSerupa ([CC-BY SA](http://creativecommons.org/licenses/by-sa/4.0/deed.id)),  Creative Commons Atribusi NonKomersial ([CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.id)), Creative Commons Atribusi TanpaTurunan ([CC-BY-ND](http://creativecommons.org/licenses/by-nd/4.0/deed.id)), Creative Commons Atribusi NonKomersial BerbagiSerupa ([CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)),Creative Commons Atribusi NonKomersial TanpaTurunan ([CC-BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id)).
+Dari keempat ketentuan tersebut terangkai 6 pilihan lisensi CC yang diterapkan oleh pencipta pada ciptaanya. Keenam pilihan lisensinya  yakni Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id)), Creative Commons Atribusi BerbagiSerupa ([CC-BY SA](http://creativecommons.org/licenses/by-sa/4.0/deed.id)),  Creative Commons Atribusi NonKomersial ([CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.id)), Creative Commons Atribusi TanpaTurunan ([CC-BY-ND](http://creativecommons.org/licenses/by-nd/4.0/deed.id)), Creative Commons Atribusi NonKomersial BerbagiSerupa ([CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)),Creative Commons Atribusi NonKomersial TanpaTurunan ([CC-BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id)).
 
 Setelah mengetahui ketentuan dan pilihan lisensi CC. Berikut panduan dalam mencari konten berformat model 3D yang berlisensi CC pada paltform Sketchfab:
 
