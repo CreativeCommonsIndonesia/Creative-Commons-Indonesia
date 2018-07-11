@@ -36,7 +36,7 @@ Dari keempat ketentuan tersebut terangkai 6 pilihan lisensi CC yaitu Creative Co
 
 Setelah mengetahui ketentuan dan pilihan lisensi CC. Berikut panduan dalam mencari konten berformat model 3D yang berlisensi CC pada paltform Sketchfab:
 
-1. Akes situs web  https://[sketchfab.com/](http://sketchfab.com/)
+1. Akes situs web  [sketchfab.com/](http://sketchfab.com/)
 
 ![satu.jpg](/uploads/satu.jpg)
 
@@ -56,10 +56,9 @@ Ketika menu "more info" diklik pada keterangan lisensi CC maka akan muncul tamil
 
 ![CC BY 4.0.jpg](/uploads/CC%20BY%204.0.jpg)
 
-Lebih detailnya Sketfab menyediakan laman khusus untuk panduan secara detail dalam mengunduh konten format model  https://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models
+Lebih detailnya Sketfab menyediakan laman khusus untuk panduan secara detail dalam mengunduh konten format model [ https://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models](http://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models)
 
-Hasil unggahan tersebut dapat disebarkan pengguna ke suatu situs web ataupun
-dihubungkan ke printer 3D untuk dicetak kebentuk 3D ataupun dapat dimanfaatkan pembuatan gim dan keperluan lainya.
+Hasil unggahan format model 3 D dapat disebarkan pengguna ke suatu situs web, dihubungkan ke printer 3D untuk dicetak kebentuk 3D ataupun dapat dimanfaatkan pembuatan gim dan keperluan lainya.
 
 **Koleksi The Brtish Museum  di Sketchfab**
 
