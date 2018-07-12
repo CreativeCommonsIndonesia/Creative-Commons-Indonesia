@@ -1,7 +1,7 @@
 ---
 title: Hari Pertama Konferensi Tingkat Tinggi Dunia Creative Commons 2018 di Toronto,
   Kanada
-date: 2018-04-26 13:42:00 +07:00
+date: 2018-07-12 13:42:00 +07:00
 categories:
 - Acara
 tags:
