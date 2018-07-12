@@ -6,7 +6,7 @@ img: "/uploads/logo-sketchfab-grey.png"
 
 ![logo-sketchfab-grey.png](/uploads/logo-sketchfab-grey.png)
 
-Sketchfab adalah platform yang berupaya memberdayakan cara baru berkreasi, yaitu kreasi model 3 Dimensi (3D), yang memudahkan siapa saja untuk mengumumkan dan menggunakan konten model 3D dalam format seperti web, AR, dan VR. Jumlah pengguna  lebih dari 1 juta  yang telah memublikasikan jutaan model 3D. Platform ini menjadi salah satu penyedia konten model 3D yang terbesar. Terdapat 18 kategori konten yang tersedia seperti Animals & Pets, Art & Abstract, Cultural History & Heritage dan lain-lain sebagainya. 
+Sketchfab adalah platform yang berupaya memberdayakan cara baru berkreasi, yaitu kreasi model 3 Dimensi (3D), yang memudahkan siapa saja untuk mengumumkan dan menggunakan konten model 3D dalam format seperti web, AR, dan VR. Jumlah pengguna  lebih dari 1 juta  yang telah memublikasikan jutaan model 3D. Platform ini menjadi salah satu penyedia konten model 3D yang terbesar. Terdapat 18 kategori konten yang tersedia seperti Animals & Pets, Art & Abstract, Cultural History & Heritage dan lain-lain sebagainya.
 
 Pada situs web Sketchfab terdapat 3 menu utama yaitu menu "Explore" untuk menelusuri koleksi model 3D yang dibagikan oleh para pengguna situs,  menu "Store" yang menampilkan konten berbayar yang jika Anda ingin menguggahnya, dan selanjutnya menu "Community"  yang  disediakan agar para penggunanya dapat saling berinteraksi satu sama lain untuk memeroleh informasi terbaru.
 
@@ -14,7 +14,7 @@ Selain itu terdapat pula konten yang dapat diunggah gratis dan disebarkan tanpa 
 
 <img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="20"> - **Atribusi (BY)**
 
-Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi yang sesuai dengan informasi yang tersedia pada ciptaan yang dibagikan. Ingat , pemberian izin penggunaan konten kepada Anda bukan berarti pencipta mendukung tujuan penggunaan Anda, jadi hal ini bukan merupakan pernyataan dukungan. 
+Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi yang sesuai dengan informasi yang tersedia pada ciptaan yang dibagikan. Ingat , pemberian izin penggunaan konten kepada Anda bukan berarti pencipta mendukung tujuan penggunaan Anda, jadi hal ini bukan merupakan pernyataan dukungan.
 
 <img style="float: left;" src="/uploads/SA.png" class="img-responsive" width="20"> - **BerbagiSerupa (SA)**
 
@@ -44,19 +44,17 @@ Setelah mengetahui ketentuan dan pilihan lisensi CC. Berikut panduan dalam menca
 
 ![tiga.jpg](/uploads/tiga.jpg)
 
-Untuk mengetahui ketentuan lisensi CC yang diterapkan pada model 3D tersebut, Anda dapat melihat keterangan dibawah gambar model dan penjelasan lebih lanjut dapat Anda baca dengan mengklik tautan pada teks ketentuan lisensi yang tertera 
-
-untuk lebih jelas Anda dapat klik "more model information". Maka akan muncul tampilan sebagai berikut:
+Untuk mengetahui ketentuan lisensi CC yang diterapkan pada model 3D tersebut, Anda dapat melihat keterangan dibawah gambar model dan penjelasan lebih lanjut dapat Anda baca dengan mengklik tautan pada teks ketentuan lisensi yang tertera.
 
 ![lima.jpg](/uploads/lima.jpg)
 
-Ketika menu "more info" diklik pada keterangan lisensi CC maka akan muncul tamilan sebagai berikut:
+untuk lebih jelas Anda dapat klik "more model information". Maka akan muncul tampilan sebagai berikut:
 
 ![CC BY 4.0.jpg](/uploads/CC%20BY%204.0.jpg)
 
-Khusus untuk panduan pengunduhan  format model 3 dimensi, Sketfab lebih detailnya menyediakan laman [ https://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models](http://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models)
+Khusus untuk panduan pengunduhan  format model 3 dimensi, Sketchfab lebih lanjut  menyediakan laman [ https://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models](http://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models)
 
-Hasil unggahan format model 3 D dapat disebarkan pengguna ke suatu situs web, dihubungkan ke printer 3D untuk dicetak kebentuk 3D ataupun dapat dimanfaatkan pembuatan gim dan keperluan lainya.
+Hasil unggahan format model 3D dapat disebarkan kembali pengguna ke suatu situs web, dicetak melalui mesin pencetak model 3D, ataupun dapat dimanfaatkan pembuatan permainan video gim dan bentuk-bentuk penggunaan kembali lainya.
 
 **Koleksi The Brtish Museum  di Sketchfab**
 
