@@ -19,6 +19,10 @@ keterkaitan SDGs dengan OER https://en.unesco.org/sites/default/files/oer_study_
 
 **-Creative Commons-**
 
+Legalitas OER
+
+Lisensi yang disarankan
+
 Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni CC BY-ND atau  CC BY-NC-ND tidak disarankan. Karena sejatinya sumber pendidikan terbuka membuka peluang orang lain untuk merevisi dan mengubah materi pendidikan. 
 
 5 Unsur OER
