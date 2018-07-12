@@ -6,11 +6,11 @@ img: "/uploads/logo-sketchfab-grey.png"
 
 ![logo-sketchfab-grey.png](/uploads/logo-sketchfab-grey.png)
 
-Sketchfab adalah platform yang berupaya memberdayakan cara baru berkreasi, yaitu kreasi model 3 Dimensi (3D), yang memudahkan siapa saja untuk mengumumkan dan menggunakan konten model 3D dalam format seperti web, AR, dan VR. Jumlah pengguna  lebih dari 1 juta  yang telah memublikasikan jutaan model 3D. Platform ini menjadi salah satu penyedia konten model 3D yang terbesar. Terdapat 18 kategori konten yang tersedia seperti Animals & Pets, Art & Abstract, Cultural History & Heritage dan lain-lain sebagainya.
+Sketchfab adalah platform yang berupaya memberdayakan cara baru berkreasi, yaitu kreasi model 3 Dimensi (3D), yang memudahkan siapa saja untuk mengumumkan dan menggunakan konten model 3D dalam format seperti web, AR, dan VR. Platform ini menjadi salah satu penyedia konten model 3D yang terbesar dengan jumlah pengguna  lebih dari 1 juta  yang telah memublikasikan jutaan model 3D. Terdapat 18 kategori konten yang tersedia seperti Animals & Pets, Art & Abstract, Cultural History & Heritage dan lain-lain sebagainya.
 
-Pada situs web Sketchfab terdapat 3 menu utama yaitu menu "Explore" untuk menelusuri koleksi model 3D yang dibagikan oleh para pengguna situs,  menu "Store" yang menampilkan konten berbayar yang jika Anda ingin menguggahnya, dan selanjutnya menu "Community"  yang  disediakan agar para penggunanya dapat saling berinteraksi satu sama lain untuk memeroleh informasi terbaru.
+Pada situs web Sketchfab terdapat 3 menu utama yaitu menu "Explore" untuk menelusuri koleksi model 3D yang dibagikan oleh para pengguna situs,  menu "Store" yang menampilkan konten berbayar, dan selanjutnya menu "Community"  yang  disediakan agar para penggunanya dapat saling berinteraksi satu sama lain untuk memeroleh informasi terbaru.
 
-Selain itu terdapat pula konten yang dapat diunggah gratis dan disebarkan tanpa izin langsung kepada pencipta konten tersebut dan legal. Namun dengan tetap menaati ketentuan lisensi terbuka yakni lisensi Creative Commons (CC) yang diterapkan pada konten tersebut. Ketika Anda menggunduh konten berformat 3D, Anda dapat mememilih konten yang berbayar atau tidak. Khusus konten yang tidak berbayar akan dilisensikan dengan lisensi CC dengan ragam ketentuan sebagai berikut:
+Konten-konten format model 3D yang dapat  dapat diunggah gratis dapat disebarkan tanpa izin langsung kepada pencipta konten tersebut dan legal. Hal itu dikarenakan konten-konten tersebut berlisensi terbuka Creative Commons (CC).  Namun pengguna konten format 3D tetap harus menaati ketentuan lisensi CC yang diterapkan pada konten tersebut  dengan ragam ketentuan sebagai berikut:
 
 <img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="20"> - **Atribusi (BY)**
 
@@ -28,7 +28,7 @@ Spektrum ini melarang pengguna ciptaan dalam menggunakan ciptaan untuk kepenting
 
 Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan, penggubahan atau pembuatan ciptaan turunan dari ciptaan.
 
-Dari keempat spektrum  tersebut tersedia 6 pilihan lisensi CC yang diterapkan oleh pencipta pada ciptaanya. Keenam pilihan lisensinya  yakni Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id)), Creative Commons Atribusi BerbagiSerupa ([CC-BY SA](http://creativecommons.org/licenses/by-sa/4.0/deed.id)),  Creative Commons Atribusi NonKomersial ([CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.id)), Creative Commons Atribusi TanpaTurunan ([CC-BY-ND](http://creativecommons.org/licenses/by-nd/4.0/deed.id)), Creative Commons Atribusi NonKomersial BerbagiSerupa ([CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)),Creative Commons Atribusi NonKomersial TanpaTurunan ([CC-BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id)).
+Dari keempat spektrum  tersebut tersedia 6 pilihan lisensi CC yang diterapkan oleh pencipta pada ciptaanya. Keenam pilihan lisensinya  yakni Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id)), Creative Commons Atribusi BerbagiSerupa ([CC-BY SA](http://creativecommons.org/licenses/by-sa/4.0/deed.id)),  Creative Commons Atribusi NonKomersial ([CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.id)), Creative Commons Atribusi TanpaTurunan ([CC-BY-ND](http://creativecommons.org/licenses/by-nd/4.0/deed.id)), seperti  Creative Commons Atribusi NonKomersial BerbagiSerupa ([CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)),Creative Commons Atribusi NonKomersial TanpaTurunan ([CC-BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id)). Platform Stetchfab hanya menyediakan 4 pilihan lisensi CC bagi pencipta untuk diterapkan pada ciptaanya yakni: [CC BY](http://creativecommons.org/licenses/by/4.0/deed.id),[CC-BY SA, ](http://creativecommons.org/licenses/by-sa/4.0/deed.id)[CC-BY-NC, ](http://creativecommons.org/licenses/by-nc/4.0/deed.id)[CC-BY-ND](http://creativecommons.org/licenses/by-nd/4.0/deed.id))
 
 Setelah mengetahui ketentuan dan pilihan lisensi CC. Berikut panduan dalam mencari konten berformat model 3D yang berlisensi CC pada paltform Sketchfab:
 
@@ -52,7 +52,7 @@ untuk lebih jelas Anda dapat klik "more model information". Maka akan muncul tam
 
 ![CC BY 4.0.jpg](/uploads/CC%20BY%204.0.jpg)
 
-Khusus untuk panduan pengunduhan  format model 3 dimensi, Sketchfab lebih lanjut  menyediakan laman [ https://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models](http://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models)
+Khusus untuk panduan pengunduhan  format model 3D, Sketchfab lebih lanjut  menyediakan laman berikut [https://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models](http://help.sketchfab.com/hc/en-us/articles/201368589-Downloading-Models)
 
 Hasil unggahan format model 3D dapat disebarkan kembali pengguna ke suatu situs web, dicetak melalui mesin pencetak model 3D, ataupun dapat dimanfaatkan pembuatan permainan video gim dan bentuk-bentuk penggunaan kembali lainya.
 
@@ -60,7 +60,7 @@ Hasil unggahan format model 3D dapat disebarkan kembali pengguna ke suatu situs 
 
 ![The British Museum.jpg](/uploads/The%20British%20Museum.jpg)
 
-Dari situs web [creativecommons.org, ](http://creativecommons.org/2017/04/28/state-of-the-commons-2016/sketchfab-2/)pada tahun 2017 The Brtish Museum menerbitkan 128 koleksi museumnya yang telah didigitalisasikan dalam format model 3D dan dilisensikan CC  ke platform Sketchfab.
+Dari situs web [creativecommons.org,](http://creativecommons.org/2017/04/28/state-of-the-commons-2016/sketchfab-2/)pada tahun 2017 The Brtish Museum menerbitkan 128 koleksi museumnya yang telah didigitalisasikan dalam format model 3D dan dilisensikan CC  ke platform Sketchfab.
 
 ![British museum di SF.jpg](/uploads/British%20museum%20di%20SF.jpg)
 
