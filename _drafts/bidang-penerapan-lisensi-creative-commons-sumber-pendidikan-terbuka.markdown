@@ -23,11 +23,11 @@ Lisensi yang disarankan** **(yang gk ada ketentuan TanpaTurunan)
 
 Sumber : ** **  
 
-Open Educational Resources Commons (OER Commons) menyediakan akses satu pintu untuk mengakses 30.000 materi dengan lebih dari 120 akun pembuat konten, Encyclopedia of Life (EoL) menyediakan ensiklopedia kolaboratif online yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi,  Public Library of Science (PLOS) Organisasi  penerbitan dan advokasi nirlaba berlisensi CC yang berfokus pada sains dan kedokteran.  
+Open Educational Resources Commons (OER Commons) menyediakan akses satu pintu untuk mengakses 30.000 materi dengan lebih dari 120 akun pembuat konten, Encyclopedia of Life (EoL) menyediakan ensiklopedia kolaboratif online yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi,  Public Library of Science (PLOS) organisasi  penerbitan dan advokasi nirlaba berlisensi CC yang berfokus pada sains dan kedokteran.  
 
 Proyek: 
 
-School of Open, Open Policy Network. 
+School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis untuk siapa saja yang ingin belajar mengenai arti dan dampak dari lisensi dan sumber terbuka , Open Policy Network adalah  koalisi para ahli yang berkerja untuk mendorong pembuatan, adopsi, dan penerapan kebijakan dan praktik terbuka yang memajukan kepentingan publik. 
 
 **Di Indonesia**
 Institusi pendidikan yang menjadikan materi pendidikannya sebagai OER yakni  Universitas Terbuka dan juga lembaga swadaya  Ini Budi. Keduanya menerapkan lisensi CC pada sumber pendidikanya.
