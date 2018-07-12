@@ -7,6 +7,8 @@ Dalam perkembangannya, penerapan-penerapan lisensi Creative Commons (CC) terbagi
 
 **Sumber Pendidikan Terbuka/Open Educational Resource**
 
+https://en.wikipedia.org/wiki/Open_educational_resources
+
 Gerakan ini muncul karena tingginya biaya untuk mengakses atau mendapatkan pendidikan. Hal ini kemudian dirasa sebagai sebuah ketidakadilan bagi pihak-pihak yang paling membutuhkan. Hak untuk mendapatkan ilmu pengetahuan pada hakekatnya merupakan milik semua orang.
 
 Menurut [UNESCO](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-are-open-educational-resources-oers/) Sumber pengajaran terbuka adalah materi pengajaran, pembelajaran dan penelitian di segala media yang termasuk dalam domain publik atau sudah diterpkan lisensi terbuka yang tidak memerlukan izin dan bebas biaya untuk mengakses, penggunaan, adaptasi dan penyebaran kembali oleh orang lain. OER dapat berwujud buku teks hingga kurikulum, silabus, catatan kuliah, tugas, tes, proyek, audio, video dan animasi.
