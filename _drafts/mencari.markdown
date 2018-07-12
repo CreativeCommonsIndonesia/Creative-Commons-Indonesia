@@ -6,9 +6,9 @@ img: "/uploads/logo-sketchfab-grey.png"
 
 ![logo-sketchfab-grey.png](/uploads/logo-sketchfab-grey.png)
 
-Sketchfab sebagai platform yang memberdayakan era baru kreativitas  yang memudahkan siapa saja memublikasikan, berbagi, dan menemukan konten 3D di web, AR, dan VR. Dengan komunitas lebih dari 1 juta pembuat konten yang telah memublikasikan jutaan model dan juga sebagai platform terbesar dalam pencarian dan publikasi model 3D daring. Terdapat 18 kategori konten yang tersedia seperti Animals & Pets, Architecture, Art & Abstract, Cultural History & heritage dan lain sebagainya.
+Sketchfab adalah platform yang berupaya memberdayakan cara baru berkreasi, yaitu kreasi model 3 Dimensi (3D), yang memudahkan siapa saja untuk mengumumkan dan menggunakan konten model 3D dalam format seperti web, AR, dan VR. Jumlah pengguna  lebih dari 1 juta  yang telah memublikasikan jutaan model 3D. Platform ini menjadi salah satu penyedia konten model 3D yang terbesar. Terdapat 18 kategori konten yang tersedia seperti Animals & Pets, Art & Abstract, Cultural History & Heritage dan lain-lain sebagainya. 
 
-Pada situs web Sketchfab.com terdapat 3 menu utama. Menu "Explore"  berisikan konten-konten yang hanya bisa Anda lihat. Kemudian menu "Store" yang berisikan konten yang jika Anda ingin menguggah Anda diwajibkan untuk membayar. Selanjutnya menu "Community" yang di dalamnya terdapat pilihan kumpulan blog,forum dan juga anggota komunitas. Sketchfab  juga memfasilitasi agar para anggotanya berinteraksi satu sama lain dan mendapatkan informasi terbaru.
+Pada situs web Sketchfab terdapat 3 menu utama yaitu menu "Explore" untuk menelusuri koleksi model 3D yang dibagikan oleh para pengguna situs,  menu "Store" yang menampilkan konten berbayar yang jika Anda ingin menguggahnya, dan selanjutnya menu "Community"  yang  disediakan agar para penggunanya dapat saling berinteraksi satu sama lain untuk memeroleh informasi terbaru.
 
 Selain itu terdapat pula konten yang dapat diunggah gratis dan disebarkan tanpa izin langsung kepada pencipta konten tersebut dan legal. Namun dengan tetap menaati ketentuan lisensi terbuka yakni lisensi Creative Commons (CC) yang diterapkan pada konten tersebut. Ketika Anda menggunduh konten berformat 3D, Anda dapat mememilih konten yang berbayar atau tidak. Khusus konten yang tidak berbayar akan dilisensikan dengan lisensi Creative Commons.
 
