@@ -18,17 +18,17 @@ Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan un
 
 <img style="float: left;" src="/uploads/SA.png" class="img-responsive" width="20"> - **BerbagiSerupa (SA)**
 
-Spektrum ini hanya berlaku ketika ciptaan mengubah, menggubah, atau membuat turunan dari ciptaan. Setiap perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
+Spektrum ini hanya berlaku ketika ciptaan diubah, digubah, dan dibuat turunannya. Hasil perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
 
 <img style="float: left;" src="/uploads/NC.png" class="img-responsive" width="20"> - **NonKomersial (NC)**
 
-Spektrum ini melarang pengguna ciptaan untuk menggunakan ciptaan untuk kepentingan komersial apapun.
+Spektrum ini melarang pengguna ciptaan dalam menggunakan ciptaan untuk kepentingan komersial.
 
 <img style="float: left;" src="/uploads/ND.png" class="img-responsive" width="20"> - **TanpaTurunan (ND)**
 
 Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan, penggubahan atau pembuatan ciptaan turunan dari ciptaan.
 
-Dari keempat ketentuan tersebut terangkai 6 pilihan lisensi CC yang diterapkan oleh pencipta pada ciptaanya. Keenam pilihan lisensinya  yakni Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id)), Creative Commons Atribusi BerbagiSerupa ([CC-BY SA](http://creativecommons.org/licenses/by-sa/4.0/deed.id)),  Creative Commons Atribusi NonKomersial ([CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.id)), Creative Commons Atribusi TanpaTurunan ([CC-BY-ND](http://creativecommons.org/licenses/by-nd/4.0/deed.id)), Creative Commons Atribusi NonKomersial BerbagiSerupa ([CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)),Creative Commons Atribusi NonKomersial TanpaTurunan ([CC-BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id)).
+Dari keempat spektrum  tersebut tersedia 6 pilihan lisensi CC yang diterapkan oleh pencipta pada ciptaanya. Keenam pilihan lisensinya  yakni Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id)), Creative Commons Atribusi BerbagiSerupa ([CC-BY SA](http://creativecommons.org/licenses/by-sa/4.0/deed.id)),  Creative Commons Atribusi NonKomersial ([CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.id)), Creative Commons Atribusi TanpaTurunan ([CC-BY-ND](http://creativecommons.org/licenses/by-nd/4.0/deed.id)), Creative Commons Atribusi NonKomersial BerbagiSerupa ([CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)),Creative Commons Atribusi NonKomersial TanpaTurunan ([CC-BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id)).
 
 Setelah mengetahui ketentuan dan pilihan lisensi CC. Berikut panduan dalam mencari konten berformat model 3D yang berlisensi CC pada paltform Sketchfab:
 
@@ -44,7 +44,9 @@ Setelah mengetahui ketentuan dan pilihan lisensi CC. Berikut panduan dalam menca
 
 ![tiga.jpg](/uploads/tiga.jpg)
 
-Untuk mengetahui lisensi CC yang diterapkan pada model 3 dimensi tersebut, Anda dapat melihat keterangan dibawah model dan untuk lebih jelas Anda dapat klik "more model information". Maka akan muncul tampilan sebagai berikut:
+Untuk mengetahui ketentuan lisensi CC yang diterapkan pada model 3D tersebut, Anda dapat melihat keterangan dibawah gambar model dan penjelasan lebih lanjut dapat Anda baca dengan mengklik tautan pada teks ketentuan lisensi yang tertera 
+
+untuk lebih jelas Anda dapat klik "more model information". Maka akan muncul tampilan sebagai berikut:
 
 ![lima.jpg](/uploads/lima.jpg)
 
