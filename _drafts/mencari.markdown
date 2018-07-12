@@ -10,13 +10,11 @@ Sketchfab adalah platform yang berupaya memberdayakan cara baru berkreasi, yaitu
 
 Pada situs web Sketchfab terdapat 3 menu utama yaitu menu "Explore" untuk menelusuri koleksi model 3D yang dibagikan oleh para pengguna situs,  menu "Store" yang menampilkan konten berbayar yang jika Anda ingin menguggahnya, dan selanjutnya menu "Community"  yang  disediakan agar para penggunanya dapat saling berinteraksi satu sama lain untuk memeroleh informasi terbaru.
 
-Selain itu terdapat pula konten yang dapat diunggah gratis dan disebarkan tanpa izin langsung kepada pencipta konten tersebut dan legal. Namun dengan tetap menaati ketentuan lisensi terbuka yakni lisensi Creative Commons (CC) yang diterapkan pada konten tersebut. Ketika Anda menggunduh konten berformat 3D, Anda dapat mememilih konten yang berbayar atau tidak. Khusus konten yang tidak berbayar akan dilisensikan dengan lisensi Creative Commons.
-
-Meskipun konten format model 3 dimensi  yang berlisensikan CC gratis untuk diunduh, pengguna tetap diwajibkan mengikuti ketentuan-ketentuan yang ada pada pilihan lisensi CC yakni:
+Selain itu terdapat pula konten yang dapat diunggah gratis dan disebarkan tanpa izin langsung kepada pencipta konten tersebut dan legal. Namun dengan tetap menaati ketentuan lisensi terbuka yakni lisensi Creative Commons (CC) yang diterapkan pada konten tersebut. Ketika Anda menggunduh konten berformat 3D, Anda dapat mememilih konten yang berbayar atau tidak. Khusus konten yang tidak berbayar akan dilisensikan dengan lisensi CC dengan ragam ketentuan sebagai berikut:
 
 <img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="20"> - **Atribusi (BY)**
 
-Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi dalam format yang sesuai dengan tempat ciptaan dibagikan, tanpa memberikan tambahan pernyataan dukungan dari pencipta terkait penggunaan ciptaan tersebut.
+Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi yang sesuai dengan informasi yang tersedia pada ciptaan yang dibagikan. Ingat , pemberian izin penggunaan konten kepada Anda bukan berarti pencipta mendukung tujuan penggunaan Anda, jadi hal ini bukan merupakan pernyataan dukungan. 
 
 <img style="float: left;" src="/uploads/SA.png" class="img-responsive" width="20"> - **BerbagiSerupa (SA)**
 
