@@ -3,7 +3,7 @@ title: 'Bidang Penerapan Lisensi Creative Commons:  Sumber Pendidikan Terbuka'
 date: 2018-07-12 17:43:00 +07:00
 ---
 
-Dalam perkembangannya, penerapan-penerapan lisensi CC terbagi menjadi beberapa bidang pergerakan. Salah satunya yakni Open Educational Resource (OER) yang padanan dalam bahasa indonesianya yakni Sumber Pendidikan Terbuka.
+Dalam perkembangannya, penerapan-penerapan lisensi Creative Commons terbagi menjadi beberapa bidang pergerakan. Salah satunya yakni Open Educational Resource (OER) yang padanan dalam bahasa indonesianya yakni Sumber Pendidikan Terbuka.
 
 **Sumber Pendidikan Terbuka/Open Educational Resource**
 
