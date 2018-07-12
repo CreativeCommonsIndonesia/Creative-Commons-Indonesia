@@ -60,7 +60,7 @@ Hasil unggahan format model 3D dapat disebarkan kembali pengguna ke suatu situs 
 
 ![The British Museum.jpg](/uploads/The%20British%20Museum.jpg)
 
-Dilansir oleh situs web [creativecommons.org ](http://creativecommons.org/2017/04/28/state-of-the-commons-2016/sketchfab-2/) pada tahun 2017, The Brtish Museum  merilis 128 koleksi museumnya yang telah didigitalisasika dalam model 3 dimensi ke platform Sketchfab.
+Dari situs web [creativecommons.org, ](http://creativecommons.org/2017/04/28/state-of-the-commons-2016/sketchfab-2/)pada tahun 2017 The Brtish Museum menerbitkan 128 koleksi museumnya yang telah didigitalisasikan dalam format model 3D dan dilisensikan CC  ke platform Sketchfab.
 
 ![British museum di SF.jpg](/uploads/British%20museum%20di%20SF.jpg)
 
