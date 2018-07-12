@@ -19,11 +19,11 @@ img: "/uploads/Haiku_2008-02-19.png"
 
 **Keberadaan artikel ini bukan merupakan pernyataan dukungan terhadap pihak manapun, aktivitas  atau tujuan-tujuan apapun yang terkait dengan proyek tersebut.**
 
-![Haiku_2008-02-19.png](/uploads/Haiku_2008-02-19.png){: .img-responsive .center-block }{: width="500"}<center><small><i>Logo Haiku. Gambar diambil oleh <a href="https://commons.wikimedia.org/wiki/User:KAMiKAZOW">KAMiKAZOW</a><a href="https://commons.wikimedia.org/wiki/Category:Expat/MIT_License>Lisensi MIT</a></i></small></center>
+![Haiku_2008-02-19.png](/uploads/Haiku_2008-02-19.png){: .img-responsive .center-block }{: width="500"}<center><small><i>Logo Haiku. Gambar diambil oleh <a href="https://commons.wikimedia.org/wiki/User:KAMiKAZOW">KAMiKAZOW</a>,<a href="https://commons.wikimedia.org/wiki/Category:Expat/MIT_License">Lisensi MIT</a></i></small></center>
 
-[Haiku](https://id.wikipedia.org/wiki/Haiku_(sistem_operasi)) pada awalnya adalah sebuah proyeks sistem operasi terbuka bernama [BeOS](https://en.wikipedia.org/wiki/BeOS) yang terhenti pengembangannya akibat akusisi Be Inc oleh [Palm Inc](https://en.wikipedia.org/wiki/Palm,_Inc.) pada tahun 2001. Kejadian ini menyebabkan para pengguna BeOS kehilangan sumber pemutakhiran dan para pengembangnya tertahan karena ketiadaan perangkat pendukung sistem operasi tersebut. Akhirnya, banyak dari pengguna BeOS berinisiatif untuk turut serta mengembangkan sistem operasi ini ke berbagai versi. Dari inisiatif tersebut muncul nama-nama seperti Cosmoe atau BlueEyesOS. Di antara banyak hasil kembangan, yang paling sukses ialah OpenBeOS, di mana hampir keseluruhan sistem ditulis ulang dan sumber kode sistem operasi tersebut diurus supaya kompatibel dengan banyak perangkat lunak. 
+[Haiku](https://id.wikipedia.org/wiki/Haiku_(sistem_operasi)) pada awalnya adalah sebuah proyeks sistem operasi terbuka bernama [BeOS](https://en.wikipedia.org/wiki/BeOS) yang terhenti pengembangannya akibat akusisi Be Inc oleh [Palm Inc](https://en.wikipedia.org/wiki/Palm,_Inc.) pada tahun 2001. Kejadian ini menyebabkan para pengguna BeOS kehilangan sumber pemutakhiran dan para pengembangnya tertahan karena ketiadaan perangkat pendukung sistem operasi tersebut. Akhirnya, banyak dari pengguna BeOS berinisiatif untuk turut serta mengembangkan sistem operasi ini ke berbagai versi. Dari inisiatif tersebut muncul nama-nama seperti Cosmoe atau BlueEyesOS. Di antara banyak hasil kembangan, yang paling sukses ialah OpenBeOS, di mana hampir keseluruhan sistem ditulis ulang dan sumber kode sistem operasi tersebut diurus supaya kompatibel dengan banyak perangkat lunak.
 
-OpenBeOS secara resmi diterbitkan pada tahun 2002. Sistem operasi yang diterbitkan pada tahun tersebut ialah versi buatan para kontributor yang merupakan versi terbaru dan terbuka untuk BeOS 5.0.3. Dengan tetap berjalannya proyek ini, nama baru ditentukan secara demokratis oleh para pengguna sistem operasi ini dalam helatan Walter Con. Nama sistem operasi ini berubah menajdi Haiku untuk menghindari risiko sengketa hak atas mereka dagang sistem operasi ini yang kini dipegang oleh Palm Inc. Haiku kemudian diresmikan menjadi sebuah organisasi nirlaba bernama [Haiku Inc](http://www.haiku-os.org/about/haiku_inc) pada tahun 2001 oleh Michael Phipps untuk mendukung keberlanjutan sistem operasi ini. 
+OpenBeOS secara resmi diterbitkan pada tahun 2002. Sistem operasi yang diterbitkan pada tahun tersebut ialah versi buatan para kontributor yang merupakan versi terbaru dan terbuka untuk BeOS 5.0.3. Dengan tetap berjalannya proyek ini, nama baru ditentukan secara demokratis oleh para pengguna sistem operasi ini dalam helatan Walter Con. Nama sistem operasi ini berubah menajdi Haiku untuk menghindari risiko sengketa hak atas mereka dagang sistem operasi ini yang kini dipegang oleh Palm Inc. Haiku kemudian diresmikan menjadi sebuah organisasi nirlaba bernama [Haiku Inc](http://www.haiku-os.org/about/haiku_inc) pada tahun 2001 oleh Michael Phipps untuk mendukung keberlanjutan sistem operasi ini.
 
 Tahukah Anda?
 
@@ -33,8 +33,9 @@ Sistem operasi Haiku menganut asas keterbukaan dengan menerapkan lisensi terbuka
 
 Ketentuan lisensi ini mengizinkan setiap pengguna perangkat lunak untuk:
 
-- Mengakses dan mengambil kopi dari perangkat lunak beserta data dokumentasinya;
-- Memanfaatkan perangkat lunak beserta data dokumentasinya untuk digandakan, dimodifkasi, digabungkan, disebarluaskan, dilisensikan kembali, digunakan dalam kepentingan komersial, dan memperbolehkan pengguna lain untuk mendapatkan akses terhadap perangkat lunak beserta data dokumentasinya tanpa pembatasan;
+* Mengakses dan mengambil kopi dari perangkat lunak beserta data dokumentasinya;
+
+* Memanfaatkan perangkat lunak beserta data dokumentasinya untuk digandakan, dimodifkasi, digabungkan, disebarluaskan, dilisensikan kembali, digunakan dalam kepentingan komersial, dan memperbolehkan pengguna lain untuk mendapatkan akses terhadap perangkat lunak beserta data dokumentasinya tanpa pembatasan;
 
 Dengan syarat:
 
