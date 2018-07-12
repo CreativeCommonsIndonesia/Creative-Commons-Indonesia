@@ -1,6 +1,12 @@
 ---
 title: Konten Format Model 3 Dimensi Berilsensi CC di Platform Sketchfab
 date: 2018-06-28 11:46:00 +07:00
+categories:
+- Berita
+tags:
+- Model 3D
+- Lisensi Terbuka
+- Lisensi Creative Commons
 img: "/uploads/logo-sketchfab-grey.png"
 ---
 
