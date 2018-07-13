@@ -59,7 +59,7 @@ Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND
 
 **OER Sebagai Gerakan   **https://en.wikipedia.org/wiki/Open_educational_resources
 
-Gerakan OERi muncul karena adanya kepedulian yang sama dari pemerhati pendidikan di berbagai negara akan tingginya biaya untuk mengakses atau mendapatkan pendidikan. Mereka berkumpul dalam konferens yang khsusus membahas OER. Tercatat sudah tersengelara 2 konferensi tingkat tinggi [OER di paris pada tahun 2012](http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-is-the-2012-world-open-educational-resources-congress-and-what-are-its-aims/) dan  [di Ljubljana, Slovenia 2017](http://www.oercongress.org/)
+Gerakan OER  muncul karena adanya kepedulian yang sama dari pemerhati pendidikan dari berbagai negara akan tingginya biaya untuk mengakses atau mendapatkan pendidikan. Mereka berkumpul dalam konferens yang khsusus membahas OER. Tercatat sudah tersengelara 2 konferensi tingkat tinggi [OER di paris pada tahun 2012](http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-is-the-2012-world-open-educational-resources-congress-and-what-are-its-aims/) dan  [di Ljubljana, Slovenia 2017](http://www.oercongress.org/)
 
 Organisasi yang terlibat pada gerakan OER: UNESCO, Creative Commons. Wikimedia. UNESCO juga mengatakan bahwa adanya OER ini turut serta selaras dengan tujuan berkelanjutan di 2013 atau "Sustainable Develeopment Goals/ [SDGs](http://en.unesco.org/sites/default/files/oer_study_march_2017.pdf)" khususnya di poin 4 yakni keadilan dalam akses pendidikan.  
 
@@ -69,11 +69,11 @@ Open Educational Resources Commons (OER Commons) menyediakan akses satu pintu un
 
 School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis untuk siapa saja yang ingin belajar mengenai arti dan dampak dari lisensi dan sumber terbuka , Open Policy Network adalah  koalisi para ahli yang berkerja untuk mendorong pembuatan, adopsi, dan penerapan kebijakan dan praktik terbuka yang memajukan kepentingan publik.
 
-https://opensource.com/article/17/2/future-textbooks-cable-green-creative-commons
-
 ** OER  di  Indonesia**
 
 Menurut undang-undang dasar 1945 "Pendidikan adalah hak segala bangsa". Berbagai macam permasalahn pendidikan di  Indonesia. Dengan  adanya OER ini diharapkan bisa menjadi solusi permasalahan pendidikan di Indonesia. Beberapa negara telah menerapkan OER dan berhasil. Kampus-kampus ternama seperri MIT juga telah memublikasikan sumber pendidikannya sebagai OER. 
 
-Pembuat konten sumber pendidikan sudah semakin banyak di Indonesia seperti )...,...,..). Hal tersebut tidak serta merta turut memperbanyak  sumber pembelajaran terbuka. Akan tetapi ada institusi dan organisasi nirlaba yang menerapkan model OER pada konten pendidikannya seperti. repisitori kemendikbud yang turut serta mengikuti konferensi UNESCo, Materi pendidikan universitas terbuka, organisasi nirlaba ini budi.  
+Pembuat konten sumber pendidikan sudah semakin banyak di Indonesia seperti )...,...,..). Hal tersebut tidak serta merta turut memperbanyak  sumber pembelajaran terbuka. Akan tetapi ada institusi dan organisasi nirlaba yang menerapkan model OER pada konten pendidikannya seperti. repisitori kemendikbud yang turut serta mengikuti konferensi UNESCO, Materi pendidikan universitas terbuka, organisasi nirlaba ini budi.  
 Institusi pendidikan yang menjadikan materi pendidikannya sebagai OER yakni  Universitas Terbuka dan juga lembaga swadaya  Ini Budi. Keduanya menerapkan lisensi CC pada sumber pendidikanya.
+
+https://opensource.com/article/17/2/future-textbooks-cable-green-creative-commons
