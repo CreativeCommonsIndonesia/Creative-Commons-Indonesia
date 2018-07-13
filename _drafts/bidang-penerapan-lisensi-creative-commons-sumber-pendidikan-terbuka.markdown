@@ -14,25 +14,13 @@ Lantas apakah ada  model sumber pembelajaran yang gratis dan legal pengunaan/ pe
 
 \(foto SPT)
 
-Gerakan ini muncul karena tingginya biaya untuk mengakses atau mendapatkan pendidikan. Hal ini kemudian dirasa sebagai sebuah ketidakadilan bagi pihak-pihak yang paling membutuhkan. Hak untuk mendapatkan ilmu pengetahuan pada hakekatnya merupakan milik semua orang.
-
 OER merupakan sebuah istilah yang didefinisikan oleh berbagai lembaga ataupun organisasi. UNESCO salah satu organisasi internasional yang turut serta memberikan definisi mengenai OER.Menurut [UNESCO:](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-are-open-educational-resources-oers/)
 
 > Sumber pengajaran terbuka adalah materi pengajaran, pembelajaran dan penelitian di segala media yang termasuk dalam domain publik atau sudah diterapkan lisensi terbuka yang tidak memerlukan izin dan bebas biaya untuk mengakses, penggunaan, adaptasi dan penyebaran kembali oleh orang lain. OER dapat berwujud buku teks hingga kurikulum, silabus, catatan kuliah, tugas, tes, proyek, audio, video dan animasi.
 
-Suatu konten sumber pendidikan dinyatakan terbuka jika menganut 5 prinsip yakni:
+Suatu sumber pendidikan dinyatakan sebagai sumber pendidikan terbuka jika menganut 5 prinsip yakni:
 
-1. 
-
-2. 
-
-3. 
-
-4. 
-
-5. 
-
-Dari penjelasan  di atas selain gratis konten sumber pendidikan terbuka juga harus diterapkan lisensi terbuka. Apa itu lisneis terbuka?
+Lisensi terbuka menjadi salah satu syaratnya. lantas apakah lisensi terbuka itu?
 
 ** Lisensi Terbuka Creative Commons**
 
@@ -42,11 +30,11 @@ Lisensi terbuka yakni lisensi yang menganut prinsip "Some Right Reserved"  atau 
 
 Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni CC BY-ND atau  CC BY-NC-ND tidak disarankan. Karena sejatinya sumber pendidikan terbuka membuka peluang orang lain untuk merevisi dan mengubah materi pendidikan.
 
-**Sumber Pendidikan Terbuka/Open Educational Resource**
+**OER Sebagai Gerakan**
+
+Gerakan OERi muncul karena tingginya biaya untuk mengakses atau mendapatkan pendidikan. Hal ini kemudian dirasa sebagai sebuah ketidakadilan bagi pihak-pihak yang paling membutuhkan. Hak untuk mendapatkan ilmu pengetahuan pada hakekatnya merupakan milik semua orang. Di sekala global telah menjadi perhatian khusus para pemerhati pendidikan terkait OER ini. Setidaknya telah diadakan konferensi tingkat dunia sebanyak dua kali. Pertama di Paris 2012 http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-is-the-2012-world-open-educational-resources-congress-and-what-are-its-aims/.  kedua di Ljubljana, Slovenia 2017   (http://www.oercongress.org/)
 
 https://en.wikipedia.org/wiki/Open_educational_resources
-
-Tercatat telah  diadakan 2x kongres international. Pertama di Paris 2012 http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-is-the-2012-world-open-educational-resources-congress-and-what-are-its-aims/.  kedua di Ljubljana, Slovenia 2017   (http://www.oercongress.org/)
 
 keterkaitan SDGs dengan OER https://en.unesco.org/sites/default/files/oer_study_march_2017.pdf
 
@@ -62,5 +50,5 @@ https://opensource.com/article/17/2/future-textbooks-cable-green-creative-common
 
 ** OER  di  Indonesia**
 
-
+Pembuat konten sumber pendidikan sudah semakin banyak di Indonesia seperti )...,...,..). Hal tersebut tidak serta merta turut memperbanyak  sumber pembelajaran terbuka. Akan tetapi ada institusi dan organisasi nirlaba yang menerapkan model OER pada konten pendidikannya seperti. repisitori kemendikbud yang turut serta mengikuti konferensi UNESCo, Materi pendidikan universitas terbuka, organisasi nirlaba ini budi.  
 Institusi pendidikan yang menjadikan materi pendidikannya sebagai OER yakni  Universitas Terbuka dan juga lembaga swadaya  Ini Budi. Keduanya menerapkan lisensi CC pada sumber pendidikanya.
