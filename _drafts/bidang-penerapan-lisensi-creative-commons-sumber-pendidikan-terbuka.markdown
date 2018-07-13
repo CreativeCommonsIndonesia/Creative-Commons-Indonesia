@@ -35,11 +35,27 @@ Lisensi terbuka yakni lisensi yang menganut prinsip "Some Right Reserved"  atau 
 
 ![creative-commons.jpg](/uploads/creative-commons.jpg)
 
-Untuk mengenal lisensi CC, pertama-tama perlu diketahui , empat ketentuan lisensi CC yakni: BY, SA, NC dan ND. 
+Untuk mengenal lisensi CC, pertama-tama perlu diketahui 4 ketentuan lisensi CC yakni:
+
+<img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="20"> - **Atribusi (BY)**
+
+Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi yang sesuai dengan informasi yang tersedia pada ciptaan yang dibagikan. Ingat , pemberian izin penggunaan konten kepada Anda bukan berarti pencipta mendukung tujuan penggunaan Anda, jadi hal ini bukan merupakan pernyataan dukungan.
+
+<img style="float: left;" src="/uploads/SA.png" class="img-responsive" width="20"> - **BerbagiSerupa (SA)**
+
+Spektrum ini hanya berlaku ketika ciptaan diubah, digubah, dan dibuat turunannya. Hasil perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
+
+<img style="float: left;" src="/uploads/NC.png" class="img-responsive" width="20"> - **NonKomersial (NC)**
+
+Spektrum ini melarang pengguna ciptaan dalam menggunakan ciptaan untuk kepentingan komersial.
+
+<img style="float: left;" src="/uploads/ND.png" class="img-responsive" width="20"> - **TanpaTurunan (ND)**
 
 ![oer_cc-by_license-650x479.png](/uploads/oer_cc-by_license-650x479.png)
 
-.Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni CC BY-ND atau  CC BY-NC-ND tidak disarankan. Karena sejatinya sumber pendidikan terbuka membuka peluang orang lain untuk merevisi dan mengubah materi pendidikan
+Empat ketentuan tersebut tersedia 6 pilihan lisensi CC yang diterapkan oleh pencipta pada ciptaanya. Keenam pilihan lisensinya  yakni Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id)), Creative Commons Atribusi BerbagiSerupa ([CC-BY SA](http://creativecommons.org/licenses/by-sa/4.0/deed.id)),  Creative Commons Atribusi NonKomersial ([CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.id)), Creative Commons Atribusi TanpaTurunan ([CC-BY-ND](http://creativecommons.org/licenses/by-nd/4.0/deed.id)), seperti  Creative Commons Atribusi NonKomersial BerbagiSerupa ([CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)),Creative Commons Atribusi NonKomersial TanpaTurunan ([CC-BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id)). Pada Stetchfab hanya tersedia 4 pilihan lisensi CC bagi pencipta untuk diterapkan pada ciptaanya yakni: [CC BY](http://creativecommons.org/licenses/by/4.0/deed.id), [CC-BY SA, ](http://creativecommons.org/licenses/by-sa/4.0/deed.id)[CC-BY-NC, ](http://creativecommons.org/licenses/by-nc/4.0/deed.id)[CC-BY-ND. ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)
+
+Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND   ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)dan [CC-BY-NC-ND ](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) tidak disarankan. Karena sejatinya sumber pendidikan terbuka membuka peluang orang lain untuk merevisi dan mengubah materi pendidikan
 
 **OER Sebagai Gerakan   **https://en.wikipedia.org/wiki/Open_educational_resources
 
