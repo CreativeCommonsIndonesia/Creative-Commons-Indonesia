@@ -57,7 +57,7 @@ Empat ketentuan tersebut tersedia 6 pilihan lisensi CC yang diterapkan oleh penc
 
 Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND   ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)dan [CC-BY-NC-ND ](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) tidak disarankan. Karena sejatinya sumber pendidikan terbuka membuka peluang orang lain untuk merevisi dan mengubah materi pendidikan
 
-**OER Sebagai Gerakan   **https://en.wikipedia.org/wiki/Open_educational_resources
+**OER Sebagai Gerakan   **
 
 Gerakan OER  muncul karena adanya kepedulian yang sama dari pemerhati pendidikan dari berbagai negara akan tingginya biaya untuk mengakses atau mendapatkan pendidikan. Mereka berkumpul dalam konferens yang khsusus membahas OER. Tercatat sudah tersengelara 2 konferensi tingkat tinggi [OER di paris pada tahun 2012](http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-is-the-2012-world-open-educational-resources-congress-and-what-are-its-aims/) dan  [di Ljubljana, Slovenia 2017](http://www.oercongress.org/)
 
@@ -77,3 +77,5 @@ Pembuat konten sumber pendidikan sudah semakin banyak di Indonesia seperti )...,
 Institusi pendidikan yang menjadikan materi pendidikannya sebagai OER yakni  Universitas Terbuka dan juga lembaga swadaya  Ini Budi. Keduanya menerapkan lisensi CC pada sumber pendidikanya.
 
 https://opensource.com/article/17/2/future-textbooks-cable-green-creative-commons
+
+https://en.wikipedia.org/wiki/Open_educational_resources
