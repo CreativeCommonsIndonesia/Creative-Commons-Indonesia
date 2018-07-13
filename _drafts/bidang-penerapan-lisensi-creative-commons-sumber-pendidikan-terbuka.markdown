@@ -53,7 +53,7 @@ https://opensource.com/article/17/2/future-textbooks-cable-green-creative-common
 
 ** OER  di  Indonesia**
 
- (Pendidikan hak segala bangsa)
+Menurut undang-undnag dasar 
 
 Pembuat konten sumber pendidikan sudah semakin banyak di Indonesia seperti )...,...,..). Hal tersebut tidak serta merta turut memperbanyak  sumber pembelajaran terbuka. Akan tetapi ada institusi dan organisasi nirlaba yang menerapkan model OER pada konten pendidikannya seperti. repisitori kemendikbud yang turut serta mengikuti konferensi UNESCo, Materi pendidikan universitas terbuka, organisasi nirlaba ini budi.  
 Institusi pendidikan yang menjadikan materi pendidikannya sebagai OER yakni  Universitas Terbuka dan juga lembaga swadaya  Ini Budi. Keduanya menerapkan lisensi CC pada sumber pendidikanya.
