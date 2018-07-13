@@ -17,8 +17,6 @@ OER merupakan sebuah istilah yang didefinisikan oleh berbagai lembaga ataupun or
 
 > Sumber pengajaran terbuka adalah materi pengajaran, pembelajaran dan penelitian di segala media yang termasuk dalam domain publik atau sudah diterapkan lisensi terbuka yang tidak memerlukan izin dan bebas biaya untuk mengakses, penggunaan, adaptasi dan penyebaran kembali oleh orang lain. OER dapat berwujud buku teks hingga kurikulum, silabus, catatan kuliah, tugas, tes, proyek, audio, video dan animasi.
 
-Suatu sumber pendidikan dinyatakan sebagai sumber pendidikan terbuka jika menganut 5 prinsip yakni:
-
 **OER Sebagai Gerakan**
 
 Gerakan OERi muncul karena tingginya biaya untuk mengakses atau mendapatkan pendidikan.
@@ -31,11 +29,15 @@ Organisasi yang terlibat pada gerakan OER: Unseco, Creative Commons.
 
 keterkaitan SDGs dengan OER https://en.unesco.org/sites/default/files/oer_study_march_2017.pdf
 
+Suatu sumber pendidikan dinyatakan sebagai sumber pendidikan terbuka jika menganut 5 prinsip yakni:
+
 Lisensi terbuka menjadi salah satu syarat legal pada sumber pendidikan terbuka.
 
 ** Lisensi Terbuka Creative Commons**
 
 Lisensi terbuka yakni lisensi yang menganut prinsip "Some Right Reserved"  atau beberapa hak dipertahankan. Dengan menerapkan lisensi terbuka seperti Creative Commons (CC). Setidak-tidaknya pengguna dapat menggunakan dan menyebarkan kembali tanpa harus meminta izin.
+
+Cable green pengiat Open education yang turut serta menaungi bidang OER pada organiasai Creative Commons. 
 
 \(foto)
 
