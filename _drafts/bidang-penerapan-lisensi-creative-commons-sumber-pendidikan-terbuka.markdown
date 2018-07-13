@@ -25,15 +25,15 @@ Organisasi yang terlibat pada gerakan OER: Unseco, Creative Commons. Wikimedia. 
 
 Sumber pendidikan dinyatakan sebagai sumber pendidikan terbuka jika menganut 5 prinsip yakni:
 
-1\.
+1\. Retain: Dapat diakses untuk diunduh.
 
-2\.
+2\. Reuse: Dapat digunakan kembali.
 
-3\.
+3\. Revise: Dapat diubah untuk diperbaiki atau dikembangkan.
 
-4\.
+4\. Remix: Dapat dimodifikasi, diadaptasikan dan digunakan dengan bahan-bahan lain atau dibuat turunannya.
 
-5\.
+5\. Redistribute: Dapat digandakan dan disebarluaskan.
 
 Lisensi terbuka menjadi salah satu syarat legal pada sumber pendidikan terbuka.
 
