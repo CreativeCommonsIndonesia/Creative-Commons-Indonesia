@@ -11,11 +11,25 @@ Lantas apakah ada  model sumber pembelajaran yang gratis dan legal pengunaan/ pe
 
 - Sumber Pembelajaran Terbuka atau Open Educational Resource/ OER.
 
-OER merupakan sebuah istilah yang didefinisikan oleh berbagai lembaga ataupun organisasi. Unesco salah satu organisasi internasional yang turut serta memberikan definisi mengnai OER
+OER merupakan sebuah istilah yang didefinisikan oleh berbagai lembaga ataupun organisasi. UNESCO salah satu organisasi internasional yang turut serta memberikan definisi mengnai OER
 
->  Menurut [UNESCO](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-are-open-educational-resources-oers/) Sumber pengajaran terbuka adalah materi pengajaran, pembelajaran dan penelitian di segala media yang termasuk dalam domain publik atau sudah diterpkan lisensi terbuka yang tidak memerlukan izin dan bebas biaya untuk mengakses, penggunaan, adaptasi dan penyebaran kembali oleh orang lain. OER dapat berwujud buku teks hingga kurikulum, silabus, catatan kuliah, tugas, tes, proyek, audio, video dan animasi.>  
+>  Menurut [UNESCO](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-are-open-educational-resources-oers/) Sumber pengajaran terbuka adalah materi pengajaran, pembelajaran dan penelitian di segala media yang termasuk dalam domain publik atau sudah diterapkan lisensi terbuka yang tidak memerlukan izin dan bebas biaya untuk mengakses, penggunaan, adaptasi dan penyebaran kembali oleh orang lain. OER dapat berwujud buku teks hingga kurikulum, silabus, catatan kuliah, tugas, tes, proyek, audio, video dan animasi.>  
+
+Dari definisi di atas selain gratis konten sumber pendidikan terbuka juga harus di terapkan lisensi terbuka.  
+
+**- Lisensi Terbuka Creative Commons-**
+
+Lisensi terbuka yakni lisensi yang menganut prinsip "Some Right Reserved"  atau beberapa hak dipertahankan. Dengan menerapkan lisensi terbuka seperti Creative Commons (CC). Setidak-tidaknya pengguna dapat menggunakan dan menyebarkan kembali tanpa harus meminta izin. 
+
+Lisensi yang disarankan dalam konten sumber pendidikan terbuka
 
 Dalam perkembangannya, penerapan-penerapan lisensi Creative Commons (CC) terbagi menjadi beberapa bidang pergerakan. Salah satunya yakni Open Educational Resource (OER) yang padanan dalam bahasa indonesianya yakni Sumber Pendidikan Terbuka.
+
+Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni CC BY-ND atau  CC BY-NC-ND tidak disarankan. Karena sejatinya sumber pendidikan terbuka membuka peluang orang lain untuk merevisi dan mengubah materi pendidikan. 
+
+
+
+
 
 **Sumber Pendidikan Terbuka/Open Educational Resource**
 
@@ -27,14 +41,6 @@ Gerakan ini muncul karena tingginya biaya untuk mengakses atau mendapatkan pendi
 Tercatat telah  diadakan 2x kongres international. Pertama di Paris 2012 http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-is-the-2012-world-open-educational-resources-congress-and-what-are-its-aims/.  kedua di Ljubljana, Slovenia 2017   (http://www.oercongress.org/) 
 
 keterkaitan SDGs dengan OER https://en.unesco.org/sites/default/files/oer_study_march_2017.pdf
-
-**-Creative Commons-**
-
-Legalitas OER
-
-Lisensi yang disarankan
-
-Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni CC BY-ND atau  CC BY-NC-ND tidak disarankan. Karena sejatinya sumber pendidikan terbuka membuka peluang orang lain untuk merevisi dan mengubah materi pendidikan. 
 
 5 Unsur OER
 
