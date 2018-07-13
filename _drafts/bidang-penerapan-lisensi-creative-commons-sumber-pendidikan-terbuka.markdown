@@ -3,7 +3,7 @@ title: 'Bidang Penerapan Lisensi Creative Commons:  Sumber Pendidikan Terbuka'
 date: 2018-07-12 17:43:00 +07:00
 ---
 
-Sumber pendidikan kini beragam mulai dari buku teks cetak ke buku digital, gambar, video,  infografis, permainan video, dan media lainya. Seiring berkembangnya teknologi internet, sumber pendidikan  tersebut kini dapat dengan mudah diakses di dunia maya agar pesebarannya meluas dan cepat. Tidak hanya itu, biaya produksi dan distribusi pun dapat berkurang. Namun tidak semua sumber pendidikan yang ada di dunia maya dapat diakses dengan cuma-cuma. Beberapan penyedia sumber pendidikan, mebebankan biaya kepada pengguna jika ingin mengakses sumber pendidikan tersebut. 
+Sumber pendidikan kini beragam medianya mulai dari buku teks cetak ke buku digital, gambar, video,  infografis, permainan video, dan media lainya. Seiring berkembangnya teknologi internet, sumber pendidikan  tersebut kini dapat dengan mudah diakses di dunia maya agar persebarannya meluas dan cepat. Tidak hanya itu, biaya produksi dan distribusi pun dapat berkurang. Namun tidak semua sumber pendidikan yang ada di dunia maya dapat diakses dengan cuma-cuma. Beberapan penyedia sumber pendidikan, mebebankan biaya kepada pengguna jika ingin mengakses sumber pendidikan tersebut. 
 
 Di sisi lain, kini sudah banyak orang yang berbagi ilmu dengan membuat sumber pendidikan yang dapat diakses di dunia maya secara  cuma-cuma. Bahkan mengajak yang lainya untuk turut serta mengembangkan sumber pendidikan tersebut dan mengizinkan penggunanya untuk mengunakan dan menyebarkan kembali tanpa perlu meminta izin.  Karena pada hakikatnya hak untuk mendapatkan ilmu pengetahuan pada hakekatnya merupakan milik semua orang. Model berbagi sumber pendidikan tersebut pun legal tidak berlawanan dengan UUHC.  Sumber pendidikan yang seperti itu dinamakan sumber pendidikan terbuka atau yang dalam bahasa inggrinya Open Educational Resorce (OER). 
 
@@ -71,7 +71,7 @@ School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis u
 
 ** OER  di  Indonesia**
 
-Menurut undang-undang dasar 1945 "Pendidikan adalah hak segala bangsa". Berbagai macam permasalahn pendidikan di  Indonesia. Dengan  adanya OER ini diharapkan bisa menjadi solusi permasalahan pendidikan di Indonesia. Beberapa negara telah menerapkan OER dan berhasil. Kampus-kampus ternama seperri MIT juga telah memublikasikan sumber pendidikannya sebagai OER. 
+Menurut undang-undang dasar 1945 "Pendidikan adalah hak segala bangsa". Berbagai macam permasalahn pendidikan di  Indonesia.  OER ini diharapkan bisa menjadi solusi permasalahan pendidikan di Indonesia. Beberapa negara telah menerapkan OER dan berhasil. Dan juga kampus  ternama seperti MIT juga telah memublikasikan sumber pendidikannya sebagai OER. 
 
 Pembuat konten sumber pendidikan sudah semakin banyak di Indonesia seperti )...,...,..). Hal tersebut tidak serta merta turut memperbanyak  sumber pembelajaran terbuka. Akan tetapi ada institusi dan organisasi nirlaba yang menerapkan model OER pada konten pendidikannya seperti. repisitori kemendikbud yang turut serta mengikuti konferensi UNESCO, Materi pendidikan universitas terbuka, organisasi nirlaba ini budi.  
 Institusi pendidikan yang menjadikan materi pendidikannya sebagai OER yakni  Universitas Terbuka dan juga lembaga swadaya  Ini Budi. Keduanya menerapkan lisensi CC pada sumber pendidikanya.
