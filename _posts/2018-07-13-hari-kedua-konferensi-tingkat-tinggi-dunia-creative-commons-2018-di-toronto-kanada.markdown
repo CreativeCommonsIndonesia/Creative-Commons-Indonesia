@@ -1,7 +1,7 @@
 ---
 title: Hari Kedua Konferensi Tingkat Tinggi Dunia Creative Commons 2018 di Toronto,
   Kanada
-date: 2018-07-12 18:19:00 +07:00
+date: 2018-07-13 18:19:00 +07:00
 categories:
 - Acara
 tags:
