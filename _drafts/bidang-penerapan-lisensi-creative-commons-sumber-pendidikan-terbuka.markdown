@@ -5,13 +5,9 @@ date: 2018-07-12 17:43:00 +07:00
 
 Sumber pendidikan kini beragam mulai dari buku teks cetak ke buku digital, gambar, video,  infografis, permainan video, dan media lainya. Seiring berkembangnya teknologi internet, sumber pendidikan  tersebut kini dapat dengan mudah diakses di dunia maya agar pesebarannya meluas dan cepat. Tidak hanya itu, biaya produksi dan distribusi pun dapat berkurang. Namun tidak semua sumber pendidikan tersebut dapat diakses dengan cuma-cuma. Adanya beban biaya yang harus ditangung oleh penggun jika ingin mengakses sumber pendidikan tersebut. 
 
-Di sisi lain, kini sudah banyak orang yang berbagi ilmu dengan cuma-cuma di dunia maya. Bahkan mengajak warga net lainya untuk turut serta mengembangkan sumber pendidikan tersebut. Menreka memanfaatkan  teknologi internet agar dapat berbagi ilmu kepada siapa saja yang membutukan. Karena pada hakikatnya hak untuk mendapatkan ilmu pengetahuan pada hakekatnya merupakan milik semua orang. 
+Di sisi lain, kini sudah banyak orang yang berbagi ilmu dengan cuma-cuma di dunia maya. Bahkan mengajak yang lainya untuk turut serta mengembangkan sumber pendidikan tersebut dan mengizinkan penggunanya untuk mengunakan dan menyebarkan kembali tanpa perlu meminta izin.  Karena pada hakikatnya hak untuk mendapatkan ilmu pengetahuan pada hakekatnya merupakan milik semua orang. Model berbagi sumber pendidikan tersebut pun legal tidak berlawanan dengan UUHC yang ada.  Sumber pendidikan yang seperti itu dinamakan sumber pendidikan terbuka atau yang dalam bahasa inggrinya Open Educational Resorce (OER). 
 
-Lantas apakah ada  model sumber pembelajaran yang gratis dan legal pengunaan/ penyebaran kembali serta dapat dikembangkan?
-
-OER sebagai alternatif orang yang mau gratisan dan yang berkeiginan untuk berbagi. 
-
-**Sumber Pendidikan Terbuka atau Open Educational Resource/ OER**
+** Open Educational Resource (OER)**
 
 ![OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg](/uploads/OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg)
 
