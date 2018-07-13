@@ -3,13 +3,13 @@ title: 'Bidang Penerapan Lisensi Creative Commons:  Sumber Pendidikan Terbuka'
 date: 2018-07-12 17:43:00 +07:00
 ---
 
-Materi pendidikan kini beragam mulai dari buku teks cetak ke buku digital, gambar, video,  infografis, permainan video, dan media lainya. Sumber pendidikan tersebut kini dapat dengan mudah diakses di dunia maya agar pesebarannya meluas. Tidak hanya itu, biaya produksi dan distribusi pun dapat berkurang. 
+Sumber pendidikan kini beragam mulai dari buku teks cetak ke buku digital, gambar, video,  infografis, permainan video, dan media lainya. Seiring berkembangnya teknologi internet, sumber pendidikan  tersebut kini dapat dengan mudah diakses di dunia maya agar pesebarannya meluas dan cepat. Tidak hanya itu, biaya produksi dan distribusi pun dapat berkurang. Namun tidak semua sumber pendidikan tersebut dapat diakses dengan cuma-cuma. Adanya beban biaya yang harus ditangung oleh penggun jika ingin mengakses sumber pendidikan tersebut. 
 
-Namun yang menjadi permasalahan apakah konten sumber pembelajaran tersebut bebas biaya,jika pengguna ingin mengaksesnya? Apakah sumber pendidikan tersebut jika pengguna mengunakannya dan menyebarkanya kembali harus izin? Apakah menyalahi undang-undang hak cipta? Jika penguuna ingin mengadaptasi sumber pendidikan tersebut  dapat diubah ataupun digubah?
-
-Pertanyaan-pertanyaan tersebut sangat penting mengingat hal-hal tersebut kiranyanya yang menjadi penghambat dalam pesebaran sumber pendidikan terbuka secara gratis dan legal. Memberikan kesempatan bagi yang berkerbatasan dalam hal ekonomi untuk mengakses sumber pendidikan tersebut. Mengajak seseorang untuk turut serta mengembangakn sumber pemebalajaran tersebut. Yang pada akhirnya menjadi sumber pendidikan bersama yang digunakan dan dibuat bersama-sama secara sukarela, legal dan gratis. 
+Di sisi lain, kini sudah banyak orang yang berbagi ilmu dengan cuma-cuma di dunia maya. Bahkan mengajak warga net lainya untuk turut serta mengembangkan sumber pendidikan tersebut. Menreka memanfaatkan  teknologi internet agar dapat berbagi ilmu kepada siapa saja yang membutukan. Karena pada hakikatnya hak untuk mendapatkan ilmu pengetahuan pada hakekatnya merupakan milik semua orang. 
 
 Lantas apakah ada  model sumber pembelajaran yang gratis dan legal pengunaan/ penyebaran kembali serta dapat dikembangkan?
+
+OER sebagai alternatif orang yang mau gratisan dan yang berkeiginan untuk berbagi. 
 
 **Sumber Pendidikan Terbuka atau Open Educational Resource/ OER**
 
@@ -53,7 +53,7 @@ https://opensource.com/article/17/2/future-textbooks-cable-green-creative-common
 
 ** OER  di  Indonesia**
 
-Hak untuk mendapatkan ilmu pengetahuan pada hakekatnya merupakan milik semua orang. (Pendidikan hak segala bangsa)
+ (Pendidikan hak segala bangsa)
 
 Pembuat konten sumber pendidikan sudah semakin banyak di Indonesia seperti )...,...,..). Hal tersebut tidak serta merta turut memperbanyak  sumber pembelajaran terbuka. Akan tetapi ada institusi dan organisasi nirlaba yang menerapkan model OER pada konten pendidikannya seperti. repisitori kemendikbud yang turut serta mengikuti konferensi UNESCo, Materi pendidikan universitas terbuka, organisasi nirlaba ini budi.  
 Institusi pendidikan yang menjadikan materi pendidikannya sebagai OER yakni  Universitas Terbuka dan juga lembaga swadaya  Ini Budi. Keduanya menerapkan lisensi CC pada sumber pendidikanya.
