@@ -5,7 +5,11 @@ date: 2018-07-12 17:43:00 +07:00
 
 Seiring perkembanga teknologi internet yang semakin umdah untuk di akses di beberapa perangkat. Pesebaran konten-konten di internetpun semakin mudah dan murah, biaya cetak dan distribusi kini terpangkas. Konten-konten yang dimaksud sunguh beragam mulai dari konten berita, buku, musik dan lain-lainya. Hal tersebut tidak menutup kemungkinan juga untuk konten sumber pendidikan yang dapat digunakan untuk kepentingan pembelajaran. Baik oleh guru maupun murid atau bahkan seseorang yang tidak tergabung dalam suatu institusi pendidikan namun ingin belajar. 
 
-Sumber pendidikan di dunia maya pun semakin beragam. Mulai dari teks, gambar, video,  infografis, permainan video, dan media lainya. Namun yang menjadi permasalahan apakah konten sumber pembelajaran tersebut bebas biaya? dapat disebarkan dan digunakan kembali dengan legal? dapat diubah atau[un digubah?   
+Sumber pendidikan di dunia maya pun semakin beragam. Mulai dari teks, gambar, video,  infografis, permainan video, dan media lainya. Namun yang menjadi permasalahan apakah konten sumber pembelajaran tersebut bebas biaya, jika pengguna ingin mengaksesnya? Apakah legal jika pengguna mengunakannya dan menyebarkanya kembali? Apakah diperlukah perizinan atau perjanjian hukum? Jika penguuna ingin mengadaptasi sumpber pendidikan tersebut  dapat diubah atau[un digubah?. 
+
+Hal-hal tersbeut diperlukan untuk mempermudah pesebaran ilmu yang ada pada sumber pendidikan tersebut. Mengajak orang lain turut serta mengembangkan konten, memperbaiki serta membuat versi turunan dari konten tersebut secara gratis dan legal. 
+
+Sayang nya tidak semua konten sumber pendidikan ber   
 
 
 Dalam perkembangannya, penerapan-penerapan lisensi Creative Commons (CC) terbagi menjadi beberapa bidang pergerakan. Salah satunya yakni Open Educational Resource (OER) yang padanan dalam bahasa indonesianya yakni Sumber Pendidikan Terbuka.
