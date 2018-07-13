@@ -33,11 +33,13 @@ Penjelasan definisi OER di atas menyebutkan yakni sudah diterapkan lisensi terbu
 
 Lisensi terbuka yakni lisensi yang menganut prinsip "Some Right Reserved"  atau beberapa hak dipertahankan. Dengan menerapkan lisensi terbuka seperti Creative Commons (CC). Setidak-tidaknya pengguna dapat menggunakan dan menyebarkan kembali tanpa harus meminta izin.  Dengan menerapkan lisensi CC pada OER dapat mempermudah segala aktivitas dalam pembuatan atau pengembangannya. 
 
-\(foto)
+![creative-commons.jpg](/uploads/creative-commons.jpg)
 
 Untuk mengenal lisensi CC, pertama-tama perlu diketahui , empat ketentuan lisensi CC yakni: BY, SA, NC dan ND. 
 
-Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni CC BY-ND atau  CC BY-NC-ND tidak disarankan. Karena sejatinya sumber pendidikan terbuka membuka peluang orang lain untuk merevisi dan mengubah materi pendidikan.
+![oer_cc-by_license-650x479.png](/uploads/oer_cc-by_license-650x479.png)
+
+.Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni CC BY-ND atau  CC BY-NC-ND tidak disarankan. Karena sejatinya sumber pendidikan terbuka membuka peluang orang lain untuk merevisi dan mengubah materi pendidikan
 
 **OER Sebagai Gerakan   **https://en.wikipedia.org/wiki/Open_educational_resources
 
