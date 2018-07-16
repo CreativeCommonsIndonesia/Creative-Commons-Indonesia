@@ -51,9 +51,9 @@ Spektrum ini melarang pengguna ciptaan dalam menggunakan ciptaan untuk kepenting
 
 <img style="float: left;" src="/uploads/ND.png" class="img-responsive" width="20"> - **TanpaTurunan (ND)**
 
-![oer_cc-by_license-650x479.png](/uploads/oer_cc-by_license-650x479.png)
-
 Empat ketentuan tersebut tersedia 6 pilihan lisensi CC yang diterapkan oleh pencipta pada ciptaanya. Keenam pilihan lisensinya  yakni Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id)), Creative Commons Atribusi BerbagiSerupa ([CC-BY SA](http://creativecommons.org/licenses/by-sa/4.0/deed.id)),  Creative Commons Atribusi NonKomersial ([CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.id)), Creative Commons Atribusi TanpaTurunan ([CC-BY-ND](http://creativecommons.org/licenses/by-nd/4.0/deed.id)), seperti  Creative Commons Atribusi NonKomersial BerbagiSerupa ([CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)),Creative Commons Atribusi NonKomersial TanpaTurunan ([CC-BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id)). Pada Stetchfab hanya tersedia 4 pilihan lisensi CC bagi pencipta untuk diterapkan pada ciptaanya yakni: [CC BY](http://creativecommons.org/licenses/by/4.0/deed.id), [CC-BY SA, ](http://creativecommons.org/licenses/by-sa/4.0/deed.id)[CC-BY-NC, ](http://creativecommons.org/licenses/by-nc/4.0/deed.id)[CC-BY-ND. ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)
+
+![oer_cc-by_license-650x479.png](/uploads/oer_cc-by_license-650x479.png)
 
 Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND   ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)dan [CC-BY-NC-ND ](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) tidak disarankan. Karena sejatinya sumber pendidikan terbuka membuka peluang orang lain untuk merevisi dan mengubah materi pendidikan
 
@@ -63,13 +63,19 @@ Gerakan OER  muncul karena adanya kepedulian yang sama dari pemerhati pendidikan
 
 **Penerapan Lisensi CC pada OER**
 
-[Cable Green  ](http://creativecommons.org/author/cablecreativecommons-org/)selaku direktur pendidikan Creative Commons menaungi gerakan ini di 
+Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform OER yang menerapan lisensi CC. Beberapa diantaranya yakni. 
 
-- Wikipedia ensiklopedia terbuka yang memiliki xx artikel ensiklopedia dari berbagai macam negara. Keseluruhan artikel tersebut diterpakan lisensi CC BY SA. 
+1. [Wikimedia](http://www.wikimedia.org/) adalah organisasi nirlaba bersekala global, Wikimedia mempunyau misi untuk membebaskan konten pendidikan ke seluruh dunia. Melalui berbagai macam proyeknya, Wikmedia mengajak siapa saja untuk berkontribusi dan berbagi pengetahuan. Adapun proyek-proyek Wikimedia yakni: Wikipedia, Wikionary, Wikiquote, Wikibooks, Wikisource,Wikimedia Commons dan lain-lainya.  
+
+Wikimedia is a global movement whose mission is to bring free educational content to the world.
+
+Through various projects, chapters, and the support structure of the non-profit Wikimedia Foundation, Wikimedia strives to bring about a world in which every single human being can freely share in the sum of all knowledge.
+
+[ Wikipedia ensiklopedia terbuka yang memiliki xx artikel ensiklopedia dari berbagai macam negara. Keseluruhan artikel tersebut diterpakan lisensi CC BY SA.
 
 Selain itu terdapat pula  Open Educational Resources Commons (OER Commons) menyediakan 30.000 materi  dengan lebih dari 120 akun pembuat konten,
 
- Encyclopedia of Life (EoL) menyediakan ensiklopedia kolaboratif online yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi,  
+Encyclopedia of Life (EoL) menyediakan ensiklopedia kolaboratif online yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi,
 
 Public Library of Science (PLOS) organisasi  penerbitan dan advokasi nirlaba berlisensi CC yang berfokus pada sains dan kedokteran.
 
