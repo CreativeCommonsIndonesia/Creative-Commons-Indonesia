@@ -9,7 +9,7 @@ Di sisi lain, kini sudah banyak orang yang berbagi ilmu dengan membuat sumber pe
 
 \*\* Open Educational Resource (OER)\*\*
 
-![OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg](/uploads/OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg)
+![OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg](/uploads/OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg){: .img-responsive .center-block }<center><small><i><a href="https://commons.wikimedia.org/wiki/File:OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.svg">Lambang OER versi bahasa Indonesia</a> oleh <a href="https://commons.wikimedia.org/wiki/User:IvanLanin">Ivan Lanin</a>, <a href="https://creativecommons.org/licenses/by/3.0/deed.en">CC BY</a></i></small></center>
 
 OER merupakan sebuah istilah yang didefinisikan oleh berbagai lembaga ataupun organisasi. [UNESCO](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-are-open-educational-resources-oers/) salah satu organisasi internasional yang turut serta memberikan definisi mengenai OER yakni:
 
