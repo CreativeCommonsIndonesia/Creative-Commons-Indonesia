@@ -77,4 +77,4 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
 **OER  di  Indonesia**
 
-Di Indonesia Universitas Terbuka dan repisitori kemendikbud  telah menerapkan sistem OER ini . Kontribusi terhadap OER juga dapat dilakukan di kalangan perorangan atau komunitas. Dengan turut serta berkontribusi dengan membuat  konten-konten  di sebuah platform OER. Adanya sistem OER ini baik untuk diadaptasi di Indonesia karena OER dapat menjadi solusi dalam permasalahan ketimpangan akses pendidikan di berbagai daerah.
+Di Indonesia Universitas Terbuka dan repisitori kemendikbud  telah menerapkan sistem OER ini. Kontribusi terhadap OER juga dapat dilakukan di kalangan perorangan atau komunitas. Dengan turut serta berkontribusi dengan membuat  konten-konten  di sebuah platform OER. Adanya sistem OER ini baik untuk diadaptasi di Indonesia karena OER dapat menjadi solusi dalam permasalahan ketimpangan akses pendidikan di berbagai daerah.
