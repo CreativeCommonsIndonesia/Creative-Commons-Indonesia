@@ -63,6 +63,8 @@ Gerakan OER  muncul karena adanya kepedulian yang sama dari pemerhati pendidikan
 
 **Penerapan Lisensi CC pada OER**
 
+[Cable Green  ](http://creativecommons.org/author/cablecreativecommons-org/)selaku direktur pendidikan Creative Commons menaungi gerakan ini di 
+
 Wikipedia ensiklopedia terbuka yang memiliki xx artikel ensiklopedia dari berbagai macam negara. Keseluruhan artikel tersebut diterpakan lisensi CC BY SA. 
 
 Selain itu terdapat pula  Open Educational Resources Commons (OER Commons) menyediakan 30.000 materi  dengan lebih dari 120 akun pembuat konten,
