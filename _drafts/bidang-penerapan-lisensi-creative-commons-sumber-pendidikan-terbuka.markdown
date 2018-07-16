@@ -59,17 +59,17 @@ Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND
 
 **OER Sebagai Gerakan**
 
-Gerakan OER  muncul karena adanya kepedulian yang sama dari pemerhati pendidikan dari berbagai kalangan dan negara akan tingginya biaya untuk mengakses atau mendapatkan pendidikan. Mereka berkumpul dalam kongres yang khsusus membahas OER. Tercatat sudah tersengelara 2 kongres tingkat dunia yakni di[ Paris tahun 2012](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-is-the-2012-world-open-educational-resources-congress-and-what-are-its-aims/)  yang mempertemukan kalangan pemerintahan, pakar OER, NGO, dan pendidik dari seluruh dunia untuk berdiskusi dan berbagi mengenai contoh terbaik dari  kebijakan dan insisiatif OER.  Kedua di [Slovenia 2017 ](http://www.oercongress.org/)yang mengangkat tema "OER untuk Pendidikan yang Inklusif dan Berkeadilan : Dari Komitmen ke Pelaksanaan".  Hasil kongres ini, diadaptasi oleh para delegasi dalam rencana kerja 2017 di negara atau organisasi masing-masing. 
+Gerakan OER  muncul karena adanya kepedulian yang sama dari pemerhati pendidikan dari berbagai kalangan dan negara akan tingginya biaya untuk mengakses atau mendapatkan pendidikan. Mereka berkumpul dalam kongres yang khsusus membahas OER. Tercatat sudah tersengelara 2 kongres tingkat dunia yakni di[ Paris tahun 2012](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-is-the-2012-world-open-educational-resources-congress-and-what-are-its-aims/)  yang mempertemukan kalangan pemerintahan, pakar OER, NGO, dan pendidik dari seluruh dunia untuk berdiskusi dan berbagi mengenai contoh terbaik dari  kebijakan dan insisiatif OER.  Kedua di [Slovenia 2017 ](http://www.oercongress.org/)yang mengangkat tema "OER untuk Pendidikan yang Inklusif dan Berkeadilan : Dari Komitmen ke Pelaksanaan".  Hasil kongres ini, diadaptasi oleh para delegasi dalam rencana kerja 2017 di negara atau organisasi masing-masing.
 
 Organisasi yang terlibat pada gerakan OER: UNESCO, Creative Commons. Wikimedia. UNESCO juga mengatakan bahwa adanya OER ini turut serta selaras dengan tujuan berkelanjutan di 2013 atau "Sustainable Develeopment Goals/ [SDGs](http://en.unesco.org/sites/default/files/oer_study_march_2017.pdf)" khususnya di poin 4 yakni keadilan dalam akses pendidikan.
 
-***OER Sebagai Bidang Penerapan di Lisensi CC***
+**OER Sebagai Bidang Penerapan di Lisensi CC**
 
 Open Educational Resources Commons (OER Commons) menyediakan akses satu pintu untuk mengakses 30.000 materi dengan lebih dari 120 akun pembuat konten, Encyclopedia of Life (EoL) menyediakan ensiklopedia kolaboratif online yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi,  Public Library of Science (PLOS) organisasi  penerbitan dan advokasi nirlaba berlisensi CC yang berfokus pada sains dan kedokteran.
 
 School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis untuk siapa saja yang ingin belajar mengenai arti dan dampak dari lisensi dan sumber terbuka , Open Policy Network adalah  koalisi para ahli yang berkerja untuk mendorong pembuatan, adopsi, dan penerapan kebijakan dan praktik terbuka yang memajukan kepentingan publik.
 
-\*\* OER  di  Indonesia\*\*
+**OER  di  Indonesia**
 
 Menurut undang-undang dasar 1945 "Pendidikan adalah hak segala bangsa". Berbagai macam permasalahn pendidikan di  Indonesia.  OER ini diharapkan bisa menjadi solusi permasalahan pendidikan di Indonesia. Beberapa negara telah menerapkan OER dan berhasil. Dan juga kampus  ternama seperti MIT juga telah memublikasikan sumber pendidikannya sebagai OER.
 
