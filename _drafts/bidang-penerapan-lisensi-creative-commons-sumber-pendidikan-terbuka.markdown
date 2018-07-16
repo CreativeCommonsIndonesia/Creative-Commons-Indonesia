@@ -67,12 +67,6 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
 1. [Wikimedia](http://www.wikimedia.org/) adalah organisasi nirlaba bersekala global, Wikimedia mempunyau misi untuk membebaskan konten pendidikan ke seluruh dunia. Melalui berbagai macam proyeknya, Wikmedia mengajak siapa saja untuk berkontribusi dan berbagi pengetahuan. Adapun proyek-proyek Wikimedia yakni: Wikipedia, Wikionary, Wikiquote, Wikibooks, Wikisource,Wikimedia Commons dan lain-lainya.  
 
-Wikimedia is a global movement whose mission is to bring free educational content to the world.
-
-Through various projects, chapters, and the support structure of the non-profit Wikimedia Foundation, Wikimedia strives to bring about a world in which every single human being can freely share in the sum of all knowledge.
-
-[ Wikipedia ensiklopedia terbuka yang memiliki xx artikel ensiklopedia dari berbagai macam negara. Keseluruhan artikel tersebut diterpakan lisensi CC BY SA.
-
 Selain itu terdapat pula  Open Educational Resources Commons (OER Commons) menyediakan 30.000 materi  dengan lebih dari 120 akun pembuat konten,
 
 Encyclopedia of Life (EoL) menyediakan ensiklopedia kolaboratif online yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi,
