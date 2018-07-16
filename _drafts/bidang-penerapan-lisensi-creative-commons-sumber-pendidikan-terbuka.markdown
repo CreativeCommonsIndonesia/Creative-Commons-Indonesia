@@ -1,11 +1,11 @@
 ---
-title: 'Bidang Penerapan Lisensi Creative Commons:  Sumber Pendidikan Terbuka'
+title: 'Bidang Penerapan Lisensi Creative Commons:  Sumber Pembelajaran Terbuka'
 date: 2018-07-12 17:43:00 +07:00
 ---
 
-Sumber pendidikan kini beragam medianya mulai dari buku teks cetak ke buku digital, gambar, video, infografis, permainan video, dan media lainya. Seiring berkembangnya teknologi internet, sumber pendidikan  tersebut kini dapat dengan mudah diakses di dunia maya agar persebarannya meluas dan cepat. Tidak hanya itu, biaya produksi dan distribusi pun dapat berkurang. Namun tidak semua sumber pendidikan yang ada di dunia maya dapat diakses dengan cuma-cuma. Beberapa penyedia sumber pendidikan, mebebankan biaya kepada pengguna jika ingin mengakses sumber pendidikan tersebut.
+Sumber pembelajaran kini beragam medianya mulai dari buku teks cetak ke buku digital, gambar, video, infografis, permainan video, dan media lainya. Seiring berkembangnya teknologi internet, sumber pembelajaran  tersebut kini dapat dengan mudah diakses di dunia maya agar persebarannya meluas dan cepat. Tidak hanya itu, biaya produksi dan distribusi pun dapat berkurang. Namun tidak semua sumber pembelajaran yang ada di dunia maya dapat diakses dengan cuma-cuma. Beberapa penyedia sumber pembelajaran, mebebankan biaya kepada pengguna jika ingin mengakses sumber pendidikan tersebut.
 
-Di sisi lain, kini sudah banyak orang yang berbagi ilmu dengan membuat sumber pendidikan yang dapat diakses di dunia maya secara gratis. Bahkan mengajak yang lainya untuk turut serta mengembangkan sumber pendidikan tersebut dan mengizinkan penggunanya untuk mengunakan dan menyebarkan kembali tanpa perlu meminta izin.  Karena pada hakikatnya hak untuk mendapatkan ilmu pengetahuan pada hakekatnya merupakan milik semua orang. Model berbagi sumber pendidikan tersebut pun legal tidak berlawanan dengan UUHC. Sumber pendidikan yang seperti itu dinamakan sumber pendidikan terbuka atau yang dalam bahasa inggrinya Open Educational Resorce (OER).
+Di sisi lain, kini sudah banyak orang yang berbagi ilmu dengan membuat sumber pembelajaran yang dapat diakses di dunia maya secara gratis. Bahkan mengajak yang lainya untuk turut serta mengembangkan sumber pendidikan tersebut dan mengizinkan penggunanya untuk mengunakan dan menyebarkan kembali tanpa perlu meminta izin.  Karena pada hakikatnya hak untuk mendapatkan ilmu pengetahuan pada hakekatnya merupakan milik semua orang. Model berbagi sumber pembelajaran tersebut pun legal. Sumber pembelajaran yang seperti itu dinamakan sumber pembelajaran terbuka atau yang dalam bahasa inggrinya Open Educational Resource (OER).
 
 \*\* Open Educational Resource (OER)\*\*
 
@@ -15,7 +15,7 @@ OER merupakan sebuah istilah yang didefinisikan oleh berbagai lembaga ataupun or
 
 > materi pengajaran, pembelajaran dan penelitian di segala media yang termasuk dalam domain publik atau sudah diterapkan lisensi terbuka yang tidak memerlukan izin dan bebas biaya untuk mengakses, penggunaan, adaptasi dan penyebaran kembali oleh orang lain. OER dapat berwujud buku teks hingga kurikulum, silabus, catatan kuliah, tugas, tes, proyek, audio, video dan animasi.
 
-Sumber pendidikan dinyatakan sebagai sumber pendidikan terbuka jika menganut 5 prinsip yakni:
+Sumber pembelajaran dinyatakan sebagai sumber pembelajaran terbuka jika menganut 5 prinsip yakni:
 
 1\. Retain: Dapat diakses untuk diunduh.
 
@@ -55,7 +55,7 @@ Empat ketentuan tersebut tersedia 6 pilihan lisensi CC yang diterapkan oleh penc
 
 ![oer_cc-by_license-650x479.png](/uploads/oer_cc-by_license-650x479.png)
 
-Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND   ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)dan [CC-BY-NC-ND ](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) tidak disarankan. Karena sejatinya sumber pendidikan terbuka membuka peluang orang lain untuk merevisi dan mengubah materi pendidikan
+Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND   ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)dan [CC-BY-NC-ND ](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) tidak disarankan. Karena sejatinya OER membuka peluang orang lain untuk merevisi, menggubah dan  mengubah konten materi pembelajaran.
 
 **OER Sebagai Gerakan**
 
@@ -65,15 +65,15 @@ Gerakan OER  muncul karena adanya kepedulian yang sama dari pemerhati pendidikan
 
 Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform OER yang menerapan lisensi CC. Beberapa diantaranya yakni:
 
-1.[Wikimedia](http://www.wikimedia.org/) adalah organisasi nirlaba bersekala global, Wikimedia mempunyau misi untuk membebaskan konten pendidikan ke seluruh dunia. Melalui berbagai macam proyek, Wikmedia mengajak siapa saja untuk berkontribusi dan berbagi pengetahuan. Adapun proyek-proyek Wikimedia yakni: Wikipedia, Wikionary, Wikiquote, Wikibooks, Wikisource,Wikimedia Commons dan lain-lainya.  
+1\.[Wikimedia](http://www.wikimedia.org/) adalah organisasi nirlaba bersekala global, Wikimedia mempunyau misi untuk membebaskan konten pendidikan ke seluruh dunia. Melalui berbagai macam proyek, Wikmedia mengajak siapa saja untuk berkontribusi dan berbagi pengetahuan. Adapun proyek-proyek Wikimedia yakni: Wikipedia, Wikionary, Wikiquote, Wikibooks, Wikisource,Wikimedia Commons dan lain-lainya.
 
-2. Open Educational Resources Commons (OER Commons) menyediakan 30.000 materi dengan lebih dari 120 akun pembuat konten,
+1. Open Educational Resources Commons (OER Commons) menyediakan 30.000 materi dengan lebih dari 120 akun pembuat konten,
 
-3. Encyclopedia of Life (EoL) menyediakan ensiklopedia kolaboratif online yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi.
+2. Encyclopedia of Life (EoL) menyediakan ensiklopedia kolaboratif online yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi.
 
-4. Public Library of Science (PLOS) organisasi  penerbitan dan advokasi nirlaba berlisensi CC yang berfokus pada sains dan kedokteran.
+3. Public Library of Science (PLOS) organisasi  penerbitan dan advokasi nirlaba berlisensi CC yang berfokus pada sains dan kedokteran.
 
-5. School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis untuk siapa saja yang ingin belajar mengenai arti dan dampak dari lisensi dan sumber terbuka, Open Policy Network adalah  koalisi para ahli yang berkerja untuk mendorong pembuatan, adopsi, dan penerapan kebijakan dan praktik terbuka yang memajukan kepentingan publik.
+4. School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis untuk siapa saja yang ingin belajar mengenai arti dan dampak dari lisensi dan sumber terbuka, Open Policy Network adalah  koalisi para ahli yang berkerja untuk mendorong pembuatan, adopsi, dan penerapan kebijakan dan praktik terbuka yang memajukan kepentingan publik.
 
 **OER  di  Indonesia**
 
