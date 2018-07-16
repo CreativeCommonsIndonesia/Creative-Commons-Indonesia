@@ -69,11 +69,4 @@ School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis u
 
 **OER  di  Indonesia**
 
-Menurut undang-undang dasar 1945 "Pendidikan adalah hak segala bangsa". Berbagai macam permasalahn pendidikan di  Indonesia.  OER ini diharapkan bisa menjadi solusi permasalahan pendidikan di Indonesia. Beberapa negara telah menerapkan OER dan berhasil. Dan juga kampus  ternama seperti MIT juga telah memublikasikan sumber pendidikannya sebagai OER.
-
-Pembuat konten sumber pendidikan sudah semakin banyak di Indonesia seperti )...,...,..). Hal tersebut tidak serta merta turut memperbanyak  sumber pembelajaran terbuka. Akan tetapi ada institusi dan organisasi nirlaba yang menerapkan model OER pada konten pendidikannya seperti. repisitori kemendikbud yang turut serta mengikuti konferensi UNESCO, Materi pendidikan universitas terbuka, organisasi nirlaba ini budi.\
-Institusi pendidikan yang menjadikan materi pendidikannya sebagai OER yakni  Universitas Terbuka dan juga lembaga swadaya  Ini Budi. Keduanya menerapkan lisensi CC pada sumber pendidikanya.
-
-https://opensource.com/article/17/2/future-textbooks-cable-green-creative-commons
-
-https://en.wikipedia.org/wiki/Open_educational_resources
+Di Indonesia Universitas Terbuka dan repisitori kemendikbud  telah menerapkan sistem OER ini . Kontribusi terhadap OER juga dapat dilakukan di kalangan perorangan atau komunitas. Dengan trurt serta berkontribusi dengan membuat  konten-konten  di sebuah platform OER. Adanya sistem OER ini baik untuk diadaptasi di Indonesia karena OER dapat menjadi solusi dalam permasalahan ketimpangan akses pendidikan di berbagai daerah.
