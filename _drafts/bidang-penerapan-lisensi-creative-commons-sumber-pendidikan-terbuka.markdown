@@ -63,9 +63,9 @@ Gerakan OER  muncul karena adanya kepedulian yang sama dari pemerhati pendidikan
 
 **Penerapan Lisensi CC pada OER**
 
-Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform OER yang menerapan lisensi CC. Beberapa diantaranya yakni. 
+Selain pengadaptasian OER pada kebijakan publik, terdapat juga proyek-proyek dan platform-platform OER yang menerapan lisensi CC. Beberapa diantaranya yakni. 
 
-1.[Wikimedia](http://www.wikimedia.org/) adalah organisasi nirlaba bersekala global, Wikimedia mempunyau misi untuk membebaskan konten pendidikan ke seluruh dunia. Melalui berbagai macam platform, Wikmedia mengajak siapa saja untuk berkontribusi dan berbagi pengetahuan. Adapun platform-platform Wikimedia yakni: Wikipedia, Wikionary, Wikiquote, Wikibooks, Wikisource,Wikimedia Commons dan lain-lainya.  
+1.[Wikimedia](http://www.wikimedia.org/) adalah organisasi nirlaba bersekala global, Wikimedia mempunyau misi untuk membebaskan konten pendidikan ke seluruh dunia. Melalui berbagai macam proyek, Wikmedia mengajak siapa saja untuk berkontribusi dan berbagi pengetahuan. Adapun proyek-proyek Wikimedia yakni: Wikipedia, Wikionary, Wikiquote, Wikibooks, Wikisource,Wikimedia Commons dan lain-lainya.  
 
 2. Open Educational Resources Commons (OER Commons) menyediakan 30.000 materi dengan lebih dari 120 akun pembuat konten,
 
