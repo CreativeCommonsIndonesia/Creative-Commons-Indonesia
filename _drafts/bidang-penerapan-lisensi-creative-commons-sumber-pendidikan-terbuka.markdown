@@ -61,12 +61,18 @@ Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND
 
 Gerakan OER  muncul karena adanya kepedulian yang sama dari pemerhati pendidikan dari berbagai kalangan dan negara akan tingginya biaya untuk mengakses atau mendapatkan pendidikan. Mereka berkumpul dalam kongres yang khsusus membahas OER. Tercatat sudah tersengelara dua kongres tingkat dunia yakni di[ Paris tahun 2012](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-is-the-2012-world-open-educational-resources-congress-and-what-are-its-aims/)  yang mempertemukan kalangan pemerintahan, pakar OER, NGO, dan pendidik dari seluruh dunia untuk berdiskusi dan berbagi mengenai contoh terbaik dari  kebijakan dan insisiatif OER.  Kedua di [Slovenia 2017 ](http://www.oercongress.org/)yang mengangkat tema "OER untuk Pendidikan yang Inklusif dan Berkeadilan : dari Komitmen ke Pelaksanaan".  Hasil kongres ini, diadaptasi oleh para delegasi dalam rencana kerja 2017 di negara atau organisasi masing-masing.
 
-**OER Sebagai Bidang Penerapan di Lisensi CC**
+**Penerapan Lisensi CC pada OER**
 
-Open Educational Resources Commons (OER Commons) menyediakan 30.000 materi  dengan lebih dari 120 akun pembuat konten, Encyclopedia of Life (EoL) menyediakan ensiklopedia kolaboratif online yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi,  Public Library of Science (PLOS) organisasi  penerbitan dan advokasi nirlaba berlisensi CC yang berfokus pada sains dan kedokteran.
+Wikipedia ensiklopedia terbuka yang memiliki xx artikel ensiklopedia dari berbagai macam negara. Keseluruhan artikel tersebut diterpakan lisensi CC BY SA. 
+
+Selain itu terdapat pula  Open Educational Resources Commons (OER Commons) menyediakan 30.000 materi  dengan lebih dari 120 akun pembuat konten,
+
+ Encyclopedia of Life (EoL) menyediakan ensiklopedia kolaboratif online yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi,  
+
+Public Library of Science (PLOS) organisasi  penerbitan dan advokasi nirlaba berlisensi CC yang berfokus pada sains dan kedokteran.
 
 School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis untuk siapa saja yang ingin belajar mengenai arti dan dampak dari lisensi dan sumber terbuka , Open Policy Network adalah  koalisi para ahli yang berkerja untuk mendorong pembuatan, adopsi, dan penerapan kebijakan dan praktik terbuka yang memajukan kepentingan publik.
 
 **OER  di  Indonesia**
 
-Di Indonesia Universitas Terbuka dan repisitori kemendikbud  telah menerapkan sistem OER ini . Kontribusi terhadap OER juga dapat dilakukan di kalangan perorangan atau komunitas. Dengan trurt serta berkontribusi dengan membuat  konten-konten  di sebuah platform OER. Adanya sistem OER ini baik untuk diadaptasi di Indonesia karena OER dapat menjadi solusi dalam permasalahan ketimpangan akses pendidikan di berbagai daerah.
+Di Indonesia Universitas Terbuka dan repisitori kemendikbud  telah menerapkan sistem OER ini . Kontribusi terhadap OER juga dapat dilakukan di kalangan perorangan atau komunitas. Dengan turut serta berkontribusi dengan membuat  konten-konten  di sebuah platform OER. Adanya sistem OER ini baik untuk diadaptasi di Indonesia karena OER dapat menjadi solusi dalam permasalahan ketimpangan akses pendidikan di berbagai daerah.
