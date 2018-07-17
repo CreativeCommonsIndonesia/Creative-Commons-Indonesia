@@ -119,4 +119,3 @@ there is no limitation of what can or cannot be photographed in public places.
 **Ide Gila: Penempelan Lisensi Hak Cipta Pada Ciptaan di Ruang Publik**
 
 **Ciptaan di Ruang Publik Yang Bebas Hak Cipta**
-
