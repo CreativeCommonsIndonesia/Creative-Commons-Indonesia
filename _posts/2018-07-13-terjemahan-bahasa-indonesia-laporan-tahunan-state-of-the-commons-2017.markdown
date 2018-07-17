@@ -12,6 +12,7 @@ tags:
 author: ccid
 comments: true
 img: "/uploads/SOTC%202017.jpg"
+featured: true
 ---
 
 ![SOTC 2017.jpg](/uploads/SOTC%202017.jpg){: .img-responsive .center-block }{: width="500"}
