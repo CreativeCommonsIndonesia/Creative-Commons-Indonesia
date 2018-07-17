@@ -16,7 +16,6 @@ tags:
 author: ccid
 comments: true
 img: "/uploads/ToT-31012018-01%20(1).jpg"
-featured: true
 ---
 
 # **PENDAFTARAN SUDAH DITUTUP**
