@@ -31,7 +31,7 @@ Penjelasan definisi OER di atas menyebutkan yakni diterapkan lisensi terbuka pad
 
 **Lisensi Terbuka Creative Commons**
 
-Lisensi terbuka yakni lisensi yang menganut prinsip "Some Right Reserved"  atau beberapa hak dipertahankan. Dengan menerapkan lisensi terbuka seperti Creative Commons (CC). Setidak-tidaknya pengguna secara legal dapat menggunakan dan menyebarkan kembali tanpa harus meminta izin. Dengan menerapkan lisensi CC pada OER dapat mempermudah segala aktivitas dalam pembuatan atau pengembangannya.
+Lisensi terbuka yakni lisensi yang menganut prinsip "Some Right Reserved"  atau beberapa hak dipertahankan. Dengan menerapkan lisensi terbuka seperti Creative Commons (CC). Setidak-tidaknya** pengguna secara legal dapat menggunakan dan menyebarkan kembali tanpa harus meminta izin**. Dengan menerapkan lisensi CC pada OER dapat mempermudah segala aktivitas dalam pembuatan atau pengembangannya.
 
 ![creative-commons.jpg](/uploads/creative-commons.jpg)
 
