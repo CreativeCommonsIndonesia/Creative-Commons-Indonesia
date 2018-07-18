@@ -27,7 +27,7 @@ Sumber pembelajaran terbuka sebaiknya dianjurkan menganut [prinsip 5R ](http://w
 
 5\. Redistribute: Dapat digandakan dan disebarluaskan.
 
-Penjelasan definisi OER di atas menyebutkan yakni sudah diterapkan lisensi terbuka. Salah satu lisensi terbuka yang dapat diterapakan yakni lisensi terbuka Creative Commons.
+Penjelasan definisi OER di atas menyebutkan yakni diterapkan lisensi terbuka pada konten OER . Lisensi terbuka yang dapat diterapkan pada konten OER yakni lisensi Creative Commons (CC). Lisensi CC juga menjadi dasar legalitas pada saat pembuatan, penggunaan, penyebaran, pemublikasian, pengubahan dan penggubahan konten OER.
 
 **Lisensi Terbuka Creative Commons**
 
@@ -55,7 +55,7 @@ Empat ketentuan tersebut tersedia 6 pilihan lisensi CC yang diterapkan oleh penc
 
 ![oer_cc-by_license-650x479.png](/uploads/oer_cc-by_license-650x479.png)
 
-Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND   ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)dan [CC-BY-NC-ND ](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) tidak disarankan. Karena sejatinya OER membuka peluang orang lain untuk merevisi, menggubah dan  mengubah konten materi pembelajaran.
+Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND   ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)dan [CC-BY-NC-ND ](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) tidak disarankan agar konten OER dapat membuka peluang orang lain untuk mengembangkan kembali konten OER tersebut.
 
 **OER Sebagai Gerakan**
 
