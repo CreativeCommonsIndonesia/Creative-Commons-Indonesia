@@ -1,5 +1,5 @@
 ---
-title: 'Bidang Penerapan Lisensi Creative Commons:  Sumber Pembelajaran Terbuka'
+title: Sumber Pembelajaran Terbuka Sebagai Salah Satu Bidang Penerapan Lisensi CC
 date: 2018-07-12 17:43:00 +07:00
 ---
 
