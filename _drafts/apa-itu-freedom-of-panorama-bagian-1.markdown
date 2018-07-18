@@ -24,7 +24,11 @@ Dalam hal ini obyek yang dimaksud dapat dibagi menjadi dua kategori, yaitu obyek
 
 **Dasar Pemberlakuan**
 
-Peristiwa pertama yang dapat menjadi contoh kasus atas risiko sengketa tersebut adalah 
+Peristiwa pertama yang dapat menjadi contoh kasus atas risiko sengketa tersebut adalah  
+
+**Ide Gila: Penempelan Lisensi Hak Cipta Pada Ciptaan di Ruang Publik**
+
+**Ciptaan di Ruang Publik Yang Bebas Hak Cipta**
 
 **Konteks Indonesia**
 
@@ -114,8 +118,4 @@ prejudice the legitimate interests of the author”. The freedom of panorama doe
 limit the architects and sculptors' ability to gain commercial advantage from their
 works although these were placed in public places. Other than that, the freedom of
 panorama merely implements copyright protection over photographs, by ensuring that
-there is no limitation of what can or cannot be photographed in public places.  
-
-**Ide Gila: Penempelan Lisensi Hak Cipta Pada Ciptaan di Ruang Publik**
-
-**Ciptaan di Ruang Publik Yang Bebas Hak Cipta**
+there is no limitation of what can or cannot be photographed in public places. 
