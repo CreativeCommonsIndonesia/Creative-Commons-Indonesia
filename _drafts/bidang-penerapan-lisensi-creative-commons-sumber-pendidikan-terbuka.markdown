@@ -5,7 +5,7 @@ date: 2018-07-12 17:43:00 +07:00
 
 Sumber pembelajaran kini beragam medianya mulai dari buku teks cetak ke buku digital, gambar, video, infografis, permainan video, dan media lainya. Seiring berkembangnya teknologi internet, sumber pembelajaran  tersebut kini dapat dengan mudah diakses di dunia maya agar persebarannya meluas dan cepat. Tidak hanya itu, biaya produksi dan distribusi pun dapat berkurang. Namun tidak semua sumber pembelajaran yang ada di dunia maya dapat diakses dengan cuma-cuma. Beberapa penyedia sumber pembelajaran, mebebankan biaya kepada pengguna jika ingin mengakses sumber pendidikan tersebut.
 
-Di sisi lain, kini sudah banyak orang yang berbagi ilmu dengan membuat sumber pembelajaran yang dapat diakses di dunia maya secara gratis. Bahkan mengajak yang lainya untuk turut serta mengembangkan sumber pendidikan tersebut dan mengizinkan penggunanya untuk mengunakan dan menyebarkan kembali tanpa perlu meminta izin.  Karena pada hakikatnya hak untuk mendapatkan ilmu pengetahuan pada hakekatnya merupakan milik semua orang. Model berbagi sumber pembelajaran tersebut pun legal. Sumber pembelajaran yang seperti itu dinamakan sumber pembelajaran terbuka atau yang dalam bahasa inggrinya Open Educational Resource (OER).
+Di sisi lain, kini sudah banyak orang yang berbagi ilmu dengan membuat sumber pembelajaran yang dapat diakses di dunia maya secara gratis. Bahkan mengajak yang lainya untuk turut serta mengembangkan sumber pendidikan tersebut dan mengizinkan penggunanya untuk mengunakan dan menyebarkan kembali tanpa perlu meminta izin. Karena pada hakikatnya hak untuk mendapatkan ilmu pengetahuan pada hakekatnya merupakan milik semua orang. Model berbagi sumber pembelajaran tersebut pun legal. Sumber pembelajaran yang seperti itu dinamakan sumber pembelajaran terbuka atau yang dalam bahasa inggrinya Open Educational Resource (OER).
 
 \*\* Open Educational Resource (OER)\*\*
 
@@ -15,7 +15,7 @@ OER merupakan sebuah istilah yang didefinisikan oleh berbagai lembaga ataupun or
 
 > materi pengajaran, pembelajaran dan penelitian di segala media yang termasuk dalam domain publik atau sudah diterapkan lisensi terbuka yang tidak memerlukan izin dan bebas biaya untuk mengakses, penggunaan, adaptasi dan penyebaran kembali oleh orang lain. OER dapat berwujud buku teks hingga kurikulum, silabus, catatan kuliah, tugas, tes, proyek, audio, video dan animasi.
 
-Sumber pembelajaran dinyatakan sebagai sumber pembelajaran terbuka jika menganut 5 prinsip yakni:
+Sumber pembelajaran terbuka sebaiknya dianjurkan menganut [prinsip 5R ](http://www.opencontent.org/definition/)seperti:
 
 1\. Retain: Dapat diakses untuk diunduh.
 
@@ -27,7 +27,7 @@ Sumber pembelajaran dinyatakan sebagai sumber pembelajaran terbuka jika menganut
 
 5\. Redistribute: Dapat digandakan dan disebarluaskan.
 
-Penjelasan definisi OER di atas menyebutkan yakni sudah diterapkan lisensi terbuka. Salah satu lisensi terbuka yang dapat diterapakn yakni lisensi terbuka Creative Commons.
+Penjelasan definisi OER di atas menyebutkan yakni sudah diterapkan lisensi terbuka. Salah satu lisensi terbuka yang dapat diterapakan yakni lisensi terbuka Creative Commons.
 
 **Lisensi Terbuka Creative Commons**
 
