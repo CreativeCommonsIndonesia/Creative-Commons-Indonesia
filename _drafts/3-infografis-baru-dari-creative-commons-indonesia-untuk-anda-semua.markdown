@@ -24,8 +24,10 @@ Setelah mengetahui hak cipta dan sejarah singat organisasi dan lisensi CC, selan
 
 ![6_Cara_Menerapkan_Lisensi_CC_Pada_Ciptaan_Anda.png](/uploads/6_Cara_Menerapkan_Lisensi_CC_Pada_Ciptaan_Anda.png)
 
-# ** **
+# ** Ketiga Infografis tersebut berlisensi CC BY**
 
-# **Ketiga Infografis tersebut berlisensi CC BY**
+Infografis-infografis tersebut dibuat oleh Hilman Fathoni dan dikembangkan oleh JJ Adibrata yang dapat ditemukan pada platform repositori  Wikicommons dan Flickr. Penerapan lisensi CC memudahkan penguna setidak-tidaknya dalam penggunaan dan penyebaran secara legal tanpa perlu izin. Pilihan lisensi CC yang diterapkan pada infografis CC diatas yakni CC BY  Berikut penjelasan lebih rinci mengenai CC BY:
 
-Infografis-infografis tersebut diterapkan lisensi CC. Sehingga bagi yang membutuhkannya bisa dengan mudah mengunakan atau menyebarkan secara legal tanpa perlu meminta izin.
+![CC BY 4.0.jpg](/uploads/CC%20BY%204.0.jpg)
+
+CC BY  
