@@ -27,6 +27,18 @@ Setelah mengetahui hak cipta dan sejarah singat organisasi dan lisensi CC, selan
 
 # Ketiga Infografis tersebut berlisensi CC BY
 
-Infografis-infografis tersebut dibuat oleh[ Hilman Fathoni](https://commons.wikimedia.org/wiki/User:Hilmanasdf) dan dikembangkan oleh JJ Adibrata yang dapat ditemukan pada platform repositori  [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia) . Penerapan lisensi CC memudahkan pengguna setidak-tidaknya dalam penggunaan dan penyebaran secara legal tanpa perlu izin. Pilihan lisensi CC yang diterapkan pada infografis CC diatas yakni CC BY  Berikut penjelasan lebih rinci mengenai CC BY:
+Infografis-infografis tersebut dibuat oleh[ Hilman Fathoni](https://commons.wikimedia.org/wiki/User:Hilmanasdf) dan dikembangkan oleh JJ Adibrata yang dapat ditemukan pada platform repositori [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia) . Penerapan lisensi CC memudahkan pengguna setidak-tidaknya dalam penggunaan dan penyebaran secara legal tanpa perlu izin. Pilihan lisensi CC yang diterapkan pada infografis CC diatas yakni CC BY, isi ketentuannya adalah:
 
-![CC BY 4.0.jpg](/uploads/CC%20BY%204.0.jpg)
+![CC by.png](/uploads/CC%20by.png)
+
+Anda diizinkan:
+
+* **Berbagi**: Menyalin dan menyebarluaskan ciptaan.
+
+* **Adaptasi**: Menggubah, mengubah, dan membuat turunan dari materi ini untuk kepentingan apapun , termasuk kepentingan komersial. Dengan catatan:
+
+* **Atribusi**: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menunjukan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda.
+
+Artinya, Anda diizinkan untuk menggunakan ciptaan tersebut dengan mencantumkan nama pencipta dan mengubah, menggubah bahkan untuk menyebarluaskan gambar tersebut guna kepentingan apapun. Namun, tidak berarti pemegang hak cipta mendukung secara penggunaan ciptaan.
+
+Berikut penjelasan mengenai pada ketiga infografis CCID yang telah disebutkan di atas beserta lisensi yang diterapkan. Semoga bermanfaat!
