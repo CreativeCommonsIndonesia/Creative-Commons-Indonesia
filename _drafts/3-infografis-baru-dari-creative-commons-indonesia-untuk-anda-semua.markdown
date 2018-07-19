@@ -13,7 +13,7 @@ Infografis ini memberikan informasi mengenai hak cipta yang merupakan salah satu
 
 **2. Apa Itu Creative Commons?**
 
-Infografis ini berisikan mengenai sejarah terbentuknya organisasi Creative Commons dan perkembangannya yang dijelaskan berdasarkan kronolgis waktu. Turut juga dijelaskan peristiwa apa saja yang memengaruhi lahirnya lisensi CC.
+Infografis ini berisikan mengenai sejarah terbentuknya organisasi Creative Commons dan perkembangannya yang dijelaskan berdasarkan kronologis waktu. Dijelaskan pula peristiwa apa saja yang memengaruhi lahirnya lisensi CC.
 
 ![Perlindungan_Hak_Cipta.png](/uploads/Perlindungan_Hak_Cipta.png)
 
@@ -26,6 +26,6 @@ Setelah mengetahui hak cipta dan sejarah singat organisasi dan lisensi CC, selan
 
 # ** Ketiga Infografis tersebut berlisensi CC BY**
 
-Infografis-infografis tersebut dibuat oleh Hilman Fathoni dan dikembangkan oleh JJ Adibrata yang dapat ditemukan pada platform repositori  Wikicommons dan Flickr. Penerapan lisensi CC memudahkan penguna setidak-tidaknya dalam penggunaan dan penyebaran secara legal tanpa perlu izin. Pilihan lisensi CC yang diterapkan pada infografis CC diatas yakni CC BY  Berikut penjelasan lebih rinci mengenai CC BY:
+Infografis-infografis tersebut dibuat oleh Hilman Fathoni dan dikembangkan oleh JJ Adibrata yang dapat ditemukan pada platform repositori  Wikicommons dan Flickr. Penerapan lisensi CC memudahkan pengguna setidak-tidaknya dalam penggunaan dan penyebaran secara legal tanpa perlu izin. Pilihan lisensi CC yang diterapkan pada infografis CC diatas yakni CC BY  Berikut penjelasan lebih rinci mengenai CC BY:
 
 ![CC BY 4.0.jpg](/uploads/CC%20BY%204.0.jpg)
