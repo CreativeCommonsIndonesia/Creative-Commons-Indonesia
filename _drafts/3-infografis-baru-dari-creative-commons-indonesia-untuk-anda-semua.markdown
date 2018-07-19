@@ -3,11 +3,11 @@ title: 3 Infografis Baru Dari Creative Commons Indonesia Untuk Anda Semua!
 date: 2018-07-19 10:30:00 +07:00
 ---
 
-Creative Commons Indonesia (CCID) memublikasikan tiga [materi komunikasi](https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia) baru yang diharapkan dapat memberikan kemudahan bagi masyarakat dalam mengenal lisensi Creative Commons (CC). Ketiga materi komunikasi tersebut berupa infografis yang isinya berkaitan satu sama lainya. Adapun infografis-infografisnya mengenai perlindungan hak cipta, sejarah singkat Creative Commons dan cara menerpakan lisensi CC pada ciptaan. Berikut infografisnya:
+Creative Commons Indonesia (CCID) memublikasikan tiga [materi komunikasi](https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia) baru yang diharapkan dapat memberikan kemudahan bagi masyarakat luas dalam mengenal lisensi Creative Commons (CC). Ketiga materi komunikasi tersebut berupa infografis yang isinya berkaitan satu sama lainya. Adapun infografis-infografisnya mengenai perlindungan hak cipta, sejarah singkat Creative Commons dan cara menerapkan lisensi CC pada ciptaan. Berikut infografisnya:
 
 **1. Perlindungan Hak Cipta **
 
-infografis memberikan informasi menganai hak cipta yang merupakan salah satu bagian dari hak kekayaan intelektual, ciptaan yang dilindungi hak cipta, prinsip deklaratif hak cipta, hak moral dan ekomomi, fungsi sosial hak cipta. 
+Infografis ini memberikan informasi mengenai hak cipta yang merupakan salah satu bagian dari hak kekayaan intelektual, ciptaan yang dilindungi hak cipta, prinsip deklaratif hak cipta, hak moral dan ekomomi, fungsi sosial hak cipta. 
 
 ![Apa_itu_Creative_Commons_.png](/uploads/Apa_itu_Creative_Commons_.png)
 
@@ -29,5 +29,3 @@ Setelah mengetahui hak cipta dan sejarah singat organisasi dan lisensi CC, selan
 Infografis-infografis tersebut dibuat oleh Hilman Fathoni dan dikembangkan oleh JJ Adibrata yang dapat ditemukan pada platform repositori  Wikicommons dan Flickr. Penerapan lisensi CC memudahkan penguna setidak-tidaknya dalam penggunaan dan penyebaran secara legal tanpa perlu izin. Pilihan lisensi CC yang diterapkan pada infografis CC diatas yakni CC BY  Berikut penjelasan lebih rinci mengenai CC BY:
 
 ![CC BY 4.0.jpg](/uploads/CC%20BY%204.0.jpg)
-
-CC BY  
