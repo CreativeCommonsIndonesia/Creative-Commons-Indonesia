@@ -1,7 +1,10 @@
 ---
 title: 3 Infografis Baru Dari Creative Commons Indonesia Untuk Anda Semua!
 date: 2018-07-19 10:30:00 +07:00
+img: "/uploads/Infografis.png"
 ---
+
+![Infografis.png](/uploads/Infografis.png)
 
 Creative Commons Indonesia (CCID) memublikasikan tiga [materi komunikasi](https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia) baru yang diharapkan dapat memberikan kemudahan bagi masyarakat luas dalam mengenal lisensi Creative Commons (CC). Ketiga materi komunikasi tersebut berupa infografis yang isinya berkaitan satu sama lainya. Adapun infografis-infografisnya mengenai perlindungan hak cipta, sejarah singkat Creative Commons dan cara menerapkan lisensi CC pada ciptaan. Berikut infografisnya:
 
