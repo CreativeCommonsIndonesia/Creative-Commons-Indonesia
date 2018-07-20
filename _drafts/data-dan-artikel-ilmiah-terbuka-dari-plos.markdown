@@ -6,7 +6,8 @@ img: "/uploads/Plos.png"
 
 Kebanyakan penerbit memiliki hak atas artikel di jurnal mereka. Bagi siapa saja yang ingin membaca artikel tersebut diharuskan untuk mengaksesnya. Siapa saja yang ingin menggunakan artikel dengan cara apapun harus mendapatkan izin dari penerbit dan terkadang diminta untuk membayar biaya tambahan.
 
-Although many researchers can access the journals they need via their institution and think that access is free, in reality it is not. The institution has often been involved in lengthy negotiations around the price of their site license and reuse of this content is limited.
+Meskipun banyak peneliti dapat mengakses jurnal yang mereka butuhkan melalui institusi mereka dan berangapan akses tersebut gratis, pada kenyataannya tidak. Institusi mereka sering terlibatkan dalam negoisasi panjang mengenai harga lisensi situs dan penggunaan kembali akan konten tersebut terbatas.
+
 
 Paying for access to journals makes sense in the world of print publishing, where providing articles to each reader requires the production of physical copies of articles, but in the online world, with distribution as wide as the internet's reach, it makes much less sense.
 Sumber: https://www.plos.org/open-access
