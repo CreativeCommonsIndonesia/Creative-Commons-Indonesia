@@ -22,13 +22,11 @@ Atas dasar tujuan di atas maka lahirlah PloS sebagai penerbit akses terbuka,inov
 
 Terbuka menjadi pola pikir yang mewakili nilai- nilai terbaik di ranah penelitian. Salah satu tujuanya menyatukan para ilmuan dalam membagikan karyanya dengan secepat dan seluas mungkin, untuk mempercepat kemajuan sains dan bermanfaat bagi masyarakat secara keseluruhan. PLOS telah [memublikasikan 165,000 ](https://www.plos.org/history)lebih artikel dari penulis yang berasal lebih dari 190 negara.
 
-**Lisensi Creative Commons (CC) di PLOS**
+**Lisensi Creative Commons (CC) di PLoS**
 
-Creative Commons and PLoS berbagi tujuan bersama dalam menguatkan sains bersama, dan ingin mendapatkan kentungan dari semua ciptaan yang berlisensi CC dan meningkatkan jumlah pengguna lisensi CC merupakan melakukan hal untuk mencipta, mempertahankan dan menduniakan lisensi yang ditujukan untuk bersama
+Creative Commons and PLoS berbagi tujuan bersama dalam memperkuat ilmu pengetahuan bersama. PLoS mengajak penulis yang berkontribusi artikel atau data ilmiah untuk  menerapkan ciptaanya dengan lisensi CC atribusi (CC BY). Dipilihnya CC BY karena memasitikan aksesbilitas dan kegunaan yang optimal dan tak luput juga tetap mempertahan  suatu hal yang paling dihargai oleh para ilmuwan yakni atribusi pada pekerjaan mereka.  Secara rinci CC BY mengizinkan pengguna 
 
-Creative Commons and PLoS share the common goal of strengthening the science commons, and we want to take advantage of all the work Creative Commons and the growing number of Creative Commons license users are doing to create, defend, and internationalize licenses that define the commons.
 
-We chose the attribution license because it ensures the optimal accessibility and usability while preserving the one thing that scientists value the most: attribution for their work.
 
 Sumber: https://creativecommons.org/2005/09/01/plos/
 
