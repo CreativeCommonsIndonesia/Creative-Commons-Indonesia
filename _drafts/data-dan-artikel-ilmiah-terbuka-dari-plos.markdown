@@ -30,7 +30,7 @@ Creative Commons and PLoS berbagi tujuan bersama dalam memperkuat ilmu pengetahu
 
 Secara rinci CC BY mengizinkan pengguna untuk  **berbagi **dengan menyalin dan menyebarluaskan ciptaan.
 
-* **Adaptasi**: Menggubah, mengubah, dan membuat turunan dari materi ini untuk kepentingan apapun , termasuk kepentingan komersial. Dengan catatan:
+* **Adaptasi**: Menggubah, mengubah, dan membuat turunan dari materi ini untuk kepentingan apapun , termasuk kepentingan komersial. 
 
 * **Atribusi**: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menunjukan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda.
 
