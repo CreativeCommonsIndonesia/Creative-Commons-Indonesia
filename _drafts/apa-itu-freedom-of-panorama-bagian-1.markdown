@@ -48,10 +48,6 @@ Terminologi FoP merupakan turunan dari istilah bahasa Jerman, "Panoramafreiheit"
 
 Seluruh ketentuan tentang FoP di atas dapat ditemukan pada bagian "Penggunaan Wajar" atau "Pembatasan atau Pengecualian Perlindungan" Undang-Undang Hak Cipta masing-masing negara.
 
-**Ciptaan di Ruang Publik Yang Bebas Hak Cipta**
-
-**Ide Gila: Penempelan Lisensi Hak Cipta Pada Ciptaan di Ruang Publik**
-
 **Konteks Indonesia**
 
 Dalam konteks Indonesia, memang terlihat berlebihan untuk menempatkan kekhawatiran mengenai hal ini. Karena, di bawah rezim perlindungan hak cipta Indonesia dari dulu hingga kini, belum pernah terdapat kasus atau peraturan yang secara spesifik menyinggung mengenai hal ini. Namun, seperti yang diutarakan pada bagian ketiga artikel ini, bahwa ketentuan FoP wajib dipastikan terlebih dahulu apabila berkaitan dengan aktivitas berbagi berkas dengan menggunakan platform Wikimedia Commons. Apabila kita melihat laman informasi tentang [status FoP berdasarkan negara ini](https://commons.wikimedia.org/wiki/Commons:Freedom_of_panorama#Indonesia), dinyatakan bahwa Indonesia belum memiliki ketentuan yang mengatur secara jelas di Undang-Undang Hak Ciptanya bahwa perseorangan atau badan hukum dapat mengunggah berkas media visual (gambar/video) yang mengandung karya orang lain yang termasuk sebagai obyek perlindungan hak cipta. 
@@ -137,3 +133,7 @@ limit the architects and sculptors' ability to gain commercial advantage from th
 works although these were placed in public places. Other than that, the freedom of
 panorama merely implements copyright protection over photographs, by ensuring that
 there is no limitation of what can or cannot be photographed in public places. 
+
+**Ciptaan di Ruang Publik Yang Bebas Hak Cipta**
+
+**Ide Gila: Penempelan Lisensi Hak Cipta Pada Ciptaan di Ruang Publik**
