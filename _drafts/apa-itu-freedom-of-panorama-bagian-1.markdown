@@ -22,6 +22,12 @@ FoP adalah sebuah ketentuan yang diatur di dalam regulasi tentang hak cipta oleh
 
 Dalam hal ini obyek yang dimaksud dapat dibagi menjadi dua kategori, yaitu obyek dalam format dua dimensi dan tiga dimensi. Hal ini mengacu pada pembolehan pengambilan gambar karya seni rupa mural di Swiss, yang mana karya seni rupa mural termasuk dalam obyek dua dimensi. Namun, terdapat pengecualian dalam pembolehan ini. Yaitu pengambilan gambar, dalam konteks penggunaan kembali, tidak diperbolehkan untuk digunakan dalam suatu perbuatan yang sama sekali sama dengan penciptaan obyek yang diabadikan dalam bentuk gambar. Artinya seseorang tidak diperbolehkan untuk membuat kembali karya mural yang sama sekali sama dengan merujuk karya fotografi hasil pengambilan gambar atas mural tersebut, penggunaan wajar seperti penerapan atribusi yang baik atau penggunaan bukan untuk kepentingan komersial, dikecualikan. Lalu yang termasuk sebagai obyek tiga dimensi dalam konteks ini ialah gedung, monumen, patung, serta obyek-obyek dalam format tiga dimensi lainnya, termasuk obyek-obyek di bawah ketentuan perlindungan kekayaan intelektual selain hak cipta. Yang tidak boleh luput dari perhatian dalam mendefinisikan obyek-obyek ini tentu saja keberadaan obyek-obyek tersebut di ruang publik atau di tempat umum seperti taman, jalanan, maupun galeri atau museum yang terbuka untuk umum. 
 
+**Akar Permasalahan**
+
+Contoh negara yang tidak memberlakukan hal ini di bagian tersebut adalah Italia yang secara terang mengatur dalam Codice Urbani bahwa setiap tindakan pengambilan gambar terhadap obyek kebudayaan di ruang publik untuk kepentingan komersial harus terlebih dahulu merujuk izin dari pihak pengawas yaitu Kementerian Peninggalan Kebudayaan dan Kesenian Italia. 
+
+Salah satu wilayah yang paling terpengaruh secara nasional, kemudian internasional, dari regulasi hak cipta yang tidak mengindahkan prinsip FoP adalah [Wikimedia Commons](https://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/https://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/). Salah satu jenis gambar media visual yang paling banyak dibagikan di Wikimedia Commons adalah karya fotografi, termasuk dalam hal ini adalah karya fotografi dengan obyek-obyek ciptaan yang ada di ruang publik. Permsalahan dimulai 
+
 **Dasar Pemberlakuan**
 
 Terminologi FoP merupakan turunan dari istilah bahasa Jerman, "Panoramafreiheit", yang artinya adalah "panorama freedom". Karena akar dari ketentuan ini berasal dari wilayah Eropa, maka kita akan merujuk beberapa kasus yang terjadi di Eropa, yang menjadi landasan pemberlakuan ketentuan ini. Uni Eropa menyediakan ketentuan mengenai hal ini di dalam "Directive 2001/29/EC" sebagai dasar hukum pemberlakuan peraturan yang sama oleh negara-negara anggotanya. Sebagai contoh, ketentuan ini diratifikasi oleh Jerman pada Pasal 59 "Urheberrechtsgesetz" (Undang-Undang Hak Cipta di Jerman), Pasal 62 Undang-Undang Desain Industri dan Paten Britania Raya Tahun 1988, dan di beberapa [negara lainnya](https://commons.wikimedia.org/wiki/Commons:Freedom_of_panorama). Untuk lebih jelasnya lagi kita bisa melihat bunyi-bunyi ketentuan terkait FoP dari Prancis, Australia, Kanada, Amerika Serikat (AS), dan beberapa mantan negara anggota Uni Soviet:
@@ -32,9 +38,7 @@ Terminologi FoP merupakan turunan dari istilah bahasa Jerman, "Panoramafreiheit"
 * Di AS, FoP hanya diberlakukan terhadap gedung-gedung yang ada di ruang publik. Disebutkan dalam [17 U.S. Code § 120(a)](https://en.wikisource.org/wiki/United_States_Code/Title_17/Chapter_1/Section_120) yang dimaksud dengan gedung adalah bangunan yang secara permanen ada di ruang publik dan digunakan oleh manusia seperti rumah, gedung perkantoran, tempat ibadah, museum, gazebo, dan taman.  Ketentuan ini tidak berlaku terhadap karya-karya seni rupa yang ada di ruang publik. Sebagai tambahan, ketentuan ini tidak terbatas hanya pada jenis bangunan yang disebutkan saja, namun juga bangunan lain yang memenuhi kriteria seperti bangunan-bangunan tersebut. 
 * Mantan Negara Uni Soviet yang memberlakukan ketentuan ini adalah Moldova, Armenia, dan Russia. Sebagai contoh, Russia memberlakukan ketentuan yang memperbolehkan pengambilan gambar terhadap taman terbuka, namun tidak termasuk karya seni rupa, baik yang diumumkan dalam format 2 dimensi maupun 3 dimensi. 
 
-Seluruh ketentuan tentang FoP di atas dapat ditemukan pada bagian "Penggunaan Wajar" atau "Pembatasan atau Pengecualian Perlindungan" Undang-Undang Hak Cipta masing-masing negara. Contoh negara yang tidak memberlakukan hal ini di bagian tersebut adalah Italia yang secara terang mengatur dalam Codice Urbani bahwa setiap tindakan pengambilan gambar terhadap obyek kebudayaan di ruang publik untuk kepentingan komersial harus terlebih dahulu merujuk izin dari pihak pengawas yaitu Kementerian Peninggalan Kebudayaan dan Kesenian Italia. 
-
-
+Seluruh ketentuan tentang FoP di atas dapat ditemukan pada bagian "Penggunaan Wajar" atau "Pembatasan atau Pengecualian Perlindungan" Undang-Undang Hak Cipta masing-masing negara.
 
 **Ciptaan di Ruang Publik Yang Bebas Hak Cipta**
 
@@ -111,7 +115,7 @@ artistic work. This part of the first subchapter explains how copyright laws in 
 United States, New Zealand, and Indonesia see literary and artistic works as having
 originated from those countries. 
 
-[7]. . For
+[7]. For
 the first step in “certain special cases”, the freedom of panorama is specifically related
 to the act of taking photographs of works permanently situated in public places,
 although what is covered under the word “works” differs in the United States and
