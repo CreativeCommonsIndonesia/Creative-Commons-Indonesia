@@ -26,7 +26,7 @@ Dalam hal ini obyek yang dimaksud dapat dibagi menjadi dua kategori, yaitu obyek
 
 Contoh negara yang tidak memberlakukan hal ini di bagian tersebut adalah Italia yang secara terang mengatur dalam Codice Urbani bahwa setiap tindakan pengambilan gambar terhadap obyek kebudayaan di ruang publik untuk kepentingan komersial harus terlebih dahulu merujuk izin dari pihak pengawas yaitu Kementerian Peninggalan Kebudayaan dan Kesenian Italia. 
 
-Salah satu wilayah yang paling terpengaruh secara nasional, kemudian internasional, dari regulasi hak cipta yang tidak mengindahkan prinsip FoP adalah [Wikimedia Commons](https://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/https://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/). Salah satu jenis gambar media visual yang paling banyak dibagikan di Wikimedia Commons adalah karya fotografi, termasuk dalam hal ini adalah karya fotografi dengan obyek-obyek ciptaan yang ada di ruang publik. Permsalahan dimulai 
+Salah satu wilayah yang paling terpengaruh secara nasional, kemudian internasional, dari regulasi hak cipta yang tidak mengindahkan prinsip FoP adalah [Wikimedia Commons](https://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/https://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/). Salah satu jenis gambar media visual yang paling banyak dibagikan di Wikimedia Commons adalah karya fotografi, termasuk dalam hal ini adalah karya fotografi dengan obyek-obyek ciptaan yang ada di ruang publik. Permasalahan dimulai 
 
 **Dasar Pemberlakuan**
 
