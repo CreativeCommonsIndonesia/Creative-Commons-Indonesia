@@ -9,12 +9,14 @@ Kebanyakan penerbit memiliki hak atas artikel di jurnal mereka. Bagi siapa saja 
 Meskipun banyak peneliti dapat mengakses jurnal yang mereka butuhkan melalui institusi mereka dan berangapan akses tersebut gratis, pada kenyataannya tidak. Institusi mereka sering terlibatkan dalam negoisasi panjang mengenai harga lisensi situs dan penggunaan kembali akan konten tersebut terbatas.
 
 Membayar untuk mendapatkan akses ke jurnal merupakan hal yang wajar di ranah pererbit cetak, dimana menyediakan artikel bagi tiap pembaca yang membutuhkan produksi salinan cetak artikel tersebut. Akan tetapi di ranah daring, dengan distribusi yang luas seluas jangkauan internet, hal tersebut sudah sedikit tidak wajar.
-
 Sumber: https://www.plos.org/open-access
 
-**PLOS Bagian dari Akses Terbuka**
+**The Public Library of Science (PLOS) Bagian dari Akses Terbuka**
 
 ![Plos.png](/uploads/Plos.png)
+
+
+PLoS merupakan organiasi nirlaba yang berdedikasi dalam membuat ranah literatur keilmiahan dan kedokteran menjadi bebas tersedia sebagai sumber publik. PloS didirikan pada bulan Oktober 2000 melalui usaha tiga ilmuan yang dinamis dan sangat dihormati seperti Nobel Laureate. Harold Varmus (mantan kepala Instiusi Nasional Kesehatan),Pat Brown (biologis mokular Universitas Standford), Michael Eisen (biologis Nasional lab Lawrence Berkeley dan UC Berkeley). Dikutip dari L.A. Times para pendiri tersebut bermimpi untuk membangun dunia dimana ribuan jurnal ilmiah berada di perpustakaan digital terbuka untuk publik.  
 
 The Public Library of Science is a nonprofit organization dedicated to making the world’s scientific and medical literature a freely available public resource. PLoS emerged in October 2000 through the effort of three dynamic and highly respected scientists: Nobel Laureate and former head of the National Institutes of Health Harold Varmus, molecular biologist Pat Brown of Stanford University, and biologist Michael Eisen of Lawrence Berkeley National Lab and UC Berkeley. This trio’s dream, as the L.A. Times put it, is to build “a world in which the many thousands of scientific journals . . . are placed in an electronic library open to the public.”
 
