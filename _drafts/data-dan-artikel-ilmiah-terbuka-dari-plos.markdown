@@ -4,7 +4,7 @@ date: 2018-07-18 16:51:00 +07:00
 img: "/uploads/Plos.png"
 ---
 
-Most publishers own the rights to the articles in their journals. Anyone who wants to read the articles must pay to access them. Anyone who wants to use the articles in any way must obtain permission from the publisher and is often required to pay an additional fee.
+Kebanyakan penerbit memiliki hak atas artikel di jurnal mereka. Bagi siapa saja yang ingin membaca artikel tersebut diharuskan untuk mengaksesnya. Siapa saja yang ingin menggunakan artikel dengan cara apapun harus mendapatkan izin dari penerbit dan terkadang diminta untuk membayar biaya tambahan.
 
 Although many researchers can access the journals they need via their institution and think that access is free, in reality it is not. The institution has often been involved in lengthy negotiations around the price of their site license and reuse of this content is limited.
 
