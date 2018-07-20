@@ -16,19 +16,20 @@ Membayar untuk mendapatkan akses ke jurnal merupakan hal yang wajar di ranah per
 
 [PLoS](http://creativecommons.org/2005/09/01/plos/) merupakan organiasi nirlaba yang didedikasikan untuk menjadikan ranah literatur keilmiahan dan kedokteran bebas dan tersedia sebagai sumber publik. PloS didirikan pada bulan Oktober tahun 2000 melalui upaya tiga ilmuwan yang dinamis dan sangat dihormati. Ketiga ilmuwan tersebut yakni Harold Varmus (mantan kepala Nasional Instiusi Kesehatan),Pat Brown (ahli biologi molekular dari Universitas Standford), dan Michael Eisen (ahli biologi Nasional lab Lawrence Berkeley dan UC Berkeley).  Michael Eisen menjelaskan bahwa tujuan mereka dalam mendirikan PLoS yakni untuk melihat tiap publikasi ilmiah dan medis tersedia secara bebas tanpa dipungut biaya bagi siapa saja yang membaca, menggunakan, menggabungkan basis data, menyebarkan kembali, dan lain-lain. 
 
-Untuk melakukan hal tersebut mereka ingin menggeser bagaimana para penerbit dibayar untuk peran yang mereka mainkan dalam mengkomunikasikan ide-ide dan penemuan-penemuan  ilmiah.  Untuk beralih dari model tersebut yang mana para penerbit diberikan  kontrol eklusif dan permanen terhadap literatur ilmiah dan diizinkan untuk memungut biaya bagi yang ingin mengaksesnya ke sebuah midel di mana literatur ilmiah ditempatkan secara efektif di domain publik dan para penerbit dibayar dengan harga yang adil untuk layanan yang mereka sediakan dalam mendapatkan liteatur di sana. 
+Untuk melakukan hal tersebut mereka ingin menggeser bagaimana para penerbit dibayar untuk peran yang mereka mainkan dalam mengkomunikasikan ide-ide dan penemuan-penemuan  ilmiah.  Untuk beralih dari model tersebut yang mana para penerbit diberikan  kontrol eklusif dan permanen terhadap literatur ilmiah dan diizinkan untuk memungut biaya bagi yang ingin mengaksesnya ke sebuah model di mana literatur ilmiah ditempatkan secara efektif di domain publik dan para penerbit dibayar dengan harga yang adil untuk layanan yang mereka sediakan dalam mendapatkan liteatur di sana. 
 
-Hal diatas merupakan tujuan utuma didirikanya PLoS. PloS merupakan penerbit akses terbuka,inovator,dan organisasi advokasi nirlaba dengan misi untuk mempercepat kemajuan dalam sains dan kedokteran dengan memimpin transformasi dalam komunikasi penelitian. PLOS sudah terbukti dalam membuat penelitian yang berkualitas terbuka dan tersedia untuk siapa saja yang ingin membaca, mengunduh dan digunakan kembali sebagai model bisnis. Terbuka tidak hanya tentang akses bebas dan tidak terbatas dalam penelitian, tetapi juga keterbukaan data, transparansi dalam tinjauan sejawat dan pendekatan terbuka dalam pengkajian ilmu pengetahuan.
+Atas dasar tujuan di atas maka lahirlah PloS sebagai penerbit akses terbuka,inovator,dan organisasi advokasi nirlaba dengan misi untuk mempercepat kemajuan dalam sains dan kedokteran dengan memimpin transformasi dalam komunikasi penelitian. PLOS sudah terbukti dalam membuat penelitian yang berkualitas terbuka dan tersedia untuk siapa saja yang ingin membaca, mengunduh dan digunakan kembali sebagai model bisnis. Terbuka tidak hanya tentang akses bebas dan tidak terbatas dalam penelitian, tetapi juga keterbukaan data, transparansi dalam tinjauan sejawat dan pendekatan terbuka dalam pengkajian ilmu pengetahuan.
 
 Terbuka menjadi pola pikir yang mewakili nilai- nilai terbaik di ranah penelitian. Salah satu tujuanya menyatukan para ilmuan dalam membagikan karyanya dengan secepat dan seluas mungkin, untuk mempercepat kemajuan sains dan bermanfaat bagi masyarakat secara keseluruhan. PLOS telah [memublikasikan 165,000 ](https://www.plos.org/history)lebih artikel dari penulis yang berasal lebih dari 190 negara.
 
-**Lisensi CC BY di PLOS**
+**Lisensi Creative Commons (CC) di PLOS**
 
-CC: Why did you decide to use Creative Commons licenses?
+Creative Commons and PLoS berbagi tujuan bersama dalam menguatkan sains bersama, dan ingin mendapatkan kentungan dari semua ciptaan yang berlisensi CC dan meningkatkan jumlah pengguna lisensi CC merupakan melakukan hal untuk mencipta, mempertahankan dan menduniakan lisensi yang ditujukan untuk bersama
 
 Creative Commons and PLoS share the common goal of strengthening the science commons, and we want to take advantage of all the work Creative Commons and the growing number of Creative Commons license users are doing to create, defend, and internationalize licenses that define the commons.
 
 We chose the attribution license because it ensures the optimal accessibility and usability while preserving the one thing that scientists value the most: attribution for their work.
+
 Sumber: https://creativecommons.org/2005/09/01/plos/
 
 How It Works at PLOS
