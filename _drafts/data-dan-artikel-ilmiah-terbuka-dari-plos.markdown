@@ -15,20 +15,22 @@ Sumber: https://www.plos.org/open-access
 
 ![Plos.png](/uploads/Plos.png)
 
-PLoS merupakan organiasi nirlaba yang didedikasikan untuk menjadikan ranah literatur keilmiahan dan kedokteran bebas dan tersedia sebagai sumber publik. PloS didirikan pada bulan Oktober tahun 2000 melalui upaya tiga ilmuwan yang dinamis dan sangat dihormati. Ketiga ilmuwan tersebut yakni Harold Varmus (mantan kepala Nasional Instiusi Kesehatan),Pat Brown (ahli biologi biologis molekular dari Universitas Standford), dan Michael Eisen (ahli biologi Nasional lab Lawrence Berkeley dan UC Berkeley). Dikutip dari L.A. Times para pendiri tersebut bermimpi untuk membangun "dunia di mana ribuan jurnal ilmiah.. ditempatkan di perpustakaan digital terbuka untuk umum".  
+PLoS merupakan organiasi nirlaba yang didedikasikan untuk menjadikan ranah literatur keilmiahan dan kedokteran bebas dan tersedia sebagai sumber publik. PloS didirikan pada bulan Oktober tahun 2000 melalui upaya tiga ilmuwan yang dinamis dan sangat dihormati. Ketiga ilmuwan tersebut yakni Harold Varmus (mantan kepala Nasional Instiusi Kesehatan),Pat Brown (ahli biologi molekular dari Universitas Standford), dan Michael Eisen (ahli biologi Nasional lab Lawrence Berkeley dan UC Berkeley). Dikutip dari L.A. Times para pendiri tersebut bermimpi untuk membangun "dunia di mana ribuan jurnal ilmiah.. ditempatkan di perpustakaan digital terbuka untuk umum".\
 Sumber: https://creativecommons.org/2005/09/01/plos/
 
+Berawal dari mimpi tersebut, dilansir dari [creativecommons.org](https://creativecommons.org/2005/09/01/plos/) pada suatu kesempatan mewawancarai Michael Eisen, ia  menjelaskan bahwa tujuan mereka dalam mendirikan PLoS yakni untuk melihat tiap publikasi ilmiah dan medis tersedia secara bebas tanpa dipungut biaya bagi siapa saja yang membaca, menggunakan, menggabungkan basis data, menyebarkan kembali, dan lain-lain. Untuk melakukan hal tersebut kami ingin mengeser bagaimana para penerbit dibayar untuk peran yang mereka mainkan dalam mengkomunikasikan ide-ide ilmuwan dan penemuan-penuman - untuk mengubah bentuk model tersebut yang mana para penerbit diberikan permanen, ekslusif kontrol terhadap literatur ilmiah dan diizinkan untuk memungut biaya bagi yang ingin mengaksesnya untuk sebuah midel dimana literatur tersebut ditempatkan secara efektif di domain publik dan para penerbit dibayar dengan harga yang adil untuk pelayanan yang mereka sediakan dalam mendapatkan liteatur di sana.
 
-ME: Our goal is to see that every scientific and medical research publication is available free of charge for anyone to read, use, incorporate in databases, redistribute, etc. To do this we want to shift how the publishers are paid for the role they play in communicating scientific ideas and discoveries — to switch from a model in which publishers are given permanent, exclusive control over the scientific literature and allowed to charge for access to a model in which the literature is effectively placed in the public domain and publishers are paid a fair price for the service they provide in getting the literature there.
+ME: Our goal is to see that every scientific and medical research publication is available free of charge for anyone to read, use, incorporate in databases, redistribute, etc.
+
+To do this we want to shift how the publishers are paid for the role they play in communicating scientific ideas and discoveries — to switch from a model in which publishers are given permanent, exclusive control over the scientific literature and allowed to charge for access to a model in which the literature is effectively placed in the public domain and publishers are paid a fair price for the service they provide in getting the literature there.
 
 Sumber: https://creativecommons.org/2005/09/01/plos/
 
-Public Library of Science (PLOS) merupakan penerbit akses terbuka,inovator,dan organisasi advokasi nirlaba dengan misi untuk mempercepat kemajuan dalam sains dan kedokteran dengan memimpin transformasi dalam komunikasi penelitian. 
+Public Library of Science (PLOS) merupakan penerbit akses terbuka,inovator,dan organisasi advokasi nirlaba dengan misi untuk mempercepat kemajuan dalam sains dan kedokteran dengan memimpin transformasi dalam komunikasi penelitian.
 
 PLOS sudah terbukti dalam membuat penelitian yang berkualitas terbuka dan tersedia untuk siapa saja yang ingin membaca, mengunduh dan digunakan kembali sebagai model bisnis. Terbuka tidak hanya tentang akses bebas dan tidak terbatas dalam penelitian, tetapi juga keterbukaan data, transparansi dalam tinjauan sejawat dan pendekatan terbuka dalam pengkajian ilmu pengetahuan.
 
 Terbuka menjadi pola pikir yang mewakili nilai- nilai terbaik di ranah penelitian. Salah satu tujuanya menyatukan para ilmuan dalam membagikan karyanya dengan secepat dan seluas mungkin, untuk mempercepat kemajuan sains dan bermanfaat bagi masyarakat secara keseluruhan. PLOS telah [memublikasikan 165,000 ](https://www.plos.org/history)lebih artikel dari penulis yang berasal lebih dari 190 negara.
-
 
 **Lisensi CC BY di PLOS**
 
@@ -42,8 +44,6 @@ Sumber: https://creativecommons.org/2005/09/01/plos/
 How It Works at PLOS
 PLOS applies the Creative Commons Attribution (CC BY) license to works we publish. This license was developed to facilitate Open Access—namely, free immediate access to, and unrestricted reuse of, original works of all types. Under this license, authors agree to make articles legally available for reuse, without permission or fees, for virtually any purpose. Anyone may copy, distribute or reuse these articles, as long as the author and original source are properly cited. Additionally, the journal platform that PLOS uses to publish research articles is Open Source.
 Sumber: https://www.plos.org/open-access
-
-
 
 http://blogs.plos.org/plos/2017/11/unrestricted-text-and-data-mining-with-allofplos/\
 https://reason.com/reasontv/2017/11/30/open-access-science-publishing-plos
