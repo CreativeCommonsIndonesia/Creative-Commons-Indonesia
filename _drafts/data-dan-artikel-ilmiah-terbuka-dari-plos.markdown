@@ -26,7 +26,7 @@ Terbuka menjadi pola pikir yang mewakili nilai- nilai terbaik di ranah penelitia
 
 **Lisensi Creative Commons (CC) di PLoS**
 
-Creative Commons and PLoS berbagi tujuan bersama dalam memperkuat ilmu pengetahuan bersama. PLoS mengajak penulis yang berkontribusi artikel atau data ilmiah untuk  menerapkan ciptaanya dengan lisensi CC atribusi (CC BY). Dipilihnya CC BY karena memasitikan aksesbilitas dan kegunaan yang optimal dan tak luput juga tetap mempertahan  suatu hal yang paling dihargai oleh para ilmuwan yakni atribusi pada pekerjaan mereka.  Secara rinci CC BY mengizinkan pengguna:
+Creative Commons and PLoS berbagi tujuan bersama dalam memperkuat ilmu pengetahuan bersama.PLoS menerapkan lisensi CC artibusi (CC BY) pada karya ilmiah yang dipublikasikan. Dipilihnya CC BY karena lisensi tersebut dapat memastikan aksesbilitas dan kegunaan yang optimal dan tak luput juga tetap mempertahan  suatu hal yang paling dihargai oleh para ilmuwan yakni atribusi pada pekerjaan mereka.  Secara rinci CC BY mengizinkan pengguna:
 
 **Berbagi**: Menyalin dan menyebarluaskan ciptaan.
 
@@ -36,11 +36,7 @@ Creative Commons and PLoS berbagi tujuan bersama dalam memperkuat ilmu pengetahu
 
 Artinya, Anda diizinkan untuk menggunakan ciptaan tersebut dengan mencantumkan nama pencipta dan mengubah, menggubah bahkan untuk menyebarluaskan gambar tersebut guna kepentingan apapun. Namun, tidak berarti pemegang hak cipta mendukung secara penggunaan ciptaan.
 
-Sumber: https://creativecommons.org/2005/09/01/plos/
-
-How It Works at PLOS
-PLOS applies the Creative Commons Attribution (CC BY) license to works we publish. This license was developed to facilitate Open Access—namely, free immediate access to, and unrestricted reuse of, original works of all types. Under this license, authors agree to make articles legally available for reuse, without permission or fees, for virtually any purpose. Anyone may copy, distribute or reuse these articles, as long as the author and original source are properly cited. Additionally, the journal platform that PLOS uses to publish research articles is Open Source.
-Sumber: https://www.plos.org/open-access
+Under this license, authors agree to make articles legally available for reuse, without permission or fees, for virtually any purpose. Anyone may copy, distribute or reuse these articles, as long as the author and original source are properly cited. Additionally, the journal platform that PLOS uses to publish research articles is Open Source. Sumber: https://www.plos.org/open-access
 
 http://blogs.plos.org/plos/2017/11/unrestricted-text-and-data-mining-with-allofplos/\
 https://reason.com/reasontv/2017/11/30/open-access-science-publishing-plos
