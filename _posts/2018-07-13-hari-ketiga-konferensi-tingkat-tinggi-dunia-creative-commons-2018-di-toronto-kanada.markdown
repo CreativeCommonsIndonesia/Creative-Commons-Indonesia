@@ -22,7 +22,7 @@ comments: true
 
 Kembali diadakannya konferensi ini di kota yang sama semacam menjadi rangkaian kesuksesan konferensi tahun lalu yang tiket masuknya habis terjual. Berikut adalah statistik yang dapat dilihat untuk konferensi tahun lalu:
 
-* 42 "anggota" komunitas ikut serta dalam pengembangan program acara untuk memilih lebih dari 100 progra yang melibatkan "anggota" lama maupun "anggota" baru.
+* 42 "anggota" komunitas ikut serta dalam pengembangan program acara untuk memilih lebih dari 100 program yang melibatkan "anggota" lama maupun "anggota" baru.
 
 * Tiket untuk masuk ke konferensi ini kembali habis terjual dengan total hampir 400 peserta.
 
