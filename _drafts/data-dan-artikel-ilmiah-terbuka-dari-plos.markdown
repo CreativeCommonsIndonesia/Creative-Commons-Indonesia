@@ -24,7 +24,15 @@ Terbuka menjadi pola pikir yang mewakili nilai- nilai terbaik di ranah penelitia
 
 **Lisensi Creative Commons (CC) di PLoS**
 
-Creative Commons and PLoS berbagi tujuan bersama dalam memperkuat ilmu pengetahuan bersama. PLoS mengajak penulis yang berkontribusi artikel atau data ilmiah untuk  menerapkan ciptaanya dengan lisensi CC atribusi (CC BY). Dipilihnya CC BY karena memasitikan aksesbilitas dan kegunaan yang optimal dan tak luput juga tetap mempertahan  suatu hal yang paling dihargai oleh para ilmuwan yakni atribusi pada pekerjaan mereka.  Secara rinci CC BY mengizinkan pengguna 
+Creative Commons and PLoS berbagi tujuan bersama dalam memperkuat ilmu pengetahuan bersama. PLoS mengajak penulis yang berkontribusi artikel atau data ilmiah untuk  menerapkan ciptaanya dengan lisensi CC atribusi (CC BY). Dipilihnya CC BY karena memasitikan aksesbilitas dan kegunaan yang optimal dan tak luput juga tetap mempertahan  suatu hal yang paling dihargai oleh para ilmuwan yakni atribusi pada pekerjaan mereka.  Secara rinci CC BY mengizinkan pengguna:
+
+**Berbagi**: Menyalin dan menyebarluaskan ciptaan.
+
+* **Adaptasi**: Menggubah, mengubah, dan membuat turunan dari materi ini untuk kepentingan apapun , termasuk kepentingan komersial. Dengan catatan:
+
+* **Atribusi**: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menunjukan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda.
+
+Artinya, Anda diizinkan untuk menggunakan ciptaan tersebut dengan mencantumkan nama pencipta dan mengubah, menggubah bahkan untuk menyebarluaskan gambar tersebut guna kepentingan apapun. Namun, tidak berarti pemegang hak cipta mendukung secara penggunaan ciptaan.
 
 
 
