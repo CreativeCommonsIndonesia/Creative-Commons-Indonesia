@@ -8,8 +8,8 @@ Kebanyakan penerbit memiliki hak atas artikel di jurnal mereka. Bagi siapa saja 
 
 Meskipun banyak peneliti dapat mengakses jurnal yang mereka butuhkan melalui institusi mereka dan berangapan akses tersebut gratis, pada kenyataannya tidak. Institusi mereka sering terlibatkan dalam negoisasi panjang mengenai harga lisensi situs dan penggunaan kembali akan konten tersebut terbatas.
 
+Membayar untuk mendapatkan akses ke jurnal merupakan hal yang wajar di ranah pererbit cetak, dimana menyediakan artikel bagi tiap pembaca yang membutuhkan produksi salinan cetak artikel tersebut. Akan tetapi di ranah daring, dengan distribusi yang luas seluas jangkauan internet, hal tersebut sudah sedikit tidak wajar.
 
-Paying for access to journals makes sense in the world of print publishing, where providing articles to each reader requires the production of physical copies of articles, but in the online world, with distribution as wide as the internet's reach, it makes much less sense.
 Sumber: https://www.plos.org/open-access
 
 **PLOS Bagian dari Akses Terbuka**
