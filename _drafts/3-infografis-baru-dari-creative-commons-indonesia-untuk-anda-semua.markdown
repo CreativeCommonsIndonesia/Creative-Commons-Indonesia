@@ -30,7 +30,7 @@ Setelah mengetahui hak cipta dan sejarah singat organisasi dan lisensi CC, selan
 
 # Ketiga Infografis tersebut berlisensi CC BY
 
-Infografis-infografis tersebut dibuat oleh[ Hilman Fathoni](https://commons.wikimedia.org/wiki/User:Hilmanasdf) dan dikembangkan oleh JJ Adibrata yang dapat ditemukan pada platform repositori [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia) . Penerapan lisensi CC memudahkan pengguna setidak-tidaknya dalam penggunaan dan penyebaran secara legal tanpa perlu izin. Pilihan lisensi CC yang diterapkan pada infografis CC diatas yakni CC BY, isi ketentuannya adalah:
+Infografis-infografis tersebut dibuat oleh[ Hilman Fathoni](https://commons.wikimedia.org/wiki/User:Hilmanasdf) dan dikembangkan oleh JJ Adibrata yang dapat ditemukan pada platform repositori [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia). Penerapan lisensi CC memudahkan pengguna setidak-tidaknya dalam penggunaan dan penyebaran secara legal tanpa perlu izin. Pilihan lisensi CC yang diterapkan pada infografis CC diatas yakni CC BY, isi ketentuannya adalah:
 
 ![CC by.png](/uploads/CC%20by.png)
 
