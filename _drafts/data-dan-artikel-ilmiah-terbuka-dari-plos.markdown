@@ -15,22 +15,17 @@ Sumber: https://www.plos.org/open-access
 
 ![Plos.png](/uploads/Plos.png)
 
-
-PLoS merupakan organiasi nirlaba yang didedikasikan untuk menjadikan ranah literatur keilmiahan dan kedokteran bebas dan tersedia sebagai sumber publik. PloS didirikan pada bulan Oktober tahun 2000 melaui upaya tiga ilmuwan yang dinamis dan sangat dihormati. Ketiga ilmuwan tersebut yakni Harold Varmus (mantan kepala Nasional Instiusi Kesehatan),Pat Brown (ahli biologi biologis molekular dari Universitas Standford), dan Michael Eisen (ahli biologi Nasional lab Lawrence Berkeley dan UC Berkeley). Dikutip dari L.A. Times para pendiri tersebut bermimpi untuk membangun "dunia di mana ribuan jurnal ilmiah.. ditempatkan di perpustakaan digital terbuka untuk umum.  
-
-The Public Library of Science is a nonprofit organization dedicated to making the world’s scientific and medical literature a freely available public resource. PLoS emerged in October 2000 through the effort of three dynamic and highly respected scientists: Nobel Laureate and former head of the National Institutes of Health Harold Varmus, molecular biologist Pat Brown of Stanford University, and biologist Michael Eisen of Lawrence Berkeley National Lab and UC Berkeley. This trio’s dream, as the L.A. Times put it, is to build “a world in which the many thousands of scientific journals . . . are placed in an electronic library open to the public.”
-
+PLoS merupakan organiasi nirlaba yang didedikasikan untuk menjadikan ranah literatur keilmiahan dan kedokteran bebas dan tersedia sebagai sumber publik. PloS didirikan pada bulan Oktober tahun 2000 melalui upaya tiga ilmuwan yang dinamis dan sangat dihormati. Ketiga ilmuwan tersebut yakni Harold Varmus (mantan kepala Nasional Instiusi Kesehatan),Pat Brown (ahli biologi biologis molekular dari Universitas Standford), dan Michael Eisen (ahli biologi Nasional lab Lawrence Berkeley dan UC Berkeley). Dikutip dari L.A. Times para pendiri tersebut bermimpi untuk membangun "dunia di mana ribuan jurnal ilmiah.. ditempatkan di perpustakaan digital terbuka untuk umum".  
 Sumber: https://creativecommons.org/2005/09/01/plos/
 
-Public Library of Science (PLOS) merupakan penerbit akses terbuka,inovator,dan organisasi advokasi nirlaba dengan misi untuk mempercepat kemajuan dalam sains dan kedokteran dengan memimpin transformasi dalam komunikasi penelitian. 
-
-CC: What’s the ultimate goal of the organization?
 
 ME: Our goal is to see that every scientific and medical research publication is available free of charge for anyone to read, use, incorporate in databases, redistribute, etc. To do this we want to shift how the publishers are paid for the role they play in communicating scientific ideas and discoveries — to switch from a model in which publishers are given permanent, exclusive control over the scientific literature and allowed to charge for access to a model in which the literature is effectively placed in the public domain and publishers are paid a fair price for the service they provide in getting the literature there.
 
 Sumber: https://creativecommons.org/2005/09/01/plos/
 
-PLOS sudah terbukti dalam membuat penelitian yang berkualitas terbuka dan tersedia untuk siapa saja yang ingin membaca, mengunduh dan digunakan kembali sebagai model bisnis. Terbuka tidak hanya tentang akses bebas dan tidak terbatas dalam penelitian, tetapi juga keterbukaan data, transparansi dalam tinjauan sejawar dan pendekatan terbuka dalam pengkajian ilmu pengetahuan.
+Public Library of Science (PLOS) merupakan penerbit akses terbuka,inovator,dan organisasi advokasi nirlaba dengan misi untuk mempercepat kemajuan dalam sains dan kedokteran dengan memimpin transformasi dalam komunikasi penelitian. 
+
+PLOS sudah terbukti dalam membuat penelitian yang berkualitas terbuka dan tersedia untuk siapa saja yang ingin membaca, mengunduh dan digunakan kembali sebagai model bisnis. Terbuka tidak hanya tentang akses bebas dan tidak terbatas dalam penelitian, tetapi juga keterbukaan data, transparansi dalam tinjauan sejawat dan pendekatan terbuka dalam pengkajian ilmu pengetahuan.
 
 Terbuka menjadi pola pikir yang mewakili nilai- nilai terbaik di ranah penelitian. Salah satu tujuanya menyatukan para ilmuan dalam membagikan karyanya dengan secepat dan seluas mungkin, untuk mempercepat kemajuan sains dan bermanfaat bagi masyarakat secara keseluruhan. PLOS telah [memublikasikan 165,000 ](https://www.plos.org/history)lebih artikel dari penulis yang berasal lebih dari 190 negara.
 
