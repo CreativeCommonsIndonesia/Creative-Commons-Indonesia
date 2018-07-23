@@ -4,7 +4,7 @@ date: 2018-07-20 19:06:00 +07:00
 img: "/uploads/Made%20With%20Creative%20Commons.png"
 ---
 
-Sejak lisensi Creative Commons (CC) diluncurkan pada tahun 2002, penerapan lisensi CC kini berkembang pesat ke berbagai ranah mulai dari buku, musik, data jurnal, seni dan lain-lainya. Melalui buku "Made With CC" diceritakan   sejarah singkat yang menginspirasi mengenai pendirian model bisnis terbuka yang menerapkan lisensi CC yang dilakukan oleh pebisnis, organisasi, platform atau perorangan dengan tetap memeroleh keuntungan.
+Sejak lisensi Creative Commons (CC) diluncurkan pada tahun 2002, penerapan lisensi CC kini berkembang pesat ke berbagai ranah mulai dari buku, musik, data jurnal, seni dan lain-lainya. Melalui buku "Made With CC" diceritakan  sejarah singkat yang menginspirasi mengenai pendirian model bisnis terbuka yang menerapkan lisensi CC yang dilakukan oleh pebisnis, organisasi, platform atau perorangan dengan tetap memeroleh keuntungan.
 
 Buku ini dibagi menjadi 2 bagian. Pada bagian pertama Paul Stacey memaparkan "The New World of Digital Commons" dan juga Sarah Pearson menjelaskan "How to be Made With CC" serta sub bab khusus mengenai CC.
 
