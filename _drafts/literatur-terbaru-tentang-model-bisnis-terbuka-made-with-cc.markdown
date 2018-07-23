@@ -6,15 +6,19 @@ img: "/uploads/Made%20With%20Creative%20Commons.png"
 
 Sejak lisensi Creative Commons (CC) diluncurkan pada tahun 2002, penerapan lisensi CC kini berkembang pesat ke berbagai ranah mulai dari buku, musik, data, seni dan lain-lainya. Ketika ciptaan  yang berlisensi CC setidak-tidaknya dapat secara legal dibagikan dan disebarkan tanpa harus izin ke pencipta. Dengan hal seperti itu apakah memungkinkan bagi pencipta dalam memeroleh penghasilan dari ciptaannya tersebut? 
 
-Melalui buku "Made With CC" diceritakan  sejarah singkat yang penuh inspirasi mengenai pendirian model bisnis terbuka yang menerapkan lisensi CC yang dilakukan oleh pebisnis, organisasi, atau perorangan dengan tetap memeroleh keuntungan. Namun perlu diingat tujuan utama dari pembuatan buku ini bukan semata-mata untuk memberitahukan model bisnis dengan menggunakan CC, melainkan mengumpulkan ide-ide segar dan studi kasus dinamis yang memicu adanya model yang inovatif dan membantu yang lain mengikutinya dengan apa yang telah mereka ciptakan. CC berfokus dalam membangun gelombang, penggunaan bersama yang digerakan oleh kolaborasi dan rasa syukur.
+Melalui buku "Made With CC" diceritakan  sejarah singkat yang penuh inspirasi mengenai pendirian model bisnis terbuka yang menerapkan lisensi CC yang dilakukan oleh pebisnis, organisasi, atau perorangan dengan tetap memeroleh keuntungan. Namun perlu diingat tujuan utama dari pembuatan buku ini bukan semata-mata untuk memberitahukan model bisnis dengan menggunakan CC, melainkan mengumpulkan ide-ide segar dan studi kasus  yang memicu adanya model yang inovatif dan membantu yang lain mengikutinya dengan apa yang telah mereka ciptakan. CC berfokus dalam membangun gelombang, penggunaan bersama yang digerakan oleh kolaborasi dan rasa syukur.
 
-> Seluruh orang yang diinterview di buku ini tidak akan menceritakan bagaimana bisnis penjualan terhadap pelanggan dan mencari keuntungan sebanyak mungkin. Akan tetapi mereka berbagi mengenai bagaimana membuat dunia yang lebih baik (bukan hanya dari nilai ekomoni saja akan tetapi nilai sosial dan kebudayaan), membuat relasi dan bagaimana ciptaan dibagikan ke komunitas sekitar dan mengahasilkan pendapatan yang berkelanjutan.
+> Seluruh orang yang diwawancarai di buku ini tidak akan menceritakan bagaimana bisnis penjualan terhadap pelanggan dan mencari keuntungan sebanyak mungkin. Akan tetapi mereka berbagi mengenai bagaimana membuat dunia yang lebih baik (bukan hanya dari nilai ekomoni saja akan tetapi nilai sosial dan kebudayaan), membuat relasi dan bagaimana ciptaan dibagikan ke komunitas sekitar dan mengahasilkan pendapatan yang berkelanjutan.
 
 Buku ini dibagi menjadi dua bagian. Pada bagian pertama Paul Stacey memaparkan beberapa konteks historis akan kepemilikan digital bersama. Dijelaskan juga tiga cara masyarakat dalam mengelola sumber daya dan berbagi kesejahteraan (umum, pasar dan negara)
 
 Dan Sarah Pearson yang menjelaskan "How to be Made With CC" serta sub bab khusus mengenai CC.
 
-Pada bagian kedua dibahas lebih rinci mengenai 24 studi kasus di berbagai macam bidang dan juga informasi bagaimana mereka dapat mengasilkan uang sekaligus berbagi.
+Pada bagian kedua dibahas lebih rinci mengenai 24 studi kasus di berbagai macam bidang dan juga informasi bagaimana mereka dapat mengasilkan uang sekaligus berbagi. 
+
+24 Studi kasus:
+
+Arduino, Artica, Blender Institute, Cards Against Humanity, The Conversation, Cory Doctorow, Figshare, Figure.nz, Knowladge Unlatched, Lumen Learning, Jonathan Mann, Noun 
 
 **Buku " Made With CC" Berlisensi CC BY SA**
 
