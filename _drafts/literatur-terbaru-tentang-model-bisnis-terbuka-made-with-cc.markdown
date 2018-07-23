@@ -6,11 +6,15 @@ img: "/uploads/Made%20With%20Creative%20Commons.png"
 
 Sejak lisensi Creative Commons (CC) diluncurkan pada tahun 2002, penerapan lisensi CC kini berkembang pesat ke berbagai ranah mulai dari buku, musik, data, seni dan lain-lainya. Ketika ciptaan  yang berlisensi CC setidak-tidaknya dapat secara legal dibagikan dan disebarkan tanpa harus izin ke pencipta. Dengan hal seperti itu apakah memungkinkan bagi pencipta dalam memeroleh penghasilan dari ciptaannya tersebut? 
 
-Melalui buku "Made With CC" diceritakan  sejarah singkat yang menginspirasi mengenai pendirian model bisnis terbuka yang menerapkan lisensi CC yang dilakukan oleh pebisnis, organisasi, platform atau perorangan dengan tetap memeroleh keuntungan. Namun perlu diingat tujuan utama dari pembuatan buku ini buka semata-mata untuk memberitahukan model bisnis dengan menggunakan CC, melainkan mengumpulkan ide-ide segar dan studi kasus yang inovatif. CC berfokus pada membangun gelombang, penggunaan bersama yang digerakan oleh kolaborasi dan rasa syukur.
+Melalui buku "Made With CC" diceritakan  sejarah singkat yang penuh inspirasi mengenai pendirian model bisnis terbuka yang menerapkan lisensi CC yang dilakukan oleh pebisnis, organisasi, platform atau perorangan dengan tetap memeroleh keuntungan. Namun perlu diingat tujuan utama dari pembuatan buku ini buka semata-mata untuk memberitahukan model bisnis dengan menggunakan CC, melainkan mengumpulkan ide-ide segar dan studi  inovatif.
 
-Seluruh orang yang diinterview di buku ini tidak akan menceritakan bagaimana bisnis penjualan terhadap pelanggan dan mencari keuntungan sebanyak mungkin. Akan tetapi mereka berbagi mengenai dunia yang lebih baik, membuat relasi dan bagaimana ciptaan dibagikan ke komunitas sekitar dan mendapatkan keuntungan tidak hanya 
+ CC berfokus pada membangun gelombang, penggunaan bersama yang digerakan oleh kolaborasi dan rasa syukur.
 
-Buku ini dibagi menjadi 2 bagian. Pada bagian pertama Paul Stacey memaparkan "The New World of Digital Commons" dan juga Sarah Pearson menjelaskan "How to be Made With CC" serta sub bab khusus mengenai CC.
+> Seluruh orang yang diinterview di buku ini tidak akan menceritakan bagaimana bisnis penjualan terhadap pelanggan dan mencari keuntungan sebanyak mungkin. Akan tetapi mereka berbagi mengenai dunia yang lebih baik (bukan hanya dari nilai ekomoni saja akan tetapi nilai sosial dan kebudayaan), membuat relasi dan bagaimana ciptaan dibagikan ke komunitas sekitar dan mengahasilkan pendapatan yang berkelanjutan.
+
+Buku ini dibagi menjadi 2 bagian. Pada bagian pertama Paul Stacey memaparkan "The New World of Digital Commons"
+
+Dan Sarah Pearson yang menjelaskan "How to be Made With CC" serta sub bab khusus mengenai CC.
 
 Pada bagian kedua dibahas lebih rinci mengenai 24 studi kasus di berbagai macam bidang dan juga informasi bagaimana mereka dapat mengasilkan uang sekaligus berbagi.
 
