@@ -10,7 +10,7 @@ Melalui buku "Made With CC" diceritakan  sejarah singkat yang penuh inspirasi me
 
 > Seluruh orang yang diinterview di buku ini tidak akan menceritakan bagaimana bisnis penjualan terhadap pelanggan dan mencari keuntungan sebanyak mungkin. Akan tetapi mereka berbagi mengenai bagaimana membuat dunia yang lebih baik (bukan hanya dari nilai ekomoni saja akan tetapi nilai sosial dan kebudayaan), membuat relasi dan bagaimana ciptaan dibagikan ke komunitas sekitar dan mengahasilkan pendapatan yang berkelanjutan.
 
-Buku ini dibagi menjadi 2 bagian. Pada bagian pertama Paul Stacey memaparkan "The New World of Digital Commons" yakni mengenai beberapa kontek sejarah akan kepemilikan digital bersama. Dijelaskan juga tiga cara masyarakat mengatur sumber daya dan berbagi kesejahteraan (kebersamaan, pasar dan negara)
+Buku ini dibagi menjadi 2 bagian. Pada bagian pertama Paul Stacey memaparkan beberapa konteks historis akan kepemilikan digital bersama. Dijelaskan juga tiga cara masyarakat dalam mengelola sumber daya dan berbagi kesejahteraan (umum, pasar dan negara)
 
 Dan Sarah Pearson yang menjelaskan "How to be Made With CC" serta sub bab khusus mengenai CC.
 
