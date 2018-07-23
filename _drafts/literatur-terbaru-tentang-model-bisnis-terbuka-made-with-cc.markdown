@@ -6,7 +6,7 @@ img: "/uploads/Made%20With%20Creative%20Commons.png"
 
 ![Made With Creative Commons.png](/uploads/Made%20With%20Creative%20Commons.png)
 
-Sejak lisensi Creative Commons (CC) diluncurkan pada tahun 2001, penerapan lisensi CC kini berkembang pesat ke berbagai ranah mulai dari buku, musik, data jurnal, seni dan lain-lainya. Melalui buku "Made With CC" diceritakan lebih jauh 24 studi kasus penerapan lisensi CC oleh perindividu, organisasi, pebisnis. 
+Sejak lisensi Creative Commons (CC) diluncurkan pada tahun 2002, penerapan lisensi CC kini berkembang pesat ke berbagai ranah mulai dari buku, musik, data jurnal, seni dan lain-lainya. Melalui buku "Made With CC" diceritakan lebih jauh 24 studi kasus penerapan lisensi CC oleh perindividu, organisasi, pebisnis. 
 
 Pada buku ini juga diceritakan sejarah singkat pendirian bisnis, organisasi, palform atau bagaimana seorang seniman dalam menerapkan lisensi CC yang setidaknya dapat digunakan dan disebarluaskan tanpa izin namun dengan tetap memeroleh keuntungan.
 
