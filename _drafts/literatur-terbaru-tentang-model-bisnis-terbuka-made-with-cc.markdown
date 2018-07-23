@@ -18,7 +18,7 @@ Pada bagian kedua dibahas lebih rinci mengenai 24 studi kasus di berbagai macam 
 
 24 Studi kasus:
 
-Arduino, Artica, Blender Institute, Cards Against Humanity, The Conversation, Cory Doctorow, Figshare, Figure.nz, Knowladge Unlatched, Lumen Learning, Jonathan Mann, Noun 
+Arduino, Artica, Blender Institute, Cards Against Humanity, The Conversation, Cory Doctorow, Figshare, Figure.nz, Knowladge Unlatched, Lumen Learning, Jonathan Mann, Noun Project, Open Data Institute, Opendesk, OpenStax, Amanda Palmer, PLoS (Public Library of Science), Rijksmuseum, Shareable, Siyavula, SparkFun, TeachAID, Tribe of Noise, Wikimedia Foundation.
 
 **Buku " Made With CC" Berlisensi CC BY SA**
 
