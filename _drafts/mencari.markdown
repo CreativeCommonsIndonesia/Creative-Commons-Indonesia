@@ -12,11 +12,11 @@ img: "/uploads/logo-sketchfab-grey.png"
 
 ![logo-sketchfab-grey.png](/uploads/logo-sketchfab-grey.png)
 
-Sketchfab adalah platform yang berupaya memberdayakan cara baru berkreasi, yaitu kreasi model 3 Dimensi (3D), yang memudahkan siapa saja untuk mengumumkan dan menggunakan konten model 3D dalam format seperti Web, AR, dan VR. Platform ini menjadi salah satu penyedia konten model 3D yang terbesar dengan jumlah pengguna  lebih dari 1 juta  yang telah memublikasikan jutaan model 3D. Terdapat 18 kategori konten yang tersedia seperti Animals & Pets, Art & Abstract, Cultural History & Heritage dan lain-lain sebagainya.
+Sketchfab adalah platform yang berupaya memberdayakan cara baru berkreasi, yaitu kreasi model 3 Dimensi (3D), yang memudahkan siapa saja untuk mengumumkan dan menggunakan konten model 3D dalam format seperti Web, AR, dan VR. Platform ini menjadi salah satu penyedia konten model 3D yang terbesar dengan jumlah pengguna lebih dari 1 juta  yang telah memublikasikan jutaan model 3D. Terdapat 18 kategori konten yang tersedia seperti Animals & Pets, Art & Abstract, Cultural History & Heritage dan lain-lain sebagainya.
 
-Pada situs web Sketchfab terdapat 3 menu utama yaitu menu "Explore" untuk menelusuri koleksi model 3D yang dipublikasikan oleh para pengguna situs,  menu "Store" yang menampilkan koleksi model 3D berbayar, dan selanjutnya menu "Community" yang  disediakan agar para penggunanya dapat saling berinteraksi satu sama lain untuk memeroleh informasi terbaru.
+Pada situs web Sketchfab terdapat 3 menu utama yaitu menu "Explore" untuk menelusuri koleksi model 3D yang dipublikasikan oleh para pengguna situs, menu "Store" yang menampilkan koleksi model 3D berbayar, dan selanjutnya menu "Community" yang  disediakan agar para penggunanya dapat saling berinteraksi satu sama lain untuk memeroleh informasi terbaru.
 
-Konten-konten format model 3D yang dapat  dapat diunggah langsung secara umumnya bersifat gratis dapat disebarkan tanpa izin langsung kepada pencipta konten tersebut dan legal. Hal itu dikarenakan konten-konten tersebut menerapkan lisensi terbuka Creative Commons (CC).  Namun pengguna konten format 3D tetap harus menaati ketentuan lisensi CC yang diterapkan pada konten tersebut  dengan ragam ketentuan sebagai berikut:
+Konten-konten format model 3D yang dapat dapat diunggah langsung secara umumnya bersifat gratis dapat disebarkan tanpa izin langsung kepada pencipta konten tersebut dan legal. Hal itu dikarenakan konten-konten tersebut menerapkan lisensi terbuka Creative Commons (CC). Namun pengguna konten format 3D tetap harus menaati ketentuan lisensi CC yang diterapkan pada konten tersebut dengan ragam ketentuan sebagai berikut:
 
 <img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="20"> - **Atribusi (BY)**
 
@@ -58,14 +58,14 @@ untuk lebih jelas Anda dapat klik "more model information". Maka akan muncul tam
 
 ![CC BY 4.0.jpg](/uploads/CC%20BY%204.0.jpg)
 
-Hasil unggahan format model 3D dapat disebarkan kembali pengguna ke suatu situs web, dicetak melalui mesin pencetak model 3D, ataupun dapat dimanfaatkan pembuatan permainan video gim dan bentuk-bentuk penggunaan kembali lainya.
+Hasil unggahan format model 3D dapat disebarkan kembali pengguna ke suatu situs web, dicetak melalui mesin pencetak model 3D, ataupun dapat dimanfaatkan pembuatan permainan video dan bentuk-bentuk penggunaan kembali lainya.
 
 **Koleksi The Brtish Museum  di Sketchfab**
 
 ![The British Museum.jpg](/uploads/The%20British%20Museum.jpg)
 
-Dari situs web [creativecommons.org,](http://creativecommons.org/2017/04/28/state-of-the-commons-2016/sketchfab-2/)pada tahun 2017 The Brtish Museum menerbitkan 128 koleksi museumnya yang telah didigitalisasikan dalam format model 3D dan dilisensikan CC  ke platform Sketchfab.
+Dari situs web [creativecommons.org,](http://creativecommons.org/2017/04/28/state-of-the-commons-2016/sketchfab-2/)pada tahun 2017 The Brtish Museum menerbitkan 128 koleksi museumnya yang telah didigitalisasikan dalam format model 3D dan dilisensikan CC ke platform Sketchfab.
 
 ![British museum di SF.jpg](/uploads/British%20museum%20di%20SF.jpg)
 
-Dan kini koleksi The British Museum yang ada di platform Sketchfab telah bertambah menjadi 249 koleksi dan akan terus bertambah. Koleksi-koleksi tersebut dapat dilihat pada akun The British Museum [https://sketchfab.com/britishmuseum/models.](http://sketchfab.com/britishmuseum/models)
+Dan kini koleksi The British Museum yang ada di platform Sketchfab telah bertambah menjadi 249 koleksi dan akan terus bertambah. Koleksi-koleksi tersebut dapat dilihat pada akun The British Museum. [https://sketchfab.com/britishmuseum/models.](http://sketchfab.com/britishmuseum/models)
