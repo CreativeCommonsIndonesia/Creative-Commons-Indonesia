@@ -5,7 +5,7 @@ date: 2018-07-12 17:43:00 +07:00
 
 Sumber pembelajaran kini beragam medianya mulai dari buku teks cetak ke buku digital, gambar, video, infografis, permainan video, dan media lainya. Seiring berkembangnya teknologi internet, sumber pembelajaran  tersebut kini dapat dengan mudah diakses di dunia maya agar persebarannya meluas dan cepat. Tidak hanya itu, biaya produksi dan distribusi pun dapat berkurang. Namun tidak semua sumber pembelajaran yang ada di dunia maya dapat diakses dengan cuma-cuma. Beberapa penyedia sumber pembelajaran, mebebankan biaya kepada pengguna jika ingin mengakses sumber pendidikan tersebut.
 
-Di sisi lain, kini sudah banyak orang yang berbagi ilmu dengan membuat sumber pembelajaran yang dapat diakses di dunia maya secara gratis. Bahkan mengajak yang lainya untuk turut serta mengembangkan sumber pendidikan tersebut dan mengizinkan penggunanya untuk mengunakan dan menyebarkan kembali tanpa perlu meminta izin. Karena pada hakikatnya hak untuk mendapatkan ilmu pengetahuan pada hakekatnya merupakan milik semua orang. Model berbagi sumber pembelajaran tersebut pun legal. Sumber pembelajaran yang seperti itu dinamakan sumber pembelajaran terbuka atau yang dalam bahasa inggrinya Open Educational Resource (OER).
+Di sisi lain, kini sudah banyak orang yang berbagi ilmu dengan membuat sumber pembelajaran yang dapat diakses di dunia maya secara gratis. Bahkan mengajak yang lainya untuk turut serta mengembangkan sumber pendidikan tersebut dan mengizinkan penggunanya untuk mengunakan dan menyebarkan kembali tanpa perlu meminta izin. Karena pada hakikatnya hak untuk mendapatkan ilmu pengetahuan pada hakikatnya merupakan milik semua orang. Model berbagi sumber pembelajaran tersebut pun legal. Sumber pembelajaran yang seperti itu dinamakan sumber pembelajaran terbuka atau yang dalam bahasa inggrisnya Open Educational Resource (OER).
 
 \*\* Open Educational Resource (OER)\*\*
 
@@ -15,7 +15,7 @@ OER merupakan sebuah istilah yang didefinisikan oleh berbagai lembaga ataupun or
 
 > materi pengajaran, pembelajaran dan penelitian di segala media yang termasuk dalam domain publik atau sudah diterapkan lisensi terbuka yang tidak memerlukan izin dan bebas biaya untuk mengakses, penggunaan, adaptasi dan penyebaran kembali oleh orang lain. OER dapat berwujud buku teks hingga kurikulum, silabus, catatan kuliah, tugas, tes, proyek, audio, video dan animasi.
 
-Sumber pembelajaran terbuka sebaiknya dianjurkan menganut [prinsip 5R ](http://www.opencontent.org/definition/)seperti:
+OER sebaiknya dianjurkan menganut [prinsip 5R ](http://www.opencontent.org/definition/)seperti:
 
 1\. Retain: Dapat diakses untuk diunduh.
 
@@ -27,35 +27,45 @@ Sumber pembelajaran terbuka sebaiknya dianjurkan menganut [prinsip 5R ](http://w
 
 5\. Redistribute: Dapat digandakan dan disebarluaskan.
 
-Penjelasan definisi OER di atas menyebutkan yakni diterapkan lisensi terbuka pada konten OER . Lisensi terbuka yang dapat diterapkan pada konten OER yakni lisensi Creative Commons (CC). Lisensi CC juga menjadi dasar legalitas pada saat pembuatan, penggunaan, penyebaran, pemublikasian, pengubahan dan penggubahan konten OER.
+Penjelasan definisi OER di atas menyebutkan yakni diterapkan lisensi terbuka pada konten OER. Lisensi terbuka yang dapat diterapkan pada konten OER yakni lisensi Creative Commons (CC). Lisensi CC juga menjadi dasar legalitas pada saat pembuatan, penggunaan, penyebaran, pemublikasian, pengubahan dan penggubahan konten OER.
 
 **Lisensi Terbuka Creative Commons**
 
-Lisensi terbuka yakni lisensi yang menganut prinsip "Some Right Reserved"  atau beberapa hak dipertahankan. Dengan menerapkan lisensi terbuka seperti Creative Commons (CC). Setidak-tidaknya** pengguna secara legal dapat menggunakan dan menyebarkan kembali tanpa harus meminta izin**. Dengan menerapkan lisensi CC pada OER dapat mempermudah segala aktivitas dalam pembuatan atau pengembangannya.
+Lisensi terbuka yakni lisensi yang menganut prinsip "Some Right Reserved"atau beberapa hak dipertahankan. Dengan menerapkan lisensi terbuka seperti Creative Commons (CC). Setidak-tidaknya\*\* pengguna secara legal dapat menggunakan dan menyebarkan kembali tanpa harus meminta izin\*\*. Dengan menerapkan lisensi CC pada OER dapat mempermudah segala aktivitas dalam pembuatan atau pengembangannya.
 
 ![creative-commons.jpg](/uploads/creative-commons.jpg)
 
 Untuk mengenal lisensi CC, pertama-tama perlu diketahui 4 ketentuan lisensi CC yakni:
 
-<img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="20"> - **Atribusi (BY)**
+- **Atribusi (BY)**
+
+<img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="20"> 
 
 Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi yang sesuai dengan informasi yang tersedia pada ciptaan yang dibagikan. Ingat , pemberian izin penggunaan konten kepada Anda bukan berarti pencipta mendukung tujuan penggunaan Anda, jadi hal ini bukan merupakan pernyataan dukungan.
 
-<img style="float: left;" src="/uploads/SA.png" class="img-responsive" width="20"> - **BerbagiSerupa (SA)**
+ - **BerbagiSerupa (SA)**
+
+<img style="float: left;" src="/uploads/SA.png" class="img-responsive" width="20">
 
 Spektrum ini hanya berlaku ketika ciptaan diubah, digubah, dan dibuat turunannya. Hasil perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
 
-<img style="float: left;" src="/uploads/NC.png" class="img-responsive" width="20"> - **NonKomersial (NC)**
+ - **NonKomersial (NC)**
+
+<img style="float: left;" src="/uploads/NC.png" class="img-responsive" width="20">
 
 Spektrum ini melarang pengguna ciptaan dalam menggunakan ciptaan untuk kepentingan komersial.
 
-<img style="float: left;" src="/uploads/ND.png" class="img-responsive" width="20"> - **TanpaTurunan (ND)**
+- **TanpaTurunan (ND)**
+
+<img style="float: left;" src="/uploads/ND.png" class="img-responsive" width="20"> 
+
+Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan, penggubahan atau pembuatan ciptaan turunan dari ciptaan.
 
 Empat ketentuan tersebut tersedia 6 pilihan lisensi CC yang diterapkan oleh pencipta pada ciptaanya. Keenam pilihan lisensinya  yakni Creative Commons Atribusi ([CC BY](http://creativecommons.org/licenses/by/4.0/deed.id)), Creative Commons Atribusi BerbagiSerupa ([CC-BY SA](http://creativecommons.org/licenses/by-sa/4.0/deed.id)),  Creative Commons Atribusi NonKomersial ([CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.id)), Creative Commons Atribusi TanpaTurunan ([CC-BY-ND](http://creativecommons.org/licenses/by-nd/4.0/deed.id)), seperti  Creative Commons Atribusi NonKomersial BerbagiSerupa ([CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)),Creative Commons Atribusi NonKomersial TanpaTurunan ([CC-BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id)). Pada Stetchfab hanya tersedia 4 pilihan lisensi CC bagi pencipta untuk diterapkan pada ciptaanya yakni: [CC BY](http://creativecommons.org/licenses/by/4.0/deed.id), [CC-BY SA, ](http://creativecommons.org/licenses/by-sa/4.0/deed.id)[CC-BY-NC, ](http://creativecommons.org/licenses/by-nc/4.0/deed.id)[CC-BY-ND. ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)
 
 ![oer_cc-by_license-650x479.png](/uploads/oer_cc-by_license-650x479.png)
 
-Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND   ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)dan [CC-BY-NC-ND ](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) tidak disarankan agar konten OER dapat membuka peluang orang lain untuk mengembangkan kembali konten OER tersebut.
+Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND   ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)dan [CC-BY-NC-ND ](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) tidak disarankan karena spektrum ND dapat menutup peluang orang lain untuk mengembangkan kembali konten OER tersebut.
 
 **OER Sebagai Gerakan**
 
