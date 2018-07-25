@@ -13,7 +13,9 @@ Melalui buku "Made With CC" diceritakan sejarah singkat yang penuh inspirasi men
 
 > Seluruh orang yang diwawancarai di buku ini tidak akan menceritakan bagaimana bisnis penjualan terhadap pelanggan dan mencari keuntungan sebanyak mungkin. Akan tetapi mereka berbagi mengenai bagaimana membuat dunia yang lebih baik (bukan hanya dari nilai ekomoni saja akan tetapi nilai sosial dan kebudayaan), membuat relasi dan bagaimana ciptaan dibagikan ke komunitas sekitar dan menghasilkan pendapatan yang berkelanjutan.
 
-Buku ini dibagi menjadi dua bagian. Pada bagian pertama Paul Stacey memaparkan beberapa konteks historis akan kepemilikan digital bersama. Dijelaskan juga tiga cara masyarakat dalam mengelola sumber daya dan berbagi kesejahteraan (umum, pasar dan negara)
+Pendaanan dalam pembuatan buku ini menggunakan platform kickstarter, sebuah platform donasi terbesar di dunia yang membantu berjalannya proyek kreatif. lebih dari 1.600 orang yang berdonasi dan terkumpul [dana sejumlah $ 65,420 (https://www.kickstarter.com/projects/creativecommons/made-with-creative-commons-a-book-on-open-business?ref=6gv0om)
+
+Isi Buku ini dibagi menjadi dua bagian. Pada bagian pertama Paul Stacey memaparkan beberapa konteks historis akan kepemilikan digital bersama. Dijelaskan juga tiga cara masyarakat dalam mengelola sumber daya dan berbagi kesejahteraan (umum, pasar dan negara)
 
 Dan Sarah Pearson yang menjelaskan "How to be Made With CC" serta sub bab khusus mengenai CC.
 
@@ -21,9 +23,10 @@ Pada bagian kedua dibahas lebih rinci mengenai 24 studi kasus di berbagai macam 
 
 24 Studi kasus:
 
-Arduino, Artica, Blender Institute, Cards Against Humanity, The Conversation, Cory Doctorow, Figshare, Figure.nz, Knowladge Unlatched, Lumen Learning, Jonathan Mann, Noun Project, Open Data Institute, Opendesk, OpenStax, Amanda Palmer, PLoS (Public Library of Science), Rijksmuseum, Shareable, Siyavula, SparkFun, TeachAID, Tribe of Noise, Wikimedia Foundation.
+The creators, organizations dan buisniesses in our case studies operate as nonprofit, for-profit, and social enterprises. Regardless of legal status, they all have a social mission. Their primary reason for being is to make the world a better place, not to profit. Money is a menas to social end, not the end itself. They factor public interest in to desicions, behavior, and practices. Transparency and trust are really important. Impact and success are measured against social aims expressed in mission statements, and are not just about financial bottom line.
 
-Pendaanan dalam pembuatan buku ini menggunakan platform kickstarter, sebuah platform donasi terbesar di dunia yang membantu berjalannya proyek kreatif. lebih dari 1.600 orang yang berdonasi dan terkumpul [dana sejumlah $ 65,420 (https://www.kickstarter.com/projects/creativecommons/made-with-creative-commons-a-book-on-open-business?ref=6gv0om)
+
+Arduino, Artica, Blender Institute, Cards Against Humanity, The Conversation, Cory Doctorow, Figshare, Figure.nz, Knowladge Unlatched, Lumen Learning, Jonathan Mann, Noun Project, Open Data Institute, Opendesk, OpenStax, Amanda Palmer, PLoS (Public Library of Science), Rijksmuseum, Shareable, Siyavula, SparkFun, TeachAID, Tribe of Noise, Wikimedia Foundation.
 
 **Buku "Made With CC" Berlisensi CC BY SA**
 
