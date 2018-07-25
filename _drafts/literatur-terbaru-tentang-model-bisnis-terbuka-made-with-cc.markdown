@@ -32,7 +32,7 @@ Our case studies are diverse, ranging from publishing to education and manufactu
 
 Arduino, Artica, Blender Institute, Cards Against Humanity, The Conversation, Cory Doctorow, Figshare, Figure.nz, Knowladge Unlatched, Lumen Learning, Jonathan Mann, Noun Project, Open Data Institute, Opendesk, OpenStax, Amanda Palmer, PLoS (Public Library of Science), Rijksmuseum, Shareable, Siyavula, SparkFun, TeachAID, Tribe of Noise, Wikimedia Foundation.
 
-CC licenses may express legal rules around the use of resorce in a commons, but success in the commos requiers more than following the latter of the law and acquiring financial means. Over and over we heard in our interview how success and sustainability are tied to set og beliefs, values, and principles that underline their actions: Give more than you take. Be open and inclusive. Add value. Make visible what you are using form the commons, what you are adding, and what you are monetizing. Maximize abudance. Give attribution. Express gratitude. Develop trust: don't exploit. Build relationship and community. Be transparent. Defend the commons. \[ hal 15\]
+CC licenses may express legal rules around the use of resource in a commons, but success in the commos requiers more than following the latter of the law and acquiring financial means. Over and over we heard in our interview how success and sustainability are tied to a set of beliefs, values, and principles that underline their actions: Give more than you take. Be open and inclusive. Add value. Make visible what you are using form the commons, what you are adding, and what you are monetizing. Maximize abundance. Give attribution. Express gratitude. Develop trust: don't exploit. Build relationship and community. Be transparent. Defend the commons. \[ hal 15\]
 
 **Buku "Made With CC" Berlisensi CC BY SA**
 
@@ -50,6 +50,6 @@ Dengan catatan:
 **Atribusi**: mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menunjukan perubahan yang dibuat.
 **BerbagiSerupa**: Apabila Anda menggubah, mengubah, atau membuat ciptaan turunan dari suatu ciptaan, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan materi asli.
 
-Artinya
+Artinya buku ini dapat kamu salin, sebarluaskan kembali, gubah, adaptasi, and build upon the content for any purpose, even commercially, as long as you give appropriate credit, provide a link to the licenses, and indicate if changes were made.  if you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original yakni CC BY SA.
 
 Sumber:  https://creativecommons.org/use-remix/made-with-cc/
