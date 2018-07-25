@@ -16,7 +16,8 @@ Melalui buku "Made With CC" diceritakan sejarah singkat yang penuh inspirasi men
 Pendaanan dalam pembuatan buku ini menggunakan platform kickstarter, sebuah platform donasi terbesar di dunia yang membantu berjalannya proyek kreatif. lebih dari 1.600 orang yang berdonasi dan terkumpul [dana sejumlah $ 65,420 (https://www.kickstarter.com/projects/creativecommons/made-with-creative-commons-a-book-on-open-business?ref=6gv0om). Isi Buku ini dibagi menjadi dua bagian.
 
 **Bagian Pertama**
- Pada bagian pertama Paul Stacey memaparkan beberapa konteks historis akan kepemilikan digital bersama. Dijelaskan juga tiga cara masyarakat dalam mengelola sumber daya dan berbagi kesejahteraan (umum, pasar dan negara)
+
+Pada bagian pertama Paul Stacey memaparkan beberapa konteks historis akan kepemilikan digital bersama. Dijelaskan juga tiga cara masyarakat dalam mengelola sumber daya dan berbagi kesejahteraan (umum, pasar dan negara). Part one, the overview, begins with a big-picture framework written by paul. He provides some historical context for the digital commons, describing the three ways society has managed resources and shared wealth-the commons, the market, and the state. He advocates for thinking beyond business and market terms and eloquently makes the case of sharing and enlarging the digital commons.
 
 Dan Sarah Pearson yang menjelaskan "How to be Made With CC" serta sub bab khusus mengenai CC. The overview continues with sarah chapter, as she considers what it means to be successfully "made with commons:. while making money is one pice of the pie,there is also a set of public-minded values and the kind of human connections that make sharing truly meaningful. This section outlines the ways the creators, organizations, and businesses we interviewed bring in revenue, how they further and public interest and live out their values, and hoe they foster connections with the people with whom they share.
 
