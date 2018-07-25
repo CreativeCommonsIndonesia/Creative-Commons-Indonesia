@@ -25,11 +25,12 @@ Pada bagian kedua dibahas lebih rinci mengenai 24 studi kasus di berbagai macam 
 
 The creators, organizations and businesses in our case studies operate as nonprofit, for-profit, and social enterprises. Regardless of legal status, they all have a social mission. Their primary reason for being is to make the world a better place, not to profit. Money is a means to social end, not the end itself. They factor public interest in to decisions, behavior, and practices. Transparency and trust are really important. Impact and success are measured against social aims expressed in mission statements, and are not just about financial bottom line.
 
+Those case studies are best on the narrative told to us by founder and key staff. instead of solely using financials as the measure of success and sustainability, they emphasized their mission, practices, and means by which they measure success. Metrics of success are a blend of how social goals are being met and how sustainable the enterprise is.  
+
 Our case studies are diverse, ranging from publishing to education and manufacturing. All of the organization, businesses, and creators in the case of studies produce digital resources. Those resources exist in many forms including books, designs, songs, research, data, cultural works, educational materials, graphic, icons, and video. Some are digital representations of physical resources. Others are born digital but can be made into physical resource.
 
 Arduino, Artica, Blender Institute, Cards Against Humanity, The Conversation, Cory Doctorow, Figshare, Figure.nz, Knowladge Unlatched, Lumen Learning, Jonathan Mann, Noun Project, Open Data Institute, Opendesk, OpenStax, Amanda Palmer, PLoS (Public Library of Science), Rijksmuseum, Shareable, Siyavula, SparkFun, TeachAID, Tribe of Noise, Wikimedia Foundation.
 
-Those case studies are best on the narrative told to us by founder and key staff. in stead of solely using financials as the measure of success and sustainability, they emphasized theri mission, practices, and means by which they measure success. Me 
 **Buku "Made With CC" Berlisensi CC BY SA**
 
 Buku yang ditulis oleh Paul Stacey (direktur asosiasi global learning CC)dan Sarah Hinchliff Pearson (senior konsil CC) ini tersedia juga dalam bentuk digital yang dapat diakses di [sini](https://creativecommons.org/wp-content/uploads/2017/04/made-with-cc.pdf) dan berlisensi CC artibusi berbagiserupa (CC BY SA).
