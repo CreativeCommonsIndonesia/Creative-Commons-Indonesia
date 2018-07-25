@@ -23,7 +23,7 @@ Pada bagian kedua dibahas lebih rinci mengenai 24 studi kasus di berbagai macam 
 
 24 Studi kasus:
 
-The creators, organizations dan buisniesses in our case studies operate as nonprofit, for-profit, and social enterprises. Regardless of legal status, they all have a social mission. Their primary reason for being is to make the world a better place, not to profit. Money is a menas to social end, not the end itself. They factor public interest in to desicions, behavior, and practices. Transparency and trust are really important. Impact and success are measured against social aims expressed in mission statements, and are not just about financial bottom line.
+The creators, organizations and businesses in our case studies operate as nonprofit, for-profit, and social enterprises. Regardless of legal status, they all have a social mission. Their primary reason for being is to make the world a better place, not to profit. Money is a means to social end, not the end itself. They factor public interest in to decisions, behavior, and practices. Transparency and trust are really important. Impact and success are measured against social aims expressed in mission statements, and are not just about financial bottom line.
 
 
 Arduino, Artica, Blender Institute, Cards Against Humanity, The Conversation, Cory Doctorow, Figshare, Figure.nz, Knowladge Unlatched, Lumen Learning, Jonathan Mann, Noun Project, Open Data Institute, Opendesk, OpenStax, Amanda Palmer, PLoS (Public Library of Science), Rijksmuseum, Shareable, Siyavula, SparkFun, TeachAID, Tribe of Noise, Wikimedia Foundation.
