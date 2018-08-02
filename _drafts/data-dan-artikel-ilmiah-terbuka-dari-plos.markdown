@@ -10,7 +10,7 @@ Meskipun banyak peneliti dapat mengakses jurnal yang mereka butuhkan melalui ins
 
 Membayar untuk mendapatkan akses ke jurnal merupakan hal yang wajar di ranah pererbit cetak, dimana menyediakan artikel bagi tiap pembaca yang membutuhkan produksi salinan cetak artikel tersebut. Akan tetapi di ranah daring, dengan distribusi yang luas seluas jangkauan internet, hal tersebut sudah sedikit tidak wajar.\[[1](https://www.plos.org/open-access)\]
 
-**The Public Library of Science (PLoS)** 
+**The Public Library of Science (PLoS)**
 
 ![Plos.png](/uploads/Plos.png)
 
@@ -34,4 +34,4 @@ Secara rinci CC BY mengizinkan pengguna untuk **berbagi** dengan menyalin dan me
 
 * **Atribusi**: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menunjukan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda.
 
-Artinya, dibawah lisensi CC BY, penulis setuju untuk membuat artikel yang tersedia secara legal untuk digunakan kembali, tanpa izin atau membayar, untuk tujuan apa pun. Siapa pun dapat menyalin, menyebarkan atau menggunakan kembali artikel tersebut, selama penulis dan sumber aslinya dikutip dengan benar. Selain itu, platform jurnal yang digunakan PLOS  untuk memublikasikan artikel penelitian merupakan sumber terbuka.\[[5](https://www.plos.org/open-access)\]                                                     
+Artinya, dibawah lisensi CC BY, penulis setuju untuk membuat artikel yang tersedia secara legal untuk digunakan kembali, tanpa izin atau membayar, untuk tujuan apa pun. Siapa pun dapat menyalin, menyebarkan atau menggunakan kembali artikel tersebut, selama penulis dan sumber aslinya dikutip dengan benar. Selain itu, platform jurnal yang digunakan PLOS  untuk memublikasikan artikel penelitian merupakan sumber terbuka.\[[5](https://www.plos.org/open-access)\]
