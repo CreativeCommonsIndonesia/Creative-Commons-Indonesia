@@ -42,9 +42,11 @@ Setelah mengetahui ketentuan dan pilihan lisensi CC, berikut panduan dalam menca
 
 ![satu.jpg](/uploads/satu.jpg){: .img-responsive .center-block }{: width="500"}
 
+
 2\. Klik "explorer" dan pilih "downloadable".
 
 ![dua.jpg](/uploads/dua.jpg){: .img-responsive .center-block }{: width="500"}
+
 
 3\. Cari konten format model 3 dimensi yang diinginkan.
 
@@ -59,6 +61,7 @@ untuk lebih jelas Anda dapat klik "more model information". Maka akan muncul tam
 ![CC BY 4.0.jpg](/uploads/CC%20BY%204.0.jpg)
 
 Hasil unggahan format model 3D dapat disebarkan kembali pengguna ke suatu situs web, dicetak melalui mesin pencetak model 3D, ataupun dapat dimanfaatkan pembuatan permainan video dan bentuk-bentuk penggunaan kembali lainya.
+
 
 **Koleksi The Brtish Museum  di Sketchfab**
 
