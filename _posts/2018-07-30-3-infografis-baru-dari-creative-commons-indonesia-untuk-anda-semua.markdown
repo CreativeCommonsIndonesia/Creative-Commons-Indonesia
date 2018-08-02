@@ -30,7 +30,7 @@ Infografis ini menjelaskan tentang sejarah terbentuknya organisasi Creative Comm
 
 Setelah mengetahui perlindungan hak cipta, sejarah organisasi dan lisensi CC, selanjutnya pada infografis ini dijelaskan mengenai enam cara menerapkan lisensi CC pada ciptaan. Dijelaskan pula mengenai penerapan Tanda Domain Publik Creative Commons dan CC0 pada ciptaan.
 
-![6_Cara_Menerapkan_Lisensi_CC_Pada_Ciptaan_Anda.png](/uploads/6_Cara_Menerapkan_Lisensi_CC_Pada_Ciptaan_Anda.png){: .img-responsive .center-block }{: width="500"}<center><small><i><a href=" https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia#/media/File:Perlindungan_Hak_Cipta.png">Apa itu Creative Commons</a> oleh <a href="https://commons.wikimedia.org/wiki/User:Hilmanasdf">JJ Adibrata</a>dari Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.ms">CC BY 4.0</a></i></small></center>
+![6_Cara_Menerapkan_Lisensi_CC_Pada_Ciptaan_Anda.png](/uploads/6_Cara_Menerapkan_Lisensi_CC_Pada_Ciptaan_Anda.png){: .img-responsive .center-block }{: width="500"}<center><small><i><a href=" https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia#/media/File:Perlindungan_Hak_Cipta.png">Apa itu Creative Commons</a> oleh <a href="https://commons.wikimedia.org/wiki/User:Hilmanasdf">JJ Adibrata </a>dari Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.ms">CC BY 4.0</a></i></small></center>
 
 # Ketiga Infografis Tersebut Menerapkan Lisensi CC BY
 
