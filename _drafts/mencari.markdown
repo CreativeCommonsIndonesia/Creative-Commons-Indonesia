@@ -10,7 +10,7 @@ tags:
 img: "/uploads/logo-sketchfab-grey.png"
 ---
 
-![logo-sketchfab-grey.png](/uploads/logo-sketchfab-grey.png)
+![logo-sketchfab-grey.png](/uploads/logo-sketchfab-grey.png){: .img-responsive .center-block }{: width="500"}
 
 Sketchfab adalah platform yang berupaya memberdayakan cara baru berkreasi, yaitu kreasi model 3 Dimensi (3D), yang memudahkan siapa saja untuk mengumumkan dan menggunakan konten model 3D dalam format seperti Web, AR, dan VR. Platform ini menjadi salah satu penyedia konten model 3D yang terbesar dengan jumlah pengguna lebih dari 1 juta  yang telah memublikasikan jutaan model 3D. Terdapat 18 kategori konten yang tersedia seperti Animals & Pets, Art & Abstract, Cultural History & Heritage dan lain-lain sebagainya.
 
