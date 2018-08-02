@@ -68,4 +68,4 @@ Dari situs web [creativecommons.org,](http://creativecommons.org/2017/04/28/stat
 
 ![British museum di SF.jpg](/uploads/British%20museum%20di%20SF.jpg)
 
-Dan kini koleksi The British Museum yang ada di platform Sketchfab telah bertambah menjadi 249 koleksi dan akan terus bertambah. Koleksi-koleksi tersebut dapat dilihat pada akun The British Museum. [https://sketchfab.com/britishmuseum/models.](http://sketchfab.com/britishmuseum/models)
+Dan kini koleksi The British Museum yang ada di platform Sketchfab telah bertambah menjadi 249 koleksi dan akan terus bertambah. Koleksi-koleksi tersebut dapat dilihat pada akun [The British Museum](https://sketchfab.com/britishmuseum/models).
