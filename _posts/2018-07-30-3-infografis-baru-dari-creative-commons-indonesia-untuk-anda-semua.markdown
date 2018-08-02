@@ -36,7 +36,7 @@ Setelah mengetahui perlindungan hak cipta, sejarah organisasi dan lisensi CC, se
 
 Infografis-infografis tersebut merupakan hasil kembangan JJ Adibrata merujuk pada infografis yang sebelumnya dibuat oleh[ Hilman Fathoni](https://commons.wikimedia.org/wiki/User:Hilmanasdf) dan. Seluruh infografis ini dapat Anda temukan pada di [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia). Penerapan lisensi CC memudahkan pengguna untuk paling tidak dapat menggandakan dan menyebarluaskan ciptaan dengan adanya izin langsung dari pencipta pada lisensi yang diterapkan. Pada infografis-infografis di atas diterapkan lisensi CC BY versi 4.0 internasional, dengan ketentuan sebagai berikut:
 
-![CC by.png](/uploads/CC%20by.png)
+![CC by.png](/uploads/CC%20by.png){: .img-responsive .center-block }{: width="500"}
 
 Anda diizinkan:
 
