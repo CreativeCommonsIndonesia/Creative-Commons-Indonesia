@@ -40,19 +40,19 @@ Setelah mengetahui ketentuan dan pilihan lisensi CC, berikut panduan dalam menca
 
 1. Akes situs web  [sketchfab.com/](http://sketchfab.com/)
 
-![satu.jpg](/uploads/satu.jpg)
+![satu.jpg](/uploads/satu.jpg){: .img-responsive .center-block }{: width="500"}
 
 2\. Klik "explorer" dan pilih "downloadable".
 
-![dua.jpg](/uploads/dua.jpg)
+![dua.jpg](/uploads/dua.jpg){: .img-responsive .center-block }{: width="500"}
 
 3\. Cari konten format model 3 dimensi yang diinginkan.
 
-![tiga.jpg](/uploads/tiga.jpg)
+![tiga.jpg](/uploads/tiga.jpg){: .img-responsive .center-block }{: width="500"}
 
 Untuk mengetahui ketentuan lisensi CC yang diterapkan pada model 3D tersebut, Anda dapat melihat keterangan dibawah gambar model dan penjelasan lebih lanjut dapat Anda baca dengan mengklik tautan pada teks ketentuan lisensi yang tertera.
 
-![lima.jpg](/uploads/lima.jpg)
+![lima.jpg](/uploads/lima.jpg){: .img-responsive .center-block }{: width="500"}
 
 untuk lebih jelas Anda dapat klik "more model information". Maka akan muncul tampilan sebagai berikut:
 
@@ -62,10 +62,10 @@ Hasil unggahan format model 3D dapat disebarkan kembali pengguna ke suatu situs 
 
 **Koleksi The Brtish Museum  di Sketchfab**
 
-![The British Museum.jpg](/uploads/The%20British%20Museum.jpg)
+![The British Museum.jpg](/uploads/The%20British%20Museum.jpg){: .img-responsive .center-block }{: width="500"}
 
 Dari situs web [creativecommons.org,](http://creativecommons.org/2017/04/28/state-of-the-commons-2016/sketchfab-2/)pada tahun 2017 The Brtish Museum menerbitkan 128 koleksi museumnya yang telah didigitalisasikan dalam format model 3D dan dilisensikan CC ke platform Sketchfab.
 
-![British museum di SF.jpg](/uploads/British%20museum%20di%20SF.jpg)
+![British museum di SF.jpg](/uploads/British%20museum%20di%20SF.jpg){: .img-responsive .center-block }{: width="500"}
 
 Dan kini koleksi The British Museum yang ada di platform Sketchfab telah bertambah menjadi 249 koleksi dan akan terus bertambah. Koleksi-koleksi tersebut dapat dilihat pada akun [The British Museum](https://sketchfab.com/britishmuseum/models).
