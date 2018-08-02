@@ -6,31 +6,31 @@ img: "/uploads/Infografis.png"
 
 ![Infografis.png](/uploads/Infografis.png)
 
-Creative Commons Indonesia (CCID) memublikasikan tiga [materi komunikasi](https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia) baru yang diharapkan dapat memberikan kemudahan bagi masyarakat luas dalam mengenal lisensi Creative Commons (CC). Ketiga materi komunikasi tersebut berupa infografis yang isinya berkaitan satu sama lain yakni mengenai perlindungan hak cipta, sejarah singkat Creative Commons dan cara menerapkan lisensi CC pada ciptaan. 
+Creative Commons Indonesia (CCID) memublikasikan tiga [materi komunikasi](https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia) baru yang diharapkan dapat memberikan kemudahan bagi masyarakat luas dalam mengenal lisensi Creative Commons (CC). Ketiga materi komunikasi tersebut berupa infografis yang isinya berkaitan satu sama lain yakni mengenai perlindungan hak cipta, sejarah singkat Creative Commons, dan cara menerapkan lisensi CC pada ciptaan.
 
 **1. Perlindungan Hak Cipta**
 
-Infografis ini memberikan informasi mengenai hak cipta yang merupakan salah satu bagian dari hak kekayaan intelektual, ciptaan yang dilindungi hak cipta, prinsip deklaratif hak cipta, hak moral dan ekomomi, fungsi sosial hak cipta. 
+Infografis ini memberikan informasi mengenai perlindungan hak cipta yang sebagai bagian dari perlindungan hak kekayaan intelektual, ciptaan yang dilindungi hak cipta, prinsip deklaratif hak cipta, hak moral dan ekomomi, dan fungsi sosial hak cipta.
 
-![Apa_itu_Creative_Commons_.png](/uploads/Apa_itu_Creative_Commons_.png){: .img-responsive .center-block }<center><small><i><a href=" https://upload.wikimedia.org/wikipedia/commons/4/4a/Apa_itu_Creative_Commons%3F.png">Perlindungan Hak Cipta</a> oleh <a href="https://commons.wikimedia.org/wiki/User:Hilmanasdf">Hilman Fathoni</a> dari Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.ms">CC BY 4.0</a></i></small></center>
+![Apa_itu_Creative_Commons_.png](/uploads/Apa_itu_Creative_Commons_.png){: .img-responsive .center-block }<center><small><i><a href=" https://upload.wikimedia.org/wikipedia/commons/4/4a/Apa_itu_Creative_Commons%3F.png">Perlindungan Hak Cipta</a> oleh <a href="https://commons.wikimedia.org/wiki/User:Hilmanasdf">JJ Adibrata</a> dari Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.ms">CC BY 4.0</a></i></small></center>
 
 **2. Apa Itu Creative Commons?**
 
-Infografis ini berisikan mengenai sejarah terbentuknya organisasi Creative Commons dan perkembangannya yang dijelaskan berdasarkan kronologis waktu dan juga peristiwa apa saja yang memengaruhi lahirnya lisensi CC.
+Infografis ini menjelaskan tentang sejarah terbentuknya organisasi Creative Commons dan perkembangannya yang dijelaskan secara kronologis dengan menceritakan peristiwa apa saja yang menjadi dasar lahirnya lisensi CC.
 
 ![Perlindungan_Hak_Cipta.png](/uploads/Perlindungan_Hak_Cipta.png)
 
-{: .img-responsive .center-block }<center><small><i><a href=" https://upload.wikimedia.org/wikipedia/commons/8/86/6_Cara_Menerapkan_Lisensi_CC_Pada_Ciptaan_Anda.png">Cara Menerapkan Lisensi CC Pada Ciptaan Anda</a> oleh <a href="https://commons.wikimedia.org/wiki/User:Hilmanasdf">Hilman Fathoni</a>dari Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.ms">CC BY 4.0</a></i></small></center>
+{: .img-responsive .center-block }<center><small><i><a href=" https://upload.wikimedia.org/wikipedia/commons/8/86/6_Cara_Menerapkan_Lisensi_CC_Pada_Ciptaan_Anda.png">Cara Menerapkan Lisensi CC Pada Ciptaan Anda</a> oleh <a href="https://commons.wikimedia.org/wiki/User:Hilmanasdf">JJ Adibrata</a>dari Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.ms">CC BY 4.0</a></i></small></center>
 
 **3. Enam Cara Menerapkan Lisensi Creative Commons Pada Ciptaan Anda**
 
-Setelah mengetahui perlindungan hak cipta,sejarah singkat organisasi dan lisensi CC, selanjutnya pada infografis ini dijelaskan mengenai enam cara menerapkan lisensi CC pada ciptaan. Dijelaskan pula mengenai penerapan lisensi CC pada ciptaan di domain publik dan obyek perlindungan hak cipta.
+Setelah mengetahui perlindungan hak cipta, sejarah organisasi dan lisensi CC, selanjutnya pada infografis ini dijelaskan mengenai enam cara menerapkan lisensi CC pada ciptaan. Dijelaskan pula mengenai penerapan Tanda Domain Publik Creative Commons dan CC0 pada ciptaan.
 
 ![6_Cara_Menerapkan_Lisensi_CC_Pada_Ciptaan_Anda.png](/uploads/6_Cara_Menerapkan_Lisensi_CC_Pada_Ciptaan_Anda.png){: .img-responsive .center-block }<center><small><i><a href=" https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia#/media/File:Perlindungan_Hak_Cipta.png">Apa itu Creative Commons</a> oleh <a href="https://commons.wikimedia.org/wiki/User:Hilmanasdf">Hilman Fathoni</a>dari Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.ms">CC BY 4.0</a></i></small></center>
 
-# Ketiga Infografis Tersebut Berlisensi CC BY
+# Ketiga Infografis Tersebut Menerapkan Lisensi CC BY
 
-Infografis-infografis tersebut dibuat oleh[ Hilman Fathoni](https://commons.wikimedia.org/wiki/User:Hilmanasdf) dan dikembangkan oleh JJ Adibrata yang dapat ditemukan pada platform repositori [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia). Penerapan lisensi CC memudahkan pengguna setidak-tidaknya dalam penggunaan dan penyebaran secara legal tanpa perlu izin. Pilihan lisensi CC yang diterapkan pada infografis CC diatas yakni CC BY, isi ketentuannya adalah:
+Infografis-infografis tersebut merupakan hasil kembangan JJ Adibrata merujuk pada infografis yang sebelumnya dibuat oleh[ Hilman Fathoni](https://commons.wikimedia.org/wiki/User:Hilmanasdf) dan. Seluruh infografis ini dapat Anda temukan pada di [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia). Penerapan lisensi CC memudahkan pengguna untuk paling tidak dapat menggandakan dan menyebarluaskan ciptaan dengan adanya izin langsung dari pencipta pada lisensi yang diterapkan. Pada infografis-infografis di atas diterapkan lisensi CC BY versi 4.0 internasional, dengan ketentuan sebagai berikut:
 
 ![CC by.png](/uploads/CC%20by.png)
 
@@ -38,7 +38,7 @@ Anda diizinkan:
 
 * **Berbagi**: Menyalin dan menyebarluaskan ciptaan.
 
-* **Adaptasi**: Menggubah, mengubah, dan membuat turunan dari materi ini untuk kepentingan apapun , termasuk kepentingan komersial. 
+* **Adaptasi**: Menggubah, mengubah, dan membuat turunan dari materi ini untuk kepentingan apapun , termasuk kepentingan komersial.
 
 Dengan catatan:
 
@@ -46,4 +46,4 @@ Dengan catatan:
 
 Artinya, Anda diizinkan untuk menggunakan ciptaan tersebut dengan mencantumkan nama pencipta dan mengubah, menggubah bahkan untuk menyebarluaskan gambar tersebut guna kepentingan apapun. Namun, tidak berarti pemegang hak cipta mendukung secara penggunaan ciptaan.
 
-Berikut penjelasan mengenai pada ketiga infografis CCID yang telah disebutkan di atas beserta lisensi yang diterapkan. Semoga bermanfaat!
+Semoga bermanfaat!
