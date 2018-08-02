@@ -1,6 +1,12 @@
 ---
 title: Tiga Infografis Baru Dari Creative Commons Indonesia Untuk Anda Semua!
-date: 2018-07-19 10:30:00 +07:00
+date: 2018-07-30 10:30:00 +07:00
+categories:
+- Berita
+tags:
+- Infografis
+- Lisensi Creative Commons
+- Creative Commons Indonesia
 img: "/uploads/Infografis.png"
 ---
 
