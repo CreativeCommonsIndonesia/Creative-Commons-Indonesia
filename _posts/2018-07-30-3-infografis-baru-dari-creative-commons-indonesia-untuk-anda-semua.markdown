@@ -33,11 +33,11 @@ Setelah mengetahui perlindungan hak cipta, sejarah organisasi dan lisensi CC, se
 ![6_Cara_Menerapkan_Lisensi_CC_Pada_Ciptaan_Anda.png](/uploads/6_Cara_Menerapkan_Lisensi_CC_Pada_Ciptaan_Anda.png){: .img-responsive .center-block }{: width="500"}<center><small><i><a href=" https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia#/media/File:Perlindungan_Hak_Cipta.png">Apa itu Creative Commons</a> oleh <a href="https://commons.wikimedia.org/wiki/User:Hilmanasdf">JJ Adibrata </a>dari Wikimedia Commons, <a href="https://creativecommons.org/licenses/by/4.0/deed.ms">CC BY 4.0</a></i></small></center>
 
 
-# Ketiga Infografis Tersebut Menerapkan Lisensi CC BY
+### Ketiga Infografis Tersebut Menerapkan Lisensi CC BY
 
 Infografis-infografis tersebut merupakan hasil kembangan JJ Adibrata merujuk pada infografis yang sebelumnya dibuat oleh[ Hilman Fathoni](https://commons.wikimedia.org/wiki/User:Hilmanasdf) dan. Seluruh infografis ini dapat Anda temukan pada di [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Materi_Komunikasi_Creative_Commons_Indonesia). Penerapan lisensi CC memudahkan pengguna untuk paling tidak dapat menggandakan dan menyebarluaskan ciptaan dengan adanya izin langsung dari pencipta pada lisensi yang diterapkan. Pada infografis-infografis di atas diterapkan lisensi CC BY versi 4.0 internasional, dengan ketentuan sebagai berikut:
 
-![CC by.png](/uploads/CC%20by.png){: .img-responsive .center-block }{: width="300"}
+![CC by.png](/uploads/CC%20by.png){: .img-responsive .center-block }{: width="200"}
 
 Anda diizinkan:
 
