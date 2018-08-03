@@ -22,7 +22,7 @@ Selain itu, PLoS berperan sebagai penerbit sekaligus penyedia advokasi dalam dun
 
 ![Ploss.png](/uploads/Ploss.png)
 
-Dan terbuka juga diartikan sebagai pola pikir yang mewakili nilai- nilai terbaik di ranah penelitian. Salah satu tujuanya menyatukan para ilmuan dalam membagikan karyanya dengan secepat dan seluas mungkin, untuk mempercepat kemajuan sains dan bermanfaat bagi masyarakat secara keseluruhan.\[[3](http://www.plos.org/who-we-are)\]
+Dan terbuka juga diartikan sebagai pola pikir yang mewakili nilai-nilai terbaik di ranah penelitian. Salah satu tujuanya menyatukan para ilmuan dalam membagikan karyanya dengan secepat dan seluas mungkin, untuk mempercepat kemajuan sains dan bermanfaat bagi masyarakat secara keseluruhan.\[[3](http://www.plos.org/who-we-are)\]
 
 **Lisensi Creative Commons (CC) di PLoS**
 
