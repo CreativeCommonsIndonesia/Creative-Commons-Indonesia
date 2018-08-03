@@ -37,27 +37,27 @@ Lisensi terbuka yakni lisensi yang menganut prinsip "Some Right Reserved"atau be
 
 Untuk mengenal lisensi CC, pertama-tama perlu diketahui 4 ketentuan lisensi CC yakni:
 
-- **Atribusi (BY)**
+* **Atribusi (BY)**
 
-<img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="20"> 
+<img style="float: left;" src="/uploads/BY-354f63.png" class="img-responsive" width="20">
 
 Spektrum ini berfungsi sebagai pembebanan kewajiban terhadap pengguna ciptaan untuk  mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan perubahan yang dibuat jika ada. Pengguna ciptaan dapat menerapkan atribusi yang sesuai dengan informasi yang tersedia pada ciptaan yang dibagikan. Ingat , pemberian izin penggunaan konten kepada Anda bukan berarti pencipta mendukung tujuan penggunaan Anda, jadi hal ini bukan merupakan pernyataan dukungan.
 
- - **BerbagiSerupa (SA)**
+* **BerbagiSerupa (SA)**
 
 <img style="float: left;" src="/uploads/SA.png" class="img-responsive" width="20">
 
 Spektrum ini hanya berlaku ketika ciptaan diubah, digubah, dan dibuat turunannya. Hasil perubahan, penggubahan, atau ciptaan turunan yang dibuat wajib menerapkan lisensi yang sama apabila materi asli menerapkan ketentuan ini.
 
- - **NonKomersial (NC)**
+* **NonKomersial (NC)**
 
 <img style="float: left;" src="/uploads/NC.png" class="img-responsive" width="20">
 
 Spektrum ini melarang pengguna ciptaan dalam menggunakan ciptaan untuk kepentingan komersial.
 
-- **TanpaTurunan (ND)**
+* **TanpaTurunan (ND)**
 
-<img style="float: left;" src="/uploads/ND.png" class="img-responsive" width="20"> 
+<img style="float: left;" src="/uploads/ND.png" class="img-responsive" width="20">
 
 Spektrum ini melarang pengguna ciptaan untuk mengumumkan setiap hasil pengubahan, penggubahan atau pembuatan ciptaan turunan dari ciptaan.
 
@@ -65,11 +65,11 @@ Empat ketentuan tersebut tersedia 6 pilihan lisensi CC yang diterapkan oleh penc
 
 ![oer_cc-by_license-650x479.png](/uploads/oer_cc-by_license-650x479.png)
 
-Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND   ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)dan [CC-BY-NC-ND ](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) tidak disarankan karena spektrum ND atau tanpa turunan dapat menutup peluang orang lain untuk mengembangkan kembali konten OER tersebut.
+Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND   ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)dan [CC-BY-NC-ND ](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) tidak disarankan.  Karena spektrum ND atau tanpa turunan dapat menutup peluang orang lain untuk mengembangkan kembali konten OER tersebut.
 
 **OER Sebagai Gerakan**
 
-Gerakan OER  muncul karena adanya kepedulian yang sama dari pemerhati pendidikan dari berbagai kalangan dan negara akan tingginya biaya untuk mengakses atau mendapatkan pendidikan. Mereka berkumpul dalam kongres yang khsusus membahas OER. Tercatat sudah tersengelara dua kongres tingkat dunia yakni di[ Paris tahun 2012](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-is-the-2012-world-open-educational-resources-congress-and-what-are-its-aims/)  yang mempertemukan kalangan pemerintahan, pakar OER, NGO, dan pendidik dari seluruh dunia untuk berdiskusi dan berbagi mengenai contoh terbaik dari  kebijakan dan insisiatif OER.  Kedua di [Slovenia 2017 ](http://www.oercongress.org/)yang mengangkat tema "OER untuk Pendidikan yang Inklusif dan Berkeadilan: dari Komitmen ke Pelaksanaan". Hasil kongres ini, diadaptasi oleh para delegasi dalam rencana kerja 2017 di negara atau organisasi masing-masing.
+Gerakan OER  muncul karena adanya kepedulian yang sama oleh pemerhati pendidikan dari berbagai kalangan dan negara akan tingginya biaya untuk mengakses atau mendapatkan pendidikan. Mereka berkumpul dalam kongres yang khsusus membahas OER. Tercatat sudah tersengelara dua kongres tingkat dunia yakni di[ Paris tahun 2012](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-is-the-2012-world-open-educational-resources-congress-and-what-are-its-aims/)  yang mempertemukan kalangan pemerintahan, pakar OER, NGO, dan pendidik dari seluruh dunia untuk berdiskusi dan berbagi mengenai contoh terbaik dari  kebijakan dan insisiatif OER.  Kedua di [Slovenia 2017 ](http://www.oercongress.org/)yang mengangkat tema "OER untuk Pendidikan yang Inklusif dan Berkeadilan: dari Komitmen ke Pelaksanaan". Hasil kongres ini, diadaptasi oleh para delegasi dalam rencana kerja di negara atau organisasi masing-masing.
 
 **Penerapan Lisensi CC pada OER**
 
