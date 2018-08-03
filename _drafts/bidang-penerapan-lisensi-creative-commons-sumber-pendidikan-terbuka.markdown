@@ -3,19 +3,19 @@ title: Sumber Pembelajaran Terbuka Sebagai Salah Satu Bidang Penerapan Lisensi C
 date: 2018-07-12 17:43:00 +07:00
 ---
 
-Sumber pembelajaran kini beragam medianya mulai dari buku teks cetak ke buku digital, gambar, video, infografis, permainan video, dan media lainya. Seiring berkembangnya teknologi internet, sumber pembelajaran  tersebut kini dapat dengan mudah diakses di dunia maya agar persebarannya meluas dan cepat. Tidak hanya itu, biaya produksi dan distribusi pun dapat berkurang. Namun tidak semua sumber pembelajaran yang ada di dunia maya dapat diakses dengan cuma-cuma. Beberapa penyedia sumber pembelajaran, mebebankan biaya kepada pengguna jika ingin mengakses sumber pendidikan tersebut.
+Sumber pembelajaran kini tersedia dengan banyak ragam mulai dari buku teks cetak ke buku digital, gambar, video, infografis, permainan video, dan media lainya. Seiring berkembangnya teknologi internet, sumber pembelajaran  tersebut kini dapat dengan mudah diakses secara daring agar persebarannya semakin luas dan cepat. Tidak hanya itu, biaya produksi dan distribusi pun dapat berkurang. Namun tidak semua sumber pembelajaran yang ada di dunia maya dapat diakses dengan cuma-cuma. Beberapa penyedia sumber pembelajaran, membebankan biaya kepada pengguna jika ingin mengakses sumber pendidikan tersebut.
 
-Di sisi lain, kini sudah banyak orang yang berbagi ilmu dengan membuat sumber pembelajaran yang dapat diakses di dunia maya secara gratis. Bahkan mengajak yang lainya untuk turut serta mengembangkan sumber pendidikan tersebut dan mengizinkan penggunanya untuk mengunakan dan menyebarkan kembali tanpa perlu meminta izin. Karena pada hakikatnya hak untuk mendapatkan ilmu pengetahuan pada hakikatnya merupakan milik semua orang. Model berbagi sumber pembelajaran tersebut pun legal. Sumber pembelajaran yang seperti itu dinamakan sumber pembelajaran terbuka atau yang dalam bahasa inggrisnya Open Educational Resource (OER).
+Di sisi lain, kini makin banyak orang yang berbagi ilmu dengan membuat sumber pembelajaran yang dapat diakses secara daring dan gratis. Bahkan mereka mengajak mengajak pembuat bahan ajar yang lain untuk turut serta mengembangkan sumber pembelajaran tersebut dan mengizinkan penggunanya untuk menggunakan dan menyebarkan kembali dengan izin langsung oleh penciptanya yang tertera pada suatu ketentuan lisensi agar terdapat kepastian hukum. Karena pada hakikatnya hak untuk mendapatkan ilmu pengetahuan merupakan hak setiap orang. Sumber pembelajaran tersebut dinamakan sumber pembelajaran terbuka atau Open Educational Resource (OER) dalam bahasa Inggrisnya.
 
 \*\* Open Educational Resource (OER)\*\*
 
 ![OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg](/uploads/OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg){: .img-responsive .center-block }<center><small><i><a href="https://commons.wikimedia.org/wiki/File:OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.svg">Lambang OER versi bahasa Indonesia</a> oleh <a href="https://commons.wikimedia.org/wiki/User:IvanLanin">Ivan Lanin</a>, <a href="https://creativecommons.org/licenses/by/3.0/deed.en">CC BY</a></i></small></center>
 
-OER merupakan sebuah istilah yang didefinisikan oleh berbagai lembaga ataupun organisasi. [UNESCO](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-are-open-educational-resources-oers/) salah satu organisasi internasional yang turut serta memberikan definisi mengenai OER yakni:
+OER adalah sebuah istilah yang disepakati oleh berbagai organisasi. [UNESCO](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-are-open-educational-resources-oers/) salah satu organisasi internasional yang turut serta memberikan definisi mengenai OER yakni:
 
-> materi pengajaran, pembelajaran dan penelitian di segala media yang termasuk dalam domain publik atau sudah diterapkan lisensi terbuka yang tidak memerlukan izin dan bebas biaya untuk mengakses, penggunaan, adaptasi dan penyebaran kembali oleh orang lain. OER dapat berwujud buku teks hingga kurikulum, silabus, catatan kuliah, tugas, tes, proyek, audio, video dan animasi.
+> Materi ajar atau hasil penelitian yang tersedia dalam berbagi media secara terbuka (menerapkan lisensi terbuka) dan bebas biaya untuk diakses, digunakan kembali atau diadaptasi, dan disebarkan kembali oleh penggunanya dapat disebut sebagai OER. OER biasanya berupa buku teks, kurikulum, silabus, catatan, contoh penugasan, contoh tes yang disediakan dalam format audio, video tutorial maupun animasi.
 
-OER sebaiknya dianjurkan menganut [prinsip 5R ](http://www.opencontent.org/definition/)seperti:
+OER sebaiknya dianjurkan menganut [prinsip 5R ](http://www.opencontent.org/definition/) yaitu:
 
 1\. Retain: Dapat diakses untuk diunduh.
 
@@ -27,11 +27,11 @@ OER sebaiknya dianjurkan menganut [prinsip 5R ](http://www.opencontent.org/defin
 
 5\. Redistribute: Dapat digandakan dan disebarluaskan.
 
-Penjelasan definisi OER di atas menyebutkan yakni diterapkan lisensi terbuka pada konten OER. Lisensi terbuka yang dapat diterapkan pada konten OER yakni lisensi Creative Commons (CC). Lisensi CC juga menjadi dasar legalitas pada saat pembuatan, penggunaan, penyebaran, pemublikasian, pengubahan dan penggubahan konten OER.
+Prinsip 5R di atas menerangkan bahwa penerapan lisensi terbuka juga termasuk sebagai persyaratan penyediaan OER. Lisensi yang lazim diterapkan pada OER ialah lisensi Creative Commons (lisensi CC). Lisensi CC dapat menjadi dasar legal penciptaan, penggunaan, penyebaran, pengumuman, pengubahan, dan penggubahan konten OER bagi pencipta maupun penggunanya.
 
 **Lisensi Terbuka Creative Commons**
 
-Lisensi terbuka yakni lisensi yang menganut prinsip "Some Right Reserved"atau beberapa hak dipertahankan. Dengan menerapkan lisensi terbuka seperti Creative Commons (CC). Setidak-tidaknya\*\* pengguna secara legal dapat menggunakan dan menyebarkan kembali tanpa harus meminta izin\*\*. Dengan menerapkan lisensi CC pada OER dapat mempermudah segala aktivitas dalam pembuatan atau pengembangannya.
+Lisensi terbuka yakni lisensi yang menganut prinsip "Some Right Reserved"atau beberapa hak dipertahankan. Dengan menerapkan lisensi terbuka seperti Creative Commons (CC). Paling tidak pengguna secara legal dapat menggunakan dan menyebarkan kembali ciptaan. Dengan izin langsung oleh penciptanya yang tertera pada suatu ketentuan lisensi agar terdapat kepastian hukum. Penerapan lisensi CC pada OER dapat memudahkan segala aktivitas pembuatan atau pengembangan OER.
 
 ![creative-commons.jpg](/uploads/creative-commons.jpg)
 
@@ -75,7 +75,7 @@ Gerakan OER  muncul karena adanya kepedulian yang sama dari pemerhati pendidikan
 
 Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform OER yang menerapan lisensi CC. Beberapa diantaranya yakni:
 
-1. [Wikimedia](http://www.wikimedia.org/) adalah organisasi nirlaba bersekala global, Wikimedia mempunyau misi untuk membebaskan konten pendidikan ke seluruh dunia. Melalui berbagai macam proyek, Wikmedia mengajak siapa saja untuk berkontribusi dan berbagi pengetahuan. Adapun proyek-proyek Wikimedia yakni: Wikipedia, Wikionary, Wikiquote, Wikibooks, Wikisource,Wikimedia Commons dan lain-lainya.
+1. [Wikimedia](http://www.wikimedia.org/) adalah organisasi nirlaba bersekala global, Wikimedia mempunyai misi untuk membebaskan konten pendidikan ke seluruh dunia. Melalui berbagai macam proyek, Wikmedia mengajak siapa saja untuk berkontribusi dan berbagi pengetahuan. Adapun proyek-proyek Wikimedia yakni: Wikipedia, Wikionary, Wikiquote, Wikibooks, Wikisource,Wikimedia Commons dan lain-lainya.
 
 2. Open Educational Resources Commons ([OER Commons](http://www.oercommons.org/)) menyediakan 30.000 materi dengan lebih dari 120 akun pembuat konten,
 
