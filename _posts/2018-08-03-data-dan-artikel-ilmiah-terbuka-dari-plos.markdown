@@ -9,6 +9,7 @@ tags:
 - Lisensi Creative Commons
 - Creative Commons Indonesia
 img: "/uploads/Plos.png"
+author: Fitriayu
 ---
 
 Sebagian besar penerbit merupakan pemegang hak cipta atas artikel pada jurnal yang mereka terbitkan. Pihak manapun yang ingin membaca artikel-artikel tersebut, harus memiliki hak akses yang terkadang berbayar dan harus mendapatkan izin langsung dari pemegang hak ciptanya ketika mereka hendak menggunakan artikel tersebut.
