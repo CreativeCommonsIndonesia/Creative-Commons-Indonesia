@@ -26,12 +26,11 @@ Dan terbuka juga diartikan sebagai pola pikir yang mewakili nilai- nilai terbaik
 
 **Lisensi Creative Commons (CC) di PLoS**
 
-Creative Commons and PLoS berbagi tujuan bersama dalam memperkuat ilmu pengetahuan bersama. PLoS menerapkan lisensi CC atribusi (CC BY) pada karya ilmiah yang dipublikasikan. Dipilihnya CC BY karena lisensi tersebut dapat memastikan aksesibilitas dan kegunaan yang optimal dan tak luput juga tetap mempertahan  suatu hal yang paling dihargai oleh para ilmuwan yakni atribusi pada pekerjaan mereka.\[[4](http://creativecommons.org/2005/09/01/plos/)\]
-
-Secara rinci CC BY mengizinkan pengguna untuk **berbagi** dengan menyalin dan menyebarluaskan ciptaan.
+Creative Commons dan PLoS memiliki tujuan yang sama dalam hal penguatan ilmu pengetahuan sebagai sumber milik bersama. Dalam hal ini PLoS menerapkan lisensi CC Atribusi (CC BY) 4.0 versi Internasional pada karya-karya ilmiah yang diterbitkannya. Tujuan penerapan ketentuan ini adalah untuk menyediakan akses sebebas mungkin terhadap ilmu pengetahuan tanpa melupakan unsur penghormatan minimal bagi pemegang hak cipta atas karya ilmiah tersebut, yaitu atribusi (penyebutan nama atau sumber rujukan). Penjelasan ketentuan lisensi CC BY 4.0 versi internasional yaitu sebagai berikut: 
 
 * **Adaptasi**: Menggubah, mengubah, dan membuat turunan dari materi ini untuk kepentingan apapun , termasuk kepentingan komersial.
 
+
 * **Atribusi**: Anda harus mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menunjukan bahwa telah ada perubahan yang dilakukan. Anda dapat melakukan hal ini dengan cara yang sesuai, namun tidak mengisyaratkan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda.
 
-Artinya, dibawah lisensi CC BY, penulis setuju untuk membuat artikel yang tersedia secara legal untuk digunakan kembali, tanpa izin atau membayar, untuk tujuan apa pun. Siapa pun dapat menyalin, menyebarkan atau menggunakan kembali artikel tersebut, selama penulis dan sumber aslinya dikutip dengan benar. Selain itu, platform jurnal yang digunakan PLOS  untuk memublikasikan artikel penelitian merupakan sumber terbuka.\[[5](https://www.plos.org/open-access)\]
+Artinya, dibawah lisensi CC BY, penulis setuju untuk membuat artikel yang tersedia secara legal untuk digunakan kembali, tanpa izin atau membayar, untuk tujuan apa pun. Siapa pun dapat menyalin, menyebarkan atau menggunakan kembali artikel tersebut, selama selama atribusi yang baik diterapkan. Hal ini menunjukan bahwa setiap karya ilmiah yang diterbikan oleh PLoS merupakan konten dengan prinsip sumber terbuka (open source). \[[5](https://www.plos.org/open-access)\]
