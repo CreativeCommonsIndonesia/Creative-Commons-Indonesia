@@ -31,7 +31,7 @@ Selain itu, PLoS berperan sebagai penerbit sekaligus penyedia advokasi dalam dun
 
 Dan terbuka juga diartikan sebagai pola pikir yang mewakili nilai-nilai terbaik di ranah penelitian. Salah satu tujuanya menyatukan para ilmuan dalam membagikan karyanya dengan secepat dan seluas mungkin, untuk mempercepat kemajuan sains dan bermanfaat bagi masyarakat secara keseluruhan.\[[3](http://www.plos.org/who-we-are)\]
 
-### **Lisensi Creative Commons (CC) di PLoS**
+### Lisensi Creative Commons (CC) di PLoS
 
 Creative Commons dan PLoS memiliki tujuan yang sama dalam hal penguatan ilmu pengetahuan sebagai sumber milik bersama. Dalam hal ini PLoS menerapkan lisensi [CC Atribusi (CC BY) 4.0 versi Internasional](https://creativecommons.org/licenses/by/4.0/deed.id) pada karya-karya ilmiah yang diterbitkannya. Tujuan penerapan ketentuan ini adalah untuk menyediakan akses sebebas mungkin terhadap ilmu pengetahuan tanpa melupakan unsur penghormatan minimal bagi pemegang hak cipta atas karya ilmiah tersebut, yaitu atribusi (penyebutan nama atau sumber rujukan). Penjelasan ketentuan lisensi CC BY 4.0 versi internasional yaitu sebagai berikut:
 
