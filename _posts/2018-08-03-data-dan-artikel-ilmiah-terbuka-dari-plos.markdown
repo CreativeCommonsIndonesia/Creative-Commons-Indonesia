@@ -15,9 +15,9 @@ Sebagian besar penerbit merupakan pemegang hak cipta atas artikel pada jurnal ya
 
 Banyak ilmuwan beranggapan bahwa akses terhadap artikel pada jurnal-jurnal tersebut tidak berbayar. Memang, institusi tempat para ilmuwan tersebut bernaung menyediakan akses gratis terhadap artikel dari jurnal-jurnal yang dibutuhkan mereka. Namun, yang terjadi sebenarnya tidak sesederhana itu. Di balik itu semua, terdapat negosiasi rumit tentang biaya akses atau penggunaan kembali artikel-artikel dari jurnal yang diterbitkan oleh para penerbit tersebut.
 
-Biaya yang harus dikeluarkan untuk mengakses artikel pada jurnal merupakan hal yang wajar apabila jurnal tersebut tersedia dalam format cetak. Di mana terdapat ongkos produksi yang harus dikeluarkan oleh penerbit untuk menyediakan banyak salinan jurnal kepada banyak pembaca. Namun, metode produksi dan distribusi terbitan jurnal kini berubah. Dengan adanya teknologi internet yang dapat memangkas ongkos produksi dan distribusi, keberadaan metode “bayar untuk akses” terlihat menjadi hal yang tidak relevan lagi\*\*. \*\*\[[1](https://www.plos.org/open-access)\]
+Biaya yang harus dikeluarkan untuk mengakses artikel pada jurnal merupakan hal yang wajar apabila jurnal tersebut tersedia dalam format cetak. Di mana terdapat ongkos produksi yang harus dikeluarkan oleh penerbit untuk menyediakan banyak salinan jurnal kepada banyak pembaca. Namun, metode produksi dan distribusi terbitan jurnal kini berubah. Dengan adanya teknologi internet yang dapat memangkas ongkos produksi dan distribusi, keberadaan metode “bayar untuk akses” terlihat menjadi hal yang tidak relevan lagi.\[[1](https://www.plos.org/open-access)\]
 
-**The Public Library of Science (PLoS)**
+## **The Public Library of Science (PLoS)**
 
 ![Plos.png](/uploads/Plos.png){: .img-responsive .center-block }{: width="500"}
 
@@ -31,7 +31,7 @@ Selain itu, PLoS berperan sebagai penerbit sekaligus penyedia advokasi dalam dun
 
 Dan terbuka juga diartikan sebagai pola pikir yang mewakili nilai-nilai terbaik di ranah penelitian. Salah satu tujuanya menyatukan para ilmuan dalam membagikan karyanya dengan secepat dan seluas mungkin, untuk mempercepat kemajuan sains dan bermanfaat bagi masyarakat secara keseluruhan.\[[3](http://www.plos.org/who-we-are)\]
 
-**Lisensi Creative Commons (CC) di PLoS**
+## **Lisensi Creative Commons (CC) di PLoS**
 
 Creative Commons dan PLoS memiliki tujuan yang sama dalam hal penguatan ilmu pengetahuan sebagai sumber milik bersama. Dalam hal ini PLoS menerapkan lisensi [CC Atribusi (CC BY) 4.0 versi Internasional](https://creativecommons.org/licenses/by/4.0/deed.id) pada karya-karya ilmiah yang diterbitkannya. Tujuan penerapan ketentuan ini adalah untuk menyediakan akses sebebas mungkin terhadap ilmu pengetahuan tanpa melupakan unsur penghormatan minimal bagi pemegang hak cipta atas karya ilmiah tersebut, yaitu atribusi (penyebutan nama atau sumber rujukan). Penjelasan ketentuan lisensi CC BY 4.0 versi internasional yaitu sebagai berikut:
 
