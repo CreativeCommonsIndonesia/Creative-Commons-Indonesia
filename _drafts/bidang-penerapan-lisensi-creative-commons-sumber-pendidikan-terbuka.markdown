@@ -1,6 +1,11 @@
 ---
 title: Sumber Pembelajaran Terbuka Sebagai Salah Satu Bidang Penerapan Lisensi CC
 date: 2018-07-12 17:43:00 +07:00
+categories:
+- Kajian
+tags:
+- OER
+- Creative Commons Indonesia
 ---
 
 Sumber pembelajaran kini tersedia dengan banyak ragam mulai dari buku teks cetak ke buku digital, gambar, video, infografis, permainan video, dan media lainya. Seiring berkembangnya teknologi internet, sumber pembelajaran  tersebut kini dapat dengan mudah diakses secara daring agar persebarannya semakin luas dan cepat. Tidak hanya itu, biaya produksi dan distribusi pun dapat berkurang. Namun tidak semua sumber pembelajaran yang ada di dunia maya dapat diakses dengan cuma-cuma. Beberapa penyedia sumber pembelajaran, membebankan biaya kepada pengguna jika ingin mengakses sumber pendidikan tersebut.
@@ -88,3 +93,7 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 **OER  di  Indonesia**
 
 Di Indonesia Universitas Terbuka dan repisitori kemendikbud telah menerapkan sistem OER ini. Kontribusi terhadap OER juga dapat dilakukan di kalangan perorangan atau komunitas. Dengan turut serta berkontribusi dengan membuat  konten-konten  di sebuah platform OER. Adanya sistem OER ini baik untuk diadaptasi di Indonesia karena OER dapat menjadi solusi dalam permasalahan ketimpangan akses pendidikan di berbagai daerah.
+
+Catatan:
+
+Lebih komprehensif dong contohnya, ini kan tentang kita :') dikasi gambar kek terus ceritain juga tentang StoryWeaver, mungkin? Wikipedia Bahasa Indonesia atau beberapa inisiatif Wikimedia Indoesia juga bisa masuk. Jangan lupa ceritakan soal BSE dari Kemendikbud yang tidak 100% OER karena tidak berlisensi terbuka. Sentil aja tuh. Gitu2 sih.
