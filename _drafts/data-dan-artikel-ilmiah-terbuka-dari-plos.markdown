@@ -1,6 +1,13 @@
 ---
 title: Data dan Artikel Ilmiah Terbuka dari PLOS!
-date: 2018-07-18 16:51:00 +07:00
+date: 2018-08-03 16:51:00 +07:00
+categories:
+- Berita
+tags:
+- Akses Terbuka
+- PLoS
+- Lisensi Creative Commons
+- Creative Commons Indonesia
 img: "/uploads/Plos.png"
 ---
 
