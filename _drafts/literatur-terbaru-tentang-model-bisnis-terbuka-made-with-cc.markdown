@@ -52,6 +52,6 @@ Dengan catatan:
 **Atribusi**: mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menunjukan perubahan yang dibuat.
 **BerbagiSerupa**: Apabila Anda menggubah, mengubah, atau membuat ciptaan turunan dari suatu ciptaan, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan materi asli.
 
-Artinya buku ini dapat kamu salin, sebarluaskan kembali, gubah, adaptasi, untuk kepentingan apapun termasuk untuk kepentingan komersial, selama Anda memberikan kredit, menyediakan pranala untuk mengakses lisensi, dan memberitahukan jika ada perubahan, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan materi asli yakni CC BY SA
+Artinya buku ini dapat kamu salin, sebarluaskan kembali, gubah, adaptasi, untuk kepentingan apapun termasuk untuk kepentingan komersial, selama Anda memberikan kredit, menyediakan pranala untuk mengakses lisensi, dan memberitahukan jika ada perubahan, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan materi asli yakni CC BY SA.
 
 Sumber:  https://creativecommons.org/use-remix/made-with-cc/
