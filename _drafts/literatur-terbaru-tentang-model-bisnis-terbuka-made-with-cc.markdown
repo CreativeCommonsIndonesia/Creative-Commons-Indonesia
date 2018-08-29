@@ -31,7 +31,7 @@ Pada bagian kedua dibahas lebih rinci mengenai 24 studi kasus dari para pencipta
 
 The creators, organizations and businesses in our case studies operate as nonprofit, for-profit, and social enterprises. Regardless of legal status, they all have a social mission. Their primary reason for being is to make the world a better place, not to profit. Money is a means to social end, not the end itself. They factor public interest in to decisions, behavior, and practices. Transparency and trust are really important. Impact and success are measured against social aims expressed in mission statements, and are not just about financial bottom line. \[hal 14\]
 
-Studi kasus tersebut merupakan hasil wawancara dengan (pencipta,organisasi dan pebisnis) yang diwakili oleh para pendiri atau staf kunci. Keberhasilan mereka tidak hanya diukur dari seberapa besar keuntungan yang mereka peroleh tetapi diukur dari misi yang mereka miliki dan praktik yang mereka jalani. Indikator kesuksesannya adalah gabungan dari bagaimana tujuan sosial dengan bagaiman mendapatkan penghasilan yang berkelanjutan.
+Studi kasus tersebut merupakan hasil wawancara dengan (pencipta,organisasi dan pebisnis) yang diwakili oleh para pendiri atau staf kunci. Keberhasilan mereka tidak hanya diukur dari seberapa besar keuntungan yang mereka peroleh tetapi diukur dari misi yang mereka miliki dan praktik yang mereka jalani. Indikator kesuksesannya adalah gabungan dari bagaimana tujuan sosial dengan bagaimana mendapatkan penghasilan yang berkelanjutan.
 
 Those case studies are best on the narrative told to us by founder and key staff. instead of solely using financials as the measure of success and sustainability, they emphasized their mission, practices, and means by which they measure success. Metrics of success are a blend of how social goals are being met and how sustainable the enterprise is.
 
@@ -41,6 +41,10 @@ Our case studies are diverse, ranging from publishing to education and manufactu
 
 Arduino, **Artica**, Blender Institute, Cards Against Humanity, **The Conversation**, Cory Doctorow, Figshare, Figure.nz, Knowladge Unlatched, Lumen Learning, Jonathan Mann, Noun Project, Open Data Institute, Opendesk, **OpenStax**, Amanda Palmer, PLoS (Public Library of Science), **Rijksmuseum**, Shareable, Siyavula, SparkFun, **TeachAID, Tribe of Noise**, Wikimedia Foundation.
 
+Lisensi Creative Commons menjadi wujud aturan legal dalam penggunaan konten bersama, akan tetapi kunci sukses dalam kepemilikan bersama membutuhkan lebih dari aturan legal dan memeroleh keuntungaan. 
+
+Pada kisah dari 24 studi kasus tesebut banyak diceritakan bagaimana kesuksesan dalam mewujudkan misi sosial dan memeroleh keuntungan yang keberlanjutan digabungkan p dengan seperangkat kepercayaan, nilai dan prisnsip yang mendasari aksi mereka. Yakni: Memberikan lebih dari yang kamu terima, terbuka dan inklusif, menambahkan nilai, Jadikanlah terlihat apa yang Anda gunakan, tambahkan, monetasi dari kepemilikan bersama, Menggunakan konten kepemilikan bersama dengan memberikan atribusi sebagai wujud terima kasih, membangun kepercayaan dengan tidak mengekploitasi, membangun hubungan dan komunitas, menjadi transparan dan mempertahankan kepemilikan bersama. \[ hal 15\]
+ 
 CC licenses may express legal rules around the use of resource in a commons, but success in the commos requiers more than following the latter of the law and acquiring financial means. Over and over we heard in our interview how success and sustainability are tied to a set of beliefs, values, and principles that underline their actions: Give more than you take. Be open and inclusive. Add value. Make visible what you are using form the commons, what you are adding, and what you are monetizing. Maximize abundance. Give attribution. Express gratitude. Develop trust: don't exploit. Build relationship and community. Be transparent. Defend the commons. \[ hal 15\]
 
 **Buku "Made With CC" Berlisensi CC BY SA**
