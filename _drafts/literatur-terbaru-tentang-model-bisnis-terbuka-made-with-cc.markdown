@@ -4,13 +4,13 @@ date: 2018-07-20 19:06:00 +07:00
 img: "/uploads/Made%20With%20Creative%20Commons.png"
 ---
 
-Sejak lisensi Creative Commons (CC) diluncurkan pada tahun 2002, penerapan lisensi CC kini berkembang pesat ke berbagai ranah mulai dari buku, musik, data, seni dan lain-lainya. Ketika ciptaan  yang berlisensi CC setidak-tidaknya dapat secara legal dibagikan dan disebarkan tanpa harus izin ke pencipta. Dengan hal seperti itu apakah memungkinkan bagi pencipta dalam memeroleh penghasilan dari ciptaannya tersebut?
+Sejak lisensi Creative Commons (CC) diluncurkan pada tahun 2002, penerapan lisensi CC kini berkembang pesat ke berbagai ranah mulai dari buku, musik, data, seni dan lain-lainya. Ketika ciptaan  yang berlisensi CC setidak-tidaknya dapat secara legal dibagikan dan disebarkan tanpa harus izin ke pencipta karena te;ah diizinkan oleh penciptanya. Dengan hal seperti itu apakah memungkinkan bagi pencipta dalam memeroleh penghasilan dari ciptaannya tersebut?
 
 ![Made With Creative Commons.png](/uploads/Made%20With%20Creative%20Commons.png)
 
 Melalui buku "Made With CC" diceritakan sejarah singkat yang penuh inspirasi mengenai pendirian model bisnis terbuka dengan menerapkan lisensi CC yang dilakukan oleh pebisnis, organisasi, atau pencipta dengan tetap memeroleh keuntungan. Namun perlu diingat tujuan utama dari pembuatan buku ini bukan semata-mata untuk memberitahukan model bisnis dengan menggunakan CC, melainkan mengumpulkan ide-ide segar dan studi kasus  yang memicu adanya model yang inovatif dan membantu yang lain mengikutinya dengan apa yang telah mereka ciptakan. CC berfokus dalam membangun gelombang, penggunaan bersama yang digerakan oleh kolaborasi dan rasa syukur.
 
-> Seluruh orang yang diwawancarai di buku ini tidak akan menceritakan bagaimana bisnis penjualan terhadap pelanggan dan mencari keuntungan sebanyak mungkin. Akan tetapi mereka berbagi mengenai bagaimana membuat dunia yang lebih baik (bukan hanya dari nilai ekomoni saja akan tetapi nilai sosial dan kebudayaan), membuat relasi dan bagaimana ciptaan dibagikan ke komunitas sekitar dan menghasilkan pendapatan yang berkelanjutan. \[hal xv\] paul and sarah
+> Seluruh orang yang diwawancarai di buku ini tidak akan menceritakan bagaimana bisnis penjualan terhadap pelanggan dan mencari keuntungan sebanyak mungkin. Akan tetapi mereka berbagi mengenai bagaimana membuat dunia yang lebih baik (bukan hanya dari nilai ekomoni saja akan tetapi nilai sosial dan kebudayaan), membuat relasi dan bagaimana ciptaan dibagikan ke komunitas sekitar dan menghasilkan pendapatan yang berkelanjutan. \[hal xv\]
 
 Pendaanan dalam proyek pembuatan buku ini menggunakan platform kickstarter, sebuah platform donasi terbesar di dunia yang membantu berjalannya proyek kreatif. lebih dari 1.600 orang yang berdonasi dan terkumpul \[dana sejumlah $ 65,420 (https://www.kickstarter.com/projects/creativecommons/made-with-creative-commons-a-book-on-open-business?ref=6gv0om). Isi buku ini dibagi menjadi dua bagian.
 
@@ -19,7 +19,7 @@ Pendaanan dalam proyek pembuatan buku ini menggunakan platform kickstarter, sebu
 Pada bagian pertama Paul Stacey memaparkan beberapa konteks historis mengenai kepemilikan digital bersama. Selain itu dijelaskan juga tiga cara masyarakat dalam mengelola sumber daya dan berbagi kesejahteraan bersama, pasar dan negara. Paul mengajak pembaca untuk berpikir di luar istilah bisnis dan pasar dan lebih menekankan akan  kisah berbagi dan perluasan dari kepemilikan digital bersama.
 
 Part one, the overview, begins with a big-picture framework written by paul. He provides some historical context for the digital commons, describing the three ways society has managed resources and shared wealth-the commons, the market, and the state.
- He advocates for thinking beyond business and market terms and eloquently makes the case of sharing and enlarging the digital commons.
+He advocates for thinking beyond business and market terms and eloquently makes the case of sharing and enlarging the digital commons.
 
 Pada bagian pertama ini dilanjutkan oleh Sarah Pearson yang menjelaskan arti kesuskesan yang dimaksud dalam buku "Made With Commons". Kesuksesan bukan hanya memeroleh penghasilan saja, melainkan memeroleh penghasilan dengan mengaitkan seperangkat nilai-nilai yang ada pada masyarakat dan juga hubungan antar manusia yang membuat berbagi menjadi bermakna. Bagian ini menekankan cara para pencipta, organisasi, dan pebisnis yang telah diwawancara mengenai cara mereka memeroleh pendapatan, bagaimana mereka usaha mereka dalam mendapatkan perhatian publik dan tetap menjalani nilai-nilai yang mereka junjung tinggi, dan bagaimana menjaga hubungan dengan orang-orang yang menikmati karyanya. Dan diakhir bagian pertama ini ditutup oleh Sarah dengan penjelasan mengenai lisensi Creative Commons.
 
@@ -41,10 +41,10 @@ Our case studies are diverse, ranging from publishing to education and manufactu
 
 Arduino, **Artica**, Blender Institute, Cards Against Humanity, **The Conversation**, Cory Doctorow, Figshare, Figure.nz, Knowladge Unlatched, Lumen Learning, Jonathan Mann, Noun Project, Open Data Institute, Opendesk, **OpenStax**, Amanda Palmer, PLoS (Public Library of Science), **Rijksmuseum**, Shareable, Siyavula, SparkFun, **TeachAID, Tribe of Noise**, Wikimedia Foundation.
 
-Lisensi Creative Commons menjadi wujud aturan legal dalam penggunaan konten bersama, akan tetapi kunci sukses dalam kepemilikan bersama membutuhkan lebih dari aturan legal dan memeroleh keuntungaan. 
+Lisensi Creative Commons menjadi wujud aturan legal dalam penggunaan konten bersama, akan tetapi kunci sukses dalam kepemilikan bersama membutuhkan lebih dari aturan legal dan memeroleh keuntungaan.
 
 Pada kisah dari 24 studi kasus tesebut banyak diceritakan bagaimana kesuksesan dalam mewujudkan misi sosial dan memeroleh keuntungan yang keberlanjutan digabungkan p dengan seperangkat kepercayaan, nilai dan prisnsip yang mendasari aksi mereka. Yakni: Memberikan lebih dari yang kamu terima, terbuka dan inklusif, menambahkan nilai, Jadikanlah terlihat apa yang Anda gunakan, tambahkan, monetasi dari kepemilikan bersama, Menggunakan konten kepemilikan bersama dengan memberikan atribusi sebagai wujud terima kasih, membangun kepercayaan dengan tidak mengekploitasi, membangun hubungan dan komunitas, menjadi transparan dan mempertahankan kepemilikan bersama. \[ hal 15\]
- 
+
 CC licenses may express legal rules around the use of resource in a commons, but success in the commos requiers more than following the latter of the law and acquiring financial means. Over and over we heard in our interview how success and sustainability are tied to a set of beliefs, values, and principles that underline their actions: Give more than you take. Be open and inclusive. Add value. Make visible what you are using form the commons, what you are adding, and what you are monetizing. Maximize abundance. Give attribution. Express gratitude. Develop trust: don't exploit. Build relationship and community. Be transparent. Defend the commons. \[ hal 15\]
 
 **Buku "Made With CC" Berlisensi CC BY SA**
@@ -64,6 +64,5 @@ Dengan catatan:
 **BerbagiSerupa**: Apabila Anda menggubah, mengubah, atau membuat ciptaan turunan dari suatu ciptaan, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan materi asli.
 
 Artinya buku ini dapat kamu salin, sebarluaskan kembali, gubah, adaptasi, untuk kepentingan apapun termasuk untuk kepentingan komersial, selama Anda memberikan kredit, menyediakan pranala untuk mengakses lisensi, dan memberitahukan jika ada perubahan, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan materi asli yakni CC BY SA
-
 
 Sumber:  https://creativecommons.org/use-remix/made-with-cc/
