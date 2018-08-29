@@ -10,7 +10,7 @@ Sejak lisensi Creative Commons (CC) diluncurkan pada tahun 2002, penerapan lisen
 
 Melalui buku "Made With CC" diceritakan sejarah singkat yang penuh inspirasi mengenai pendirian model bisnis terbuka dengan menerapkan lisensi CC yang dilakukan oleh pebisnis, organisasi, atau pencipta dengan tetap memeroleh keuntungan. Namun perlu diingat tujuan utama dari pembuatan buku ini bukan semata-mata untuk memberitahukan model bisnis dengan menggunakan CC, melainkan mengumpulkan ide-ide segar dan studi kasus  yang memicu adanya model yang inovatif dan membantu yang lain mengikutinya dengan apa yang telah mereka ciptakan. CC berfokus dalam membangun gelombang, penggunaan bersama yang digerakan oleh kolaborasi dan rasa syukur.
 
-> Seluruh orang yang diwawancarai di buku ini tidak akan menceritakan bagaimana bisnis penjualan terhadap pelanggan dan mencari keuntungan sebanyak mungkin. Akan tetapi mereka berbagi mengenai bagaimana membuat dunia yang lebih baik (bukan hanya dari nilai ekomoni saja akan tetapi nilai sosial dan kebudayaan), membuat relasi dan bagaimana ciptaan dibagikan ke komunitas sekitar dan menghasilkan pendapatan yang berkelanjutan. \[hal xv\]
+> Seluruh orang yang diwawancarai di buku ini tidak akan menceritakan bagaimana bisnis penjualan terhadap pelanggan dan mencari keuntungan sebanyak mungkin. Akan tetapi mereka berbagi mengenai bagaimana membuat dunia yang lebih baik (bukan hanya dari nilai ekomoni saja akan tetapi nilai sosial dan kebudayaan), membuat relasi dan bagaimana ciptaan dibagikan ke komunitas sekitar dan menghasilkan pendapatan yang berkelanjutan. 
 
 Pendaanan dalam proyek pembuatan buku ini menggunakan platform kickstarter, sebuah platform donasi terbesar di dunia yang membantu berjalannya proyek kreatif. lebih dari 1.600 orang yang berdonasi dan terkumpul dana sejumlah [$ 65,420 ](https://www.kickstarter.com/projects/creativecommons/made-with-creative-commons-a-book-on-open-business?ref=6gv0om). Buku ini dibagi menjadi dua bagian yakni:
 
@@ -22,9 +22,9 @@ Kemudian dilanjutkan oleh Sarah Pearson yang menjelaskan arti kesuskesan yang di
 
 **Bagian Kedua**
 
-Pada bagian kedua dibahas lebih rinci mengenai 24 studi kasus dari para pebisnis, organisasi, atau pencipta  yang beroprasi sebagai nonprofit,  profit, dan juga wirausaha sosial. Terlepas dari beragamnya status legal, mereka memiliki kesamaan dalam misi sosial yakni menjadikan dunia menjadi tempat tinggal yang lebih baik dimana tidak hanya untuk kepentingan keuntungan semata. 
+Pada bagian kedua dibahas lebih rinci mengenai 24 studi kasus dari para pebisnis, organisasi, atau pencipta  yang beroprasi sebagai nonprofit,  profit, dan juga wirausaha sosial. Terlepas dari beragamnya status legal, mereka memiliki kesamaan dalam misi sosial yakni menjadikan dunia menjadi tempat tinggal yang lebih baik dimana tidak hanya untuk kepentingan keuntungan semata.
 
-Uang dengan tujuan akhir sosial. Pada setiap keputusan, perilaku dan praktiknya mereka selalu mengutamakan kepentingan publik. Dan juga mereka percaya bahwa transparansi dan kepercayaan sangatlah penting. Dampak dan keberhasilan mereka diukur berdasarkan nilai sosial yang dinyatakan dalam misi mereka yang bukan hanya mengenai keuntungan semata.  \[hal 14\]
+Uang dengan tujuan akhir sosial. Pada setiap keputusan, perilaku dan praktiknya mereka selalu mengutamakan kepentingan publik. Dan juga mereka percaya bahwa transparansi dan kepercayaan sangatlah penting. Dampak dan keberhasilan mereka diukur berdasarkan nilai sosial yang dinyatakan dalam misi mereka yang bukan hanya mengenai keuntungan semata.  
 
 Studi kasus tersebut merupakan hasil wawancara dengan pebisnis, organisasi, atau pencipta  yang diwakili oleh para pendiri atau staf kunci. Keberhasilan mereka tidak hanya diukur dari seberapa besar keuntungan yang mereka peroleh tetapi diukur dari misi yang mereka miliki dan praktik yang mereka jalani. Indikator kesuksesannya adalah gabungan dari bagaimana tujuan sosial dengan bagaimana memeroleh penghasilan yang berkelanjutan.
 
@@ -32,7 +32,7 @@ Studi kasus yang ada pada buku ini beragam, mulai dari penerbit, pendidikan dan 
 
 Adapun 24 studi kasus tersebut menceritakan kisah sukses dari pebisnis, organisasi, atau pencipta yakni: Arduino, **Artica**, Blender Institute, Cards Against Humanity, **The Conversation**, Cory Doctorow, Figshare, Figure.nz, Knowladge Unlatched, Lumen Learning, Jonathan Mann, Noun Project, Open Data Institute, Opendesk, **OpenStax**, Amanda Palmer, PLoS (Public Library of Science), **Rijksmuseum**, Shareable, Siyavula, SparkFun, **TeachAID, Tribe of Noise**, Wikimedia Foundation.
 
-Pada kisah dari 24 studi kasus tesebut banyak diceritakan bagaimana kesuksesan dalam mewujudkan misi sosial dan memeroleh keuntungan yang keberlanjutan digabungkan dengan seperangkat kepercayaan, nilai dan prinsip yang mendasari aksi mereka. Yakni:"Memberikan lebih dari yang kamu terima", "Terbuka dan inklusif", "Menambahkan nilai", "Jadikanlah terlihat apa yang Anda gunakan, tambahkan, monetasi dari kepemilikan bersama", "Menggunakan konten kepemilikan bersama dengan memberikan atribusi sebagai wujud terima kasih", "Membangun kepercayaan dengan tidak mengekploitasi", "Membangun hubungan dan komunitas", "Menjadi transparan dan mempertahankan kepemilikan bersama". \[ hal 15\]
+Pada kisah dari 24 studi kasus tesebut banyak diceritakan bagaimana kesuksesan dalam mewujudkan misi sosial dan memeroleh keuntungan yang keberlanjutan digabungkan dengan seperangkat kepercayaan, nilai dan prinsip yang mendasari aksi mereka. Yakni:"Memberikan lebih dari yang Anda terima", "Terbuka dan inklusif", "Menambahkan nilai", "Jadikanlah terlihat apa yang Anda gunakan, tambahkan, monetasi dari kepemilikan bersama", "Menggunakan konten kepemilikan bersama dengan memberikan atribusi sebagai wujud terima kasih", "Membangun kepercayaan dengan tidak mengekploitasi", "Membangun hubungan dan komunitas", "Menjadi transparan dan mempertahankan kepemilikan bersama". 
 
 Lisensi Creative Commons menjadi wujud aturan legal dalam penggunaan konten bersama, akan tetapi kunci sukses dalam kepemilikan bersama membutuhkan lebih dari aturan legal dan memeroleh keuntungaan.
 
@@ -52,6 +52,6 @@ Dengan catatan:
 **Atribusi**: mencatumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menunjukan perubahan yang dibuat.
 **BerbagiSerupa**: Apabila Anda menggubah, mengubah, atau membuat ciptaan turunan dari suatu ciptaan, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan materi asli.
 
-Artinya buku ini dapat kamu salin, sebarluaskan kembali, gubah, adaptasi, untuk kepentingan apapun termasuk untuk kepentingan komersial, selama Anda memberikan kredit, menyediakan pranala untuk mengakses lisensi, dan memberitahukan jika ada perubahan, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan materi asli yakni CC BY SA.
+Artinya buku ini dapat Anda salin, sebarluaskan kembali, gubah, adaptasi, untuk kepentingan apapun termasuk untuk kepentingan komersial, selama Anda memberikan kredit, menyediakan pranala untuk mengakses lisensi, dan memberitahukan jika ada perubahan, Anda harus menyebarluaskan kontribusi Anda di bawah lisensi yang sama dengan materi asli yakni CC BY SA. 
 
-Sumber:  https://creativecommons.org/use-remix/made-with-cc/
+ Sumber: [ https://creativecommons.org/use-remix/made-with-cc/ ](https://creativecommons.org/use-remix/made-with-cc/)
