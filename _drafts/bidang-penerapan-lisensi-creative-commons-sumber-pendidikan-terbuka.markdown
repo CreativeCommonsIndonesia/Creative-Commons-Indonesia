@@ -90,7 +90,7 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
 5. [School of Open](http://schoolofopen.p2pu.org/) merupakan sekolah yang menawarkan kesempatan  pendidikan gratis untuk siapa saja yang ingin belajar mengenai arti dan dampak dari lisensi dan sumber terbuka, Open Policy Network adalah  koalisi para ahli yang berkerja untuk mendorong pembuatan, adopsi, dan penerapan kebijakan dan praktik terbuka yang memajukan kepentingan publik.
 
-6. [StoryWeaver](https://creativecommons.or.id/2017/07/jaringan-buku-cerita-anak-berlisensi-terbuka-di-storyweaver-oleh-pratham-books/) repisitori digital dari multibahasa cerita anak yang digagas oleh [Pratham Books](http://prathambooks.org/). Platform ini memungkinkan Anda untuk membaca, menyumbangkan cerita karangan Anda sendiri, menerjemahkan cerita ke dalam berbagai bahasa dan juga membagikan cerita tersebut. 
+6. [StoryWeaver](https://creativecommons.or.id/2017/07/jaringan-buku-cerita-anak-berlisensi-terbuka-di-storyweaver-oleh-pratham-books/) repisitori digital dari multibahasa cerita anak yang digagas oleh [Pratham Books](http://prathambooks.org/). Platform ini memungkinkan Anda untuk membaca, menyumbangkan cerita karangan Anda sendiri, menerjemahkan cerita ke dalam berbagai bahasa dan juga membagikan cerita tersebut.
 
 **OER  di  Indonesia**
 
@@ -102,12 +102,12 @@ Wikipedia merupakan ensiklopedia multibahasa yang dapat disunting, disalin dan d
 
 2\. Universitas Terbuka
 
-Di Indonesia Universitas Terbuka dan repisitori kemendikbud telah menerapkan sistem OER ini. 
+Di Indonesia Universitas Terbuka dan repisitori kemendikbud telah menerapkan sistem OER ini.
 
-3\. BSE dari Kemendikbud
+3\. [OER Unsiyah](http://uilis.unsyiah.ac.id/oer/about)
+
+4\. BSE dari Kemendikbud
+
+BSE dari Kemendikbud yang tidak 100% OER karena tidak berlisensi terbuka. Sentil aja tuh. Gitu2 sih.
 
 Kontribusi terhadap OER juga dapat dilakukan di kalangan perorangan atau komunitas. Dengan turut serta berkontribusi dengan membuat  konten-konten  di sebuah platform OER. Adanya sistem OER ini baik untuk diadaptasi di Indonesia karena OER dapat menjadi solusi dalam permasalahan ketimpangan akses pendidikan di berbagai daerah.
-
-Catatan Hilman:
-
-Jangan lupa ceritakan soal BSE dari Kemendikbud yang tidak 100% OER karena tidak berlisensi terbuka. Sentil aja tuh. Gitu2 sih.
