@@ -19,14 +19,14 @@ Maka bunyi dari Angka 20 Ketentuan Umum UUHC 2014 dapat digunakan sebagai landas
 Pasal 80, ayat per ayat:
 (1) Lisensi CC merupakan perjanjian lisensi dalam bentuk tertulis untuk mengatur serangkaian perbuatan antara pihak-pihak yang terikat pada perjanjian tsb;
 (2) Perjanjian lisensi CC habis masa berlakunya sesuai dengan ketentuan masa berlaku perlindungan hak cipta yang diatur UU;
-(3) Setiap ketentuan perjanjian lisensi CC tidak mengatur mengenai besaran royalti, karena juga tidak diwajibkan oleh UU. Adapun ketentuan mengenai hal tersebut biasanya dijabarkan dalam dokumen yang berbeda, yang bukan merupakan bagian terpisah dari perjanjian lisensi yang disepakati atau diterapkan oleh para pihak.
+(3) Setiap ketentuan perjanjian lisensi CC tidak mengatur mengenai besaran royalti, karena tidak diwajibkan oleh UU. Adapun ketentuan mengenai hal tersebut biasanya dijabarkan dalam dokumen yang berbeda, yang bukan merupakan bagian terpisah dari perjanjian lisensi yang disepakati atau diterapkan oleh para pihak.
 
 Pasal 81:
 Pencipta atau pemegang hak cipta sama-sama dapat menerapkan lisensi CC sesuai dengan ketentuan lisensi lengkap dan UU yang berlaku.
 
 Pasal 82, ayat per ayat:
 (1) Ketentuan lisensi CC tidak mengandung unsur yang merugikan ekonomi negara. Hal ini dapat berlaku hanya jika ada pilihan lisensi CC yang diterapkan pada suatu perjanjian yang mengandung unsur yang merugikan keuangan negara;
-(2) Isi ketentuan lisensi CC tidak bertentangan dengan ketentuan UU di Indonesia. Hal inu akan disusulkan dengan Peraturan Pemerintah Tentang Tata Cara Pencatatan Lisensi: https://creativecommons.org/2016/11/28/making-creative-commons-licensing-work-indonesia/
+(2) Isi ketentuan lisensi CC tidak bertentangan dengan ketentuan UU di Indonesia. Hal ini akan disusulkan dengan Peraturan Pemerintah Tentang Tata Cara Pencatatan Lisensi: https://creativecommons.org/2016/11/28/making-creative-commons-licensing-work-indonesia/
 (3) Ketentuan lisensi CC tidak menghilangkan perlindungan hak cipta atas ciptaan seorang/kelompok pencipta atau pemegang hak cipta.
 
 Pasal 83:
