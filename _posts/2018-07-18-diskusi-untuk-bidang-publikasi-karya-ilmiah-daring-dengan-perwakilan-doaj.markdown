@@ -1,6 +1,6 @@
 ---
 title: Diskusi Untuk Bidang Publikasi Karya Ilmiah Daring dengan Perwakilan DOAJ
-date: 2018-09-28 14:46:00 +07:00
+date: 2018-07-18 14:46:00 +07:00
 categories:
 - Acara
 tags:
