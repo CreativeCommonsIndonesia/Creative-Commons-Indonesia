@@ -24,24 +24,26 @@ Hal ini sejalan dengan logika penyediaan ciptaan di dalam jaringan. Karena pada 
 
 * Penerapan Digital Rights Management dilarang untuk ciptaan berlisensi CC;
 
-* Ketentuan lisensi yang diterapkan tidak dapat dicabut (irrevocable). 
+* Ketentuan lisensi yang diterapkan tidak dapat dicabut (irrevocable).
 
-https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors
+Ketentuan ini ada untuk menghindari terjadinya sengketa dengan asumsi bahwa ciptaan sudah digunakan dan disediakan di berbagai tempat yang berbeda oleh banyak pengguna. Pengguna yang merujuk ketentuan lisensi pada saat ciptaan tersebut pertama kali diumumkan. 
 
-Misalnya, Ciptaan yang pertama kali diumumkan dengan izin penggunaan dalam kepentingan komersial untuk pengguna ciptaan dapat ditarik dari peredaran dan diumumkan kembali dengan ketentuan yang bertolak belakang dari ketentuan awal. Penerima lisensi dari ketentuan sebelumnya akan terikat dengan ketentuan lisensi yang baru dalam setiap penggunaan ciptaan setelah ketentuan tersebut berlaku. 
+Asumsi lain ialah informasi tentang berubahnya ketentuan lisensi belum tentu sampai ke semua pengguna ciptaan yang merujuk pada ketentuan lisensi sebelumnya. Tentu saja risiko sengketa ini tidak berlaku pada perbuatan yang terjadi di masa lampau (sebelum ketentuan lisensi baru berlaku). Pembicaraan selesai karena dalam konteks hukum Indonesia (asas non-retroaktif) tidak memungkinkan adanya gugatan terhadap pelanggaran hukum sebelum sebuah peraturan atau suatu ketentuan berlaku. Untuk 
+
+Jadi di sini, risiko sengketa tidak hanya dibebankan pada perbuatan di masa lampau, namun juga pada perbuatan di masa yang sama dengan catatan ada asumsi bahwa tidak semua pengguna ciptaan well informed atas perubahan tersebut. Dan, hal ini dapat menjadi alasan kita juga untuk tidak merekomendasikan/melarang penhgubahan/pencabutan ketentuan lisensi CC. Kecuali, pemberi lisensi bisa menjaga etikanya sebagaimana disebutkan dalam dua rujukan di atas.
+
+Terdapat dua perbuatan yang dikecualikan dari ketentuan ini:
+
+[1] [Untuk pemberi lisensi yang mengubah ketentuan lisensi yang ia terapkan ke ketentuan lisensi CC yang lain (termasuk yang bertolak belakang, contoh: CC BY v. CC BY-NC/CC BY-ND)](https://creativecommons.org/2008/10/27/on-verifying-the-commons/)
+
+[2] [Untuk pemberi lisensi yang mencabut ketentuan lisensi CC sama sekali dari ciptannya (some rights reserved -> all rights reserved)](https://creativecommons.org/faq/#what-if-i-change-my-mind-about-using-a-cc-license). 
+
+Misalnya, Ciptaan yang pertama kali diumumkan dengan izin penggunaan untuk kepentingan komersial kepada pengguna ciptaan ditarik dari peredaran dan diumumkan kembali dengan ketentuan yang bertolak belakang dari ketentuan awal. Penerima lisensi dari ketentuan sebelumnya akan terikat dengan ketentuan lisensi yang baru dalam setiap penggunaan ciptaan setelah ketentuan tersebut berlaku. 
 
 Hal ini direkomendasikan pada setiap pemberi lisensi untuk menghindari terjadinya kebingungan terkait hak penggunaan ciptaan yang disediakan kepada penerima lisensi. Selain itu, diasumsikan bahwa ciptaan yang sudah pernah diumumkan secara terbuka telah digunakan oleh para pengguna ciptaan. Jika hak penggunaan dalam kepentingan komersial para penerima lisensi dicabut dan diganti dengan ketentuan yang bertolak belakang, maka pengguna ciptaan menjadi pemikul beban risiko sengketa 
 
 Bener sih, kalau arahnya ke sana, jadi unethical. Lagipula kalau berdasarkan asas non-retroaktif si licensor nggak bisa gugat licensee kan dari perbuatan yang dia lakukan sebelum ketentuan baru berlaku. Berarti ketentuan irrevocability ini sebenarnya bersifat sebagai kewajiban/rekomendasi/saran. Karena kalau merujuk FAQ dan Blog dari HQ mereka "memperbolehkan" dengan syarat tertentu:
 
-[1] https://creativecommons.org/2008/10/27/on-verifying-the-commons/
-[2] https://creativecommons.org/faq/#what-if-i-change-my-mind-about-using-a-cc-license
-
-Konteks perbuatannya juga terbagi dua. Poin nomor 1 untuk seorang licensor yang mengubah ketentuan lisensi yang ia terapkan dengan ketentuan lisensi CC yang lain (termasuk yang bertolak belakang CC BY v. CC BY-NC/CC BY-ND).  Poin nomor 2 untuk seorang licensor yang mencabut ketentuan lisensi CC sama sekali dari ciptannya (some rights reserved -> all rights reserved). 
-
-Pemikiran ini muncul karena gue mempertanyakan risiko sengketa pada perbuatan yang terjadi di masa lampau (sebelum ketentuan lisensi baru berlaku). Pembicaraan selesai karena dalam konteks hukum kita ada asas non-retroaktif. Namun, kalau kita menggunakan logika bahwa ciptaan tersebut sudah digunakan oleh banyak orang, artinya dapat diasumsikan bahwa informasi tentang berubahnya ketentuan lisensi belum tentu sampai ke semua pengguna ciptaan yang merujuk pada ketentuan lisensi sebelumnya. 
-
-Jadi di sini, risiko sengketa tidak hanya dibebankan pada perbuatan di masa lampau, namun juga pada perbuatan di masa yang sama dengan catatan ada asumsi bahwa tidak semua pengguna ciptaan well informed atas perubahan tersebut. Dan, hal ini dapat menjadi alasan kita juga untuk tidak merekomendasikan/melarang penhgubahan/pencabutan ketentuan lisensi CC. Kecuali, pemberi lisensi bisa menjaga etikanya sebagaimana disebutkan dalam dua rujukan di atas
 
 Dasar hukumnya ya hukum perdata, misrepresentation (Nita)
 
