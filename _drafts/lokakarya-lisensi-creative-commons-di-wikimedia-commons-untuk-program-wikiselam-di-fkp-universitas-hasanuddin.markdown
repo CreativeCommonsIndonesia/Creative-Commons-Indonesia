@@ -22,9 +22,11 @@ Pemaparan tentang lisensi CC diawali dengan beberapa pertimbangan yang harus dik
 
 Hal ini sejalan dengan logika penyediaan ciptaan di dalam jaringan. Karena pada dasarnya setiap ciptaan yang dapat diakses secara terbuka di ranah daring dapat langsung digandakan dan disebarluaskan. Maka dari itu lisensi CC memberikan legitimasi secara tertulis sebagai landasan hukum pengguna ciptaan (penerima lisensi) pada aktivitas-aktivitas tersebut.
 
+* Penerapan Digital Rights Management dilarang untuk ciptaan berlisensi CC;
+
 * Ketentuan lisensi yang diterapkan tidak dapat dicabut (irrevocable). 
 
-
+https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors
 
 Misalnya, Ciptaan yang pertama kali diumumkan dengan izin penggunaan dalam kepentingan komersial untuk pengguna ciptaan dapat ditarik dari peredaran dan diumumkan kembali dengan ketentuan yang bertolak belakang dari ketentuan awal. Penerima lisensi dari ketentuan sebelumnya akan terikat dengan ketentuan lisensi yang baru dalam setiap penggunaan ciptaan setelah ketentuan tersebut berlaku. 
 
@@ -48,7 +50,7 @@ Diingatkan aja syarat sahnya perjanjian Man, karena lisensi CC itu kan pada dasa
 ;
 
 
-* Penerapan Digital Rights Management dilarang untuk ciptaan berlisensi CC;
+
 * Ciptaan yang dilisensikan harus merupakan ciptaan sendiri, atau diizinkan oleh pencipta atau pemegang hak cipta lain untuk melisensikan ciptaan dengan lisensi CC.
 
 
