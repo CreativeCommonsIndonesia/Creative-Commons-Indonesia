@@ -16,7 +16,7 @@ Di bagian selanjutnya Hilman langsung menjelaskan bagaimana lisensi hak cipta be
 
 Menuju ke penjelasan mengenai lisensi CC, Hilman mengajak peserta untuk dapat membedakan lisensi konvensional (tertutup) dengan lisensi terbuka. Peserta diajak untuk jeli dan memperhatikan setiap pemberitahuan hak cipta yang disediakan oleh penyedia konten di dalam jaringan (daring). Cara paling mudah untuk mengenali hal ini adalah dengan mengetahui arti dari terminologi "all rights reserved" (seluruh hak dipertahankan) dan "some rights reserved" (beberapa hak dipertahankan). Secara prinsip, setiap pencipta atau pemegang hak cipta yang menerapkan konsep "all rights reserved" mewajibkan pengguna ciptaan untuk meminta izin dalam setiap bentuk penggunaan ciptaan, sebagaimana ketentuan penggunaan ciptaan yang diatur oleh Undang-Undang Hak Cipta (UUHC). Bedanya, pencipta atau pemegang hak cipta yang menerapkan konsep "some rights reserved", secara langsung memberikan izin tertulis kepada pengguna ciptaan untuk dapat langsung menggunakan ciptaannya, paling tidak untuk digandakan dan disebarluaskan. Informasi tambahan mengenai ketentuan penggunaannya, biasanya tertera dalam pemberitahuan hak cipta yang ditempelkan oleh pihak pencipta atau pemegang hak cipta pada ciptaan atau tempat ciptaan disajikan. Isi dari ketentuan ini biasanya merupakan pemberian izin langsung kepada pengguna ciptaan bahwa ciptaan dapat mereka gunakan dalam kepentingan komersial atau diubah dan digubah atau sebaliknya. Pemberitahuan biasanya disediakan dengan bahasa yang sederhana, dalam bentuk teks yang disertai dengan simbol-simbol agar mudah diingat. Dengan mengetahui perbedaan dua konsep tersebut, peserta juga diharapkan dapat membedakan mana ciptaan yang gratis saja dan mana ciptaan yang gratis sekaligus terbuka. Maksud dari terbuka ialah penyedia (pencipta atau pemegang hak cipta) ciptaan-ciptaan tersebut memberikan legitimasi kepada pengguna ciptaan untuk turut serta merasakan manfaat yang biasanya hanya dapat dirasakan oleh pencipta atau pemegang hak cipta secara eksklusif, manfaat komersial contohnya.
 
-Pemaparan tentang lisensi CC diawali dengan beberapa pertimbangan yang harus diketahu pencipta atau pemegang hak cipta (pemberi lisensi) sebelum menerapkan lisensi tersebut pada ciptaanya, yaitu sebagai berikut:
+Pemaparan tentang lisensi CC diawali dengan [beberapa pertimbangan](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors) yang harus diketahu pencipta atau pemegang hak cipta (pemberi lisensi) sebelum menerapkan lisensi tersebut pada ciptaanya, yaitu sebagai berikut:
 
 * Setiap ciptaan berlisensi CC dapat langsung digandakan dan disebarluaskan; 
 
@@ -24,34 +24,23 @@ Hal ini sejalan dengan logika penyediaan ciptaan di dalam jaringan. Karena pada 
 
 * Penerapan Digital Rights Management dilarang untuk ciptaan berlisensi CC;
 
+Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna ciptaan untuk memperoleh izin langsung untuk menggandakan dan menyebarluaskan ciptaan.  Digital Rights Management (DRM) atau sarana kontrol teknologi adalah teknologi perlindungan ciptaan yang dapat menghambat pengguna ciptaan untuk menggunakan ciptaan, misalnya dalam hal penggandaan dan penyebarluasan ciptaan. Misalnya, pencipta atau pemegang hak cipta menutup akses untuk pengunduhan ciptaan yang diunggah di dalam jaringan.  Maka dari itu, model perlindungan  ini tidak relevan untuk diterapkan pada ciptaan berlisensi CC. 
+
 * Ketentuan lisensi yang diterapkan tidak dapat dicabut (irrevocable).
 
-Ketentuan ini ada untuk menghindari terjadinya sengketa dengan asumsi bahwa ciptaan sudah digunakan dan disediakan di berbagai tempat yang berbeda oleh banyak pengguna. Pengguna yang merujuk ketentuan lisensi pada saat ciptaan tersebut pertama kali diumumkan. 
+Misalnya, Ciptaan yang pertama kali diumumkan dengan izin penggunaan untuk kepentingan komersial kepada pengguna ciptaan ditarik dari peredaran dan diumumkan kembali dengan ketentuan yang bertolak belakang dari ketentuan awal. Penerima lisensi dari ketentuan sebelumnya akan terikat dengan ketentuan lisensi yang baru dalam setiap penggunaan ciptaan setelah ketentuan tersebut berlaku.
 
-Asumsi lain ialah informasi tentang berubahnya ketentuan lisensi belum tentu sampai ke semua pengguna ciptaan yang merujuk pada ketentuan lisensi sebelumnya. Tentu saja risiko sengketa ini tidak berlaku pada perbuatan yang terjadi di masa lampau (sebelum ketentuan lisensi baru berlaku). Pembicaraan selesai karena dalam konteks hukum Indonesia (asas non-retroaktif) tidak memungkinkan adanya gugatan terhadap pelanggaran hukum sebelum sebuah peraturan atau suatu ketentuan berlaku. Untuk 
+Ketentuan ini ada untuk menghindari terjadinya sengketa dengan asumsi bahwa ciptaan sudah digunakan dan disediakan di berbagai tempat yang berbeda oleh berbagai pengguna. Pengguna yang merujuk ketentuan lisensi pada saat ciptaan tersebut pertama kali diumumkan. Asumsi lain ialah informasi tentang berubahnya ketentuan lisensi belum tentu sampai ke semua pengguna ciptaan yang merujuk pada ketentuan lisensi sebelumnya. 
 
-Jadi di sini, risiko sengketa tidak hanya dibebankan pada perbuatan di masa lampau, namun juga pada perbuatan di masa yang sama dengan catatan ada asumsi bahwa tidak semua pengguna ciptaan well informed atas perubahan tersebut. Dan, hal ini dapat menjadi alasan kita juga untuk tidak merekomendasikan/melarang penhgubahan/pencabutan ketentuan lisensi CC. Kecuali, pemberi lisensi bisa menjaga etikanya sebagaimana disebutkan dalam dua rujukan di atas.
+Tentu saja risiko sengketa ini tidak berlaku pada perbuatan yang terjadi di masa lampau (sebelum ketentuan lisensi baru berlaku). Pembicaraan selesai karena dalam konteks hukum Indonesia (asas non-retroaktif) tidak memungkinkan adanya gugatan terhadap pelanggaran hukum sebelum sebuah peraturan atau suatu ketentuan berlaku. Maka dari itu, pengubahan ketentuan lisensi menghadirkan risiko nyata bagi pengguna ciptaan yang tidak menerima informasi mengenai pengubahan ketentuan lisensi dengan baik. Sengketa yang berakar dari kesalahpahaman sangat bisa terjadi apabila pencipta atau pemegang hak cipta menemukan penggunaan ciptaan yang menyalahi ketentuan lisensinya yang baru karena pengguna ciptaan tersebut masih merujuk ketentuan yang lama dari tempat ia mengakses ciptaan tersebut. 
 
-Terdapat dua perbuatan yang dikecualikan dari ketentuan ini:
+Hal ini  menjadi alasan fundamental CC untuk tidak merekomendasikan pengubahan/pencabutan ketentuan lisensi CC yang sudah diterapkan. Meskipun bukan berarti pencipta atau pemegang hak cipta dilarang sama sekali untuk mengubah atau mencabut ketentuan lisensi yang sudah diterapkan. Namun yang menjadi pertimbangan adalah menjadi tidak etis ketika pemberi lisensi mengganti "isi perjanjian" yang mereka perjanjikan dengan penerima lisensi. 
+
+Kecuali, pemberi lisensi bisa menjaga etikanya yaitu 
 
 [1] [Untuk pemberi lisensi yang mengubah ketentuan lisensi yang ia terapkan ke ketentuan lisensi CC yang lain (termasuk yang bertolak belakang, contoh: CC BY v. CC BY-NC/CC BY-ND)](https://creativecommons.org/2008/10/27/on-verifying-the-commons/)
 
 [2] [Untuk pemberi lisensi yang mencabut ketentuan lisensi CC sama sekali dari ciptannya (some rights reserved -> all rights reserved)](https://creativecommons.org/faq/#what-if-i-change-my-mind-about-using-a-cc-license). 
-
-Misalnya, Ciptaan yang pertama kali diumumkan dengan izin penggunaan untuk kepentingan komersial kepada pengguna ciptaan ditarik dari peredaran dan diumumkan kembali dengan ketentuan yang bertolak belakang dari ketentuan awal. Penerima lisensi dari ketentuan sebelumnya akan terikat dengan ketentuan lisensi yang baru dalam setiap penggunaan ciptaan setelah ketentuan tersebut berlaku. 
-
-Hal ini direkomendasikan pada setiap pemberi lisensi untuk menghindari terjadinya kebingungan terkait hak penggunaan ciptaan yang disediakan kepada penerima lisensi. Selain itu, diasumsikan bahwa ciptaan yang sudah pernah diumumkan secara terbuka telah digunakan oleh para pengguna ciptaan. Jika hak penggunaan dalam kepentingan komersial para penerima lisensi dicabut dan diganti dengan ketentuan yang bertolak belakang, maka pengguna ciptaan menjadi pemikul beban risiko sengketa 
-
-Bener sih, kalau arahnya ke sana, jadi unethical. Lagipula kalau berdasarkan asas non-retroaktif si licensor nggak bisa gugat licensee kan dari perbuatan yang dia lakukan sebelum ketentuan baru berlaku. Berarti ketentuan irrevocability ini sebenarnya bersifat sebagai kewajiban/rekomendasi/saran. Karena kalau merujuk FAQ dan Blog dari HQ mereka "memperbolehkan" dengan syarat tertentu:
-
-
-Dasar hukumnya ya hukum perdata, misrepresentation (Nita)
-
-Diingatkan aja syarat sahnya perjanjian Man, karena lisensi CC itu kan pada dasarnya perjanjian lisensi
-
-;
-
-
 
 * Ciptaan yang dilisensikan harus merupakan ciptaan sendiri, atau diizinkan oleh pencipta atau pemegang hak cipta lain untuk melisensikan ciptaan dengan lisensi CC.
 
