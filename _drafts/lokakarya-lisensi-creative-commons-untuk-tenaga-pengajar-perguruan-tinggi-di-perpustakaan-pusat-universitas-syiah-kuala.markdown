@@ -32,7 +32,9 @@ Selain itu pencipta atau pemegang hak cipta juga wajib untuk mengumumkan ciptaan
 
 Setelah melaksanakan kedua hal tersebut, maka pencipta atau pemegang hak cipta memiliki kontrol eksklusif atas setiap manfaat yang muncul dari ciptaan tersebut. 
 
-Manfaat yang dimaksud dipaparkan dalam konsep perlindungan hak moral dan hak ekonomi. Hak moral melindungi hak pencipta atau pemegang hak cipta dengan mewajibkan pengguna ciptaan untuk menyebutkan nama pencipta atau pemegang hak cipta serta sumber ciptaan dengan baik. Selain itu hak moral juga mewajibkan agar setiap penggunaan ciptaan menggunakan ciptaan dengan sesuai, 
+Manfaat yang dimaksud dipaparkan dalam konsep perlindungan hak moral dan hak ekonomi. Hak moral melindungi hak pencipta atau pemegang hak cipta dengan mewajibkan pengguna ciptaan untuk menyebutkan nama pencipta atau pemegang hak cipta serta sumber ciptaan dengan baik. Selain itu hak moral juga mewajibkan agar setiap penggunaan ciptaan menggunakan ciptaan dengan baik, tanpa melecehkan pencipta atau pemegang hak cipta, atau menyelewengkan maksud penciptaan dari ciptaan tersebut. Arti dari penyelewengan adalah, misalnya, seorang anggota organisasi masyarakat (ormas) melakukan klaim atas suatu karya video sebagai bentuk dukungan terhadap gerakan ormasnya. Apabila pihak pencipta atau pemegang hak cipta tidak setuju dengan model penggunaan tersebut, dapat menggunakan mekanisme perlindungan hak moral untuk menghentikan distribusi karya video oleh ormas tersebut, atau bahkan meminta ganti rugi apabila permasalahan dibawa sebagai sengketa di ranah pengadilan niaga.
+
+Hak ekonomi membantu pencipta atau pemegang hak cipta untuk menjaga manfaat komersial dari ciptaannya. Maksudnya supaya pemasukan atau royalti dari setiap penggunaan ciptaannya dalam aktivitas komersial dapat selalu tersalurkan kepada pihak pencipta atau pemegang hak cipta. 
 
 
 
