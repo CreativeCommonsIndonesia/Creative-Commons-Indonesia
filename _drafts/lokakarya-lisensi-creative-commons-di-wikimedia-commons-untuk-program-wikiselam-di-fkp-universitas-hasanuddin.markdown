@@ -1,7 +1,23 @@
 ---
 title: Lokakarya Lisensi Creative Commons di Wikimedia Commons Untuk Program WikiSelam
   di FKP Universitas Hasanuddin
-date: 2018-09-28 14:59:00 +07:00
+date: 2018-08-16 14:59:00 +07:00
+categories:
+- Acara
+tags:
+- Makassar
+- WikiSelam
+- Wikimedia Indonesia
+- Wikimedia Commons
+- Lisensi Creative Commons
+- Hilman Fathoni
+- Ivonne Kristiani
+- Creative Commons Indonesia
+- Fotografi
+- Hak Cipta Forografi
+author: hilman
+img: "/uploads/15_Agustus_2018_lokakarya_CCID_di_wiki_selam,_Makassar.jpg"
+comments: true
 ---
 
 ![15_Agustus_2018_lokakarya_CCID_di_wiki_selam,_Makassar.jpg](/uploads/15_Agustus_2018_lokakarya_CCID_di_wiki_selam,_Makassar.jpg){: .img-responsive .center-block }{: width="500"}
@@ -56,3 +72,17 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC apa s
 
 Selanjutnya, Hilman memaparkan beberapa fakta tentang penerapan lisensi CC di Wikimedia Commons. Menurut catatan [State of the Commons 2017](https://stateof.creativecommons.org/?lang=id), setidaknya terdapat 36,9 juta ciptaan berlisensi CC di Wikimedia Commons. [Diantaranya adalah ciptaan karya fotografi bawah laut di Indonesia](https://commons.wikimedia.org/wiki/Category:Underwater_photographs_in_Indonesia). Pada bagian ini Hilman juga menyajikan kolom-kolom metadata yang dapat diisi oleh kontributor situs web Wikimedia Commons dalam aktivitas penyajian ciptaannya. Penjelasan teknis tentang Wikimedia Commons dapat Anda temukan di [artikel ini](http://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/) dan [ini](http://creativecommons.or.id/2017/03/menemukan-karya-fotografi-dan-potret-bebas-hak-cipta-indonesia-di-wikimedia-commons/).
 
+Pada bagian berikutnya Hilman juga menjelaskan kepada peserta ketentuan-ketentuan lisensi CC lainnya kepada peserta. Ketentuan lisensi lain yang dimaksud ialah [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial), [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa), [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan), dan [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan). Selain itu, ia juga menjelaskan bagaimana Tanda Domain Publik Creative Commons juga diterapkan pada ciptaan yang sudah bebas hak cipta di Wikimedia Commons. Salah satu contohnya dapat dilihat pada penerapan pemberitahuan status bebak hak ciptaa suatu ciptaan, yang ketentuannya serupa dengan Tanda Domain Publik Creative Commons oleh Florida Memory Project pada karya fotografi bawah laut [ini](https://commons.wikimedia.org/wiki/File:Couples_performing_underwater_at_Weeki_Wachee_Springs_near_Brooksville_(3253375253).jpg). Pada bagian ini Hilman ingin menyampaikan bahwa Wikimedia Commons juga menerima konten terbuka yaitu berkas media dari ciptaan-ciptaan yang sudah bebas hak cipta.
+
+Pada bagian akhir Hilman memberikan beberapa kesimpulan tentang Wikimedia Commons yaitu:
+
+* Tempat penyimpan media (storage) hampir tidak terbatas
+* Tanpa iklan atau kepentingan komersial
+* Murni untuk kepentingan edukasi
+* Dapat langsung digunakan pada semua artikel Wikipedia
+* Klasifikasi berdasar kategori memudahkan pencarian berkas
+* Tersedia dalam berbagai Bahasa
+* Siapa pun dapat berkontribusi
+* Gratis
+
+Lokakarya diakhiri dengan tanya jawab dengan pihak peserta seputar hak cipta karya fotografi dan kesesuaian Wikimedia Commons sebagai tempat untuk mendokumentasikan spesies biota laut.
