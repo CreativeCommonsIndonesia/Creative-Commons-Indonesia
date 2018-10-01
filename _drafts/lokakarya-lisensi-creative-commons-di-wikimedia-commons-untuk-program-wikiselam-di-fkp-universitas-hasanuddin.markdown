@@ -18,7 +18,7 @@ Menuju ke penjelasan mengenai lisensi CC, Hilman mengajak peserta untuk dapat me
 
 Pemaparan tentang lisensi CC diawali dengan beberapa pertimbangan yang harus diketahu pencipta atau pemegang hak cipta (pemberi lisensi) sebelum menerapkan lisensi tersebut pada ciptaanya, yaitu sebagai berikut: (Daftar ini merupakan hasil pembaruan yang merujuk ketentuan dari [laman ini](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors))
 
-* **Ketentuan lisensi yang diterapkan tidak dapat dicabut (irrevocable).**
+* **Ketentuan lisensi yang diterapkan tidak dapat dicabut (irrevocable)**;
 
 Misalnya, ciptaan yang pertama kali diumumkan dengan izin penggunaan untuk kepentingan komersial kepada pengguna ciptaan dicabut ketentuan lisensinya dan diganti dengan ketentuan lisensi yang bertolak belakang dari ketentuan lisensi sebelumnya. Penerima lisensi dari ketentuan sebelumnya akan terikat dengan ketentuan lisensi yang baru dalam setiap penggunaan ciptaan setelah ketentuan tersebut berlaku. Ketentuan ini ada untuk menghindari terjadinya sengketa dengan asumsi bahwa ciptaan sudah digunakan dan disediakan di berbagai tempat yang berbeda oleh berbagai pengguna. Pengguna yang merujuk ketentuan lisensi pada saat ciptaan tersebut pertama kali diumumkan. Asumsi lain ialah informasi tentang berubahnya ketentuan lisensi belum tentu sampai ke semua pengguna ciptaan yang merujuk pada ketentuan lisensi sebelumnya. 
 
@@ -30,7 +30,7 @@ Hal ini  menjadi alasan fundamental CC untuk tidak merekomendasikan pengubahan/p
 
 Lisensi CC hanya berlaku pada obyek perlindungan hak cipta saja (lihat pasal 40 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta). Meskipun lisensi CC terinspirasi oleh lisensi seperti GNU General Public License, program komputer dikecualikan sebagai obyek penerapan lisensi CC. Karena ketentuan lisensi CC, baik lisensi ringkas maupun lisensi lengkap, tidak sesuai untuk diterapkan pada program komputer. Hal-hal mengenai ketentuan penggunaan serta perlindungan program komputer sebagai konten terbuka secara spesifik dapat ditemukan pada lisensi terbuka yang sebelumnya sudah populer diterapkan pada program komputer, contoh lain selain GNU adalah MIT License. Dalam lisensi-lisensi tersebut dipaparkan secara spesifik bagaimana pengguna program komputer sebagai penerima lisensi dapat menggunakan bagian-bagian (misalnya, kode sumber porgram komputer) program komputer.
 
-* **Tandai ciptaan dengan ketentuan lisensi yang sesuai**
+* **Tandai ciptaan dengan ketentuan lisensi yang sesuai**;
 
 Seorang pencipta atau pemegang hak cipta dapat menerapkan ketentuan lisensi yang berbeda pada ciptaan yang berbeda pada satu tempat di mana pihak tersebut menyediakan ciptaan. Misalnya, pihak tersebut dapat menerapkan ketentuan lisensi A pada ciptaan teks A, kemudian lisensi B pada ciptaan karya fotografi A, dan ketentuan lisensi C pada ciptaan lain yang tersedia di tempat pihak tersebut menyediakan ciptaan-ciptaannya. Fungsi dari penandaan ini ialah untuk memberikan pemberitahuan ciptaan secara spesifik bahwa beberapa ciptaan di tempat tersebut dikecualikan dari satu ketentuan lisensi yang pada dasarnya diterapkan pada seluruh ciptaan di tempat tersebut. Selain itu, penandaan ini juga biasanya dilakukan sebagai penerapan atribusi ciptaan pihak lain yang menerapkan ketentuan lisensi yang berbeda.
 
@@ -38,11 +38,11 @@ Seorang pencipta atau pemegang hak cipta dapat menerapkan ketentuan lisensi yang
 
 Seorang pengguna ciptaan di dalam jaringan bisa saja mengunggah suatu ciptaan yang bukan miliknya untuk diumumkan melalui suatu situs web. Jika pencipta atau pemegang hak cipta ciptaan tersebut belum menyatakan ketentuan penggunaan dengan suatu ketentuan lisensi, pengguna ciptaan tidak dapat menerapkan suatu ketentuan lisensi pada ciptaan yang diunggahnya. Untuk dapat melaksanakan hal tersebut, pengguna ciptaan harus memperoleh izin sekaligus pernyataan terlebih dahulu dari pencipta atau pemegang hak cipta seperti [sistem OTRS di Wikimedia Commons berikut ini](https://commons.wikimedia.org/wiki/Commons:OTRS). Selain itu, seseorang dapat menerapkan ketentuan lisensi pada suatu ciptaan selama ciptaan tersebut merupakan ciptaannya.
 
-* Tentukan ketentuan penggunaan ciptaan yang hendak diterapkan;
+* **Tentukan ketentuan penggunaan ciptaan yang hendak diterapkan**;
 
 Faktor ini merupakan hal yang mendasar sebelum suatu pihak menjadi pemberi lisensi CC. Calon pemberi lisensi harus memahami fungsi pemilihan ketentuan lisensi terlebih dahulu. Misalnya dengan membaca laman penjelasan 4 spektrum ketentuan atau hasil kombinasinya yaitu [6 pilihan lisensi CC](http://creativecommons.or.id/lisensi-cc-bahasa-indonesia/). Dengan memahami hal ini, pemberi lisensi dapat menerapkan ketentuan lisensi CC yang sesuai dengan kemauannya pada ciptaannya. 
 
-* **Setiap ciptaan berlisensi CC dapat langsung digandakan dan disebarluaskan; **
+* **Setiap ciptaan berlisensi CC dapat langsung digandakan dan disebarluaskan**;
 
 Hal ini sejalan dengan logika penyediaan ciptaan di dalam jaringan. Karena pada dasarnya setiap ciptaan yang dapat diakses secara terbuka di ranah daring dapat langsung digandakan dan disebarluaskan. Maka dari itu lisensi CC memberikan legitimasi secara tertulis sebagai landasan hukum pengguna ciptaan (penerima lisensi) pada aktivitas-aktivitas tersebut.
 
