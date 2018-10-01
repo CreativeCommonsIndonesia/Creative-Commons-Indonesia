@@ -21,5 +21,18 @@ Pihak penyedia konten pendidikan terbuka, sebagai pemberi lisensi, dapat memberi
 * Redistribute
 Prinsip ini pada dasarnya mirip dengan prinsip Reuse, yaitu bagaimana pihak penyedia konten pendidikan terbuka memberikan izin langsung kepada pengguna ciptaan untuk menyebarluaskan konten pendidikan terbukanya. 
 
-Melalui penjelasan tersebut, Hilman hendak menyampaikan kepada para peserta bahwa terdapat hubungan langsung antara pembuatan konten pendidikan dengan perlindungan hak cipta. Dan dengan berkembangnya konsep-konsep pendidikan terbuka, pengetahuan mengenai hak cipta serta segala aspek atau alat legal yang mengikutinya mutalk untuk diketahui oleh pengajar. Maka dari itu Hilman kemudian menyambung penjelasannya dengan konsep perlindungan hak Kekayaan Intelektual (KI) di Indonesia. Juga paparan tentang konsep perlindungan hak cipta sebagai bagian darinya.
+Melalui penjelasan tersebut, Hilman hendak menyampaikan kepada para peserta bahwa terdapat hubungan langsung antara pembuatan konten pendidikan dengan perlindungan hak cipta. Dan dengan berkembangnya konsep-konsep pendidikan terbuka, pengetahuan mengenai hak cipta serta segala aspek atau alat legal yang mengikutinya mutalk untuk diketahui oleh pengajar. Maka dari itu Hilman kemudian menyambung penjelasannya dengan konsep perlindungan hak Kekayaan Intelektual (KI) di Indonesia. Juga paparan tentang konsep perlindungan hak cipta sebagai bagian darinya. 
+
+Sebagai pembuka, Hilman menjelaskan jenis-jenis obyek perlindungan hak cipta (lihat pasal 40 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta, [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19)[2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Pada hakikatnya, seluruh obyek perlindungan hak cipta mewajibkan setiap pengguna ciptaan untuk memperoleh izin penggunaan (penggandaan, dan penyebarluasan) secara langsung dari pencipta dalam aktivitas penggunaan ciptaan. Dalam hal ini, pencipta atau pemegang hak cipta wajib memenuhi beberapa prinsip juga agar ciptaannya dapat dilindungi dengan mekanisme perlindungan hak cipta. Prinsip-prinsip tersebut antara lain:
+
+* Tangibility
+Untuk memperoleh perlindugan hak cipta, seorang pencipta atau pemegang hak cipta wajib mewujudkan ciptaannya terlebih dahulu. Mekanisme perlindungan hak cipta tidak melindungi suatu konsep atau ide yang hanya dipikirkan. Gagasan-gagasan ini dapat diwujudkan secara nyata (tangible) oleh pencipta atau pemegang hak cipta dengan, misalnya, membuat sebuah buku, lagu, gambar, atau ciptaan dalam format lain yang mengekspresikan gagasan tersebut. Mewujudkan ciptaan secara nyata juga merupakan jalan untuk melakukan klaim terhadap suatu konsep atau ide tersebut sebelum pihak lain melakukannya. 
+* Deklaratif
+Selain itu pencipta atau pemegang hak cipta juga wajib untuk mengumumkan ciptaannya. Dalam aktivitas pengumuman tersebut, pencipta atau pemegang hak cipta telah melaksanakan perlindungan hak cipta dengan memberitahukan status perlindungan hak cipta terhadap ciptaannya. Juga menyatakan bahwa ciptaan tersebut, hak ciptanya, dipegang olehnya. Hal ini juga menjadi pembeda mekanisme perlindungan hak cipta dengan obyek perlindungan KI lainnya. Yaitu, obyek perlindungan hak cipta tidak wajib untuk didaftarkan ke Direktorak Jenderal Kekayaan Intelektual (DJKI) untuk mendapatkan perlindungan, melainkan diumumkan saja.
+
+Setelah melaksanakan kedua hal tersebut, maka pencipta atau pemegang hak cipta memiliki kontrol eksklusif atas setiap manfaat yang muncul dari ciptaan tersebut. 
+
+Manfaat yang dimaksud dipaparkan dalam konsep perlindungan hak moral dan hak ekonomi. Hak moral melindungi hak pencipta atau pemegang hak cipta dengan mewajibkan pengguna ciptaan untuk menyebutkan nama pencipta atau pemegang hak cipta serta sumber ciptaan dengan baik. Selain itu hak moral juga mewajibkan agar setiap penggunaan ciptaan menggunakan ciptaan dengan sesuai, 
+
+
 
