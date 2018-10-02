@@ -1,6 +1,6 @@
 ---
 title: Lokakarya Lisensi Creative Commons di Wikimedia Commons Untuk Program Wiki
-  Cinta Budaya di Aceh, Palu, dan Sorong
+  Cinta Budaya di Universitas Syiah Kuala
 date: 2018-10-02 20:41:00 +07:00
 ---
 
@@ -22,7 +22,7 @@ Fitriayu membuka presentasi dengan penjelasan tentang jenis-jenis obyek perlindu
 
 ---
 
-Presentasi kemudian dilanjutkan ke bagian penjelasan mengenai dasar-dasar lisensi hak cipta dalam konteks Indonesia. Menurut Angka 20 Ketentuan Umum UUHC 2014, lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Lisensi hak cipta dapat menjadi alat penyederhana bahasa hukum dari UUHC. Dengan begitu dialog antara pencipta atau pemegang hak cipta akan menjadi semakin mudah. 
+Presentasi kemudian dilanjutkan ke bagian penjelasan mengenai dasar-dasar lisensi hak cipta dalam konteks Indonesia. Menurut Angka 20 Ketentuan Umum UUHC 2014, lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Lisensi hak cipta dapat menjadi alat penyederhana bahasa hukum dari UUHC. Dengan begitu dialog antara pencipta atau pemegang hak cipta akan menjadi semakin mudah.
 
 Karena tidak semua pihak-pihak terkait dalam hubungan hukum di ranah perlindungan hak cipta memiliki pengetahuan atau dapat langsung memahami mekanisme perlindungan hak cipta dengan membaca peraturannya. Selain itu dengan mengetahui perbedaan jenis lisensi dan isi ketentuannya, pengguna ciptaan dapat membedakan mana ciptaan yang dapat diakses secara gratis saja dan mana ciptaan yang dapat diakses secara gratis dan terbuka. Maksud terbuka dalam hal ini adalah ciptaan-ciptaan tersebut selain dapat diunduh dan disebarluaskan secara gratis, juga mengandung izin langsung yang memungkinkan pengguna ciptaan untuk menggubah atau menggunakan ciptaan dalam kepentingan komersial.
 
@@ -40,21 +40,23 @@ Lisensi hak cipta dapat dibagi berdasarkan sifat ketentuannya, yaitu:
 
 Fitriayu kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC apa saja yang tersedia di Wikimedia Commons. Untuk menunjukannya, ia menandai lisensi-lisensi yang berlaku di Wikimedia Commons dengan logo Wikimedia Commons pada [salindianya](https://www.slideshare.net/CreativeCommonsIndonesia/ccidwmid-15-agustus-2018-pengantar-wikimedia-commons-wikiselam-project). Wikimedia Commons hanya menyediakan dua pilihan lisensi CC di situs webnya. Ketentuan-ketentuan lisensi tersebut ialah:
 
-(1) Lisensi [CC BY (Atribusi)](https://creativecommons.org/licenses/by/4.0/deed.id)
+\(1) Lisensi [CC BY (Atribusi)](https://creativecommons.org/licenses/by/4.0/deed.id)
 
 * Isi ketentuan:
-    * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk:
 
-    * Dengan ketentuan:
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk:
 
-(2) Lisensi [CC BY-SA (Atribusi-BerbagiSerupa)](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
+  * Dengan ketentuan:
+
+\(2) Lisensi [CC BY-SA (Atribusi-BerbagiSerupa)](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
 
 * Isi ketentuan:
-    * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk:
 
-    * Dengan ketentuan:
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk:
 
-(3) Tanda Domain Publik Creative Commons (Tanda Domain Publik CC)
+  * Dengan ketentuan:
+
+\(3) Tanda Domain Publik Creative Commons (Tanda Domain Publik CC)
 
 * Isi dan fungsi ketentuan:
 
