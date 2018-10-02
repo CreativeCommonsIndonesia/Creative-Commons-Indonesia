@@ -158,10 +158,9 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 
 * Isi ketentuan:
 
-*a. Kewajiban untuk menyebutkan nama pencipta dan sumber ciptaan.
+a. Kewajiban untuk menyebutkan nama pencipta dan sumber ciptaan.
 
-*b. Menyatakan perubahan yang dilakukan terhadap ciptaan.
-
+b. Menyatakan perubahan yang dilakukan terhadap ciptaan.
 
 \*\* Fungsi:
 \*\*\* Supaya pencipta dapat terus disebutkan namanya sebagai sumber rujukan dalam setiap penggunaan.
