@@ -89,3 +89,6 @@ Dalam konsep pembatasan perlindungan hak cipta, setiap penggunaan ciptaan yang d
    Masa berlaku perlindungan hak cipta untuk semua ciptaan yang disebutkan dalam Pasal 59 adalah 50 tahun sejak pertama kali ciptaan diumumkan.
 
 Ketentuan di atas ialah informasi penentuan masa berlaku perlindungan hak ekonomi. Ketentuan masa berlaku perlindungan hak moral memiliki mekanisme yang sedikit berbeda. Pada prinsipnya hak moral berlaku tanpa batas waktu. Namun, hak moral yang berfungsi untuk melindungi ciptaan seorang pencipta atau pemegang hak cipta dari aktivitas pengubahan dan/atau penggubahan ciptaan akan hilang mengikuti ketentuan masa berlaku perlindungan hak ekonomi.
+
+## **Lisensi Hak Cipta Creative Commons**
+
