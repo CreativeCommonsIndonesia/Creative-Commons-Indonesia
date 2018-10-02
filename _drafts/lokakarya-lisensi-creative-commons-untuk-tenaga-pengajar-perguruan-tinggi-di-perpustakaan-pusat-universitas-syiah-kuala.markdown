@@ -1,7 +1,24 @@
 ---
 title: Lokakarya Lisensi Creative Commons Untuk Tenaga Pengajar Perguruan Tinggi di
   Perpustakaan Pusat Universitas Syiah Kuala
-date: 2018-10-01 19:29:00 +07:00
+date: 2018-05-08 19:29:00 +07:00
+categories:
+- Acara
+tags:
+- Universitas Syiah Kuala
+- Perpustakaan Pusat Universitas Syiah Kuala
+- Pengajar Perguruan Tinggi
+- Perguruan Tinggi
+- Creative Commons
+- OER
+- Open Education
+- Open Educational Resources
+- Lisensi Creative Commons
+- Creative Commons Indonesia
+- Sosialisasi Lisensi Creative Commons
+author: hilman
+comments: true
+img: "/uploads/SPCCID_7_Mei_2018_Lokakarya_Lisensi_CC_di_Perpustakaan_Pusat_Universias_Syiah_Kuala.jpg"
 ---
 
 ![SPCCID_7_Mei_2018_Lokakarya_Lisensi_CC_di_Perpustakaan_Pusat_Universias_Syiah_Kuala.jpg](/uploads/SPCCID_7_Mei_2018_Lokakarya_Lisensi_CC_di_Perpustakaan_Pusat_Universias_Syiah_Kuala.jpg){: .img-responsive .center-block }{: width="500"}
@@ -248,14 +265,17 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 
   * Situs web Katadata
 
-(5) Creative Commons Nol Dedikasi Domain Publik (CC0)
+\(5) Creative Commons Nol Dedikasi Domain Publik (CC0)
 
 * Isi dan fungsi ketentuan:
 
-    * Setiap ciptaan yang diumumkan dengan ketentuan ini masuk ke domain publik tanpa mengindahkan ketentuan masa berlaku perlindungan hak cipta yang ada. 
-    * Pencipta atau pemegang hak cipta memberikan kebebasan mengabaikan hak moral dan hak ekonominya sama sekali dengan menerapkan lisensi ini.
-    * Pencipta atau pemegang hak cipta dapat menerapkan atau pengguna ciptaan dapat menggunakan ciptaan dengan ketentuan ini sejauh hukum yang berlaku dapat mengakomodasi aktivitas ini.
-    * Dalam konteks hukum Indonesia, penggunaan lisensi ini tidak direkomendasikan, karena belum ada payung hukum yang mengakomodasi pendedikasian hak cipta pencipta atau pemegang hak cipta sepenuhnya ke domain publik sebelum masa berlaku perlindungannya berakhir.
+  * Setiap ciptaan yang diumumkan dengan ketentuan ini masuk ke domain publik tanpa mengindahkan ketentuan masa berlaku perlindungan hak cipta yang ada.
+
+  * Pencipta atau pemegang hak cipta memberikan kebebasan mengabaikan hak moral dan hak ekonominya sama sekali dengan menerapkan lisensi ini.
+
+  * Pencipta atau pemegang hak cipta dapat menerapkan atau pengguna ciptaan dapat menggunakan ciptaan dengan ketentuan ini sejauh hukum yang berlaku dapat mengakomodasi aktivitas ini.
+
+  * Dalam konteks hukum Indonesia, penggunaan lisensi ini tidak direkomendasikan, karena belum ada payung hukum yang mengakomodasi pendedikasian hak cipta pencipta atau pemegang hak cipta sepenuhnya ke domain publik sebelum masa berlaku perlindungannya berakhir.
 
 * Kombinasi Spektrum:
 
@@ -265,11 +285,12 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 
   * Situs web WikiData
 
-(6) Tanda Domain Publik Creative Commons
+\(6) Tanda Domain Publik Creative Commons (Tanda Domain Publik CC)
 
 * Isi dan fungsi ketentuan:
 
   * Hanya diterapkan pada ciptaan yang sudah habis masa berlaku perlindungan hak ciptanya.
+
   * Banyak digunakan oleh lembaga-lembaga seperti galeri, perpustakaan, balai pengarsipan, dan museum.
 
 * Kombinasi Spektrum:
@@ -279,4 +300,39 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 * Contoh penerapan:
 
   * [Koleksi-koleksi ciptaan tua di Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:CC-PD-Mark)
+
+Contoh-contoh yang digunakan pada penjelasan di atas ialah proyek atau situs web yang menerapkan one license policy atau satu ketentuan lisensi untuk semua konten. Untuk itu Hilman menambahkan proyek atau situs web lain yang menerapkan banyak ketentuan lisensi CC pada konten-kontennya. Dengan adanya ketentuan semacam ini, proyek-proyek atau situs web-situs web ini memberikan pilihan kepada pengguna ciptaan untuk memilih ciptaan berdasarkan ketentuan lisensi yang sesuai dengan kebutuhannya. Hal semacam ini diperlukan karena rasio atau spektrum dipilih dan diterapkan sesuai dengan motif penciptaan ciptaan dari masing-masing pencipta atau pemegang hak cipta.
+
+(1) Creative Commons di Flickr
+    * Flickr memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan ketentuan all rights reserved, enam pilihan lisensi CC, lisensi CC0 Dedikasi Domain Publik, dan Tanda Domain Publik CC.
+
+(2) Creative Commons di Freemusicarchive (FMA)
+    * FMA memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan ketentuan all rights reserved, enam pilihan lisensi CC, dan Tanda Domain Publik CC.
+
+(3) Creative Commons di Directory of Open Access Journal (DOAJ)
+    * DOAJ memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan satu diantara enam pilihan lisensi CC, dan Tanda Domain Publik CC.
+
+Kemudian, Hilman memberikan petunjuk teknis untuk menerapkan lisensi CC pada ciptaan kepada para peserta.
+
+(1) Kunjungi creativecommons.org/share-your-work/
+
+(2) Klik tombol "Get Started"
+
+(3) Isi formulir pemberian izin kepada pengguna ciptaan sesuai dengan keinginan
+
+(4) Mesin akan menampilkan ketentuan lisensi yang sesuai dengan apa yang pencipta atau pemegang hak cipta isi pada formulir pemberian izin
+
+(5) Lisensi dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+
+(6) Lisensi dapat ditempelkan dengan memasang berkas gambar spektrum atau pilihan lisensi yang tersedia
+
+(7) Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan
+
+Pada bagian akhir lokakarya Hilman menunjukan tiga cara mudah untuk mencari ciptaan berlisensi CC di dalam jaringan.
+
+(1) Fitur penyaringan gambar berlisensi CC di mesin pencari gambar Google
+
+(2) Mesin Pencari Creative Commons (beta)
+
+(3) Fitur penyaringan video berlisensi CC di Youtube
 
