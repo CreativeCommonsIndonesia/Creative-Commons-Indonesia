@@ -77,7 +77,7 @@ Memahami masa berlaku perlindungan hak cipta harus merujuk pada pembagian ketent
 Masa berlaku perlindungan hak cipta untuk ciptaan-ciptaan yang disebutkan dalam Pasal 58 adalah seumur hidup pencipta ditambah 70 tahun, dan mulai masuk ke domain publik pada tanggal 1 januari satu tahun setelahnya. Apabila  ciptaan diciptakan atau pemegang hak ciptanya dua orang atau lebih maka masa berlaku dihitung dari pencipta atau pemegang hak cipta yang meninggal paling akhir. Selain itu, apabila ciptaan terkait hak ciptanya dipegang oleh badan hukum, maka masa berlakunya adalah 50 tahun setelah ciptaan pertama kali diumumkan. Apabila penciptanya tidak diketahui (orphaned works) maka ciptaan tersebut hak ciptanya dipegang oleh negara, dan masa berlakunya habis 50 tahun setelah diumumkan.
 
 2. Karya fotografi, karya sinematografi, program komputer dan lain-lain (Pasal 59);
-
+Masa berlaku perlindungan hak cipta untuk semua ciptaan yang disebutkan dalam Pasal 59 adalah 50 tahun sejak pertama kali ciptaan diumumkan. 
 
 
 
