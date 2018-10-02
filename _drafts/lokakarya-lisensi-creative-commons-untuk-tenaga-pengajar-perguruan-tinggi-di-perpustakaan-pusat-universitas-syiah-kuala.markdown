@@ -9,6 +9,7 @@ date: 2018-10-01 19:29:00 +07:00
 Pada tanggal 7 Mei 2018, Creative Commons Indonesia (CCID) yang diwakili oleh Hilman Fathoni (Legal Lead CCID berkesempatan menyampaikan materi tentang lisensi Creative Commons (lisensi CC) bekerjasama dengan [Taufiq A. Ghani](http://fsd.unsyiah.ac.id/topgan/), Kepala Perpustakaan Pusat Universitas Syiah Kuala (UnSyiah), yang bertempat di Perpustkaan Pusat UnSyiah. Perpustakaan Pusat Unsyiah telah lama mengadopsi konsep Open Educational Resources (OER) sebagai [salah satu fitur perpustakaan digitalnya](http://uilis.unsyiah.ac.id/oer/). Dalam hal ini, pak Taufiq ingin agar pengetahuan mengenai tenaga pengelola perpustakaan dan tenaga pengajar pendidikan tinggi yang beliau undang ke lokakarya tersebut memperoleh pengetahuan mengenai lisensi CC, bagian yang tidak terpisahkan dari penyediaan OER.
 
 ## **Konsep OER (Open Educational Resources)**
+---
 
 Hilman membuka presentasi dengan menjelaskan bahwa gerakan sumber pembelajaran terbuka terbagi menjadi dua fokus yakni Open Education (pendidikan terbuka) dan Open Access to Research (akses terbuka untuk hasil penelitian). Dua fokus ini juga merupakan bagian tak terpisahkan dari gerakan pemajuan keterbukaan konten yang sedang terjadi di seluruh dunia. Dalam dua bidang ini, lisensi CC membantu perumusan 5 prinsip dasar (5rs) di ranah Pendidikan Terbuka. 5 prinsip itu adalah:
 
@@ -30,6 +31,7 @@ Hilman membuka presentasi dengan menjelaskan bahwa gerakan sumber pembelajaran t
 Melalui penjelasan tersebut, Hilman hendak menyampaikan kepada para peserta bahwa terdapat hubungan langsung antara pembuatan konten pendidikan dengan perlindungan hak cipta. Dan dengan berkembangnya konsep-konsep pendidikan terbuka, pengetahuan mengenai hak cipta serta segala aspek atau alat legal yang mengikutinya mutalk untuk diketahui oleh pengajar. Maka dari itu Hilman kemudian menyambung penjelasannya dengan konsep perlindungan hak Kekayaan Intelektual (KI) di Indonesia. Juga paparan tentang konsep perlindungan hak cipta sebagai bagian darinya.
 
 ## **Perlindungan Hak Cipta**
+---
 
 Kemudian, Hilman menjelaskan jenis-jenis obyek perlindungan hak cipta (lihat pasal 40 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta, [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19)[2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Pada hakikatnya, seluruh obyek perlindungan hak cipta mewajibkan setiap pengguna ciptaan untuk memperoleh izin penggunaan (penggandaan, dan penyebarluasan) secara langsung dari pencipta dalam aktivitas penggunaan ciptaan. Dalam hal ini, pencipta atau pemegang hak cipta wajib memenuhi beberapa prinsip juga agar ciptaannya dapat dilindungi dengan mekanisme perlindungan hak cipta. Prinsip-prinsip tersebut antara lain:
 
@@ -91,7 +93,9 @@ Dalam konsep pembatasan perlindungan hak cipta, setiap penggunaan ciptaan yang d
 Ketentuan di atas ialah informasi penentuan masa berlaku perlindungan hak ekonomi. Ketentuan masa berlaku perlindungan hak moral memiliki mekanisme yang sedikit berbeda. Pada prinsipnya hak moral berlaku tanpa batas waktu. Namun, hak moral yang berfungsi untuk melindungi ciptaan seorang pencipta atau pemegang hak cipta dari aktivitas pengubahan dan/atau penggubahan ciptaan akan hilang mengikuti ketentuan masa berlaku perlindungan hak ekonomi.
 
 ## **Lisensi Hak Cipta**
+
 ---
+
 Hilman memulai penjelasan mengenai lisensi Creative Commons dengan menjelaskan dasar-dasar lisensi hak cipta dalam konteks Indonesia terlebih dahulu. Menurut Angka 20 Ketentuan Umum UUHC 2014, lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Bentuk lisensi hak cipta dapat dipahami dengan membaginya ke dalam dua bentuk:
 
 1. Lisensi ke Dalam
@@ -109,6 +113,7 @@ Selain itu, lisensi juga dapat dibagi berdasarkan sifat ketentuannya, yaitu:
    Lisensi terbuka biasanya, meskipun tidak selalu, dinyatakan dengan ungkapan "some rights reserved" (beberapa hak dipertahankan). Sifat terbuka dari lisensi ini biasanya dinyatakan dengan ketentuan yang langsung mengizinkan penggandaan dan penyebarluasan ciptaan oleh pengguna ciptaan. Lisensi ini biasanya dilengkapi dengan ketentuan pilihan yang nantinya ditentukan oleh pencipta atau pemegang hak cipta untuk mengatur hak penggunaan ciptaan pengguna ciptaan. Jenis lisensi ini diterapkan oleh pencipta atau pemegang hak cipta yang ingin memberikan akses terbuka dan legal kepada pengguna ciptaan dalam aktivitas penggunaan ciptaannya. Penentuan ketentuan lisensi hak cipta oleh pihak pencipta atau pemegang hak cipta sesuai dengan bunyi [Pasal 81 UUHC 2014](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/37). Sifat pembuatanya yang mandiri menyebabkan terciptanya produk lisensi terbuka yang beragam, seperti [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html), [Open Governmet License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), dan termasuk Lisensi Creative Commons.
 
 ## Lisensi Creative Commons
+---
 
 Pemaparan tentang lisensi CC diawali dengan beberapa pertimbangan yang harus diketahui pencipta atau pemegang hak cipta (pemberi lisensi) sebelum menerapkan lisensi tersebut pada ciptaanya, yaitu sebagai berikut: (Daftar ini merupakan hasil pembaruan yang merujuk ketentuan dari [laman ini](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors))
 
