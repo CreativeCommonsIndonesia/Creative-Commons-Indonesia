@@ -156,11 +156,11 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 
 1  Spektrum Atribusi (BY)
 
-* Isi ketentuan:
+* **Isi ketentuan**:
 
-* \[x\] Kewajiban untuk menyebutkan nama pencipta dan sumber ciptaan.
+* Kewajiban untuk menyebutkan nama pencipta dan sumber ciptaan.
 
-* \[x\] Menyatakan perubahan yang dilakukan terhadap ciptaan.
+* Menyatakan perubahan yang dilakukan terhadap ciptaan.
 
 \*\* Fungsi:
 \*\*\* Supaya pencipta dapat terus disebutkan namanya sebagai sumber rujukan dalam setiap penggunaan.
