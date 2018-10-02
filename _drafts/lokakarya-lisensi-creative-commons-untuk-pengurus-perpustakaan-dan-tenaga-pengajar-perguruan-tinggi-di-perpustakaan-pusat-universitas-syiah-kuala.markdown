@@ -46,7 +46,7 @@ Hilman membuka presentasi dengan menjelaskan bahwa gerakan sumber pembelajaran t
 * Redistribute
   Prinsip ini pada dasarnya mirip dengan prinsip Reuse, yaitu bagaimana pihak penyedia konten pendidikan terbuka memberikan izin langsung kepada pengguna ciptaan untuk menyebarluaskan konten pendidikan terbukanya.
 
-Melalui penjelasan tersebut, Hilman hendak menyampaikan kepada para peserta bahwa terdapat hubungan langsung antara pembuatan konten pendidikan dengan perlindungan hak cipta. Dan dengan berkembangnya konsep-konsep pendidikan terbuka, pengetahuan mengenai hak cipta serta segala aspek atau alat legal yang mengikutinya mutalk untuk diketahui oleh pengajar. Maka dari itu Hilman kemudian menyambung penjelasannya dengan konsep perlindungan hak Kekayaan Intelektual (KI) di Indonesia. Juga paparan tentang konsep perlindungan hak cipta sebagai bagian darinya.
+Melalui penjelasan tersebut, Hilman hendak menyampaikan kepada para peserta bahwa terdapat hubungan langsung antara pembuatan konten pendidikan dengan perlindungan hak cipta. Dan dengan berkembangnya konsep-konsep pendidikan terbuka, pengetahuan mengenai hak cipta serta segala aspek atau alat legal yang mengikutinya mutlak untuk diketahui oleh pengajar. Maka dari itu Hilman kemudian menyambung penjelasannya dengan konsep perlindungan hak Kekayaan Intelektual (KI) di Indonesia. Juga paparan tentang konsep perlindungan hak cipta sebagai bagian darinya.
 
 ## **Perlindungan Hak Cipta**
 
