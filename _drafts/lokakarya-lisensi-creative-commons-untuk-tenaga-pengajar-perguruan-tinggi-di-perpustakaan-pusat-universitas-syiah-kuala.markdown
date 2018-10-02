@@ -1,6 +1,6 @@
 ---
-title: Lokakarya Lisensi Creative Commons Untuk Tenaga Pengajar Perguruan Tinggi di
-  Perpustakaan Pusat Universitas Syiah Kuala
+title: Lokakarya Lisensi Creative Commons Untuk Pengurus Perpustakaan dan Tenaga Pengajar
+  Perguruan Tinggi di Perpustakaan Pusat Universitas Syiah Kuala
 date: 2018-05-08 19:29:00 +07:00
 categories:
 - Acara
