@@ -158,9 +158,9 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 
 * Isi ketentuan:
 
-   * Kewajiban untuk menyebutkan nama pencipta dan sumber ciptaan.
+  * Kewajiban untuk menyebutkan nama pencipta dan sumber ciptaan.
 
-   * Menyatakan perubahan yang dilakukan terhadap ciptaan.
+  * Menyatakan perubahan yang dilakukan terhadap ciptaan.
 
 * Fungsi:
 
@@ -180,8 +180,9 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 
   * Situs web ikon The Noun Project
 
-1. Spektrum BerbagiSerupa (SA)
+{:start="2"}
+2. Spektrum BerbagiSerupa (SA)
 
-2. Spektrum NonKomersial (NC)
+3. Spektrum NonKomersial (NC)
 
-3. Spektrum TanpaTurunan (ND)
+4. Spektrum TanpaTurunan (ND)
