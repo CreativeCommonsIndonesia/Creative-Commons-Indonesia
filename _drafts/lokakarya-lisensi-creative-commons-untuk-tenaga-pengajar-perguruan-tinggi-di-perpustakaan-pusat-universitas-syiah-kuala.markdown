@@ -147,13 +147,13 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
 Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Ketentuan-ketentuan ini dijelaskan dengan menjabarkan fungsi 4 spektrum utama dari lisensi CC. 4 spektrum yang dimaksud adalah:
 
 1. Spektrum Atribusi (BY)
-** Fungsi:
-** Kewajiban untuk menyebutkan nama pencipta dan sumber ciptaan.
-** Menyatakan perubahan yang dilaksanakan terhadap ciptaan.
+   \* Fungsi:
+   \*\* Kewajiban untuk menyebutkan nama pencipta dan sumber ciptaan.
+   \*\* Menyatakan perubahan yang dilaksanakan terhadap ciptaan.
 
 
-2. Spektrum BerbagiSerupa (SA)
+1. Spektrum BerbagiSerupa (SA)
 
-3. Spektrum NonKomersial (NC)
+2. Spektrum NonKomersial (NC)
 
-4. Spektrum TanpaTurunan (ND)
+3. Spektrum TanpaTurunan (ND)
