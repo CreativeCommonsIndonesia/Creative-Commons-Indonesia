@@ -162,6 +162,11 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 
 * Menyatakan perubahan yang dilakukan terhadap ciptaan.
 
+* Item 1
+* Item 2
+ * Item 2a
+ * Item 2b
+
 \*\* Fungsi:
 \*\*\* Supaya pencipta dapat terus disebutkan namanya sebagai sumber rujukan dalam setiap penggunaan.
 \*\*\* Untuk mengingatkan pengguna agar terus menyebutkan sumber ciptaan yang digunakan dengan sesuai.
