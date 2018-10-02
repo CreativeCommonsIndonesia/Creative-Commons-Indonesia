@@ -154,7 +154,7 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
 
 Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Ketentuan-ketentuan ini dijelaskan dengan menjabarkan fungsi 4 spektrum utama dari lisensi CC. 4 spektrum yang dimaksud adalah:
 
-\(1). Spektrum Atribusi (BY)
+\(1) **Spektrum Atribusi (BY)**
 
 * Isi ketentuan:
 
@@ -180,7 +180,7 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 
   * Situs web ikon The Noun Project
 
-\(2). Spektrum BerbagiSerupa (SA)
+\(2) **Spektrum BerbagiSerupa (SA)**
 
 * Isi ketentuan:
 
@@ -199,9 +199,11 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 * Contoh penerapan:
 
   * Situs web Wikipedia
+
   * Situs web Wikimedia Commons
 
-\(3). Spektrum NonKomersial (NC)
+\(3) **Spektrum NonKomersial (NC)**
+
 * Isi ketentuan:
 
   * Larangan penggunaan ciptaan untuk kepentingan komersial.
@@ -222,7 +224,8 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 
   * Proyek Netlabel Yes No Wave Music
 
-\(4). Spektrum TanpaTurunan (ND)
+\(4) **Spektrum TanpaTurunan (ND)**
+
 * Isi ketentuan:
 
   * Larangan untuk mengubah dan menggubah ciptaan.
@@ -242,4 +245,3 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 * Contoh penerapan:
 
   * Situs web Katadata
-
