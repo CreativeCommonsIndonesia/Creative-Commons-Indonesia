@@ -158,13 +158,13 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 
 * Isi ketentuan:
 
-  * Kewajiban untuk menyebutkan nama pencipta dan sumber ciptaan.
+  * Kewajiban untuk menyebutkan nama pencipta atau pemegang hak cipta dan sumber ciptaan.
 
   * Menyatakan perubahan yang dilakukan terhadap ciptaan.
 
 * Fungsi:
 
-  * Supaya pencipta dapat terus disebutkan namanya sebagai sumber rujukan dalam setiap penggunaan.
+  * Supaya pencipta atau pemegang hak cipta dapat terus disebutkan namanya sebagai sumber rujukan dalam setiap penggunaan.
 
   * Untuk mengingatkan pengguna agar terus menyebutkan sumber ciptaan yang digunakan dengan sesuai.
 
@@ -184,74 +184,62 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 
 * Isi ketentuan:
 
-  * Kewajiban untuk menyebutkan nama pencipta dan sumber ciptaan.
-
-  * Menyatakan perubahan yang dilakukan terhadap ciptaan.
+  * Kewajiban untuk menerapkan lisensi yang sama pada setiap hasil gubahan dan karya turunan
 
 * Fungsi:
 
-  * Supaya pencipta dapat terus disebutkan namanya sebagai sumber rujukan dalam setiap penggunaan.
+  * Tujuan penciptaan dan penyediaan ciptaan memang ditujukan sebagai ciptaan layak gubah.
 
-  * Untuk mengingatkan pengguna agar terus menyebutkan sumber ciptaan yang digunakan dengan sesuai.
-
-  * Untuk mengingatkan pengguna agar menyatakan perubahan yang dilakukan terhadap ciptaan.
+  * Untuk mempertahankan maksud penerapan lisensi pada materi asli oleh pencipta.
 
 * Kombinasi Spektrum:
 
-  * Ada di seluruh kombinasi spektrum lisensi CC.
+  * Lisensi CC BY-SA (Atribusi-BerbagiSerupa) dan Lisensi CC BY-NC-SA (Atribusi-NonKomersial-BerbagiSerupa)
 
 * Contoh penerapan:
 
-  * Situs web Portal Data Indonesia
-
-  * Situs web ikon The Noun Project
+  * Situs web Wikipedia
+  * Situs web Wikimedia Commons
 
 \(3). Spektrum NonKomersial (NC)
 * Isi ketentuan:
 
-  * Kewajiban untuk menyebutkan nama pencipta dan sumber ciptaan.
+  * Larangan penggunaan ciptaan untuk kepentingan komersial.
 
-  * Menyatakan perubahan yang dilakukan terhadap ciptaan.
+  * Kegiatan nirlaba dikecualikan dari ketentuan ini.
 
 * Fungsi:
 
-  * Supaya pencipta dapat terus disebutkan namanya sebagai sumber rujukan dalam setiap penggunaan.
+  * Mempertahankan jalur masuknya royalti secara eksklusif ke pencipta atau pemegang hak cipta.
 
-  * Untuk mengingatkan pengguna agar terus menyebutkan sumber ciptaan yang digunakan dengan sesuai.
-
-  * Untuk mengingatkan pengguna agar menyatakan perubahan yang dilakukan terhadap ciptaan.
+  * Ketentuan SA yang dikombinasikan dengan NC, memastikan bahwa setiap hasil gubahan menerapkan ketentuan NonKomersial, supaya ciptaan tidak dapat dikomersialisasi tanpa izin pencipta atau pemegang hak cipta.
 
 * Kombinasi Spektrum:
 
-  * Ada di seluruh kombinasi spektrum lisensi CC.
+  * Lisensi CC BY-NC (Atribusi-NonKomersial), Lisensi CC BY-NC-SA (Atribusi-NonKomersial-BerbagiSerupa), dan Lisensi CC BY-NC-ND (Atribusi-NonKomersial-TanpaTurunan)
 
 * Contoh penerapan:
 
-  * Situs web Portal Data Indonesia
-
-  * Situs web ikon The Noun Project
+  * Proyek Netlabel Yes No Wave Music
 
 \(4). Spektrum TanpaTurunan (ND)
 * Isi ketentuan:
 
-  * Kewajiban untuk menyebutkan nama pencipta dan sumber ciptaan.
+  * Larangan untuk mengubah dan menggubah ciptaan.
 
-  * Menyatakan perubahan yang dilakukan terhadap ciptaan.
+  * Penggunaan pribadi dikecualikan (pengubahan atau penggubahan yang tidak diumumkan).
 
 * Fungsi:
 
-  * Supaya pencipta dapat terus disebutkan namanya sebagai sumber rujukan dalam setiap penggunaan.
+  * Menghindari manipulasi atau pemanfaatan ciptaan secara tidak bertanggung jawab.
 
-  * Untuk mengingatkan pengguna agar terus menyebutkan sumber ciptaan yang digunakan dengan sesuai.
-
-  * Untuk mengingatkan pengguna agar menyatakan perubahan yang dilakukan terhadap ciptaan.
+  * Menghindari pelanggaran kehormatan terhadap pencipta atau pemegang hak cipta dari aktivitas pengguna ciptaan.
 
 * Kombinasi Spektrum:
 
-  * Ada di seluruh kombinasi spektrum lisensi CC.
+  * Lisensi CC BY-ND (Atribusi-TanpaTurunan) dan Lisensi CC BY-NC-ND (Atribuso-NonKomersial-TanpaTurunan).
 
 * Contoh penerapan:
 
-  * Situs web Portal Data Indonesia
+  * Situs web Katadata
 
-  * Situs web ikon The Noun Project
