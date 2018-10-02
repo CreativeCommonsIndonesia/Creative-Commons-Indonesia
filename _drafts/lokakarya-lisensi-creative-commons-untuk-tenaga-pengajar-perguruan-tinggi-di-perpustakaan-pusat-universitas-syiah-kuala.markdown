@@ -29,6 +29,8 @@ Hilman membuka presentasi dengan menjelaskan bahwa gerakan sumber pembelajaran t
 
 Melalui penjelasan tersebut, Hilman hendak menyampaikan kepada para peserta bahwa terdapat hubungan langsung antara pembuatan konten pendidikan dengan perlindungan hak cipta. Dan dengan berkembangnya konsep-konsep pendidikan terbuka, pengetahuan mengenai hak cipta serta segala aspek atau alat legal yang mengikutinya mutalk untuk diketahui oleh pengajar. Maka dari itu Hilman kemudian menyambung penjelasannya dengan konsep perlindungan hak Kekayaan Intelektual (KI) di Indonesia. Juga paparan tentang konsep perlindungan hak cipta sebagai bagian darinya.
 
+## **Perlindungan Hak Cipta**
+
 Kemudian, Hilman menjelaskan jenis-jenis obyek perlindungan hak cipta (lihat pasal 40 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta, [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19)[2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Pada hakikatnya, seluruh obyek perlindungan hak cipta mewajibkan setiap pengguna ciptaan untuk memperoleh izin penggunaan (penggandaan, dan penyebarluasan) secara langsung dari pencipta dalam aktivitas penggunaan ciptaan. Dalam hal ini, pencipta atau pemegang hak cipta wajib memenuhi beberapa prinsip juga agar ciptaannya dapat dilindungi dengan mekanisme perlindungan hak cipta. Prinsip-prinsip tersebut antara lain:
 
 * Tangibility
@@ -87,4 +89,3 @@ Dalam konsep pembatasan perlindungan hak cipta, setiap penggunaan ciptaan yang d
    Masa berlaku perlindungan hak cipta untuk semua ciptaan yang disebutkan dalam Pasal 59 adalah 50 tahun sejak pertama kali ciptaan diumumkan.
 
 Ketentuan di atas ialah informasi penentuan masa berlaku perlindungan hak ekonomi. Ketentuan masa berlaku perlindungan hak moral memiliki mekanisme yang sedikit berbeda. Pada prinsipnya hak moral berlaku tanpa batas waktu. Namun, hak moral yang berfungsi untuk melindungi ciptaan seorang pencipta atau pemegang hak cipta dari aktivitas pengubahan dan/atau penggubahan ciptaan akan hilang mengikuti ketentuan masa berlaku perlindungan hak ekonomi.
-
