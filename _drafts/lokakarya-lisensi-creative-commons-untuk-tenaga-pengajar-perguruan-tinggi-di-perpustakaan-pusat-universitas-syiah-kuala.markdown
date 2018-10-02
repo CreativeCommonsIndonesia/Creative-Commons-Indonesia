@@ -91,7 +91,7 @@ Dalam konsep pembatasan perlindungan hak cipta, setiap penggunaan ciptaan yang d
 Ketentuan di atas ialah informasi penentuan masa berlaku perlindungan hak ekonomi. Ketentuan masa berlaku perlindungan hak moral memiliki mekanisme yang sedikit berbeda. Pada prinsipnya hak moral berlaku tanpa batas waktu. Namun, hak moral yang berfungsi untuk melindungi ciptaan seorang pencipta atau pemegang hak cipta dari aktivitas pengubahan dan/atau penggubahan ciptaan akan hilang mengikuti ketentuan masa berlaku perlindungan hak ekonomi.
 
 ## **Lisensi Hak Cipta**
-
+---
 Hilman memulai penjelasan mengenai lisensi Creative Commons dengan menjelaskan dasar-dasar lisensi hak cipta dalam konteks Indonesia terlebih dahulu. Menurut Angka 20 Ketentuan Umum UUHC 2014, lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Bentuk lisensi hak cipta dapat dipahami dengan membaginya ke dalam dua bentuk:
 
 1. Lisensi ke Dalam
