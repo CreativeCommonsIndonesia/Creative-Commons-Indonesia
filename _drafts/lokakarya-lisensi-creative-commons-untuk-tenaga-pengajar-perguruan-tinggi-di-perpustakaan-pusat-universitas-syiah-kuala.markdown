@@ -303,36 +303,35 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 
 Contoh-contoh yang digunakan pada penjelasan di atas ialah proyek atau situs web yang menerapkan one license policy atau satu ketentuan lisensi untuk semua konten. Untuk itu Hilman menambahkan proyek atau situs web lain yang menerapkan banyak ketentuan lisensi CC pada konten-kontennya. Dengan adanya ketentuan semacam ini, proyek-proyek atau situs web-situs web ini memberikan pilihan kepada pengguna ciptaan untuk memilih ciptaan berdasarkan ketentuan lisensi yang sesuai dengan kebutuhannya. Hal semacam ini diperlukan karena rasio atau spektrum dipilih dan diterapkan sesuai dengan motif penciptaan ciptaan dari masing-masing pencipta atau pemegang hak cipta.
 
-(1) Creative Commons di Flickr
-    * Flickr memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan ketentuan all rights reserved, enam pilihan lisensi CC, lisensi CC0 Dedikasi Domain Publik, dan Tanda Domain Publik CC.
+\(1) Creative Commons di Flickr
+* Flickr memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan ketentuan all rights reserved, enam pilihan lisensi CC, lisensi CC0 Dedikasi Domain Publik, dan Tanda Domain Publik CC.
 
-(2) Creative Commons di Freemusicarchive (FMA)
-    * FMA memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan ketentuan all rights reserved, enam pilihan lisensi CC, dan Tanda Domain Publik CC.
+\(2) Creative Commons di Freemusicarchive (FMA)
+* FMA memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan ketentuan all rights reserved, enam pilihan lisensi CC, dan Tanda Domain Publik CC.
 
-(3) Creative Commons di Directory of Open Access Journal (DOAJ)
-    * DOAJ memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan satu diantara enam pilihan lisensi CC, dan Tanda Domain Publik CC.
+\(3) Creative Commons di Directory of Open Access Journal (DOAJ)
+* DOAJ memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan satu diantara enam pilihan lisensi CC, dan Tanda Domain Publik CC.
 
 Kemudian, Hilman memberikan petunjuk teknis untuk menerapkan lisensi CC pada ciptaan kepada para peserta.
 
-(1) Kunjungi creativecommons.org/share-your-work/
+\(1) Kunjungi creativecommons.org/share-your-work/
 
-(2) Klik tombol "Get Started"
+\(2) Klik tombol "Get Started"
 
-(3) Isi formulir pemberian izin kepada pengguna ciptaan sesuai dengan keinginan
+\(3) Isi formulir pemberian izin kepada pengguna ciptaan sesuai dengan keinginan
 
-(4) Mesin akan menampilkan ketentuan lisensi yang sesuai dengan apa yang pencipta atau pemegang hak cipta isi pada formulir pemberian izin
+\(4) Mesin akan menampilkan ketentuan lisensi yang sesuai dengan apa yang pencipta atau pemegang hak cipta isi pada formulir pemberian izin
 
-(5) Lisensi dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+\(5) Lisensi dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
 
-(6) Lisensi dapat ditempelkan dengan memasang berkas gambar spektrum atau pilihan lisensi yang tersedia
+\(6) Lisensi dapat ditempelkan dengan memasang berkas gambar spektrum atau pilihan lisensi yang tersedia
 
-(7) Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan
+\(7) Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan
 
 Pada bagian akhir lokakarya Hilman menunjukan tiga cara mudah untuk mencari ciptaan berlisensi CC di dalam jaringan.
 
-(1) Fitur penyaringan gambar berlisensi CC di mesin pencari gambar Google
+\(1) Fitur penyaringan gambar berlisensi CC di mesin pencari gambar Google
 
-(2) Mesin Pencari Creative Commons (beta)
+\(2) Mesin Pencari Creative Commons (beta)
 
-(3) Fitur penyaringan video berlisensi CC di Youtube
-
+\(3) Fitur penyaringan video berlisensi CC di Youtube
