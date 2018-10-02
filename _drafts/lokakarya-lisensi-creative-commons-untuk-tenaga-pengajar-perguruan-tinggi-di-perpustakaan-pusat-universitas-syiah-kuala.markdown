@@ -158,21 +158,27 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 
 * Isi ketentuan:
 
-    * Kewajiban untuk menyebutkan nama pencipta dan sumber ciptaan.
+   * Kewajiban untuk menyebutkan nama pencipta dan sumber ciptaan.
 
-    * Menyatakan perubahan yang dilakukan terhadap ciptaan.
+   * Menyatakan perubahan yang dilakukan terhadap ciptaan.
 
 * Fungsi:
-    * Supaya pencipta dapat terus disebutkan namanya sebagai sumber rujukan dalam setiap penggunaan.
-    * Untuk mengingatkan pengguna agar terus menyebutkan sumber ciptaan yang digunakan dengan sesuai.
-    * Untuk mengingatkan pengguna agar menyatakan perubahan yang dilakukan terhadap ciptaan.
+
+  * Supaya pencipta dapat terus disebutkan namanya sebagai sumber rujukan dalam setiap penggunaan.
+
+  * Untuk mengingatkan pengguna agar terus menyebutkan sumber ciptaan yang digunakan dengan sesuai.
+
+  * Untuk mengingatkan pengguna agar menyatakan perubahan yang dilakukan terhadap ciptaan.
 
 * Kombinasi Spektrum:
-    * Ada di seluruh kombinasi spektrum lisensi CC.
+
+  * Ada di seluruh kombinasi spektrum lisensi CC.
 
 * Contoh penerapan:
-    * Situs web Portal Data Indonesia
-    * Situs web ikon The Noun Project
+
+  * Situs web Portal Data Indonesia
+
+  * Situs web ikon The Noun Project
 
 1. Spektrum BerbagiSerupa (SA)
 
