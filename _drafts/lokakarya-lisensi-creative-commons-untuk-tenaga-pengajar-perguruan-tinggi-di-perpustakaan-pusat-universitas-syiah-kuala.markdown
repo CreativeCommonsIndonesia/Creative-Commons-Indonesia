@@ -152,7 +152,9 @@ Hal ini sejalan dengan logika penyediaan ciptaan di dalam jaringan. Karena pada 
 
 Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna ciptaan untuk memperoleh izin langsung untuk menggandakan dan menyebarluaskan ciptaan.  Digital Rights Management (DRM) atau sarana kontrol teknologi adalah teknologi perlindungan ciptaan yang dapat menghambat pengguna ciptaan untuk menggunakan ciptaan, misalnya dalam hal penggandaan dan penyebarluasan ciptaan. Misalnya, pencipta atau pemegang hak cipta menutup akses untuk pengunduhan ciptaan yang diunggah di dalam jaringan.  Maka dari itu, model perlindungan  ini tidak relevan untuk diterapkan pada ciptaan berlisensi CC.
 
-Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Ketentuan-ketentuan ini dijelaskan dengan menjabarkan fungsi 4 spektrum utama dari lisensi CC. 4 spektrum yang dimaksud adalah:
+Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Ketentuan-ketentuan ini dijelaskan dengan menjabarkan fungsi 4 spektrum utama dari lisensi CC. Setelah mengenali masing-masing spektrum tersebut, peserta diharapkan mengerti fungsi masing-masing spektrum tersebut dalam 6 pilihan lisensi CC. Selain itu, peserta juga diajak mengenali 2 penanda ciptaan lain dari CC yaitu CC0 Dedikasi Domain Publik dan Tanda Domain Publik Creative Commons.
+
+4 spektrum utama lisensi CC:
 
 \(1) **Spektrum Atribusi (BY)**
 
@@ -246,4 +248,35 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 
   * Situs web Katadata
 
-    a
+(5) Creative Commons Nol Dedikasi Domain Publik (CC0)
+
+* Isi dan fungsi ketentuan:
+
+    * Setiap ciptaan yang diumumkan dengan ketentuan ini masuk ke domain publik tanpa mengindahkan ketentuan masa berlaku perlindungan hak cipta yang ada. 
+    * Pencipta atau pemegang hak cipta memberikan kebebasan mengabaikan hak moral dan hak ekonominya sama sekali dengan menerapkan lisensi ini.
+    * Pencipta atau pemegang hak cipta dapat menerapkan atau pengguna ciptaan dapat menggunakan ciptaan dengan ketentuan ini sejauh hukum yang berlaku dapat mengakomodasi aktivitas ini.
+    * Dalam konteks hukum Indonesia, penggunaan lisensi ini tidak direkomendasikan, karena belum ada payung hukum yang mengakomodasi pendedikasian hak cipta pencipta atau pemegang hak cipta sepenuhnya ke domain publik sebelum masa berlaku perlindungannya berakhir.
+
+* Kombinasi Spektrum:
+
+  * Tidak ada.
+
+* Contoh penerapan:
+
+  * Situs web WikiData
+
+(6) Tanda Domain Publik Creative Commons
+
+* Isi dan fungsi ketentuan:
+
+  * Hanya diterapkan pada ciptaan yang sudah habis masa berlaku perlindungan hak ciptanya.
+  * Banyak digunakan oleh lembaga-lembaga seperti galeri, perpustakaan, balai pengarsipan, dan museum.
+
+* Kombinasi Spektrum:
+
+  * Tidak ada.
+
+* Contoh penerapan:
+
+  * [Koleksi-koleksi ciptaan tua di Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:CC-PD-Mark)
+
