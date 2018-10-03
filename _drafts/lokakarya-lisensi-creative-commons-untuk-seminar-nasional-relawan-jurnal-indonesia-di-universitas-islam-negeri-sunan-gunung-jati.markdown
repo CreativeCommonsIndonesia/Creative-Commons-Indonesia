@@ -47,6 +47,8 @@ Lisensi CC terdiri atas 4 spektrum pilihan yang dapat dikombinasikan menjadi 6 p
 
 Dengan tersedianya pilihan, maka pencipta atau pemegang hak cipta dapat memilih ketentuan lisensi yang paling sesuai dengan maksud penyediaan ciptaannya. Misalnya, ia ingin memberikan izin kepada pengguna ciptaan untuk menggubah dan memanfaatkan ciptaan dalam kepentingan komersial, maka ia dapat memilih ketentuan lisensi yang paling bebas. Di sisi lain pengguna ciptaan juga dapat memilih ciptaan berdasarkan ketentuan lisensi yang diterapkan sesuai dengan kebutuhan penggunaannya. Memahami perbedaan mendasar lisensi tertutup dan terbuka dapat memudahkan pengguna ciptaan untuk mengetahui mana ciptaan yang gratis saja dan mana ciptaan yang gratis dan terbuka. aksud dari terbuka ialah penyedia (pencipta atau pemegang hak cipta) ciptaan-ciptaan tersebut memberikan legitimasi kepada pengguna ciptaan untuk turut serta merasakan manfaat yang biasanya hanya dapat dirasakan oleh pencipta atau pemegang hak cipta secara eksklusif, manfaat komersial contohnya.
 
+Dalam ranah publikasi karya ilmiah daring, ketentuan lisensi yang paling memberikan kebebasan kepada pengguna ciptaan menjadi alat ukur yang menentukan apakah ciptaan tersebut masuk dalam kategori "Open Access" atau tidak.
+
 Sebelum menerapkan lisensi CC pada ciptaan, pencipta atau pemegang hak cipta diharapkan memahami beberapa pertimbangan penerapan lisensi ini terlebih dahulu: 
 
 * **Ketentuan lisensi yang diterapkan tidak dapat dicabut (irrevocable)**;
