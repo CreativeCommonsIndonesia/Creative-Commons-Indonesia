@@ -1,6 +1,6 @@
 ---
 title: Lokakarya Lisensi Creative Commons di Wikimedia Commons Untuk Program Wiki
-  Cinta Budaya di Universitas Syiah Kuala
+  Cinta Budaya di Universitas Syiah Kuala,
 date: 2018-10-02 20:41:00 +07:00
 ---
 
@@ -59,7 +59,105 @@ Fitriayu kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC apa
 \(3) Tanda Domain Publik Creative Commons (Tanda Domain Publik CC)
 
 * Isi dan fungsi ketentuan:
-
+  
   * Hanya diterapkan pada ciptaan yang sudah habis masa berlaku perlindungan hak ciptanya.
 
   * Banyak digunakan oleh lembaga-lembaga seperti galeri, perpustakaan, balai pengarsipan, dan museum.
+
+Masa berlaku perlindungan hak cipta diatur melalui Pasal 57-61 UUHC 2014. Untuk memahami masa berlaku perlindungan hak cipta harus merujuk pada pembagian ketentuan berdasarkan ciptaannya. Paling tidak kita dapat memahami hal tersebut dengan memisahkannya menjadi dua bagian:
+
+1. Teks, rekaman suara, karya seni rupa, dan lain-lain (Pasal 58);
+   Masa berlaku perlindungan hak cipta untuk ciptaan-ciptaan yang disebutkan dalam Pasal 58 adalah seumur hidup pencipta ditambah 70 tahun, dan mulai masuk ke domain publik pada tanggal 1 januari satu tahun setelahnya. Apabila  ciptaan diciptakan atau pemegang hak ciptanya dua orang atau lebih maka masa berlaku dihitung dari pencipta atau pemegang hak cipta yang meninggal paling akhir. Selain itu, apabila ciptaan terkait hak ciptanya dipegang oleh badan hukum, maka masa berlakunya adalah 50 tahun setelah ciptaan pertama kali diumumkan. Apabila penciptanya tidak diketahui (orphaned works) maka ciptaan tersebut hak ciptanya dipegang oleh negara, dan masa berlakunya habis 50 tahun setelah diumumkan.
+
+2. Karya fotografi, karya sinematografi, program komputer dan lain-lain (Pasal 59);
+   Masa berlaku perlindungan hak cipta untuk semua ciptaan yang disebutkan dalam Pasal 59 adalah 50 tahun sejak pertama kali ciptaan diumumkan.
+
+Ketentuan di atas ialah informasi penentuan masa berlaku perlindungan hak ekonomi. Ketentuan masa berlaku perlindungan hak moral memiliki mekanisme yang sedikit berbeda. Pada prinsipnya hak moral berlaku tanpa batas waktu. Namun, hak moral yang berfungsi untuk melindungi ciptaan seorang pencipta atau pemegang hak cipta dari aktivitas pengubahan dan/atau penggubahan ciptaan akan hilang mengikuti ketentuan masa berlaku perlindungan hak ekonomi.
+
+Fitriayu menyajikan dua contoh penerapan ketentuan lisensi CC dan Tanda Domain Publik Creative Commons di Wikimedia Commons dalam konteks Indonesia, yaitu:
+
+1. Proyek digitalisasi konten Wikimedia Indonesia untuk Majalah Horison (264 edisi, 1966-1990) - CC BY-SA (Atribusi-BerbagiSerupa)
+
+2. Proyek digitalisasi konten Wikimedia Indonesia untuk Museum Dewantara Kirti Griya (50 buku) - Tanda Domain Publik Creative Commons
+
+Pada bagian berikutnya Fitriayu kemudian menjelaskan kepada peserta tentang ketentuan-ketentuan lisensi CC yang tidak ada di Wikimedia Commons. 
+
+Ketentuan lisensi lain yang dimaksud ialah:
+
+(1)[CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial);
+
+* Isi ketentuan:
+
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk:
+
+  * Dengan ketentuan:
+
+(2)[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa);
+
+* Isi ketentuan:
+
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk:
+
+  * Dengan ketentuan:
+
+(3)[CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan);
+
+* Isi ketentuan:
+
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk:
+
+  * Dengan ketentuan:
+
+(4)[CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
+
+* Isi ketentuan:
+
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk:
+
+  * Dengan ketentuan:
+
+Dalam presentasinya Fitriayu juga memaparkan beberapa pertimbangan yang harus diketahui pencipta atau pemegang hak cipta (pemberi lisensi) sebelum menerapkan lisensi tersebut pada ciptaanya, yaitu sebagai berikut: (Daftar ini merupakan hasil pembaruan yang merujuk ketentuan dari [laman ini](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors))
+
+* **Ketentuan lisensi yang diterapkan tidak dapat dicabut (irrevocable)**;
+
+Misalnya, ciptaan yang pertama kali diumumkan dengan izin penggunaan untuk kepentingan komersial kepada pengguna ciptaan dicabut ketentuan lisensinya dan diganti dengan ketentuan lisensi yang bertolak belakang dari ketentuan lisensi sebelumnya. Penerima lisensi dari ketentuan sebelumnya akan terikat dengan ketentuan lisensi yang baru dalam setiap penggunaan ciptaan setelah ketentuan tersebut berlaku. Ketentuan ini ada untuk menghindari terjadinya sengketa dengan asumsi bahwa ciptaan sudah digunakan dan disediakan di berbagai tempat yang berbeda oleh berbagai pengguna. Pengguna yang merujuk ketentuan lisensi pada saat ciptaan tersebut pertama kali diumumkan. Asumsi lain ialah informasi tentang berubahnya ketentuan lisensi belum tentu sampai ke semua pengguna ciptaan yang merujuk pada ketentuan lisensi sebelumnya.
+
+Tentu saja risiko sengketa ini tidak berlaku pada perbuatan yang terjadi di masa lampau (sebelum ketentuan lisensi baru berlaku). Pembicaraan selesai karena dalam konteks hukum Indonesia (asas non-retroaktif) tidak memungkinkan adanya gugatan terhadap pelanggaran hukum sebelum sebuah peraturan atau suatu ketentuan berlaku. Maka dari itu, pengubahan ketentuan lisensi menghadirkan risiko nyata bagi pengguna ciptaan yang tidak menerima informasi mengenai pengubahan ketentuan lisensi dengan baik. Sengketa yang berakar dari kesalahpahaman sangat bisa terjadi apabila pencipta atau pemegang hak cipta menemukan penggunaan ciptaan yang menyalahi ketentuan lisensinya yang baru karena pengguna ciptaan tersebut masih merujuk ketentuan yang lama dari tempat ia mengakses ciptaan tersebut.
+
+Hal ini menjadi alasan fundamental CC untuk tidak merekomendasikan pengubahan/pencabutan ketentuan lisensi CC yang sudah diterapkan. [Meskipun bukan berarti pencipta atau pemegang hak cipta dilarang sama sekali untuk mengubah atau mencabut ketentuan lisensi yang sudah diterapkan dengan akibat hukum sebagaimana disebutkan di atas](https://creativecommons.org/2008/10/27/on-verifying-the-commons/). Namun yang menjadi pertimbangan adalah ketika pemberi lisensi mengganti "isi perjanjian" yang mereka perjanjikan dengan penerima lisensi merupakan hal yang tidak etis. [Kecuali, pemberi lisensi dapat menjamin atau mengurangi risiko sengketa dengan menarik ciptaan dari peredaran sama sekali atau mengumumkan pengubahan ketentuan lisensi tersebut seluas mungkin](https://creativecommons.org/faq/#what-if-i-change-my-mind-about-using-a-cc-license).
+
+* **Pastikan ciptaan dapat dilisensikan dengan lisensi CC**;
+
+Lisensi CC hanya berlaku pada obyek perlindungan hak cipta saja (lihat pasal 40 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta). Meskipun lisensi CC terinspirasi oleh lisensi seperti GNU General Public License, program komputer dikecualikan sebagai obyek penerapan lisensi CC. Karena ketentuan lisensi CC, baik lisensi ringkas maupun lisensi lengkap, tidak sesuai untuk diterapkan pada program komputer. Hal-hal mengenai ketentuan penggunaan serta perlindungan program komputer sebagai konten terbuka secara spesifik dapat ditemukan pada lisensi terbuka yang sebelumnya sudah populer diterapkan pada program komputer, contoh lain selain GNU adalah MIT License. Dalam lisensi-lisensi tersebut dipaparkan secara spesifik bagaimana pengguna program komputer sebagai penerima lisensi dapat menggunakan bagian-bagian (misalnya, kode sumber porgram komputer) program komputer.
+
+* **Tandai ciptaan dengan ketentuan lisensi yang sesuai**;
+
+Seorang pencipta atau pemegang hak cipta dapat menerapkan ketentuan lisensi yang berbeda pada ciptaan yang berbeda pada satu tempat di mana pihak tersebut menyediakan ciptaan. Misalnya, pihak tersebut dapat menerapkan ketentuan lisensi A pada ciptaan teks A, kemudian lisensi B pada ciptaan karya fotografi A, dan ketentuan lisensi C pada ciptaan lain yang tersedia di tempat pihak tersebut menyediakan ciptaan-ciptaannya. Fungsi dari penandaan ini ialah untuk memberikan pemberitahuan ciptaan secara spesifik bahwa beberapa ciptaan di tempat tersebut dikecualikan dari satu ketentuan lisensi yang pada dasarnya diterapkan pada seluruh ciptaan di tempat tersebut. Selain itu, penandaan ini juga biasanya dilakukan sebagai penerapan atribusi ciptaan pihak lain yang menerapkan ketentuan lisensi yang berbeda.
+
+* **Ciptaan yang dilisensikan harus merupakan ciptaan sendiri, atau diizinkan oleh pencipta atau pemegang hak cipta lain untuk melisensikan ciptaan dengan lisensi CC**;
+
+Seorang pengguna ciptaan di dalam jaringan bisa saja mengunggah suatu ciptaan yang bukan miliknya untuk diumumkan melalui suatu situs web. Jika pencipta atau pemegang hak cipta ciptaan tersebut belum menyatakan ketentuan penggunaan dengan suatu ketentuan lisensi, pengguna ciptaan tidak dapat menerapkan suatu ketentuan lisensi pada ciptaan yang diunggahnya. Untuk dapat melaksanakan hal tersebut, pengguna ciptaan harus memperoleh izin sekaligus pernyataan terlebih dahulu dari pencipta atau pemegang hak cipta seperti [sistem OTRS di Wikimedia Commons berikut ini](https://commons.wikimedia.org/wiki/Commons:OTRS). Selain itu, seseorang dapat menerapkan ketentuan lisensi pada suatu ciptaan selama ciptaan tersebut merupakan ciptaannya.
+
+* **Tentukan ketentuan penggunaan ciptaan yang hendak diterapkan**;
+
+Faktor ini merupakan hal yang mendasar sebelum suatu pihak menjadi pemberi lisensi CC. Calon pemberi lisensi harus memahami fungsi pemilihan ketentuan lisensi terlebih dahulu. Misalnya dengan membaca laman penjelasan 4 spektrum ketentuan atau hasil kombinasinya yaitu [6 pilihan lisensi CC](http://creativecommons.or.id/lisensi-cc-bahasa-indonesia/). Dengan memahami hal ini, pemberi lisensi dapat menerapkan ketentuan lisensi CC yang sesuai dengan kemauannya pada ciptaannya.
+
+* **Setiap ciptaan berlisensi CC dapat langsung digandakan dan disebarluaskan**;
+
+Hal ini sejalan dengan logika penyediaan ciptaan di dalam jaringan. Karena pada dasarnya setiap ciptaan yang dapat diakses secara terbuka di ranah daring dapat langsung digandakan dan disebarluaskan. Maka dari itu lisensi CC memberikan legitimasi secara tertulis sebagai landasan hukum pengguna ciptaan (penerima lisensi) pada aktivitas-aktivitas tersebut.
+
+* **Penerapan Digital Rights Management dilarang untuk ciptaan berlisensi CC**;
+
+Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna ciptaan untuk memperoleh izin langsung untuk menggandakan dan menyebarluaskan ciptaan.  Digital Rights Management (DRM) atau sarana kontrol teknologi adalah teknologi perlindungan ciptaan yang dapat menghambat pengguna ciptaan untuk menggunakan ciptaan, misalnya dalam hal penggandaan dan penyebarluasan ciptaan. Misalnya, pencipta atau pemegang hak cipta menutup akses untuk pengunduhan ciptaan yang diunggah di dalam jaringan.  Maka dari itu, model perlindungan  ini tidak relevan untuk diterapkan pada ciptaan berlisensi CC.
+
+Secara teknis bentuk lisensi Creative Commons sesuai dengan bunyi Angka 20 Ketentuan Umum UUHC 2014 yaitu sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Dalam hal ini Lisensi CC telah memenuhi kriteria sebagai izin tertulis dan berfungi sebagai pemberitahuan hak cipta tentang hak penggunaan yang diberikan kepada pengguna ciptaan. Bunyi pasal tersebut menjadi salah satu landasan hukum pemberlakuan lisensi CC di Indonesia.
+
+Fitri kemudian memberikan petunjuk mudah untuk mengingat perbedaan prinsip "all rights reserved" dan "some rights reserved". Pada intinya kita dapat menganalogikan prinsip "all rights reserved" seperti lampu merah, yang mewajibkan pengguna jalan untuk menunggu agar lampu berubah warnanya menjadi hijau untuk melanjutkan perjalanan. Maksud dari analogi ini adalah seluruh pengguna ciptaan baru dapat menggunakan ciptaan sesuai dengan kebutuhannya apabila izin langsung dari pencipta atau pemegang hak cipta telah diberitahukan. Kemudian prinsip "some rights reserved" dapat dianalogikan dengan lampu hijau. Maksud dari analogi ini adalah seluruh pengguna ciptaan secara langsung mendapatkan izin untuk menggunakan ciptaan sesuai dengan kebutuhannya.
+
+Sebagai penutup presentasinya, Fitri menunjukan beberapa tempat untuk mencari ciptaan berlisensi CC dalam konteks pencarian konten tentang kebudayaan, yaitu:
+
+(1) Situs web Wikimedia Commons
+
+(2) Mesin Pencari Creative Commons
+
+(3) Kumpulan Buku Cerita Anak-Anak di StoryWeaver
