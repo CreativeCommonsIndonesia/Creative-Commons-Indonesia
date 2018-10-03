@@ -2,6 +2,9 @@
 title: Lokakarya Lisensi Creative Commons Untuk Seminar Nasional Relawan Jurnal Indonesia
   di Universitas Islam Negeri Sunan Gunung Jati
 date: 2018-10-03 13:30:00 +07:00
+author: hilman
+img: 
+comments: true
 ---
 
 ![24_Agustus_2018_lokakarya_CCID_di_semnas_dan_rakernas_RJI,_Bandung.jpg](/uploads/24_Agustus_2018_lokakarya_CCID_di_semnas_dan_rakernas_RJI,_Bandung.jpg)
@@ -195,7 +198,33 @@ Berikut ini adalah penjelasan cara menerapkan lisensi CC pada ciptaan:
 
 \(7) Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan
 
-## **Tentang Penerapan Lisensi Creative Commons Di Ranah Publikasi Karya Ilmiah Daring**
+## **Tentang Penerapan Lisensi Creative Commons Di Ranah Publikasi Karya Ilmiah Daring oleh Penerbit Jurnal**
 
 ---
+
+Penerbitan karya ilmiah daring adalah serangkaian proses yang melibatkan aktivitas pengiriman dan/atau pemilihan artikel ilmiah, termasuk upaya penerbitan artikel pracetak secara mandiri baik di kanal pribadi maupun bersama. Saat artikel yang dikirimkan oleh penulis telah memenuhi persyaratan yang diajukan penerbit, misalnya telah selesai ditinjau oleh beberapa peninjau sesama peneliti yang memiliki kompetensi dalam bidang terkait, maka setelah itu artikel dipublikasikan oleh penerbit jurnal terkait. Baru setelah itu artikel turut serta diindeksasi di situs web-situs web pengindeksan jurnal seperti Scopus atau DOAJ.
+
+Seperti yang telah disinggung pada awal artikel ini, situs web-situs web penerbit jurnal, khususnya yang ada di Indonesia, telah menerapkan prinsip Open Access dengan memasang perangkat Open Journal System di situs webnya. Perangkat ini memudahkan pengelola penerbitan jurnal dalam membuat templat kebijakan-kebijakan penerbitannya, khususnya kebijakan keterbukaan akses. Yang dimaksudkan dengan kebijakan keterbukaan akses dalam hal ini adalah bagaimana pihak penerbit dapat memberikan pilihan kepada penulis untuk mengalihkan hak ciptanya atau tidak dalam perjanjian penerbitan. Juga memberi tahu apakah para penulis dapat memilih ketentuan lisensi hak cipta yang ingin mereka terapkan pada karya tulisnya, atau pemberitahuan bahwa penerbit menerapkan kebijakan lisensi tunggal (one license policy) yang wajib diikuti oleh penulis. 
+
+Contoh terbaik pemberian nuansa demokratis di ranah manajemen hak cipta penulis dalam aktivitas penerbitan artikelnya dapat dirujuk dari penjelasan berikut ini:
+
+(1) Penjelasan tentang hak cipta dan pelisensian karya tulis
+
+* Tentang kebijakan pengarsipan mandiri oleh penulis
+* Informasi perbedaan antara pengalihan hak cipta dan pelisensian ciptaan
+    * Contoh dokumen perjanjian hak cipta
+    * Contoh dokumen pernyataan pelisensian kembali karya oleh penerbit
+    *Petunjuk pemilihan lisensi (contoh: lisensi CC)
+* Informasi tentang ragam versi artikel:
+    * Artikel pracetak
+    * Artikel lulus peninjauan
+    * Artikel pasca cetak
+
+## **Tentang Penerapan Lisensi Creative Commons Di Ranah Publikasi Karya Ilmiah Daring Dalam Konteks Indeksasi dan Kualifikasi di DOAJ**
+
+---
+
+(1) Informasi lisensi hak cipta CC terbaca mesin
+(2) Ketentuan lisensi wajib mengizinkan penggubahan artikel
+(3) Penulis memiliki kontrol penuh atas hak cipta karya tulisnya
 
