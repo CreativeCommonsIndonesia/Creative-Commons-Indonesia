@@ -1,6 +1,6 @@
 ---
 title: Lokakarya Lisensi Creative Commons di Wikimedia Commons Untuk Program Wiki
-  Cinta Budaya di Universitas Syiah Kuala,
+  Cinta Budaya di Aceh, Palu, dan Sorong
 date: 2018-10-02 20:41:00 +07:00
 ---
 
