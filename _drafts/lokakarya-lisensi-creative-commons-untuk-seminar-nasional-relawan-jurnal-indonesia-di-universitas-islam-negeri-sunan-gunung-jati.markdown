@@ -83,8 +83,119 @@ Hal ini sejalan dengan logika penyediaan ciptaan di dalam jaringan. Karena pada 
 
 Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna ciptaan untuk memperoleh izin langsung untuk menggandakan dan menyebarluaskan ciptaan.  Digital Rights Management (DRM) atau sarana kontrol teknologi adalah teknologi perlindungan ciptaan yang dapat menghambat pengguna ciptaan untuk menggunakan ciptaan, misalnya dalam hal penggandaan dan penyebarluasan ciptaan. Misalnya, pencipta atau pemegang hak cipta menutup akses untuk pengunduhan ciptaan yang diunggah di dalam jaringan.  Maka dari itu, model perlindungan  ini tidak relevan untuk diterapkan pada ciptaan berlisensi CC.
 
+4 spektrum pilihan lisensi CC yang dimaksud adalah: 
 
+4 spektrum utama lisensi CC:
+
+\(1) **Spektrum Atribusi (BY)**
+
+* Isi ketentuan:
+
+  * Kewajiban untuk menyebutkan nama pencipta atau pemegang hak cipta dan sumber ciptaan.
+
+  * Menyatakan perubahan yang dilakukan terhadap ciptaan.
+
+* Fungsi:
+
+  * Supaya pencipta atau pemegang hak cipta dapat terus disebutkan namanya sebagai sumber rujukan dalam setiap penggunaan.
+
+  * Untuk mengingatkan pengguna agar terus menyebutkan sumber ciptaan yang digunakan dengan sesuai.
+
+  * Untuk mengingatkan pengguna agar menyatakan perubahan yang dilakukan terhadap ciptaan.
+
+* Kombinasi Spektrum:
+
+  * Ada di seluruh kombinasi spektrum lisensi CC.
+
+* Contoh penerapan:
+
+  * Situs web Portal Data Indonesia
+
+  * Situs web ikon The Noun Project
+
+\(2) **Spektrum BerbagiSerupa (SA)**
+
+* Isi ketentuan:
+
+  * Kewajiban untuk menerapkan lisensi yang sama pada setiap hasil gubahan dan karya turunan
+
+* Fungsi:
+
+  * Tujuan penciptaan dan penyediaan ciptaan memang ditujukan sebagai ciptaan layak gubah.
+
+  * Untuk mempertahankan maksud penerapan lisensi pada materi asli oleh pencipta.
+
+* Kombinasi Spektrum:
+
+  * Lisensi CC BY-SA (Atribusi-BerbagiSerupa) dan Lisensi CC BY-NC-SA (Atribusi-NonKomersial-BerbagiSerupa)
+
+* Contoh penerapan:
+
+  * Situs web Wikipedia
+
+  * Situs web Wikimedia Commons
+
+\(3) **Spektrum NonKomersial (NC)**
+
+* Isi ketentuan:
+
+  * Larangan penggunaan ciptaan untuk kepentingan komersial.
+
+  * Kegiatan nirlaba dikecualikan dari ketentuan ini.
+
+* Fungsi:
+
+  * Mempertahankan jalur masuknya royalti secara eksklusif ke pencipta atau pemegang hak cipta.
+
+  * Ketentuan SA yang dikombinasikan dengan NC, memastikan bahwa setiap hasil gubahan menerapkan ketentuan NonKomersial, supaya ciptaan tidak dapat dikomersialisasi tanpa izin pencipta atau pemegang hak cipta.
+
+* Kombinasi Spektrum:
+
+  * Lisensi CC BY-NC (Atribusi-NonKomersial), Lisensi CC BY-NC-SA (Atribusi-NonKomersial-BerbagiSerupa), dan Lisensi CC BY-NC-ND (Atribusi-NonKomersial-TanpaTurunan)
+
+* Contoh penerapan:
+
+  * Proyek Netlabel Yes No Wave Music
+
+\(4) **Spektrum TanpaTurunan (ND)**
+
+* Isi ketentuan:
+
+  * Larangan untuk mengubah dan menggubah ciptaan.
+
+  * Penggunaan pribadi dikecualikan (pengubahan atau penggubahan yang tidak diumumkan).
+
+* Fungsi:
+
+  * Menghindari manipulasi atau pemanfaatan ciptaan secara tidak bertanggung jawab.
+
+  * Menghindari pelanggaran kehormatan terhadap pencipta atau pemegang hak cipta dari aktivitas pengguna ciptaan.
+
+* Kombinasi Spektrum:
+
+  * Lisensi CC BY-ND (Atribusi-TanpaTurunan) dan Lisensi CC BY-NC-ND (Atribuso-NonKomersial-TanpaTurunan).
+
+* Contoh penerapan:
+
+  * Situs web Katadata
+
+Berikut ini adalah penjelasan cara menerapkan lisensi CC pada ciptaan:
+
+\(1) Kunjungi creativecommons.org/share-your-work/
+
+\(2) Klik tombol "Get Started"
+
+\(3) Isi formulir pemberian izin kepada pengguna ciptaan sesuai dengan keinginan
+
+\(4) Mesin akan menampilkan ketentuan lisensi yang sesuai dengan apa yang pencipta atau pemegang hak cipta isi pada formulir pemberian izin
+
+\(5) Lisensi dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+
+\(6) Lisensi dapat ditempelkan dengan memasang berkas gambar spektrum atau pilihan lisensi yang tersedia
+
+\(7) Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan
 
 ## **Tentang Penerapan Lisensi Creative Commons Di Ranah Publikasi Karya Ilmiah Daring**
 
 ---
+
