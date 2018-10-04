@@ -283,7 +283,9 @@ Berikut petunjuk teknis untuk menerapkan lisensi CC pada ciptaan
 
 Kini telah tersedia aplikasi bersumber terbuka seperti SLiMS yang dapat dipasang, dikembangkan, dan disesuaikan di situs web-situs web perpustakaan. Keberadaan aplikasi tersebut sebenarnya memudahkan pustakawan untuk menyajikan sumber-sumber milik perpustakaan kepada setiap pengakses. Selain itu, kini semakin banyak konten-konten terbuka berlisensi terbuka (Creative Commons) yang tersedia dalam berbagai format. Konten-konten tersebut dapat menjadi tambahan atau alternatif sumber bagi para pengakses situs web perpustakaan, khususnya perpustakaan milik suatu lembaga pendidikan.
 
-Gerakan sumber pembelajaran terbuka terbagi menjadi dua fokus yakni Open Education (pendidikan terbuka) dan Open Access to Research (akses terbuka untuk hasil penelitian). Dua fokus ini juga merupakan bagian tak terpisahkan dari gerakan pemajuan keterbukaan konten yang sedang terjadi di seluruh dunia. Dalam dua bidang ini, lisensi CC membantu perumusan 5 prinsip dasar (5rs) di ranah Pendidikan Terbuka. 5 prinsip itu adalah:
+Gerakan sumber pembelajaran terbuka terbagi menjadi dua fokus yakni Open Education (pendidikan terbuka) dan Open Access to Research (akses terbuka untuk hasil penelitian). Dua fokus ini juga merupakan bagian tak terpisahkan dari gerakan pemajuan keterbukaan konten yang sedang terjadi di seluruh dunia. Apabila kita merujuk pada unit-unit modul program Sertifikasi Creative Commons untuk Pustakawan, tiga unit pembuka merupakan materi tentang penyediaan sumber pembelajaran terbuka oleh pustakawan. Hingga kemudian peserta sertifikasi akan diajak mengenali cara pembuatan sumber pembelajaran terbuka mandiri dan menciptakan kebijakan penyediaan sumber pengetahuan terbuka di institusi mereka.  
+
+Keterkaitan lisensi CC dengan gerakan pendidikan terbuka dapat dilihat pada 5 prinsip dasar (5rs) pendidikan terbuka:
 
 * Retain
   Setiap konten pendidikan terbuka merupakan konten yang hak ciptanya dikontrol secara penuh oleh pencipta atau pemegang hak ciptanya. Dalam penyediaannya tidak disarankan adanya pengalihan hak cipta yang mengakibatkan eksploitasi hak cipta seorang atau sekelompok pencipta atau pemegang hak cipta oleh pihak lain secara tidak bertanggung jawab.
@@ -299,6 +301,9 @@ Gerakan sumber pembelajaran terbuka terbagi menjadi dua fokus yakni Open Educati
 
 * Redistribute
   Prinsip ini pada dasarnya mirip dengan prinsip Reuse, yaitu bagaimana pihak penyedia konten pendidikan terbuka memberikan izin langsung kepada pengguna ciptaan untuk menyebarluaskan konten pendidikan terbukanya.
+
+Contoh nyata dari upaya penyediaan sumber pembelajaran terbuka di Indonesia dapat kita lihat pada inisiatif yang dibuat oleh Universitas Terbuka (UT) dan Universitas Syiah Kuala (UnSyiah). UT menyediakan sumber pembelajaran terbuka berupa materi presentasi pengajar dalam format interaktif (SUAKA-UT) serta jurnal terbitan yang menerapkan lisensi terbuka (CC BY-NC-SA). Sumber pembelajaran terbuka yang disediakan oleh UT seluruhnya merupakan sumber pembelajaran yang dikembangkan dan diadaptasi sendiri oleh pihak UT. Lain halnya dengan UnSyiah. Perpustakaan Pusat UnSyiah membuat portal sumber pembelajaran terbuka 
+
 
 ## **Contoh-Contoh Dalam Penyediaan Sumber Pengetahuan Digital oleh Pustakawan**
 
