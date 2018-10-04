@@ -12,13 +12,13 @@ Pada tanggal 19 September 2018, Creative Commons Indonesia (CCID) yang diwakili 
 
 ---
 
-Presentasi dimulai dengan penjelasan tentang konsep perlindungan hak Kekayaan Intelektual (KI) di Indonesia. Mekanisme perlindungan KI lain seperti Hak Merek dan Hak Paten berbeda obyek perlindungannya dengan hak cipta. Meskipun ketiga mekanisme perlindungan tersebut semuanya berada di bawah terminologi perlindungan kekayaan intelektual. Setiap mekanisme yang ada memiliki dasar hukum yang berbeda. Perlindungan hak cipta diatur melalui Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014). 
+Presentasi dimulai dengan penjelasan tentang konsep perlindungan hak Kekayaan Intelektual (KI) di Indonesia. Mekanisme perlindungan KI lain seperti Hak Merek dan Hak Paten berbeda obyek perlindungannya dengan hak cipta. Meskipun ketiga mekanisme perlindungan tersebut semuanya berada di bawah terminologi perlindungan kekayaan intelektual. Setiap mekanisme yang ada memiliki dasar hukum yang berbeda. Perlindungan hak cipta diatur melalui Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014).
 
-Mekanisme perlindungan KI masing-masing dibedakan dari ruang lingkup atau obyek perlindungannya. Obyek perlindungan hak cipta diatur melalui Pasal 40 Undang-UUHC 2014 (lihat rujukan: [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19)[2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Ciptaan-ciptaan ini lah yang membedakan mekanisme perlindungan hak cipta dengan mekanisme perlindungan KI lainnya. Namun, pada dasarnya hubungan hukum dalam mekanisme perlindungan KI meliputi subyek hukum yang serupa, meskipun tidak sama. 
+Mekanisme perlindungan KI masing-masing dibedakan dari ruang lingkup atau obyek perlindungannya. Obyek perlindungan hak cipta diatur melalui Pasal 40 Undang-UUHC 2014 (lihat rujukan: [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19)[2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Ciptaan-ciptaan ini lah yang membedakan mekanisme perlindungan hak cipta dengan mekanisme perlindungan KI lainnya. Namun, pada dasarnya hubungan hukum dalam mekanisme perlindungan KI meliputi subyek hukum yang serupa, meskipun tidak sama.
 
 Dalam mekanisme perlindungan hak cipta, yang termasuk subyek hukum yaitu Pencipta atau Pemegang Hak Cipta dan Pengguna Ciptaan. Pencipta adalah pihak yang menciptakan suatu ciptaan, yang kemudian secara langsung memiliki peran sebagai pemegang hak cipta. Pemegang hak cipta belum tentu seorang pencipta, bisa saja pihak pemegang hak cipta adalah seseorang atau suatu kelompok yang dengan izin pencipta memiliki wewenang: hak dan kewajiban yang sama dengan pencipta. Tujuan pemberian izin ini biasanya adalah untuk membantu pencipta dalam mengatur mekanisme perlindungan hak ciptanya. Pengguna ciptaan adalah pihak yang bermaksud menggunakan ciptaan milik seseorang atau suatu kelompok dengan maksud untuk memperoleh manfaat dari ciptaan tersebut.
 
-Pada hakikatnya, seluruh obyek perlindungan hak cipta mewajibkan setiap pengguna ciptaan untuk memperoleh izin penggunaan (penggandaan, dan penyebarluasan) secara langsung dari pencipta atau pemegang hak cipta dalam aktivitas penggunaan ciptaan. Manfaat yang dimaksud pada akhir kalimat di paragraf sebelumnya ada dalam konsep perlindungan hak moral dan hak ekonomi. Hak moral melindungi hak pencipta atau pemegang hak cipta dengan mewajibkan pengguna ciptaan untuk menyebutkan nama pencipta atau pemegang hak cipta serta sumber ciptaan dengan baik. Selain itu hak moral juga mewajibkan agar setiap penggunaan ciptaan menggunakan ciptaan dengan baik, tanpa melecehkan pencipta atau pemegang hak cipta, atau menyelewengkan maksud penciptaan dari ciptaan tersebut. Arti dari penyelewengan adalah, misalnya, seorang anggota organisasi masyarakat (ormas) melakukan klaim atas suatu karya video sebagai bentuk dukungan terhadap gerakan ormasnya. Apabila pihak pencipta atau pemegang hak cipta tidak setuju dengan model penggunaan tersebut, dapat menggunakan mekanisme perlindungan hak moral untuk menghentikan distribusi karya video oleh ormas tersebut, atau bahkan meminta ganti rugi apabila permasalahan dibawa sebagai sengketa di ranah pengadilan niaga. 
+Pada hakikatnya, seluruh obyek perlindungan hak cipta mewajibkan setiap pengguna ciptaan untuk memperoleh izin penggunaan (penggandaan, dan penyebarluasan) secara langsung dari pencipta atau pemegang hak cipta dalam aktivitas penggunaan ciptaan. Manfaat yang dimaksud pada akhir kalimat di paragraf sebelumnya ada dalam konsep perlindungan hak moral dan hak ekonomi. Hak moral melindungi hak pencipta atau pemegang hak cipta dengan mewajibkan pengguna ciptaan untuk menyebutkan nama pencipta atau pemegang hak cipta serta sumber ciptaan dengan baik. Selain itu hak moral juga mewajibkan agar setiap penggunaan ciptaan menggunakan ciptaan dengan baik, tanpa melecehkan pencipta atau pemegang hak cipta, atau menyelewengkan maksud penciptaan dari ciptaan tersebut. Arti dari penyelewengan adalah, misalnya, seorang anggota organisasi masyarakat (ormas) melakukan klaim atas suatu karya video sebagai bentuk dukungan terhadap gerakan ormasnya. Apabila pihak pencipta atau pemegang hak cipta tidak setuju dengan model penggunaan tersebut, dapat menggunakan mekanisme perlindungan hak moral untuk menghentikan distribusi karya video oleh ormas tersebut, atau bahkan meminta ganti rugi apabila permasalahan dibawa sebagai sengketa di ranah pengadilan niaga.
 
 Hak ekonomi membantu pencipta atau pemegang hak cipta untuk menjaga manfaat komersial dari ciptaannya. Maksudnya supaya pemasukan atau royalti dari setiap penggunaan ciptaannya dalam aktivitas komersial dapat selalu tersalurkan kepada pihak pencipta atau pemegang hak cipta. Setiap pengguna ciptaan yang hendak menggunakan suatu ciptaan wajib memperoleh izin langsung terlebih dahulu dari pihak pencipta atau pemegang hak cipta. Namun, bisa saja dalam hal ini pencita atau pemegang hak cipta mengecualikan pengguna ciptaan dari beban royalti jika memang disepakati demikian dalam konteks penggunaan tertentu.
 
@@ -259,13 +259,30 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
   * [Koleksi-koleksi ciptaan tua di Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:CC-PD-Mark)
 
- 
+Dengan tersedianya pilihan ketentuan, maka pencipta atau pemegang hak cipta dapat memilih ketentuan lisensi yang paling sesuai dengan maksud penyediaan ciptaannya. Hal semacam ini diperlukan karena rasio atau spektrum dipilih dan diterapkan sesuai dengan motif penciptaan ciptaan dari masing-masing pencipta atau pemegang hak cipta. Misalnya, ia ingin memberikan izin kepada pengguna ciptaan untuk menggubah dan memanfaatkan ciptaan dalam kepentingan komersial, maka ia dapat memilih ketentuan lisensi yang paling bebas. Di sisi lain pengguna ciptaan juga dapat memilih ciptaan berdasarkan ketentuan lisensi yang diterapkan sesuai dengan kebutuhan penggunaannya.
+
+Berikut petunjuk teknis untuk menerapkan lisensi CC pada ciptaan
+
+\(1) Kunjungi creativecommons.org/share-your-work/
+
+\(2) Klik tombol "Get Started"
+
+\(3) Isi formulir pemberian izin kepada pengguna ciptaan sesuai dengan keinginan
+
+\(4) Mesin akan menampilkan ketentuan lisensi yang sesuai dengan apa yang pencipta atau pemegang hak cipta isi pada formulir pemberian izin
+
+\(5) Lisensi dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+
+\(6) Lisensi dapat ditempelkan dengan memasang berkas gambar spektrum atau pilihan lisensi yang tersedia
+
+\(7) Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan 
 
 ## **Konsep OER (Open Educational Resources) Untuk Pustakawan**
 
 ---
 
+Kini telah tersedia aplikasi bersumber terbuka seperti SLiMS yang dapat dipasang, dikembangkan, dan disesuaikan di situs web-situs web perpustakaan. Keberadaan aplikasi tersebut sebenarnya memudahkan pustakawan untuk menyajikan sumber-sumber milik perpustakaan kepada setiap pengakses. Selain itu, kini semakin banyak konten-konten terbuka berlisensi terbuka (Creative Commons) yang tersedia dalam berbagai format. Konten-konten tersebut dapat menjadi tambahan atau alternatif sumber bagi para pengakses situs web perpustakaan terkait, khususnya perpustakaan milik suatu lembaga pendidikan.
+
 ## **Contoh-Contoh Dalam Penyediaan Sumber Pengetahuan Digital oleh Pustakawan**
 
 ---
-
