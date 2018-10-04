@@ -9,9 +9,9 @@ comments: true
 
 ![24_Agustus_2018_lokakarya_CCID_di_semnas_dan_rakernas_RJI,_Bandung.jpg](/uploads/24_Agustus_2018_lokakarya_CCID_di_semnas_dan_rakernas_RJI,_Bandung.jpg)
 
-> Isi materi presentasi dalam artikel ini merupakan hasil pengembangan dari materi presentasi asli yang disampaikan pada saat acara berlangsung.
-
 Pada tanggal 24 Agustus 2018, Creative Commons Indonesia (CCID) yang diwakili oleh Hilman Fathoni (Legal Lead CCID berkesempatan menyampaikan materi tentang lisensi Creative Commons (lisensi CC) bekerjasama dengan Relawan Jurnal Indonesia (RJI) pada perhelatan Seminar Nasional RJI di Universitas Islam Negeri Sunan Gunung Jati, Bandung. Paling tidak hingga saat ini terdapat 1355 judul jurnal dari penerbit Indonesia di Directory of Open Access Journal (DOAJ). 559 di antaranya menerapkan ketentuan lisensi terbuka Creative Commons yang paling bebas, CC BY (Atribusi). Dalam ekosistem publikasi karya ilmiah daring yang semakin terbuka, para penulis maupun penerbit dituntut untuk memahami mekanisme perlindungan hak cipta terhadap artikel-artikel yang diterbitkan. Dalam konteks tersebut, CCID berusaha memberikan pemahaman mengenai pelisensian ciptaan dan manajemen hak cipta antara penulis dan penerbit.
+
+> Isi materi presentasi dalam artikel ini merupakan hasil pengembangan dari materi presentasi asli yang disampaikan pada saat acara berlangsung.
 
 ## **Landasan Hukum Lisensi Creative Commons di Indonesia**
 
@@ -19,22 +19,22 @@ Pada tanggal 24 Agustus 2018, Creative Commons Indonesia (CCID) yang diwakili ol
 
 Berikut adalah beberapa bagian dari Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta yang menjadi dasar berlaku lisensi CC di Indonesia: (Klik setiap judul bagan peraturan untuk membandingkan penafsiran kami dengan bunyi dari peraturan tersebut)
 
-*  [Angka 20 Ketentuan Umum Undang-Undang Hak Cipta](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/4)
-   Menurut Angka 20 Ketentuan Umum UUHC 2014, lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan.
+* [Angka 20 Ketentuan Umum Undang-Undang Hak Cipta](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/4)
+  Menurut Angka 20 Ketentuan Umum UUHC 2014, lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan.
 
 * [Pasal 80 ayat (1)-(3)](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/36)
 
-(1) Lisensi CC merupakan perjanjian lisensi dalam bentuk tertulis untuk mengatur serangkaian perbuatan antara pihak-pihak yang terikat pada perjanjian lisensi tersebut;
-(2) Perjanjian lisensi CC habis masa berlakunya sesuai dengan ketentuan masa berlaku perlindungan hak cipta yang diatur UU;
-(3) Setiap ketentuan perjanjian lisensi CC tidak mengatur mengenai besaran royalti, karena memang tidak diwajibkan oleh ketentuan pasal ini. Ketentuan mengenai hal tersebut biasanya dijabarkan dalam dokumen yang berbeda, yang bukan merupakan bagian terpisah dari perjanjian lisensi yang disepakati oleh para pihak.
+\(1) Lisensi CC merupakan perjanjian lisensi dalam bentuk tertulis untuk mengatur serangkaian perbuatan antara pihak-pihak yang terikat pada perjanjian lisensi tersebut;
+\(2) Perjanjian lisensi CC habis masa berlakunya sesuai dengan ketentuan masa berlaku perlindungan hak cipta yang diatur UU;
+\(3) Setiap ketentuan perjanjian lisensi CC tidak mengatur mengenai besaran royalti, karena memang tidak diwajibkan oleh ketentuan pasal ini. Ketentuan mengenai hal tersebut biasanya dijabarkan dalam dokumen yang berbeda, yang bukan merupakan bagian terpisah dari perjanjian lisensi yang disepakati oleh para pihak.
 
 * [Pasal 81](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/36)
-Penentuan ketentuan lisensi CC dapat dilaksanakan secara mandiri oleh pihak pencipta atau pemegang hak cipta sesuai dengan bunyi pasal ini. 
+  Penentuan ketentuan lisensi CC dapat dilaksanakan secara mandiri oleh pihak pencipta atau pemegang hak cipta sesuai dengan bunyi pasal ini.
 
 * [Pasal 82 ayat (1)-(3)](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/37)
-(1) Ketentuan lisensi CC tidak mengandung unsur yang merugikan ekonomi negara. Hal ini dapat berlaku hanya jika ada pilihan lisensi CC yang diterapkan pada suatu perjanjian yang mengandung unsur yang merugikan keuangan negara
-(2) Isi ketentuan lisensi CC tidak bertentangan dengan ketentuan UU di Indonesia.
-(3) Ketentuan lisensi CC tidak menghilangkan perlindungan hak cipta atas ciptaan seseorang atau kelompok pencipta atau pemegang hak cipta juga bukan merupakan sarana pengalihan hak cipta.
+  \(1) Ketentuan lisensi CC tidak mengandung unsur yang merugikan ekonomi negara. Hal ini dapat berlaku hanya jika ada pilihan lisensi CC yang diterapkan pada suatu perjanjian yang mengandung unsur yang merugikan keuangan negara
+  \(2) Isi ketentuan lisensi CC tidak bertentangan dengan ketentuan UU di Indonesia.
+  \(3) Ketentuan lisensi CC tidak menghilangkan perlindungan hak cipta atas ciptaan seseorang atau kelompok pencipta atau pemegang hak cipta juga bukan merupakan sarana pengalihan hak cipta.
 
 * [Pasal 83 ayat (1)-(4)](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/37)
 
@@ -52,7 +52,7 @@ Dengan tersedianya pilihan, maka pencipta atau pemegang hak cipta dapat memilih 
 
 Dalam ranah publikasi karya ilmiah daring, ketentuan lisensi yang paling memberikan kebebasan kepada pengguna ciptaan menjadi alat ukur yang menentukan apakah ciptaan tersebut masuk dalam kategori "Open Access" atau tidak.
 
-Sebelum menerapkan lisensi CC pada ciptaan, pencipta atau pemegang hak cipta diharapkan memahami beberapa pertimbangan penerapan lisensi ini terlebih dahulu: 
+Sebelum menerapkan lisensi CC pada ciptaan, pencipta atau pemegang hak cipta diharapkan memahami beberapa pertimbangan penerapan lisensi ini terlebih dahulu:
 
 * **Ketentuan lisensi yang diterapkan tidak dapat dicabut (irrevocable)**;
 
@@ -86,7 +86,7 @@ Hal ini sejalan dengan logika penyediaan ciptaan di dalam jaringan. Karena pada 
 
 Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna ciptaan untuk memperoleh izin langsung untuk menggandakan dan menyebarluaskan ciptaan.  Digital Rights Management (DRM) atau sarana kontrol teknologi adalah teknologi perlindungan ciptaan yang dapat menghambat pengguna ciptaan untuk menggunakan ciptaan, misalnya dalam hal penggandaan dan penyebarluasan ciptaan. Misalnya, pencipta atau pemegang hak cipta menutup akses untuk pengunduhan ciptaan yang diunggah di dalam jaringan.  Maka dari itu, model perlindungan  ini tidak relevan untuk diterapkan pada ciptaan berlisensi CC.
 
-4 spektrum pilihan lisensi CC yang dimaksud adalah: 
+4 spektrum pilihan lisensi CC yang dimaksud adalah:
 
 4 spektrum utama lisensi CC:
 
@@ -204,27 +204,33 @@ Berikut ini adalah penjelasan cara menerapkan lisensi CC pada ciptaan:
 
 Penerbitan karya ilmiah daring adalah serangkaian proses yang melibatkan aktivitas pengiriman dan/atau pemilihan artikel ilmiah, termasuk upaya penerbitan artikel pracetak secara mandiri baik di kanal pribadi maupun bersama. Saat artikel yang dikirimkan oleh penulis telah memenuhi persyaratan yang diajukan penerbit, misalnya telah selesai ditinjau oleh beberapa peninjau sesama peneliti yang memiliki kompetensi dalam bidang terkait, maka setelah itu artikel dipublikasikan oleh penerbit jurnal terkait. Baru setelah itu artikel turut serta diindeksasi di situs web-situs web pengindeksan jurnal seperti Scopus atau DOAJ.
 
-Seperti yang telah disinggung pada awal artikel ini, situs web-situs web penerbit jurnal, khususnya yang ada di Indonesia, telah menerapkan prinsip Open Access dengan memasang perangkat Open Journal System di situs webnya. Perangkat ini memudahkan pengelola penerbitan jurnal dalam membuat templat kebijakan-kebijakan penerbitannya, khususnya kebijakan keterbukaan akses. Yang dimaksudkan dengan kebijakan keterbukaan akses dalam hal ini adalah bagaimana pihak penerbit dapat memberikan pilihan kepada penulis untuk mengalihkan hak ciptanya atau tidak dalam perjanjian penerbitan. Juga memberi tahu apakah para penulis dapat memilih ketentuan lisensi hak cipta yang ingin mereka terapkan pada karya tulisnya, atau pemberitahuan bahwa penerbit menerapkan kebijakan lisensi tunggal (one license policy) yang wajib diikuti oleh penulis. 
+Seperti yang telah disinggung pada awal artikel ini, situs web-situs web penerbit jurnal, khususnya yang ada di Indonesia, telah menerapkan prinsip Open Access dengan memasang perangkat Open Journal System di situs webnya. Perangkat ini memudahkan pengelola penerbitan jurnal dalam membuat templat kebijakan-kebijakan penerbitannya, khususnya kebijakan keterbukaan akses. Yang dimaksudkan dengan kebijakan keterbukaan akses dalam hal ini adalah bagaimana pihak penerbit dapat memberikan pilihan kepada penulis untuk mengalihkan hak ciptanya atau tidak dalam perjanjian penerbitan. Juga memberi tahu apakah para penulis dapat memilih ketentuan lisensi hak cipta yang ingin mereka terapkan pada karya tulisnya, atau pemberitahuan bahwa penerbit menerapkan kebijakan lisensi tunggal (one license policy) yang wajib diikuti oleh penulis.
 
 Contoh terbaik pemberian nuansa demokratis di ranah manajemen hak cipta penulis dalam aktivitas penerbitan artikelnya dapat dirujuk dari penjelasan berikut ini:
 
-(1) Penjelasan tentang hak cipta dan pelisensian karya tulis
+\(1) Penjelasan tentang hak cipta dan pelisensian karya tulis
 
 * Tentang kebijakan pengarsipan mandiri oleh penulis
+
 * Informasi perbedaan antara pengalihan hak cipta dan pelisensian ciptaan
-    * Contoh dokumen perjanjian hak cipta
-    * Contoh dokumen pernyataan pelisensian kembali karya oleh penerbit
-    *Petunjuk pemilihan lisensi (contoh: lisensi CC)
+
+  * Contoh dokumen perjanjian hak cipta
+
+  * Contoh dokumen pernyataan pelisensian kembali karya oleh penerbit
+    \*Petunjuk pemilihan lisensi (contoh: lisensi CC)
+
 * Informasi tentang ragam versi artikel:
-    * Artikel pracetak
-    * Artikel lulus peninjauan
-    * Artikel pasca cetak
+
+  * Artikel pracetak
+
+  * Artikel lulus peninjauan
+
+  * Artikel pasca cetak
 
 ## **Tentang Penerapan Lisensi Creative Commons Di Ranah Publikasi Karya Ilmiah Daring Dalam Konteks Indeksasi dan Kualifikasi di DOAJ**
 
 ---
 
-(1) Informasi lisensi hak cipta CC terbaca mesin
-(2) Ketentuan lisensi wajib mengizinkan penggubahan artikel
-(3) Penulis memiliki kontrol penuh atas hak cipta karya tulisnya
-
+\(1) Informasi lisensi hak cipta CC terbaca mesin
+\(2) Ketentuan lisensi wajib mengizinkan penggubahan artikel
+\(3) Penulis memiliki kontrol penuh atas hak cipta karya tulisnya
