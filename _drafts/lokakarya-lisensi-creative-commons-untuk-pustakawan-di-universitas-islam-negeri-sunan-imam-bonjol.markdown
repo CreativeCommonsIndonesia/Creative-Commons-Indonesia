@@ -302,7 +302,7 @@ Keterkaitan lisensi CC dengan gerakan pendidikan terbuka dapat dilihat pada 5 pr
 * Redistribute
   Prinsip ini pada dasarnya mirip dengan prinsip Reuse, yaitu bagaimana pihak penyedia konten pendidikan terbuka memberikan izin langsung kepada pengguna ciptaan untuk menyebarluaskan konten pendidikan terbukanya.
 
-Contoh nyata dari upaya penyediaan sumber pembelajaran terbuka di Indonesia dapat kita lihat pada inisiatif yang dibuat oleh Universitas Terbuka (UT) dan Universitas Syiah Kuala (UnSyiah). UT menyediakan sumber pembelajaran terbuka berupa materi presentasi pengajar dalam format interaktif (SUAKA-UT) serta jurnal terbitan yang menerapkan lisensi terbuka (CC BY-NC-SA). Sumber pembelajaran terbuka yang disediakan oleh UT seluruhnya merupakan sumber pembelajaran yang dikembangkan dan diadaptasi sendiri oleh pihak UT. Lain halnya dengan UnSyiah. Perpustakaan Pusat UnSyiah membuat portal sumber pembelajaran terbuka 
+Contoh nyata dari upaya penyediaan sumber pembelajaran terbuka di Indonesia dapat kita lihat pada inisiatif yang dibuat oleh Universitas Terbuka (UT) dan UKM Literasi Informasi dan Perpustakaan Universitas Syiah Kuala (UnSyiah). UT menyediakan sumber pembelajaran terbuka berupa materi presentasi pengajar dalam format interaktif (SUAKA-UT) serta jurnal terbitan yang menerapkan lisensi terbuka (CC BY-NC-SA). Sumber pembelajaran terbuka yang disediakan oleh UT seluruhnya merupakan sumber pembelajaran yang dikembangkan dan diadaptasi sendiri oleh pihak UT. Lain halnya dengan UKM Literasi Informasi dan Perpustaakn UnSyiah. Perpustakaan Pusat UnSyiah membuat portal sumber pembelajaran terbuka yang menyediakan modul pem
 
 
 ## **Contoh-Contoh Dalam Penyediaan Sumber Pengetahuan Digital oleh Pustakawan**
