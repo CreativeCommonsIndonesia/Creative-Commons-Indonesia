@@ -302,9 +302,43 @@ Keterkaitan lisensi CC dengan gerakan pendidikan terbuka dapat dilihat pada 5 pr
 * Redistribute
   Prinsip ini pada dasarnya mirip dengan prinsip Reuse, yaitu bagaimana pihak penyedia konten pendidikan terbuka memberikan izin langsung kepada pengguna ciptaan untuk menyebarluaskan konten pendidikan terbukanya.
 
-Contoh nyata dari upaya penyediaan sumber pembelajaran terbuka di Indonesia dapat kita lihat pada inisiatif yang dibuat oleh Universitas Terbuka (UT) dan UKM Literasi Informasi dan Perpustakaan Universitas Syiah Kuala (UnSyiah). UT menyediakan sumber pembelajaran terbuka berupa materi presentasi pengajar dalam format interaktif (SUAKA-UT) serta jurnal terbitan yang menerapkan lisensi terbuka (CC BY-NC-SA). Sumber pembelajaran terbuka yang disediakan oleh UT seluruhnya merupakan sumber pembelajaran yang dikembangkan dan diadaptasi sendiri oleh pihak UT. Lain halnya dengan UKM Literasi Informasi dan Perpustaakn UnSyiah. Perpustakaan Pusat UnSyiah membuat portal sumber pembelajaran terbuka yang menyediakan modul pem
-
-
 ## **Contoh-Contoh Dalam Penyediaan Sumber Pengetahuan Digital oleh Pustakawan**
 
 ---
+
+Contoh nyata dari upaya penyediaan sumber pembelajaran terbuka di Indonesia dapat kita lihat pada inisiatif yang dibuat oleh Universitas Terbuka (UT) dan UKM Literasi Informasi dan Perpustakaan Universitas Syiah Kuala (UnSyiah). UT menyediakan sumber pembelajaran terbuka berupa materi presentasi pengajar dalam format interaktif (SUAKA-UT) serta jurnal terbitan yang menerapkan lisensi terbuka (CC BY-NC-SA). Sumber pembelajaran terbuka yang disediakan oleh UT seluruhnya merupakan sumber pembelajaran yang dikembangkan dan diadaptasi sendiri oleh pihak UT. Lain halnya dengan UKM Literasi Informasi dan Perpustaakn UnSyiah. Perpustakaan Pusat UnSyiah membuat portal sumber pembelajaran terbuka dalam berbagai format, mulai dari teks, gambar, hingga video. 
+
+Apabila kita membuka jendela ke luar, kita bisa melahit praktik penyediaan sumber pengetahuan dalam format digital melalui situs web dari Monash University.
+
+-> Menyediakan Petunjuk Pengenalan Lisensi
+
+Petunjuk ini adalah upaya penyediaan literasi informasi di ranah digital, salah satunya petunjuk tentang etika penggunaan konten dari sudut pandang perlindungan hak cipta. 
+
+(Sub)
+
+-> Konten gambar dan grafis gratis dan berlisensi terbuka
+
+-> Konten literatur gratis dan berlisensi terbuka
+
+-> Konten peta gratis dan berlisensi terbuka
+
+-> Konten rekaman suara gratis dan berlisensi terbuka
+
+-> Konten basis data gratis dan berlisensi terbuka
+
+-> Konten video gratis dan berlisensi terbuka
+
+
+Daftar referensi:
+
+* OER Quality Considerations: https://openeducationalresources.pbworks.com/w/page/24838164/Quality%20considerations
+
+* CC Certificates Module for Librarian: https://certificates.creativecommons.org/about/certificate-resources-cc-by/
+
+* Unglue.it: https://unglue.it/libraries/
+
+* Library of Toronto guide for librarian: https://guides.library.utoronto.ca/c.php?g=448614&p=3199145
+
+* Monash Library Open Source resources: https://guides.lib.monash.edu/c.php?g=594405
+
+* Pedoman Praktis Penggunaan Lisensi Creative Commons: https://commons.wikimedia.org/wiki/File:Konten_Terbuka_%E2%80%93_Pedoman_Praktis_Penggunaan_Lisensi_Creative_Commons.pdf
