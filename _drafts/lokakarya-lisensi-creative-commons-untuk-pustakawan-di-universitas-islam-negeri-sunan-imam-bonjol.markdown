@@ -4,7 +4,7 @@ title: Lokakarya Lisensi Creative Commons Untuk Pustakawan di Universitas Islam 
 date: 2018-10-04 12:35:00 +07:00
 ---
 
-![19 September 2018 - Lokakarya Lisensi Creative Commons Untuk Pustakawan di UIN Imam Bonjol Padang.JPG](/uploads/19%20September%202018%20-%20Lokakarya%20Lisensi%20Creative%20Commons%20Untuk%20Pustakawan%20di%20UIN%20Imam%20Bonjol%20Padang.JPG)
+![19 September 2018 - Lokakarya Lisensi Creative Commons Untuk Pustakawan di UIN Imam Bonjol Padang.JPG](/uploads/19%20September%202018%20-%20Lokakarya%20Lisensi%20Creative%20Commons%20Untuk%20Pustakawan%20di%20UIN%20Imam%20Bonjol%20Padang.JPG){: .img-responsive .center-block }{: width="500"}
 
 Pada tanggal 19 September 2018, Creative Commons Indonesia (CCID) yang diwakili oleh [Hilman Fathoni](https://id.wikimedia.org/wiki/Hilman_Fathoni) (Legal Lead CCID) berkesempatan menyampaikan materi tentang lisensi Creative Commons (lisensi CC) untuk mahasiswa, pengajar, dan alumni jurusan ilmu perpustakaan di [Fakultas Adab dan Humaniora Universitas Islam Negeri Imam Bonjol](http://fah.uinib.ac.id/) (UIN Imam Bonjol), [Padang](https://id.wikipedia.org/wiki/Kota_Padang). Pustakawan merupakan salah satu agen penting dalam aktivitas berbagi pengetahuan. Mereka memiliki pengetahuan dan kemampuan untuk menyajikan akses pada sumber pengetahuan bagi pihak-pihak yang membutuhkannya. Dalam konteks gerakan keterbukaan, Creative Commons (CC) menyediakan program [sertifikasi](https://certificates.creativecommons.org/) khusus untuk Pustakawan Perguruan Tinggi. Pengadaan sertifikasi ini merupakan salah satu bentuk respon untuk menunjang kemampuan pustakawan sebagai agen persebaran pengetahuan.
 
@@ -84,7 +84,7 @@ Lisensi hak cipta juga dapat dibagi berdasarkan sifat ketentuannya, yaitu:
 * Lisensi Tertutup
   Secara sederhana, lisensi tertutup biasanya dinyatakan dengan ungkapan "all rights reserved" (seluruh hak dipertahankan). Artinya, pihak pencipta atau pemegang hak cipta sepakat dengan mekanisme perlindungan hak cipta tradisional. Di mana seluruh pengguna ciptaan yang dapat mengakses ciptaannya harus mendapatkan izin langsung atau melakukan interaksi secara langsung dengan pencipta atau pemegang hak cipta untuk kemudian menggunakan ciptaan sesuai dengan kebutuhannya. Lisensi ini ada seketika setelah ciptaan diciptakan dan diumumkan.
 
-![gabungan lisensi terbuka.jpg](/uploads/gabungan%20lisensi%20terbuka.jpg)
+![gabungan lisensi terbuka.jpg](/uploads/gabungan%20lisensi%20terbuka.jpg){: .img-responsive .center-block }{: width="500"}
 
 * Lisensi Terbuka
   Lisensi terbuka biasanya, meskipun tidak selalu, dinyatakan dengan ungkapan "some rights reserved" (beberapa hak dipertahankan). Sifat terbuka dari lisensi ini biasanya dinyatakan dengan ketentuan yang langsung mengizinkan penggandaan dan penyebarluasan ciptaan oleh pengguna ciptaan. Lisensi ini biasanya dilengkapi dengan ketentuan pilihan yang nantinya ditentukan oleh pencipta atau pemegang hak cipta untuk mengatur hak penggunaan ciptaan pengguna ciptaan. Jenis lisensi ini diterapkan oleh pencipta atau pemegang hak cipta yang ingin memberikan akses terbuka dan legal kepada pengguna ciptaan dalam aktivitas penggunaan ciptaannya. Penentuan ketentuan lisensi hak cipta oleh pihak pencipta atau pemegang hak cipta sesuai dengan bunyi [Pasal 81 UUHC 2014](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/37). Sifat pembuatanya yang mandiri menyebabkan terciptanya produk lisensi terbuka yang beragam, seperti [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html), [Open Governmet License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), dan termasuk Lisensi Creative Commons.
@@ -135,7 +135,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 \(1) **Spektrum Atribusi (BY)**
 
-![BY-354f63.png](/uploads/BY-354f63.png)
+![BY-354f63.png](/uploads/BY-354f63.png){: .img-responsive .center-block }{: width="500"}
 
 * Isi ketentuan:
 
@@ -153,17 +153,17 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Kombinasi Spektrum:
 
-  * Ada di seluruh kombinasi spektrum lisensi CC.
+  * [Ada di seluruh kombinasi spektrum lisensi CC](http://creativecommons.or.id/lisensi-cc-bahasa-indonesia/).
 
 * Contoh penerapan:
 
-  * Situs web Portal Data Indonesia (CC BY)
+  * [Situs web Portal Data Indonesia](data.go.id) (CC BY)
 
-  * Situs web ikon The Noun Project (CC BY)
+  * [Situs web ikon The Noun Project](thenounproject.com) (CC BY)
 
 \(2) **Spektrum BerbagiSerupa (SA)**
 
-![sa.large.png](/uploads/sa.large.png)
+![sa.large.png](/uploads/sa.large.png){: .img-responsive .center-block }{: width="500"}
 
 * Isi ketentuan:
 
@@ -177,17 +177,17 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Kombinasi Spektrum:
 
-  * Lisensi CC BY-SA (Atribusi-BerbagiSerupa) dan Lisensi CC BY-NC-SA (Atribusi-NonKomersial-BerbagiSerupa)
+  * [Lisensi CC BY-SA (Atribusi-BerbagiSerupa)](https://creativecommons.org/licenses/by/4.0/deed.id) dan [Lisensi CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa)
 
 * Contoh penerapan:
 
-  * Situs web Wikipedia (CC BY-SA)
+  * [Situs web Wikipedia](id.wikipedia.org) (CC BY-SA)
 
-  * Situs web Wikimedia Commons (CC BY-SA)
+  * [Situs web Wikimedia Commons](commons.wikimedia.org) (CC BY-SA)
 
 \(3) **Spektrum NonKomersial (NC)**
 
-![nc.large.png](/uploads/nc.large.png)
+![nc.large.png](/uploads/nc.large.png){: .img-responsive .center-block }{: width="500"}
 
 * Isi ketentuan:
 
@@ -203,13 +203,15 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Kombinasi Spektrum:
 
-  * Lisensi CC BY-NC (Atribusi-NonKomersial), Lisensi CC BY-NC-SA (Atribusi-NonKomersial-BerbagiSerupa), dan Lisensi CC BY-NC-ND (Atribusi-NonKomersial-TanpaTurunan)
+  * [Lisensi CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial), Lisensi [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa), dan Lisensi [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
 
 * Contoh penerapan:
 
   * Proyek Netlabel Yes No Wave Music (CC BY-NC-SA)
 
 \(4) **Spektrum TanpaTurunan (ND)**
+
+![nd.large.png](/uploads/nd.large.png){: .img-responsive .center-block }{: width="500"}
 
 * Isi ketentuan:
 
@@ -225,13 +227,15 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Kombinasi Spektrum:
 
-  * Lisensi CC BY-ND (Atribusi-TanpaTurunan) dan Lisensi CC BY-NC-ND (Atribuso-NonKomersial-TanpaTurunan).
+  * Lisensi [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan) dan [Lisensi CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribuso-NonKomersial-TanpaTurunan).
 
 * Contoh penerapan:
 
-  * Situs web Katadata (CC BY-ND)
+  * [Situs web Katadata](https://katadata.co.id/) (CC BY-ND)
 
 \(5) Creative Commons Nol Dedikasi Domain Publik (CC0)
+
+![zero.large.png](/uploads/zero.large.png){: .img-responsive .center-block }{: width="500"}
 
 * Isi dan fungsi ketentuan:
 
@@ -249,9 +253,11 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Contoh penerapan:
 
-  * Situs web WikiData (CC0)
+  * [Situs web WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page) (CC0)
 
 \(6) Tanda Domain Publik Creative Commons (Tanda Domain Publik CC)
+
+![2010-10-15-publicdomainmark.jpg](/uploads/2010-10-15-publicdomainmark.jpg){: .img-responsive .center-block }{: width="500"}
 
 * Isi dan fungsi ketentuan:
 
