@@ -1,6 +1,6 @@
 ---
 title: Lokakarya Lisensi Creative Commons Untuk Pustakawan di Universitas Islam Negeri
-  Sunan Imam Bonjol
+  Imam Bonjol Padang
 date: 2018-09-20 12:35:00 +07:00
 categories:
 - Acara
@@ -22,7 +22,7 @@ img: "/uploads/19%20September%202018%20-%20Lokakarya%20Lisensi%20Creative%20Comm
 
 ![19 September 2018 - Lokakarya Lisensi Creative Commons Untuk Pustakawan di UIN Imam Bonjol Padang.JPG](/uploads/19%20September%202018%20-%20Lokakarya%20Lisensi%20Creative%20Commons%20Untuk%20Pustakawan%20di%20UIN%20Imam%20Bonjol%20Padang.JPG){: .img-responsive .center-block }{: width="500"}
 
-Pada tanggal 19 September 2018, Creative Commons Indonesia (CCID) yang diwakili oleh [Hilman Fathoni](https://id.wikimedia.org/wiki/Hilman_Fathoni) (Legal Lead CCID) berkesempatan menyampaikan materi tentang lisensi Creative Commons (lisensi CC) untuk mahasiswa, pengajar, dan alumni jurusan ilmu perpustakaan di [Fakultas Adab dan Humaniora Universitas Islam Negeri Imam Bonjol](http://fah.uinib.ac.id/) (UIN Imam Bonjol), [Padang](https://id.wikipedia.org/wiki/Kota_Padang). Pustakawan merupakan salah satu agen penting dalam aktivitas berbagi pengetahuan. Mereka memiliki pengetahuan dan kemampuan untuk menyajikan akses pada sumber pengetahuan bagi pihak-pihak yang membutuhkannya. Dalam konteks gerakan keterbukaan, Creative Commons (CC) menyediakan program [sertifikasi](https://certificates.creativecommons.org/) khusus untuk Pustakawan Perguruan Tinggi. Pengadaan sertifikasi ini merupakan salah satu bentuk respon untuk menunjang kemampuan pustakawan sebagai agen persebaran pengetahuan.
+Pada tanggal 19 September 2018, Creative Commons Indonesia (CCID) yang diwakili oleh [Hilman Fathoni](https://id.wikimedia.org/wiki/Hilman_Fathoni) (Legal Lead CCID) berkesempatan menyampaikan materi tentang lisensi Creative Commons (lisensi CC) untuk mahasiswa, pengajar, dan alumni jurusan ilmu perpustakaan di [Fakultas Adab dan Humaniora Universitas Islam Negeri Imam Bonjol](http://fah.uinib.ac.id/) (UIN Imam Bonjol) [Padang](https://id.wikipedia.org/wiki/Kota_Padang). Pustakawan merupakan salah satu agen penting dalam aktivitas berbagi pengetahuan. Mereka memiliki pengetahuan dan kemampuan untuk menyajikan akses pada sumber pengetahuan bagi pihak-pihak yang membutuhkannya. Dalam konteks gerakan keterbukaan, Creative Commons (CC) menyediakan program [sertifikasi](https://certificates.creativecommons.org/) khusus untuk Pustakawan Perguruan Tinggi. Pengadaan sertifikasi ini merupakan salah satu bentuk respon untuk menunjang kemampuan pustakawan sebagai agen persebaran pengetahuan.
 
 > Isi materi presentasi dalam artikel ini merupakan hasil pengembangan dari materi presentasi asli yang disampaikan pada saat acara berlangsung.
 
