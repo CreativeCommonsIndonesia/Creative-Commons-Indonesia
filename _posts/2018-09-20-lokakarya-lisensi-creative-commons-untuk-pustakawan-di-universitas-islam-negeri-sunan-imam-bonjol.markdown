@@ -384,40 +384,40 @@ Keterkaitan lisensi CC dengan gerakan pendidikan terbuka dapat dilihat pada 5 pr
 
 Contoh nyata dari upaya penyediaan sumber pembelajaran terbuka di Indonesia dapat kita lihat pada inisiatif yang dibuat oleh Universitas Terbuka (UT) dan UKM Literasi Informasi dan Perpustakaan Universitas Syiah Kuala (UnSyiah). UT menyediakan sumber pembelajaran terbuka berupa materi presentasi pengajar dalam format interaktif (SUAKA-UT) serta jurnal terbitan yang menerapkan lisensi terbuka (CC BY-NC-SA). Sumber pembelajaran terbuka yang disediakan oleh UT seluruhnya merupakan sumber pembelajaran yang dikembangkan dan diadaptasi sendiri oleh pihak UT. Lain halnya dengan UKM Literasi Informasi dan Perpustaakn UnSyiah. Perpustakaan Pusat UnSyiah membuat portal sumber pembelajaran terbuka dalam berbagai format, mulai dari teks, gambar, hingga video.
 
-Apabila kita membuka jendela ke luar, kita bisa melihat praktik penyediaan sumber pengetahuan dalam format digital melalui situs web dari Monash University. P[elajari petunjuk-petunjuk buatan Monas University](https://guides.lib.monash.edu/c.php?g=673714) dengan mengklik setiap tautan di bawah ini.
+Apabila kita membuka jendela ke luar, kita bisa melihat praktik penyediaan sumber pengetahuan dalam format digital melalui situs web dari Monash University. [Pelajari petunjuk-petunjuk buatan Monas University](https://guides.lib.monash.edu/c.php?g=673714), termasuk [petunjuk pengenalan lisensi](https://guides.lib.monash.edu/digital-images/copyright), dengan mengklik setiap tautan di bawah ini. 
 
-* [Petunjuk Pengenalan Lisensi](https://guides.lib.monash.edu/digital-images/copyright)
-
-Petunjuk ini adalah upaya penyediaan literasi informasi di ranah digital, salah satunya petunjuk tentang etika penggunaan konten dari sudut pandang perlindungan hak cipta.
-
-    * [Petunjuk konten gambar dan grafis gratis dan berlisensi terbuka](https://guides.lib.monash.edu/digital-images/copyright)
-
-        * [Gambar bebas hak cipta dan berlisensi terbuka dari Monas University](http://www.monash.edu.au/image-library/)
-        * [Gambar bebas hak cipta dan berlisensi terbuka di Flickr](https://www.flickr.com/creativecommons/)
-        * [Gambar bebas hak cipta di Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:PD_Indonesia_Old)
-
-    * Petunjuk konten literatur gratis dan berlisensi terbuka
-        * [Konten literatur gratis dan berlisensi terbuka dari Monash University)(https://guides.lib.monash.edu/c.php?g=594405&p=4122044)
-        * [Konten literatur gratis dan berlisensi terbuka di Internet Archive](https://archive.org/details/texts)
-
-    * [Petunjuk konten peta gratis dan berlisensi terbuka](https://guides.lib.monash.edu/c.php?g=594405&p=4122044)
-        * [Open Street Map](https://www.openstreetmap.org/)
-
-    * [Petunjuk konten rekaman suara gratis dan berlisensi terbuka](http://guides.lib.monash.edu/c.php?g=594406)
-        * [Freemusicarchive](http://freemusicarchive.org/)
+* [Petunjuk konten gambar dan grafis gratis dan berlisensi terbuka](https://guides.lib.monash.edu/digital-images/copyright)
+    * [Gambar bebas hak cipta dan berlisensi terbuka dari Monas University](http://www.monash.edu.au/image-library/)
+    * [Gambar bebas hak cipta dan berlisensi terbuka di Flickr](https://www.flickr.com/creativecommons/)
+    * [Gambar bebas hak cipta di Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:PD_Indonesia_Old)
+    
+ * Petunjuk konten literatur gratis dan berlisensi terbuka
+    * [Konten literatur gratis dan berlisensi terbuka dari Monash University)(https://guides.lib.monash.edu/c.php?g=594405&p=4122044)
+    * [Konten literatur gratis dan berlisensi terbuka di Internet Archive](https://archive.org/details/texts)
+    
+ * [Petunjuk konten peta gratis dan berlisensi terbuka](https://guides.lib.monash.edu/c.php?g=594405&p=4122044)
+    * [Open Street Map](https://www.openstreetmap.org/)
+    
+ * [Petunjuk konten rekaman suara gratis dan berlisensi terbuka](http://guides.lib.monash.edu/c.php?g=594406)
+    * [Freemusicarchive](http://freemusicarchive.org/)
 
 * Contoh lain:
 
-    * Konten teks pendidikan gratis dan berlisensi terbuka
-        * [College Open Textbooks](http://www.collegeopentextbooks.org/)
-        * [Open Textbook Library](https://open.umn.edu/opentextbooks/)
-        * [OER Commons](https://www.oercommons.org/)
-        * [Directory of Open Access Journal](doaj.org)
+  * Konten teks pendidikan gratis dan berlisensi terbuka
 
-    * Konten basis data gratis dan berlisensi terbuka
-        * [Situs web basis data gratis dan berlisensi terbuka menurut daerah dan bidang](http://odlog.febri.web.id/index.php/od/org/)
+    * [College Open Textbooks](http://www.collegeopentextbooks.org/)
 
-    * Cara mencari ciptaan berlisensi CC di [Youtube](http://creativecommons.or.id/2018/02/panduan-mencari-konten-video-berlisensi-creative-commons-di-situs-web-youtube/), [Google Images Search](http://creativecommons.or.id/2018/02/panduan-mencari-gambar-berlisensi-creative-commons-melalui-mesin-pencari-gambar-google/), dan [CC Search Beta](https://ccsearch.creativecommons.org/)
+    * [Open Textbook Library](https://open.umn.edu/opentextbooks/)
+
+    * [OER Commons](https://www.oercommons.org/)
+
+    * [Directory of Open Access Journal](doaj.org)
+
+  * Konten basis data gratis dan berlisensi terbuka
+
+    * [Situs web basis data gratis dan berlisensi terbuka menurut daerah dan bidang](http://odlog.febri.web.id/index.php/od/org/)
+
+  * Cara mencari ciptaan berlisensi CC di [Youtube](http://creativecommons.or.id/2018/02/panduan-mencari-konten-video-berlisensi-creative-commons-di-situs-web-youtube/), [Google Images Search](http://creativecommons.or.id/2018/02/panduan-mencari-gambar-berlisensi-creative-commons-melalui-mesin-pencari-gambar-google/), dan [CC Search Beta](https://ccsearch.creativecommons.org/)
 
 **Daftar referensi**:
 
