@@ -84,7 +84,7 @@ Lisensi hak cipta juga dapat dibagi berdasarkan sifat ketentuannya, yaitu:
 * Lisensi Tertutup
   Secara sederhana, lisensi tertutup biasanya dinyatakan dengan ungkapan "all rights reserved" (seluruh hak dipertahankan). Artinya, pihak pencipta atau pemegang hak cipta sepakat dengan mekanisme perlindungan hak cipta tradisional. Di mana seluruh pengguna ciptaan yang dapat mengakses ciptaannya harus mendapatkan izin langsung atau melakukan interaksi secara langsung dengan pencipta atau pemegang hak cipta untuk kemudian menggunakan ciptaan sesuai dengan kebutuhannya. Lisensi ini ada seketika setelah ciptaan diciptakan dan diumumkan.
 
-
+![gabungan lisensi terbuka.jpg](/uploads/gabungan%20lisensi%20terbuka.jpg)
 
 * Lisensi Terbuka
   Lisensi terbuka biasanya, meskipun tidak selalu, dinyatakan dengan ungkapan "some rights reserved" (beberapa hak dipertahankan). Sifat terbuka dari lisensi ini biasanya dinyatakan dengan ketentuan yang langsung mengizinkan penggandaan dan penyebarluasan ciptaan oleh pengguna ciptaan. Lisensi ini biasanya dilengkapi dengan ketentuan pilihan yang nantinya ditentukan oleh pencipta atau pemegang hak cipta untuk mengatur hak penggunaan ciptaan pengguna ciptaan. Jenis lisensi ini diterapkan oleh pencipta atau pemegang hak cipta yang ingin memberikan akses terbuka dan legal kepada pengguna ciptaan dalam aktivitas penggunaan ciptaannya. Penentuan ketentuan lisensi hak cipta oleh pihak pencipta atau pemegang hak cipta sesuai dengan bunyi [Pasal 81 UUHC 2014](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/37). Sifat pembuatanya yang mandiri menyebabkan terciptanya produk lisensi terbuka yang beragam, seperti [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html), [Open Governmet License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), dan termasuk Lisensi Creative Commons.
@@ -135,6 +135,8 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 \(1) **Spektrum Atribusi (BY)**
 
+![BY-354f63.png](/uploads/BY-354f63.png)
+
 * Isi ketentuan:
 
   * Kewajiban untuk menyebutkan nama pencipta atau pemegang hak cipta dan sumber ciptaan.
@@ -161,6 +163,8 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 \(2) **Spektrum BerbagiSerupa (SA)**
 
+![sa.large.png](/uploads/sa.large.png)
+
 * Isi ketentuan:
 
   * Kewajiban untuk menerapkan lisensi yang sama pada setiap hasil gubahan dan karya turunan
@@ -182,6 +186,8 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
   * Situs web Wikimedia Commons (CC BY-SA)
 
 \(3) **Spektrum NonKomersial (NC)**
+
+![nc.large.png](/uploads/nc.large.png)
 
 * Isi ketentuan:
 
