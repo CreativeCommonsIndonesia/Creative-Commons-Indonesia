@@ -4,87 +4,79 @@ title: Lokakarya Lisensi Creative Commons di Wikimedia Commons Untuk Program Wik
 date: 2018-10-02 20:41:00 +07:00
 ---
 
-![800px-4_September_2018_Sosialisasi_WCB_dan_CC_di_Aceh.jpg](/uploads/800px-4_September_2018_Sosialisasi_WCB_dan_CC_di_Aceh.jpg)
+![combined.jpg](/uploads/combined.jpg){: .img-responsive .center-block }{: width="500"}
 
-![20_Agustus_2018_lokakarya_ccid_di_wiki_cinta_budaya,_Palu.jpg](/uploads/20_Agustus_2018_lokakarya_ccid_di_wiki_cinta_budaya,_Palu.jpg)
-
-![800px-21_September_2018-_Sosialisasi_Wiki_Cinta_Budaya_dan_CC_di_Sorong.jpg](/uploads/800px-21_September_2018-_Sosialisasi_Wiki_Cinta_Budaya_dan_CC_di_Sorong.jpg)
-
-Pada tanggal 20 Agustus, 4 ,dan 20 September tahun 2018, Creative Commons Indonesia (CCID) yang diwakili oleh Fitriayu berkesempatan menyampaikan materi tentang lisensi Creative Commons (lisensi CC) di Wikiemdia Commons bekerjasama dengan Wikimedia Indonesia (WMID) untuk program Wiki Cinta Budaya 2018 (WCB). WCB adalah kompetisi foto mengenai budaya Indonesia yang berupa tari, musik, permainan tradisional, makanan, minuman, dan lain-lain yang dilakukan secara daring di situs Wikimedia Commons. Wikimedia Commons adalah salah satu proyek Wikimedia Foundation, situs web yang berisi koleksi media (foto, video, dan audio) yang menggunakan lisensi Creative Commons. Dalam hal ini, CCID membantu WMID untuk memberikan pemahaman kepada peserta sosialisasi WCB mengenai cara kerja lisensi terbuka di Wikimedia Commons.
+Pada tanggal 20 Agustus, 4 September ,dan 20 September tahun 2018, Creative Commons Indonesia (CCID) yang diwakili oleh Fitriayu berkesempatan menyampaikan materi tentang lisensi Creative Commons (lisensi CC) di Wikiemdia Commons bekerjasama dengan Wikimedia Indonesia (WMID) untuk program [Wiki Cinta Budaya 2018 (WCB)](s.id/wcb2018). WCB adalah kompetisi foto mengenai budaya Indonesia yang berupa tari, musik, permainan tradisional, makanan, minuman, dan lain-lain yang dilakukan secara daring di situs [Wikimedia Commons](commons.wikimedia.org). Wikimedia Commons adalah salah satu proyek Wikimedia Foundation, situs web yang berisi koleksi media (foto, video, dan audio) yang menggunakan lisensi Creative Commons. Dalam hal ini, CCID membantu WMID untuk memberikan pemahaman kepada peserta sosialisasi WCB mengenai cara kerja lisensi terbuka di Wikimedia Commons.
 
 ## **Perlindungan Hak Cipta**
 
 ---
 
-Fitriayu membuka presentasi dengan penjelasan tentang jenis-jenis obyek perlindungan hak cipta (lihat pasal 40 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta, [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19)[2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Ciptaan-ciptaan ini lah yang membedakan mekanisme perlindungan hak cipta dengan mekanisme perlindungan hak Kekayaan Intelektual (KI) lainnya. Mekanisme perlindungan KI lain seperti Hak Merek dan Hak Paten berbeda obyek perlindungannya dengan hak cipta. Meskipun ketiga mekanisme perlindungan tersebut semuanya berada di bawah terminologi perlindungan kekayaan intelektual. Mekanisme perlindungan hak cipta mewajibkan setiap pengguna ciptaan untuk memperoleh izin penggunaan (penggandaan, penyebarluasan, penggubahan, dan penggunaan ciptaan dalam kepentingan komersial) secara langsung dari pencipta atau pemegang hak cipta dalam aktivitas penggunaan ciptaan.
+Presentasi dibuka dengan penjelasan tentang jenis-jenis obyek perlindungan hak cipta (lihat pasal 40 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta, [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19), [2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Ciptaan-ciptaan ini lah yang membedakan mekanisme perlindungan hak cipta dengan mekanisme perlindungan hak Kekayaan Intelektual (KI) lainnya. Mekanisme perlindungan KI lain seperti Hak Merek dan Hak Paten berbeda obyek perlindungannya dengan hak cipta. Meskipun ketiga mekanisme perlindungan tersebut semuanya berada di bawah terminologi perlindungan kekayaan intelektual. Mekanisme perlindungan hak cipta mewajibkan setiap pengguna ciptaan untuk memperoleh izin penggunaan (penggandaan, penyebarluasan, penggubahan, dan penggunaan ciptaan dalam kepentingan komersial) secara langsung dari pencipta atau pemegang hak cipta dalam aktivitas penggunaan ciptaan.
 
 ## **Lisensi Hak Cipta**
 
 ---
 
-Presentasi kemudian dilanjutkan ke bagian penjelasan mengenai dasar-dasar lisensi hak cipta dalam konteks Indonesia. Menurut Angka 20 Ketentuan Umum UUHC 2014, lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Lisensi hak cipta dapat menjadi alat penyederhana bahasa hukum dari UUHC. Dengan begitu dialog antara pencipta atau pemegang hak cipta akan menjadi semakin mudah.
+Presentasi kemudian dilanjutkan ke bagian penjelasan mengenai dasar-dasar lisensi hak cipta dalam konteks Indonesia. Menurut [Angka 20 Ketentuan Umum Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014)](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/4), lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Lisensi hak cipta dapat menjadi alat penyederhana bahasa hukum dari UUHC. Dengan begitu dialog antara pencipta atau pemegang hak cipta akan menjadi semakin mudah.
 
 Karena tidak semua pihak-pihak terkait dalam hubungan hukum di ranah perlindungan hak cipta memiliki pengetahuan atau dapat langsung memahami mekanisme perlindungan hak cipta dengan membaca peraturannya. Selain itu dengan mengetahui perbedaan jenis lisensi dan isi ketentuannya, pengguna ciptaan dapat membedakan mana ciptaan yang dapat diakses secara gratis saja dan mana ciptaan yang dapat diakses secara gratis dan terbuka. Maksud terbuka dalam hal ini adalah ciptaan-ciptaan tersebut selain dapat diunduh dan disebarluaskan secara gratis, juga mengandung izin langsung yang memungkinkan pengguna ciptaan untuk menggubah atau menggunakan ciptaan dalam kepentingan komersial.
 
 Lisensi hak cipta dapat dibagi berdasarkan sifat ketentuannya, yaitu:
 
-1. Lisensi Tertutup
-   Secara sederhana, lisensi tertutup biasanya dinyatakan dengan ungkapan "all rights reserved" (seluruh hak dipertahankan). Artinya, pihak pencipta atau pemegang hak cipta sepakat dengan mekanisme perlindungan hak cipta tradisional. Di mana seluruh pengguna ciptaan yang dapat mengakses ciptaannya harus mendapatkan izin langsung atau melakukan interaksi secara langsung dengan pencipta atau pemegang hak cipta untuk kemudian menggunakan ciptaan sesuai dengan kebutuhannya. Lisensi ini ada seketika setelah ciptaan diciptakan dan diumumkan.
+* Lisensi Tertutup biasanya dinyatakan dengan ungkapan "all rights reserved" (seluruh hak dipertahankan). Artinya, pihak pencipta atau pemegang hak cipta sepakat dengan mekanisme perlindungan hak cipta tradisional. Di mana seluruh pengguna ciptaan yang dapat mengakses ciptaannya harus mendapatkan izin langsung atau melakukan interaksi secara langsung dengan pencipta atau pemegang hak cipta untuk kemudian menggunakan ciptaan sesuai dengan kebutuhannya. Lisensi ini ada seketika setelah ciptaan diciptakan dan diumumkan.
 
-2. Lisensi Terbuka
-   Lisensi terbuka biasanya, meskipun tidak selalu, dinyatakan dengan ungkapan "some rights reserved" (beberapa hak dipertahankan). Sifat terbuka dari lisensi ini biasanya dinyatakan dengan ketentuan yang langsung mengizinkan penggandaan dan penyebarluasan ciptaan oleh pengguna ciptaan. Lisensi ini biasanya dilengkapi dengan ketentuan pilihan yang nantinya ditentukan oleh pencipta atau pemegang hak cipta untuk mengatur hak penggunaan ciptaan pengguna ciptaan. Jenis lisensi ini diterapkan oleh pencipta atau pemegang hak cipta yang ingin memberikan akses terbuka dan legal kepada pengguna ciptaan dalam aktivitas penggunaan ciptaannya. Penentuan ketentuan lisensi hak cipta oleh pihak pencipta atau pemegang hak cipta sesuai dengan bunyi [Pasal 81 UUHC 2014](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/37). Sifat pembuatannya yang mandiri menyebabkan terciptanya produk lisensi terbuka yang beragam, seperti [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html), [Free Art License](http://artlibre.org/licence/lal/en/), dan termasuk Lisensi Creative Commons.
+* Lisensi Terbuka biasanya, meskipun tidak selalu, dinyatakan dengan ungkapan "some rights reserved" (beberapa hak dipertahankan). Sifat terbuka dari lisensi ini biasanya dinyatakan dengan ketentuan yang langsung mengizinkan penggandaan dan penyebarluasan ciptaan oleh pengguna ciptaan. Lisensi ini biasanya dilengkapi dengan ketentuan pilihan yang nantinya ditentukan oleh pencipta atau pemegang hak cipta untuk mengatur hak penggunaan ciptaan pengguna ciptaan. Jenis lisensi ini diterapkan oleh pencipta atau pemegang hak cipta yang ingin memberikan akses terbuka dan legal kepada pengguna ciptaan dalam aktivitas penggunaan ciptaannya. Penentuan ketentuan lisensi hak cipta oleh pihak pencipta atau pemegang hak cipta sesuai dengan bunyi [Pasal 81 UUHC 2014](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/37). Sifat pembuatannya yang mandiri menyebabkan terciptanya produk lisensi terbuka yang beragam, seperti [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html), [Free Art License](http://artlibre.org/licence/lal/en/), dan termasuk Lisensi Creative Commons.
 
-## **Lisensi Creative Commons**
+## **Lisensi Creative Commons di Wikimedia Commons**
 
 ---
 
-Fitriayu kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC apa saja yang tersedia di Wikimedia Commons. Untuk menunjukannya, ia menandai lisensi-lisensi yang berlaku di Wikimedia Commons dengan logo Wikimedia Commons pada [salindianya](https://www.slideshare.net/CreativeCommonsIndonesia/ccidwmid-15-agustus-2018-pengantar-wikimedia-commons-wikiselam-project). Wikimedia Commons hanya menyediakan dua pilihan lisensi CC di situs webnya. Ketentuan-ketentuan lisensi tersebut ialah:
+Wikimedia Commons hanya menyediakan dua pilihan lisensi CC di situs webnya. Ketentuan-ketentuan lisensi tersebut ialah:
 
 \(1) Lisensi [CC BY (Atribusi)](https://creativecommons.org/licenses/by/4.0/deed.id)
 
 * Isi ketentuan:
 
-  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk:
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun, lalu menggubah, mengubah, dan membuat turunan dari ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
 
-  * Dengan ketentuan:
+  * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. 
 
 \(2) Lisensi [CC BY-SA (Atribusi-BerbagiSerupa)](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
 
 * Isi ketentuan:
 
-  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk:
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun, lalu menggubah, mengubah, dan membuat turunan dari ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
 
-  * Dengan ketentuan:
+  * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Pengguna ciptaan juga harus menyebarluaskan hasil perubahan atau penggubahan di bawah lisensi yang sama dengan materi asli.
 
 \(3) Tanda Domain Publik Creative Commons (Tanda Domain Publik CC)
 
 * Isi dan fungsi ketentuan:
-  
+
   * Hanya diterapkan pada ciptaan yang sudah habis masa berlaku perlindungan hak ciptanya.
 
   * Banyak digunakan oleh lembaga-lembaga seperti galeri, perpustakaan, balai pengarsipan, dan museum.
 
 Masa berlaku perlindungan hak cipta diatur melalui Pasal 57-61 UUHC 2014. Untuk memahami masa berlaku perlindungan hak cipta harus merujuk pada pembagian ketentuan berdasarkan ciptaannya. Paling tidak kita dapat memahami hal tersebut dengan memisahkannya menjadi dua bagian:
 
-1. Teks, rekaman suara, karya seni rupa, dan lain-lain (Pasal 58);
+ * Teks, rekaman suara, karya seni rupa, dan lain-lain (Pasal 58)
    Masa berlaku perlindungan hak cipta untuk ciptaan-ciptaan yang disebutkan dalam Pasal 58 adalah seumur hidup pencipta ditambah 70 tahun, dan mulai masuk ke domain publik pada tanggal 1 januari satu tahun setelahnya. Apabila  ciptaan diciptakan atau pemegang hak ciptanya dua orang atau lebih maka masa berlaku dihitung dari pencipta atau pemegang hak cipta yang meninggal paling akhir. Selain itu, apabila ciptaan terkait hak ciptanya dipegang oleh badan hukum, maka masa berlakunya adalah 50 tahun setelah ciptaan pertama kali diumumkan. Apabila penciptanya tidak diketahui (orphaned works) maka ciptaan tersebut hak ciptanya dipegang oleh negara, dan masa berlakunya habis 50 tahun setelah diumumkan.
 
-2. Karya fotografi, karya sinematografi, program komputer dan lain-lain (Pasal 59);
+* Karya fotografi, karya sinematografi, program komputer dan lain-lain (Pasal 59);
    Masa berlaku perlindungan hak cipta untuk semua ciptaan yang disebutkan dalam Pasal 59 adalah 50 tahun sejak pertama kali ciptaan diumumkan.
 
 Ketentuan di atas ialah informasi penentuan masa berlaku perlindungan hak ekonomi. Ketentuan masa berlaku perlindungan hak moral memiliki mekanisme yang sedikit berbeda. Pada prinsipnya hak moral berlaku tanpa batas waktu. Namun, hak moral yang berfungsi untuk melindungi ciptaan seorang pencipta atau pemegang hak cipta dari aktivitas pengubahan dan/atau penggubahan ciptaan akan hilang mengikuti ketentuan masa berlaku perlindungan hak ekonomi.
 
-Fitriayu menyajikan dua contoh penerapan ketentuan lisensi CC dan Tanda Domain Publik Creative Commons di Wikimedia Commons dalam konteks Indonesia, yaitu:
+Dua contoh penerapan ketentuan lisensi CC dan Tanda Domain Publik Creative Commons di Wikimedia Commons dalam konteks Indonesia dapat ditemukan di:
 
 1. Proyek digitalisasi konten Wikimedia Indonesia untuk Majalah Horison (264 edisi, 1966-1990) - CC BY-SA (Atribusi-BerbagiSerupa)
 
 2. Proyek digitalisasi konten Wikimedia Indonesia untuk Museum Dewantara Kirti Griya (50 buku) - Tanda Domain Publik Creative Commons
 
-Pada bagian berikutnya Fitriayu kemudian menjelaskan kepada peserta tentang ketentuan-ketentuan lisensi CC yang tidak ada di Wikimedia Commons. 
+Ketentuan lisensi CC lain yang tidak ada di Wikimedia Commons ialah:
 
-Ketentuan lisensi lain yang dimaksud ialah:
-
-(1)[CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial);
+\(1)[CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial);
 
 * Isi ketentuan:
 
@@ -92,7 +84,7 @@ Ketentuan lisensi lain yang dimaksud ialah:
 
   * Dengan ketentuan:
 
-(2)[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa);
+\(2)[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa);
 
 * Isi ketentuan:
 
@@ -100,7 +92,7 @@ Ketentuan lisensi lain yang dimaksud ialah:
 
   * Dengan ketentuan:
 
-(3)[CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan);
+\(3)[CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan);
 
 * Isi ketentuan:
 
@@ -108,7 +100,7 @@ Ketentuan lisensi lain yang dimaksud ialah:
 
   * Dengan ketentuan:
 
-(4)[CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
+\(4)[CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
 
 * Isi ketentuan:
 
@@ -116,7 +108,7 @@ Ketentuan lisensi lain yang dimaksud ialah:
 
   * Dengan ketentuan:
 
-Dalam presentasinya Fitriayu juga memaparkan beberapa pertimbangan yang harus diketahui pencipta atau pemegang hak cipta (pemberi lisensi) sebelum menerapkan lisensi tersebut pada ciptaanya, yaitu sebagai berikut: (Daftar ini merupakan hasil pembaruan yang merujuk ketentuan dari [laman ini](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors))
+Beberapa pertimbangan yang harus diketahui pencipta atau pemegang hak cipta (pemberi lisensi) sebelum menerapkan lisensi tersebut pada ciptaan yaitu sebagai berikut: (Daftar ini merupakan hasil pembaruan yang merujuk ketentuan dari [laman ini](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors))
 
 * **Ketentuan lisensi yang diterapkan tidak dapat dicabut (irrevocable)**;
 
@@ -152,12 +144,12 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
 
 Secara teknis bentuk lisensi Creative Commons sesuai dengan bunyi Angka 20 Ketentuan Umum UUHC 2014 yaitu sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Dalam hal ini Lisensi CC telah memenuhi kriteria sebagai izin tertulis dan berfungi sebagai pemberitahuan hak cipta tentang hak penggunaan yang diberikan kepada pengguna ciptaan. Bunyi pasal tersebut menjadi salah satu landasan hukum pemberlakuan lisensi CC di Indonesia.
 
-Fitri kemudian memberikan petunjuk mudah untuk mengingat perbedaan prinsip "all rights reserved" dan "some rights reserved". Pada intinya kita dapat menganalogikan prinsip "all rights reserved" seperti lampu merah, yang mewajibkan pengguna jalan untuk menunggu agar lampu berubah warnanya menjadi hijau untuk melanjutkan perjalanan. Maksud dari analogi ini adalah seluruh pengguna ciptaan baru dapat menggunakan ciptaan sesuai dengan kebutuhannya apabila izin langsung dari pencipta atau pemegang hak cipta telah diberitahukan. Kemudian prinsip "some rights reserved" dapat dianalogikan dengan lampu hijau. Maksud dari analogi ini adalah seluruh pengguna ciptaan secara langsung mendapatkan izin untuk menggunakan ciptaan sesuai dengan kebutuhannya.
+Pada intinya kita dapat menganalogikan prinsip "all rights reserved" seperti lampu merah, yang mewajibkan pengguna jalan untuk menunggu agar lampu berubah warnanya menjadi hijau untuk melanjutkan perjalanan. Maksud dari analogi ini adalah seluruh pengguna ciptaan baru dapat menggunakan ciptaan sesuai dengan kebutuhannya apabila izin langsung dari pencipta atau pemegang hak cipta telah diberitahukan. Kemudian prinsip "some rights reserved" dapat dianalogikan dengan lampu hijau. Maksud dari analogi ini adalah seluruh pengguna ciptaan secara langsung mendapatkan izin untuk menggunakan ciptaan sesuai dengan kebutuhannya.
 
-Sebagai penutup presentasinya, Fitri menunjukan beberapa tempat untuk mencari ciptaan berlisensi CC dalam konteks pencarian konten tentang kebudayaan, yaitu:
+Tempat untuk mencari ciptaan berlisensi CC dalam konteks pencarian konten tentang kebudayaan ialah:
 
-(1) Situs web Wikimedia Commons
+\(1) Situs web Wikimedia Commons
 
-(2) Mesin Pencari Creative Commons
+\(2) Mesin Pencari Creative Commons
 
-(3) Kumpulan Buku Cerita Anak-Anak di StoryWeaver
+\(3) Kumpulan Buku Cerita Anak-Anak di StoryWeaver
