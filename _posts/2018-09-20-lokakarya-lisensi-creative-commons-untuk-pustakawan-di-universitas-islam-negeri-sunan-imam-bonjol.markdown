@@ -392,7 +392,7 @@ Apabila kita membuka jendela ke luar, kita bisa melihat praktik penyediaan sumbe
     * [Gambar bebas hak cipta di Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:PD_Indonesia_Old)
     
  * Petunjuk konten literatur gratis dan berlisensi terbuka
-    * [Konten literatur gratis dan berlisensi terbuka dari Monash University)(https://guides.lib.monash.edu/c.php?g=594405&p=4122044)
+    * [Konten literatur gratis dan berlisensi terbuka dari Monash University](https://guides.lib.monash.edu/c.php?g=594405&p=4122044)
     * [Konten literatur gratis dan berlisensi terbuka di Internet Archive](https://archive.org/details/texts)
     
  * [Petunjuk konten peta gratis dan berlisensi terbuka](https://guides.lib.monash.edu/c.php?g=594405&p=4122044)
