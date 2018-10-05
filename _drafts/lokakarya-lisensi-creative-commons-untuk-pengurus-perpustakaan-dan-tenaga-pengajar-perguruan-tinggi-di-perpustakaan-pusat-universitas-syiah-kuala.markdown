@@ -306,12 +306,15 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 Contoh-contoh yang digunakan pada penjelasan di atas ialah proyek atau situs web yang menerapkan one license policy atau satu ketentuan lisensi untuk semua konten. Untuk itu Hilman menambahkan proyek atau situs web lain yang menerapkan banyak ketentuan lisensi CC pada konten-kontennya. Dengan adanya ketentuan semacam ini, proyek-proyek atau situs web-situs web ini memberikan pilihan kepada pengguna ciptaan untuk memilih ciptaan berdasarkan ketentuan lisensi yang sesuai dengan kebutuhannya. Hal semacam ini diperlukan karena rasio atau spektrum dipilih dan diterapkan sesuai dengan motif penciptaan ciptaan dari masing-masing pencipta atau pemegang hak cipta.
 
 \(1) Creative Commons di Flickr
+
 * Flickr memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan ketentuan all rights reserved, enam pilihan lisensi CC, lisensi CC0 Dedikasi Domain Publik, dan Tanda Domain Publik CC.
 
 \(2) Creative Commons di Freemusicarchive (FMA)
+
 * FMA memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan ketentuan all rights reserved, enam pilihan lisensi CC, dan Tanda Domain Publik CC.
 
 \(3) Creative Commons di Directory of Open Access Journal (DOAJ)
+
 * DOAJ memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan satu diantara enam pilihan lisensi CC, dan Tanda Domain Publik CC.
 
 Kemudian, Hilman memberikan petunjuk teknis untuk menerapkan lisensi CC pada ciptaan kepada para peserta.
