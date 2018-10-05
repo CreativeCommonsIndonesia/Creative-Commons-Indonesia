@@ -4,15 +4,15 @@ title: Lokakarya Lisensi Creative Commons Untuk Pustakawan di Universitas Islam 
 date: 2018-10-04 12:35:00 +07:00
 ---
 
-![19 September 2018 - Lokakarya Lisensi Creative Commons Untuk Pustakawan di UIN Imam Bonjol Padang.JPG](/uploads/19%20September%202018%20-%20Lokakarya%20Lisensi%20Creative%20Commons%20Untuk%20Pustakawan%20di%20UIN%20Imam%20Bonjol%20Padang.JPG){: .img-responsive .center-block }{: width="500"}
+![19 September 2018 - Lokakarya Lisensi Creative Commons Untuk Pustakawan di UIN Imam Bonjol Padang.JPG](/uploads/19%20September%202018%20-%20Lokakarya%20Lisensi%20Creative%20Commons%20Untuk%20Pustakawan%20di%20UIN%20Imam%20Bonjol%20Padang.JPG)
 
-Pada tanggal 19 September 2018, Creative Commons Indonesia (CCID) yang diwakili oleh Hilman Fathoni (Legal Lead CCID berkesempatan menyampaikan materi tentang lisensi Creative Commons (lisensi CC) untuk mahasiswa, pengajar, dan alumni jurusan ilmu perpustakaan di Fakultas Adab dan Humaniora Universitas Islam Negeri Imam Bonjol (UIN Imam Bonjol), Padang. Pustakwan merupakan salah satu agen penting dalam aktivitas berbagi pengetahuan. Mereka memiliki pengetahuan dan kemampuan untuk menyajikan akses pada sumber pengetahuan bagi pihak-pihak yang membutuhkannya. Dalam konteks gerakan keterbukaan, Creatie Commons (CC) menyediakan program sertifikasi khusus untuk Pustakawan Perguruan Tinggi. Pengadaan sertifikasi ini merupakan salah satu bentuk respon untuk menunjang kemampuan pustakawan sebagai agen persebaran pengetahuan.
+Pada tanggal 19 September 2018, Creative Commons Indonesia (CCID) yang diwakili oleh [Hilman Fathoni](https://id.wikimedia.org/wiki/Hilman_Fathoni) (Legal Lead CCID) berkesempatan menyampaikan materi tentang lisensi Creative Commons (lisensi CC) untuk mahasiswa, pengajar, dan alumni jurusan ilmu perpustakaan di [Fakultas Adab dan Humaniora Universitas Islam Negeri Imam Bonjol](http://fah.uinib.ac.id/) (UIN Imam Bonjol), [Padang](https://id.wikipedia.org/wiki/Kota_Padang). Pustakawan merupakan salah satu agen penting dalam aktivitas berbagi pengetahuan. Mereka memiliki pengetahuan dan kemampuan untuk menyajikan akses pada sumber pengetahuan bagi pihak-pihak yang membutuhkannya. Dalam konteks gerakan keterbukaan, Creative Commons (CC) menyediakan program [sertifikasi](https://certificates.creativecommons.org/) khusus untuk Pustakawan Perguruan Tinggi. Pengadaan sertifikasi ini merupakan salah satu bentuk respon untuk menunjang kemampuan pustakawan sebagai agen persebaran pengetahuan.
 
 ## **Perlindungan Hak Cipta**
 
 ---
 
-Presentasi dimulai dengan penjelasan tentang konsep perlindungan hak Kekayaan Intelektual (KI) di Indonesia. Mekanisme perlindungan KI lain seperti Hak Merek dan Hak Paten berbeda obyek perlindungannya dengan hak cipta. Meskipun ketiga mekanisme perlindungan tersebut semuanya berada di bawah terminologi perlindungan kekayaan intelektual. Setiap mekanisme yang ada memiliki dasar hukum yang berbeda. Perlindungan hak cipta diatur melalui Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014).
+Presentasi dimulai dengan penjelasan tentang konsep perlindungan hak Kekayaan Intelektual (KI) di Indonesia. Mekanisme perlindungan KI lain seperti Hak Merek dan Hak Paten berbeda obyek perlindungannya dengan hak cipta. Meskipun ketiga mekanisme perlindungan tersebut semuanya berada di bawah terminologi perlindungan kekayaan intelektual. Setiap mekanisme yang ada memiliki dasar hukum yang berbeda. Perlindungan hak cipta diatur melalui [Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta](https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_28_Tahun_2014) (UUHC 2014).
 
 Mekanisme perlindungan KI masing-masing dibedakan dari ruang lingkup atau obyek perlindungannya. Obyek perlindungan hak cipta diatur melalui Pasal 40 Undang-UUHC 2014 (lihat rujukan: [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19), [2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Ciptaan-ciptaan ini lah yang membedakan mekanisme perlindungan hak cipta dengan mekanisme perlindungan KI lainnya. Namun, pada dasarnya hubungan hukum dalam mekanisme perlindungan KI meliputi subyek hukum yang serupa, meskipun tidak sama.
 
@@ -22,9 +22,9 @@ Pada hakikatnya, seluruh obyek perlindungan hak cipta mewajibkan setiap pengguna
 
 Hak ekonomi membantu pencipta atau pemegang hak cipta untuk menjaga manfaat komersial dari ciptaannya. Maksudnya supaya pemasukan atau royalti dari setiap penggunaan ciptaannya dalam aktivitas komersial dapat selalu tersalurkan kepada pihak pencipta atau pemegang hak cipta. Setiap pengguna ciptaan yang hendak menggunakan suatu ciptaan wajib memperoleh izin langsung terlebih dahulu dari pihak pencipta atau pemegang hak cipta. Namun, bisa saja dalam hal ini pencita atau pemegang hak cipta mengecualikan pengguna ciptaan dari beban royalti jika memang disepakati demikian dalam konteks penggunaan tertentu.
 
-Hal yang disampaikan selanjutnya adalah beberapa elemen dari Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014) sebagai fungsi sosial dari peraturan tersebut. Elemen-element tersebut antara lain adalah:
+Hal yang disampaikan selanjutnya adalah beberapa elemen dari UUHC 2014 sebagai fungsi sosial dari peraturan tersebut. Elemen-elemen tersebut antara lain adalah:
 
-* Ciptaan-ciptaan yang tidak dilindungi (Pasal 42)
+* Ciptaan-ciptaan yang tidak dilindungi ([Pasal 42](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20))
   Dalam bagian ini, UUHC 2014 menjabarkan beberapa jenis ciptaan yang tidak dapat dilindungi oleh mekanisme perlindungan hak cipta di Indonesia. Arti dari pengecualian ciptaan-ciptaan ini dari mekanisme perlindungan hak cipta ialah seluruh pengguna ciptaan dapat menggunakan ciptaan-ciptaan tersebut, termasuk untuk kepentingan komersial, tanpa izin langsung dari pihak terkait (pencipta atau pemegang hak cipta). Namun, pengguna ciptaan wajib untuk tetap menyebutkan nama pencipta atau pemegang hak cipta dan/atau sumber ciptaan dalam setiap aktivitas penggunaan. Dan, setiap aktivitas penggunaan bukan merupakan aktivitas yang termasuk dalam kategori perbuatan melanggar hukum ataupun standar etika yang berlaku.
 
   * Hasil Rapat Terbuka Lembaga Negara ([contoh 1](https://www.youtube.com/user/PemprovDKI));
@@ -37,12 +37,12 @@ Hal yang disampaikan selanjutnya adalah beberapa elemen dari Undang-Undang No. 2
     Sama halnya dengan hasil rapat terbuka lembaga negara, yang dirujuk sebagai ciptaan yang langsung dapat digunakan oleh pengguna ciptaan ialah **isi** dari pidato-pidato tersebut. Jika sebuah media mengutip isi pidato tersebut, maka yang dapat pengguna ciptaan langsung gunakan adalah kutipan isi pidatonya, bukan keseluruhan artikel yang mengandung kutipan pidato tersebut.
 
   * Putusan Pengadilan atau Penetapan Hakim ([contoh](https://putusan.mahkamahagung.go.id/pengadilan/mahkamah-agung/direktori/perdata-khusus/hak-cipta/index-1.html));
-    Setiap putusan pengadilan atau penetapan hakim yang dikeluarkan oleh lembaga yudikatif seperti Mahkamah Agung dapat langsung digunakan oleh pengguna ciptaan secara bertanggung jawab. Prinsip ini sama halnya dengan kebijakan keterbukaan informasi yang dilaksanakan dengan pembuatan [portal-portal data terbuka](http://odlog.febri.web.id/index.php/od/org/).
+    Setiap putusan pengadilan atau penetapan hakim yang dikeluarkan oleh lembaga yudikatif seperti [Mahkamah Agung](https://putusan.mahkamahagung.go.id/pengadilan/mahkamah-agung/direktori/) dapat langsung digunakan oleh pengguna ciptaan secara bertanggung jawab. Prinsip ini sama halnya dengan kebijakan keterbukaan informasi yang dilaksanakan dengan pembuatan [portal-portal data terbuka](http://odlog.febri.web.id/index.php/od/org/).
 
   * Kitab Suci atau Simbol Keagamaan;
     Dalam hal ini Peraturan Perundang-Undangan belum memberikan penjelasan apakah Kitab suci atau simbol keagamaan yang dimaksud adalah yang diakui oleh Negara Republik Indonesia atau juga yang lainnya.
 
-* Penggunaan wajar (Pasal 43-51)
+* Penggunaan wajar ([Pasal 43-51](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/21))
   Pada prinsipnya konsep ini merupakan daftar pengecualian beberapa perbuatan yang tidak dianggap sebagai pelanggaran hak cipta. Perbuatan-perbuatan yang dikecualikan ini kemudian paling tidak dibagi lagi ke dalam 3 kategori:
 
   * Berdasarkan Lembaga
@@ -54,13 +54,13 @@ Hal yang disampaikan selanjutnya adalah beberapa elemen dari Undang-Undang No. 2
   * Berdasarkan Pengguna
     Dalam konsep pembatasan perlindungan hak cipta, setiap penggunaan ciptaan yang dimaksudkan untuk membuka akses ciptaan tersebut terhadap penyandang tuna netra atau keterbatasan dalam membaca dikecualikan dari kategori pelanggaran hak cipta meskipun dilaksanakan tanpa izin langsung dari pihak pencipta atau pemegang hak cipta. Selain itu, penggandaan ciptaan sebanyak 1 kopi juga dapat dilakukan oleh pengguna ciptaan, di luar konteks penggunaan untuk penyandang tuna netra, dapat dilaksanakan tanpa izin langsung pencipta dan dikecualikan dari kategori pelanggaran hak cipta apabila dilaksanakan untuk kepentingan pribadi, bukan untuk diumumkan kembali.
 
-* Masa berlaku perlindungan hak cipta (Pasal 57-61)
+* Masa berlaku perlindungan hak cipta ([Pasal 57-61](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/28))
   Memahami masa berlaku perlindungan hak cipta harus merujuk pada pembagian ketentuan berdasarkan ciptaannya. Paling tidak kita dapat memahami hal tersebut dengan memisahkannya menjadi dua bagian:
 
   * Teks, rekaman suara, karya seni rupa, dan lain-lain (Pasal 58);
     Masa berlaku perlindungan hak cipta untuk ciptaan-ciptaan yang disebutkan dalam Pasal 58 adalah seumur hidup pencipta ditambah 70 tahun, dan mulai masuk ke domain publik pada tanggal 1 januari satu tahun setelahnya. Apabila  ciptaan diciptakan atau pemegang hak ciptanya dua orang atau lebih maka masa berlaku dihitung dari pencipta atau pemegang hak cipta yang meninggal paling akhir. Selain itu, apabila ciptaan terkait hak ciptanya dipegang oleh badan hukum, maka masa berlakunya adalah 50 tahun setelah ciptaan pertama kali diumumkan. Apabila penciptanya tidak diketahui (orphaned works) maka ciptaan tersebut hak ciptanya dipegang oleh negara, dan masa berlakunya habis 50 tahun setelah diumumkan.
 
-  * Karya fotografi, karya sinematografi, program komputer dan lain-lain (Pasal 59);
+  * Karya fotografi, karya sinematografi, program komputer dan lain-lain ([Pasal 59](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/29));
     Masa berlaku perlindungan hak cipta untuk semua ciptaan yang disebutkan dalam Pasal 59 adalah 50 tahun sejak pertama kali ciptaan diumumkan.
 
 Ketentuan di atas ialah informasi penentuan masa berlaku perlindungan hak ekonomi. Ketentuan masa berlaku perlindungan hak moral memiliki mekanisme yang sedikit berbeda. Pada prinsipnya hak moral berlaku tanpa batas waktu. Namun, hak moral yang berfungsi untuk melindungi ciptaan seorang pencipta atau pemegang hak cipta dari aktivitas pengubahan dan/atau penggubahan ciptaan akan hilang mengikuti ketentuan masa berlaku perlindungan hak ekonomi.
@@ -103,7 +103,7 @@ Hal ini menjadi alasan fundamental CC untuk tidak merekomendasikan pengubahan/pe
 
 * **Pastikan ciptaan dapat dilisensikan dengan lisensi CC**;
 
-Lisensi CC hanya berlaku pada obyek perlindungan hak cipta saja (lihat pasal 40 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta). Meskipun lisensi CC terinspirasi oleh lisensi seperti GNU General Public License, program komputer dikecualikan sebagai obyek penerapan lisensi CC. Karena ketentuan lisensi CC, baik lisensi ringkas maupun lisensi lengkap, tidak sesuai untuk diterapkan pada program komputer. Hal-hal mengenai ketentuan penggunaan serta perlindungan program komputer sebagai konten terbuka secara spesifik dapat ditemukan pada lisensi terbuka yang sebelumnya sudah populer diterapkan pada program komputer, contoh lain selain GNU adalah MIT License. Dalam lisensi-lisensi tersebut dipaparkan secara spesifik bagaimana pengguna program komputer sebagai penerima lisensi dapat menggunakan bagian-bagian (misalnya, kode sumber porgram komputer) program komputer.
+Lisensi CC hanya berlaku pada obyek perlindungan hak cipta saja (lihat [pasal 40 UUHC 2014](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19)). Meskipun lisensi CC terinspirasi oleh lisensi seperti GNU General Public License, program komputer dikecualikan sebagai obyek penerapan lisensi CC. Karena ketentuan lisensi CC, baik lisensi ringkas maupun lisensi lengkap, tidak sesuai untuk diterapkan pada program komputer. Hal-hal mengenai ketentuan penggunaan serta perlindungan program komputer sebagai konten terbuka secara spesifik dapat ditemukan pada lisensi terbuka yang sebelumnya sudah populer diterapkan pada program komputer, contoh lain selain GNU adalah [MIT License](https://opensource.org/licenses/MIT). Dalam lisensi-lisensi tersebut dipaparkan secara spesifik bagaimana pengguna program komputer sebagai penerima lisensi dapat menggunakan bagian-bagian (misalnya, kode sumber porgram komputer) program komputer.
 
 * **Tandai ciptaan dengan ketentuan lisensi yang sesuai**;
 
@@ -153,9 +153,9 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Contoh penerapan:
 
-  * Situs web Portal Data Indonesia
+  * Situs web Portal Data Indonesia (CC BY)
 
-  * Situs web ikon The Noun Project
+  * Situs web ikon The Noun Project (CC BY)
 
 \(2) **Spektrum BerbagiSerupa (SA)**
 
@@ -175,9 +175,9 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Contoh penerapan:
 
-  * Situs web Wikipedia
+  * Situs web Wikipedia (CC BY-SA)
 
-  * Situs web Wikimedia Commons
+  * Situs web Wikimedia Commons (CC BY-SA)
 
 \(3) **Spektrum NonKomersial (NC)**
 
@@ -199,7 +199,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Contoh penerapan:
 
-  * Proyek Netlabel Yes No Wave Music
+  * Proyek Netlabel Yes No Wave Music (CC BY-NC-SA)
 
 \(4) **Spektrum TanpaTurunan (ND)**
 
@@ -221,7 +221,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Contoh penerapan:
 
-  * Situs web Katadata
+  * Situs web Katadata (CC BY-ND)
 
 \(5) Creative Commons Nol Dedikasi Domain Publik (CC0)
 
@@ -241,7 +241,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Contoh penerapan:
 
-  * Situs web WikiData
+  * Situs web WikiData (CC0)
 
 \(6) Tanda Domain Publik Creative Commons (Tanda Domain Publik CC)
 
