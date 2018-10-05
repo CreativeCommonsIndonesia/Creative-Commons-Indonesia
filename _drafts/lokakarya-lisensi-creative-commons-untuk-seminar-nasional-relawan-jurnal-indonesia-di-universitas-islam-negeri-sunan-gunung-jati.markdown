@@ -223,7 +223,7 @@ Contoh terbaik pemberian nuansa demokratis di ranah manajemen hak cipta penulis 
 
   * Artikel pracetak
 
-  * Artikel lulus peninjauan
+  * Artikel lulus peninjauan (peer-reviewed)
 
   * Artikel pasca cetak
 
