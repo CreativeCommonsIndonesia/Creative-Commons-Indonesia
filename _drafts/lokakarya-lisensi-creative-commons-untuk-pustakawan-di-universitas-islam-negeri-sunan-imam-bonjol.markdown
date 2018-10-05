@@ -135,7 +135,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 \(1) **Spektrum Atribusi (BY)**
 
-![BY-354f63.png](/uploads/BY-354f63.png){: .img-responsive .center-block }{: width="500"}
+![BY-354f63.png](/uploads/BY-354f63.png){: .img-responsive .center-block }{: width="300"}
 
 * Isi ketentuan:
 
@@ -163,7 +163,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 \(2) **Spektrum BerbagiSerupa (SA)**
 
-![sa.large.png](/uploads/sa.large.png){: .img-responsive .center-block }{: width="500"}
+![sa.large.png](/uploads/sa.large.png){: .img-responsive .center-block }{: width="300"}
 
 * Isi ketentuan:
 
@@ -187,7 +187,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 \(3) **Spektrum NonKomersial (NC)**
 
-![nc.large.png](/uploads/nc.large.png){: .img-responsive .center-block }{: width="500"}
+![nc.large.png](/uploads/nc.large.png){: .img-responsive .center-block }{: width="300"}
 
 * Isi ketentuan:
 
@@ -211,7 +211,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 \(4) **Spektrum TanpaTurunan (ND)**
 
-![nd.large.png](/uploads/nd.large.png){: .img-responsive .center-block }{: width="500"}
+![nd.large.png](/uploads/nd.large.png){: .img-responsive .center-block }{: width="300"}
 
 * Isi ketentuan:
 
@@ -235,7 +235,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 \(5) Creative Commons Nol Dedikasi Domain Publik (CC0)
 
-![zero.large.png](/uploads/zero.large.png){: .img-responsive .center-block }{: width="500"}
+![zero.large.png](/uploads/zero.large.png){: .img-responsive .center-block }{: width="300"}
 
 * Isi dan fungsi ketentuan:
 
@@ -257,7 +257,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 \(6) Tanda Domain Publik Creative Commons (Tanda Domain Publik CC)
 
-![2010-10-15-publicdomainmark.jpg](/uploads/2010-10-15-publicdomainmark.jpg){: .img-responsive .center-block }{: width="500"}
+![2010-10-15-publicdomainmark.jpg](/uploads/2010-10-15-publicdomainmark.jpg){: .img-responsive .center-block }{: width="300"}
 
 * Isi dan fungsi ketentuan:
 
@@ -279,17 +279,39 @@ Berikut petunjuk teknis untuk menerapkan lisensi CC pada ciptaan
 
 \(1) Kunjungi creativecommons.org/share-your-work/
 
+![1-cd4428.jpg](/uploads/1-cd4428.jpg){: .img-responsive .center-block }{: width="400"}
+
 \(2) Klik tombol "Get Started"
+
+![2-02f41b.jpg](/uploads/2-02f41b.jpg){: .img-responsive .center-block }{: width="400"}
 
 \(3) Isi formulir pemberian izin kepada pengguna ciptaan sesuai dengan keinginan
 
+![3-8351bd.jpg](/uploads/3-8351bd.jpg){: .img-responsive .center-block }{: width="400"}
+
 \(4) Mesin akan menampilkan ketentuan lisensi yang sesuai dengan apa yang pencipta atau pemegang hak cipta isi pada formulir pemberian izin
 
-\(5) Lisensi dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+![4-c047bf.jpg](/uploads/4-c047bf.jpg){: .img-responsive .center-block }{: width="400"}
 
-\(6) Lisensi dapat ditempelkan dengan memasang berkas gambar spektrum atau pilihan lisensi yang tersedia
+\(5) Lengkapi atau modifikasi ketentuan atribusi yang dibebankan kepada pengguna ciptaan
 
-\(7) Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan
+![5-2ca7d4.jpg](/uploads/5-2ca7d4.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(6) Lisensi dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+
+![6-fe834f.jpg](/uploads/6-fe834f.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(7) Lisensi dapat ditempelkan dengan memasang berkas gambar spektrum atau pilihan lisensi yang tersedia
+
+![8-65405c.jpg](/uploads/8-65405c.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(8) Pengguna ciptaan dapat memilih bahasa apa yang ditampilkan pada ketentuan lisensi yang diterapkan
+
+![7-ae34dc.jpg](/uploads/7-ae34dc.jpg){: .img-responsive .center-block }{: width="400"}
+
+\() Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan
+
+
 
 ## **Konsep OER (Open Educational Resources) Untuk Pustakawan**
 
