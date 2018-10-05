@@ -17,7 +17,7 @@ img: "/uploads/SPCCID%2020%20April%202018%20Lokakarya%20Lisensi%20CC%20dan%20Per
 comments: true
 ---
 
-[SPCCID 20 April 2018 Lokakarya Lisensi CC dan Perkenalan CCID-ToT di FH Universitas Brawijaya.JPG](/uploads/SPCCID%2020%20April%202018%20Lokakarya%20Lisensi%20CC%20dan%20Perkenalan%20CCID-ToT%20di%20FH%20Universitas%20Brawijaya.JPG){: .img-responsive .center-block }{: width="500"}<center><small><i> CCID pada acara Bekraf HKI RUN 2018 oleh Fitriayu/\[CC BY\]</i></small></cen
+![SPCCID 20 April 2018 Lokakarya Lisensi CC dan Perkenalan CCID-ToT di FH Universitas Brawijaya.JPG](/uploads/SPCCID%2020%20April%202018%20Lokakarya%20Lisensi%20CC%20dan%20Perkenalan%20CCID-ToT%20di%20FH%20Universitas%20Brawijaya.JPG){: .img-responsive .center-block }{: width="500"}<center><small><i> CCID pada acara Bekraf HKI RUN 2018 oleh Fitriayu/\[CC BY\]</i></small></cen
 
 Pada tanggal 20 April 2018, Creative Commons Indonesia (CCID) berkesempatan menyampaikan materi tentang lisensi Creative Commons (lisensi CC) bekerjasama dengan Bussines Law Club Fakultas Hukum Universitas Brawijaya (BLC FH UB), komunitas mahasiswa peminatan hukum bisnis di Fakultas Hukum Universitas Brawijaya (FH UB), kota Malang. CCID diwakili oleh Hilman Fathoni datang untuk juga memperkenalkan program Training of Trainers Creative Commons Indonesia (CCID-ToT) kepada para peserta lokakarya yang hadir pada kesempatan tersebut. Namun, sebelum perkenalan tentang program tersebut dipaparkan, pemateri terlebih dahulu memperkenalkan apa itu Creative Commons (CC) dan lisensi CC.
 
