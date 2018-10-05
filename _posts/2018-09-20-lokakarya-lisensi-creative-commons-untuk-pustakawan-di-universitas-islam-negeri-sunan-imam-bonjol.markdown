@@ -391,6 +391,7 @@ Apabila kita membuka jendela ke luar, kita bisa melihat praktik penyediaan sumbe
 Petunjuk ini adalah upaya penyediaan literasi informasi di ranah digital, salah satunya petunjuk tentang etika penggunaan konten dari sudut pandang perlindungan hak cipta.
 
     * [Petunjuk konten gambar dan grafis gratis dan berlisensi terbuka](https://guides.lib.monash.edu/digital-images/copyright)
+
         * [Gambar bebas hak cipta dan berlisensi terbuka dari Monas University](http://www.monash.edu.au/image-library/)
         * [Gambar bebas hak cipta dan berlisensi terbuka di Flickr](https://www.flickr.com/creativecommons/)
         * [Gambar bebas hak cipta di Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:PD_Indonesia_Old)
@@ -418,16 +419,14 @@ Petunjuk ini adalah upaya penyediaan literasi informasi di ranah digital, salah 
 
     * Cara mencari ciptaan berlisensi CC di [Youtube](http://creativecommons.or.id/2018/02/panduan-mencari-konten-video-berlisensi-creative-commons-di-situs-web-youtube/), [Google Images Search](http://creativecommons.or.id/2018/02/panduan-mencari-gambar-berlisensi-creative-commons-melalui-mesin-pencari-gambar-google/), dan [CC Search Beta](https://ccsearch.creativecommons.org/)
 
-Daftar referensi:
+**Daftar referensi**:
 
-* OER Quality Considerations: https://openeducationalresources.pbworks.com/w/page/24838164/Quality%20considerations
+* [OER Quality Considerations](https://openeducationalresources.pbworks.com/w/page/24838164/Quality%20considerations)
 
-* CC Certificates Module for Librarian: https://certificates.creativecommons.org/about/certificate-resources-cc-by/
+* [CC Certificates Module for Librarian](https://certificates.creativecommons.org/about/certificate-resources-cc-by/)
 
-* Unglue.it: https://unglue.it/libraries/
+* [Library of Toronto guide for librarian](https://guides.library.utoronto.ca/c.php?g=448614&p=3199145)
 
-* Library of Toronto guide for librarian: https://guides.library.utoronto.ca/c.php?g=448614&p=3199145
+* [Monash Library Open Source resources](https://guides.lib.monash.edu/c.php?g=594405)
 
-* Monash Library Open Source resources: https://guides.lib.monash.edu/c.php?g=594405
-
-* Pedoman Praktis Penggunaan Lisensi Creative Commons: https://commons.wikimedia.org/wiki/File:Konten_Terbuka_%E2%80%93_Pedoman_Praktis_Penggunaan_Lisensi_Creative_Commons.pdf
+* [Pedoman Praktis Penggunaan Lisensi Creative Commons](https://commons.wikimedia.org/wiki/File:Konten_Terbuka_%E2%80%93_Pedoman_Praktis_Penggunaan_Lisensi_Creative_Commons.pdf)
