@@ -301,6 +301,8 @@ Berikut petunjuk teknis untuk menerapkan lisensi CC pada ciptaan
 
 ![6-fe834f.jpg](/uploads/6-fe834f.jpg){: .img-responsive .center-block }{: width="400"}
 
+\(6.5) Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan
+
 \(7) Lisensi dapat ditempelkan dengan memasang berkas gambar spektrum atau pilihan lisensi yang tersedia
 
 ![8-65405c.jpg](/uploads/8-65405c.jpg){: .img-responsive .center-block }{: width="400"}
@@ -309,9 +311,33 @@ Berikut petunjuk teknis untuk menerapkan lisensi CC pada ciptaan
 
 ![7-ae34dc.jpg](/uploads/7-ae34dc.jpg){: .img-responsive .center-block }{: width="400"}
 
-\() Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan
+\(9) Tampilan laman untuk menggunakan CC0 Dedikasi Domain Publik dan Tanda Domain Publik CC
 
+![9-5231fa.jpg](/uploads/9-5231fa.jpg){: .img-responsive .center-block }{: width="400"}
 
+\(10) Isi kolom jawaban formulir sesuai dengan pertanyaan yang diajukan
+
+![10-8f8d52.jpg](/uploads/10-8f8d52.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(11) Baca kemudian tandai pernyataan pendedikasian hak cipta ke domain publik
+
+![11-b0c84b.jpg](/uploads/11-b0c84b.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(12) Konfirmasi sikap pendedikasian hak cipta ke domain publik sampai akhir
+
+![12-777c2f.jpg](/uploads/12-777c2f.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(13) Pemberitahuan pendedikasian hak cipta ke domain publik dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+
+![13-c9678c.jpg](/uploads/13-c9678c.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(14) Isi kolom jawaban formulir sesuai dengan pertanyaan yang diajukan
+
+![14-2de147.jpg](/uploads/14-2de147.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(15) Tanda domain publik dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+
+![15.jpg](/uploads/15.jpg){: .img-responsive .center-block }{: width="400"}
 
 ## **Konsep OER (Open Educational Resources) Untuk Pustakawan**
 
