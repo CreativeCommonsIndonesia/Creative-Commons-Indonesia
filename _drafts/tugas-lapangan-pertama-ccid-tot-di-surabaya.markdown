@@ -13,7 +13,7 @@ Florens Debora Patricia, merupakan peserta pertama asal Surabaya yang menjalanka
 
 *Foto rame2
 
-Materi lisensi CC yang dipaparkan oleh Florens sangat erat kaitanya dengan tataran teknis yang sering dihadapi oleh para ilustrator terkait mulai dari perbedaan antara hak cipta dan hak merek. Berlajut mengenai lisensi hak cipta dan jenisnya yakni lisensi terbuka dan tertutup. Hingga penjelasan lebih mendalam mengenai lisensi CC dan contoh penerapan karya ilustrasi dengan lisensi CC pada platform flicker. Selama pemaparan materi dipaparkan peserta pun diperkanankan bertanya sehingga penjelasan akan materi lisensi CC lebih mendalam dalam ranah kreatif khususnya ilustrasi dan desain.
+Materi lisensi CC yang dipaparkan oleh Florens sangat erat kaitanya dengan tataran teknis yang sering dihadapi oleh para ilustrator terkait mulai dari perbedaan antara hak cipta dan hak merek. Berlajut mengenai lisensi hak cipta dan jenisnya yakni lisensi terbuka dan tertutup. Hingga penjelasan lebih mendalam mengenai lisensi CC dan contoh penerapan karya ilustrasi dengan lisensi CC pada platform flickr. Selama pemaparan materi dipaparkan peserta pun diperkanankan bertanya sehingga penjelasan akan materi lisensi CC lebih mendalam dalam ranah kreatif khususnya ilustrasi dan desain.
 
 *Foto pas kel maju
 
