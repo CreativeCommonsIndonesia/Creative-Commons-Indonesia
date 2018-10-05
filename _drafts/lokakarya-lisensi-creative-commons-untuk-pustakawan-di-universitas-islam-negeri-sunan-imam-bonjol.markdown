@@ -14,7 +14,7 @@ Pada tanggal 19 September 2018, Creative Commons Indonesia (CCID) yang diwakili 
 
 Presentasi dimulai dengan penjelasan tentang konsep perlindungan hak Kekayaan Intelektual (KI) di Indonesia. Mekanisme perlindungan KI lain seperti Hak Merek dan Hak Paten berbeda obyek perlindungannya dengan hak cipta. Meskipun ketiga mekanisme perlindungan tersebut semuanya berada di bawah terminologi perlindungan kekayaan intelektual. Setiap mekanisme yang ada memiliki dasar hukum yang berbeda. Perlindungan hak cipta diatur melalui Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014).
 
-Mekanisme perlindungan KI masing-masing dibedakan dari ruang lingkup atau obyek perlindungannya. Obyek perlindungan hak cipta diatur melalui Pasal 40 Undang-UUHC 2014 (lihat rujukan: [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19)[2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Ciptaan-ciptaan ini lah yang membedakan mekanisme perlindungan hak cipta dengan mekanisme perlindungan KI lainnya. Namun, pada dasarnya hubungan hukum dalam mekanisme perlindungan KI meliputi subyek hukum yang serupa, meskipun tidak sama.
+Mekanisme perlindungan KI masing-masing dibedakan dari ruang lingkup atau obyek perlindungannya. Obyek perlindungan hak cipta diatur melalui Pasal 40 Undang-UUHC 2014 (lihat rujukan: [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19), [2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Ciptaan-ciptaan ini lah yang membedakan mekanisme perlindungan hak cipta dengan mekanisme perlindungan KI lainnya. Namun, pada dasarnya hubungan hukum dalam mekanisme perlindungan KI meliputi subyek hukum yang serupa, meskipun tidak sama.
 
 Dalam mekanisme perlindungan hak cipta, yang termasuk subyek hukum yaitu Pencipta atau Pemegang Hak Cipta dan Pengguna Ciptaan. Pencipta adalah pihak yang menciptakan suatu ciptaan, yang kemudian secara langsung memiliki peran sebagai pemegang hak cipta. Pemegang hak cipta belum tentu seorang pencipta, bisa saja pihak pemegang hak cipta adalah seseorang atau suatu kelompok yang dengan izin pencipta memiliki wewenang: hak dan kewajiban yang sama dengan pencipta. Tujuan pemberian izin ini biasanya adalah untuk membantu pencipta dalam mengatur mekanisme perlindungan hak ciptanya. Pengguna ciptaan adalah pihak yang bermaksud menggunakan ciptaan milik seseorang atau suatu kelompok dengan maksud untuk memperoleh manfaat dari ciptaan tersebut.
 
@@ -275,7 +275,7 @@ Berikut petunjuk teknis untuk menerapkan lisensi CC pada ciptaan
 
 \(6) Lisensi dapat ditempelkan dengan memasang berkas gambar spektrum atau pilihan lisensi yang tersedia
 
-\(7) Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan 
+\(7) Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan
 
 ## **Konsep OER (Open Educational Resources) Untuk Pustakawan**
 
@@ -283,7 +283,7 @@ Berikut petunjuk teknis untuk menerapkan lisensi CC pada ciptaan
 
 Kini telah tersedia aplikasi bersumber terbuka seperti SLiMS yang dapat dipasang, dikembangkan, dan disesuaikan di situs web-situs web perpustakaan. Keberadaan aplikasi tersebut sebenarnya memudahkan pustakawan untuk menyajikan sumber-sumber milik perpustakaan kepada setiap pengakses. Selain itu, kini semakin banyak konten-konten terbuka berlisensi terbuka (Creative Commons) yang tersedia dalam berbagai format. Konten-konten tersebut dapat menjadi tambahan atau alternatif sumber bagi para pengakses situs web perpustakaan, khususnya perpustakaan milik suatu lembaga pendidikan.
 
-Gerakan sumber pembelajaran terbuka terbagi menjadi dua fokus yakni Open Education (pendidikan terbuka) dan Open Access to Research (akses terbuka untuk hasil penelitian). Dua fokus ini juga merupakan bagian tak terpisahkan dari gerakan pemajuan keterbukaan konten yang sedang terjadi di seluruh dunia. Apabila kita merujuk pada unit-unit modul program Sertifikasi Creative Commons untuk Pustakawan, tiga unit pembuka merupakan materi tentang penyediaan sumber pembelajaran terbuka oleh pustakawan. Hingga kemudian peserta sertifikasi akan diajak mengenali cara pembuatan sumber pembelajaran terbuka mandiri dan menciptakan kebijakan penyediaan sumber pengetahuan terbuka di institusi mereka.  
+Gerakan sumber pembelajaran terbuka terbagi menjadi dua fokus yakni Open Education (pendidikan terbuka) dan Open Access to Research (akses terbuka untuk hasil penelitian). Dua fokus ini juga merupakan bagian tak terpisahkan dari gerakan pemajuan keterbukaan konten yang sedang terjadi di seluruh dunia. Apabila kita merujuk pada unit-unit modul program Sertifikasi Creative Commons untuk Pustakawan, tiga unit pembuka merupakan materi tentang penyediaan sumber pembelajaran terbuka oleh pustakawan. Hingga kemudian peserta sertifikasi akan diajak mengenali cara pembuatan sumber pembelajaran terbuka mandiri dan menciptakan kebijakan penyediaan sumber pengetahuan terbuka di institusi mereka.
 
 Keterkaitan lisensi CC dengan gerakan pendidikan terbuka dapat dilihat pada 5 prinsip dasar (5rs) pendidikan terbuka:
 
@@ -306,15 +306,15 @@ Keterkaitan lisensi CC dengan gerakan pendidikan terbuka dapat dilihat pada 5 pr
 
 ---
 
-Contoh nyata dari upaya penyediaan sumber pembelajaran terbuka di Indonesia dapat kita lihat pada inisiatif yang dibuat oleh Universitas Terbuka (UT) dan UKM Literasi Informasi dan Perpustakaan Universitas Syiah Kuala (UnSyiah). UT menyediakan sumber pembelajaran terbuka berupa materi presentasi pengajar dalam format interaktif (SUAKA-UT) serta jurnal terbitan yang menerapkan lisensi terbuka (CC BY-NC-SA). Sumber pembelajaran terbuka yang disediakan oleh UT seluruhnya merupakan sumber pembelajaran yang dikembangkan dan diadaptasi sendiri oleh pihak UT. Lain halnya dengan UKM Literasi Informasi dan Perpustaakn UnSyiah. Perpustakaan Pusat UnSyiah membuat portal sumber pembelajaran terbuka dalam berbagai format, mulai dari teks, gambar, hingga video. 
+Contoh nyata dari upaya penyediaan sumber pembelajaran terbuka di Indonesia dapat kita lihat pada inisiatif yang dibuat oleh Universitas Terbuka (UT) dan UKM Literasi Informasi dan Perpustakaan Universitas Syiah Kuala (UnSyiah). UT menyediakan sumber pembelajaran terbuka berupa materi presentasi pengajar dalam format interaktif (SUAKA-UT) serta jurnal terbitan yang menerapkan lisensi terbuka (CC BY-NC-SA). Sumber pembelajaran terbuka yang disediakan oleh UT seluruhnya merupakan sumber pembelajaran yang dikembangkan dan diadaptasi sendiri oleh pihak UT. Lain halnya dengan UKM Literasi Informasi dan Perpustaakn UnSyiah. Perpustakaan Pusat UnSyiah membuat portal sumber pembelajaran terbuka dalam berbagai format, mulai dari teks, gambar, hingga video.
 
 Apabila kita membuka jendela ke luar, kita bisa melahit praktik penyediaan sumber pengetahuan dalam format digital melalui situs web dari Monash University.
 
--> Menyediakan Petunjuk Pengenalan Lisensi
+* Menyediakan Petunjuk Pengenalan Lisensi
 
-Petunjuk ini adalah upaya penyediaan literasi informasi di ranah digital, salah satunya petunjuk tentang etika penggunaan konten dari sudut pandang perlindungan hak cipta. 
+Petunjuk ini adalah upaya penyediaan literasi informasi di ranah digital, salah satunya petunjuk tentang etika penggunaan konten dari sudut pandang perlindungan hak cipta.
 
-(Sub)
+\(Sub)
 
 -> Konten gambar dan grafis gratis dan berlisensi terbuka
 
@@ -327,7 +327,6 @@ Petunjuk ini adalah upaya penyediaan literasi informasi di ranah digital, salah 
 -> Konten basis data gratis dan berlisensi terbuka
 
 -> Konten video gratis dan berlisensi terbuka
-
 
 Daftar referensi:
 
