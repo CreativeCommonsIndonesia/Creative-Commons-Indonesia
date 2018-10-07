@@ -152,12 +152,6 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
   * [Ada di seluruh kombinasi spektrum lisensi CC](http://creativecommons.or.id/lisensi-cc-bahasa-indonesia/).
 
-* Contoh penerapan:
-
-  * [Situs web Portal Data Indonesia](data.go.id) (CC BY)
-
-  * [Situs web ikon The Noun Project](thenounproject.com) (CC BY)
-
 \(2) **Spektrum BerbagiSerupa (SA)**
 
 ![sa.large.png](/uploads/sa.large.png){: .img-responsive .center-block }{: width="300"}
@@ -175,12 +169,6 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 * Kombinasi Spektrum:
 
   * [Lisensi CC BY-SA (Atribusi-BerbagiSerupa)](https://creativecommons.org/licenses/by/4.0/deed.id) dan [Lisensi CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa)
-
-* Contoh penerapan:
-
-  * [Situs web Wikipedia](id.wikipedia.org) (CC BY-SA)
-
-  * [Situs web Wikimedia Commons](commons.wikimedia.org) (CC BY-SA)
 
 \(3) **Spektrum NonKomersial (NC)**
 
@@ -201,10 +189,6 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 * Kombinasi Spektrum:
 
   * [Lisensi CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial), Lisensi [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa), dan Lisensi [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
-
-* Contoh penerapan:
-
-  * Proyek Netlabel Yes No Wave Music (CC BY-NC-SA)
 
 \(4) **Spektrum TanpaTurunan (ND)**
 
@@ -250,7 +234,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Contoh penerapan:
 
-  * [Situs web WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page) (CC0)
+  * [Situs web WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page) dan situs web Pixabay (CC0)
 
 \(6) Tanda Domain Publik Creative Commons (Tanda Domain Publik CC)
 
