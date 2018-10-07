@@ -1,6 +1,21 @@
 ---
 title: Lokakaya Hak Cipta dan Lisensi Creative Commons di Coffee Society, Bone
 date: 2018-10-08 03:10:00 +07:00
+categories:
+- Acara
+tags:
+- Lisensi Creative Commons
+- Sosialisasi Lisensi Creative Commons
+- Lisensi Hak Cipta
+- Bone
+- Watampone
+- Sulawesi Selatan
+- Coffee Society
+- Creative Commons Indonesia
+- Komunitas Teluk Bone
+author: hilman
+comments: true
+img: "/uploads/SPCCID_7_Oktober_2018_Lokakarya_Lisensi_CC_di_Coffee_Society_Bone.jpeg"
 ---
 
 ![SPCCID_7_Oktober_2018_Lokakarya_Lisensi_CC_di_Coffee_Society_Bone.jpeg](/uploads/SPCCID_7_Oktober_2018_Lokakarya_Lisensi_CC_di_Coffee_Society_Bone.jpeg){: .img-responsive .center-block }{: width="500"}
@@ -334,3 +349,5 @@ Selain itu, beberapa mesin pencari menyediakan fitur penyaringan untuk mencari c
 * [Youtube](http://creativecommons.or.id/2018/02/panduan-mencari-konten-video-berlisensi-creative-commons-di-situs-web-youtube/), 
 * [Google Images Search (http://creativecommons.or.id/2018/02/panduan-mencari-gambar-berlisensi-creative-commons-melalui-mesin-pencari-gambar-google/),
 * [CC Search Beta](https://ccsearch.creativecommons.org/)
+
+CCID juga menyediakan bahan pembelajaran tentang lisensi CC yang dapat diakses gratis di [Wikimedia Commons](s.id/bahanccid).
