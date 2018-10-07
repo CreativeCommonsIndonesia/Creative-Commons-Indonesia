@@ -389,7 +389,7 @@ Contoh nyata dari upaya penyediaan sumber pembelajaran terbuka di Indonesia dapa
 Apabila kita membuka jendela ke luar, kita bisa melihat praktik penyediaan sumber pengetahuan dalam format digital melalui situs web dari Monash University. [Pelajari petunjuk-petunjuk buatan Monas University](https://guides.lib.monash.edu/c.php?g=673714), termasuk [petunjuk pengenalan lisensi](https://guides.lib.monash.edu/digital-images/copyright), dengan mengklik setiap tautan di bawah ini. 
 
 * [Petunjuk konten gambar dan grafis gratis dan berlisensi terbuka](https://guides.lib.monash.edu/digital-images/copyright)
-    * [Gambar bebas hak cipta dan berlisensi terbuka dari Monas University](http://www.monash.edu.au/image-library/)
+    * [Gambar bebas hak cipta dan berlisensi terbuka dari Monash University](http://www.monash.edu.au/image-library/)
     * [Gambar bebas hak cipta dan berlisensi terbuka di Flickr](https://www.flickr.com/creativecommons/)
     * [Gambar bebas hak cipta di Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:PD_Indonesia_Old)
     
