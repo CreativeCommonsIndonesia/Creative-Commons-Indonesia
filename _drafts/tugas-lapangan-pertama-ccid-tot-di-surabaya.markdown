@@ -5,7 +5,7 @@ date: 2018-10-05 16:33:00 +07:00
 
 *Poster CCID-ToT
 
-Sejak pertama kali diumumkan pada bulan februari 2018 program Creative Commons Indonesia  Training of Trainers /CCID-ToT kini telah masuk ke tahap penyisihan akhir. Pada misi terakhir ini peserta diwajibkan menjalankan tugas lapangan yakni menyengelarakan presentasi mengenai lisensi Creative Commons/ CC di daerah sekitar peserta. Dengan menyelesaikan misi ini maka peserta dinyatakan berhak menerima besiswa sertifikasi CC Pusat dan memiliki peluang besar untuk mendapatkan juga beasiswa perjalanan CC summit 2019 di Portugal bagi 3 peserta yang memeroleh nilai terbaik. 
+Sejak pertama kali diumumkan pada bulan februari 2018 program Training of Trainers Creative Commons Indonesia (CCID-ToT) kini telah masuk ke tahap akhir. Pada misi terakhir ini peserta diwajibkan menjalankan tugas lapangan yakni menyengelarakan presentasi mengenai lisensi Creative Commons/ CC di daerah sekitar peserta. Dengan menyelesaikan misi ini maka peserta dinyatakan berhak menerima besiswa sertifikasi CC Pusat dan memiliki peluang besar untuk mendapatkan juga beasiswa perjalanan CC summit 2019 di Portugal bagi 3 peserta yang memeroleh nilai terbaik. 
 
 *Foto Florens lagi presentasi
 
