@@ -13,7 +13,7 @@ img: "/uploads/Made%20With%20Creative%20Commons.png"
 
 Sejak lisensi Creative Commons (CC) diluncurkan pada tahun 2002, penerapan lisensi CC kini berkembang pesat ke berbagai ranah mulai dari buku, musik, data, seni dan lain-lainya. Ciptaan berlisensi CC memberikan izin langsung untuk paling tidak dapat digandakan atau disebarkan sesuai dengan ketentuan yang dipilih oleh pencipta atau pemegang hak ciptanya. Dalam kondisi tersebut, apakah memungkinkan bagi pencipta untuk mendapatkan penghasilan dari ciptaannya?
 
-![Made With Creative Commons.png](/uploads/Made%20With%20Creative%20Commons.png)
+![Made With Creative Commons.png](/uploads/Made%20With%20Creative%20Commons.png){: .img-responsive .center-block }{: width="500"}
 
 Buku "Made With CC" menceritakan sejarah singkat yang penuh inspirasi mengenai pendirian model bisnis terbuka dengan menerapkan lisensi CC yang dilakukan oleh pebisnis, organisasi, atau pencipta dengan tetap memeroleh keuntungan. Namun perlu diingat tujuan utama dari pembuatan buku ini bukan semata-mata untuk memberitahukan model bisnis terbuka dengan menggunakan CC, melainkan mengumpulkan ide-ide segar dan studi kasus yang memicu adanya model yang inovatif dan membantu yang lain mengikutinya dengan apa yang telah mereka ciptakan. CC berfokus dalam membangun gelombang, penggunaan konten-konten kepemilikan bersama yang digerakan oleh kolaborasi dan rasa syukur.
 
