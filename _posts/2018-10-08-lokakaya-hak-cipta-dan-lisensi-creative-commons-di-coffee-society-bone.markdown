@@ -1,5 +1,5 @@
 ---
-title: Lokakaraya Hak Cipta dan Lisensi Creative Commons di Coffee Society, Bone
+title: Lokakarya Hak Cipta dan Lisensi Creative Commons di Coffee Society, Bone
 date: 2018-10-08 03:10:00 +07:00
 categories:
 - Acara
