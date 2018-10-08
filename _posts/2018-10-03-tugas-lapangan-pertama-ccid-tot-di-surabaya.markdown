@@ -26,6 +26,6 @@ Materi lisensi CC yang dipaparkan oleh Florens sangat erat kaitanya dengan tatar
 
 Tidak hanya menjelaskan mengenai lisensi CC saja,tetapi Florens juga adanya pelibatan peserta dengan membentuk kelompok. Tiap kelompok akan ditugaskan untuk berdiskusi mengenai karya ilustrasi mana yang akan diterapkan dengan lisensi CC. Setelah itu, tiap kelompok akan mempresentasikan mengenai karya tiap anggotanya dan jenis lisensi CC apa saja yang dipilih pada karya tersebut. Kemudian dijelaskan juga alasan memilih pilihan lisensi tersebut dan apa saja yang diperkenankan oleh pencipta ke pengguna terhadap karya berlisensi CC tersebut. Sebagai bentuk apresiasi, tiap kelompok yang sudah melakukan presentasi diberikan buku panduan lisensi CC.
 
-![WhatsApp Image 2018-10-04 at 7.28.29 AM (1).jpeg](/uploads/WhatsApp%20Image%202018-10-04%20at%207.28.29%20AM%20(1).jpeg){: .img-responsive .center-block }{: width="500"}
+![[SPCCID] 03 Oktober 2018 Tugas Lapangan Florens CCID-ToT Surabaya 3.jpeg](/uploads/%5BSPCCID%5D%2003%20Oktober%202018%20Tugas%20Lapangan%20Florens%20CCID-ToT%20Surabaya%203.jpeg){: .img-responsive .center-block }{: width="500"}
 
-Selain Florens masih ada lagi peserta ToT CCID lainya yang akan menjalankan misi ketiga ini dari berbagai kota di Indonesia. Ditunggu presentasi lisensi CC dari peserta ToT CCID di kota berikutnya!
+Selain Florens masih ada lagi peserta ToT CCID lainya yang akan menjalankan misi ketiga ini dari berbagai kota di Indonesia. Ditunggu lokakarya lisensi CC dari peserta ToT CCID di kota berikutnya!
