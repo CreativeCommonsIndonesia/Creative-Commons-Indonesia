@@ -14,11 +14,11 @@ img: "/uploads/%5BSPCCID%5D%2003%20Oktober%202018%20Tugas%20Lapangan%20Florens%2
 
 Sejak pertama kali diumumkan pada bulan februari 2018 program [Training of Trainers Creative Commons Indonesia (ToT-CCID)](http://creativecommons.or.id/sertifikasi-perwakilan-ccid-training-of-trainers-creative-commons-indonesia/tentang-training-of-trainers-creative-commons-indonesia/) kini telah masuk ke tahap penyeleksian terakhir. Pada misi terakhir ini peserta diwajibkan menjalankan tugas lapangan yakni menyengelarakan presentasi mengenai lisensi Creative Commons/ CC di daerah sekitar peserta. Dengan menyelesaikan misi ini maka peserta dinyatakan berhak menerima besiswa [sertifikasi CC Pusat ](http://creativecommons.or.id/2018/02/cc-certificates-saatnya-menjadi-ahli-lisensi-cc-bersertifikat/)dan memiliki peluang besar untuk mendapatkan juga beasiswa perjalanan [CC summit 2019 di Lisbon, Portugal](https://summit.creativecommons.org/) bagi 3 peserta yang memeroleh nilai terbaik.
 
-![\[SPCCID\] 03 Oktober 2018 Tugas Lapangan Florens CCID-ToT Surabaya.jpeg](/uploads/%5BSPCCID%5D%2003%20Oktober%202018%20Tugas%20Lapangan%20Florens%20CCID-ToT%20Surabaya.jpeg){: .img-responsive .center-block }{: width="500"}
+![Tugas Lapangan Florens CCID-ToT Surabaya.jpeg](/uploads/Tugas%20Lapangan%20Florens%20CCID-ToT%20Surabaya.jpeg){: .img-responsive .center-block }{: width="500"}
 
 Florens Debora Patricia, merupakan peserta pertama asal Surabaya yang menjalankan misi terakhir ini. Florens memilih mengadakan lokakarya di kampus STIKOM tempat ia mengajar. Lokakarya diselipkan di tengah materi ilustrasi dasar yang diampuhnya. Sekitar 40 peserta mengikuti lokakarya CC pada tanggal 03 Oktober 2018.
 
-![Tugas Lapangan Florens CCID-ToT Surabaya.jpeg](/uploads/Tugas%20Lapangan%20Florens%20CCID-ToT%20Surabaya.jpeg){: .img-responsive .center-block }{: width="500"}
+![\[SPCCID\] 03 Oktober 2018 Tugas Lapangan Florens CCID-ToT Surabaya.jpeg](/uploads/%5BSPCCID%5D%2003%20Oktober%202018%20Tugas%20Lapangan%20Florens%20CCID-ToT%20Surabaya.jpeg){: .img-responsive .center-block }{: width="500"}
 
 Materi lisensi CC yang dipaparkan oleh Florens sangat erat kaitanya dengan tataran teknis yang sering dihadapi oleh para ilustrator  mulai dari perbedaan antara hak cipta dan hak merek. Berlanjut mengenai lisensi hak cipta dan jenisnya yakni lisensi terbuka dan tertutup. Hingga penjelasan lebih mendalam mengenai lisensi CC dan contoh penerapan karya ilustrasi dengan lisensi CC pada platform flickr. Selama pemaparan materi dipaparkan peserta pun diperkanankan bertanya sehingga penjelasan akan materi lisensi CC lebih mendalam dalam ranah kreatif khususnya ilustrasi dan desain.
 
