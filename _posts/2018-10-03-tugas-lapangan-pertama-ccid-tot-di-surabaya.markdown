@@ -1,5 +1,5 @@
 ---
-title: Tugas Lapangan Pertama TOT-CCID di Surabaya
+title: Tugas Lapangan Pertama CCID-ToT di Surabaya
 date: 2018-10-03 16:33:00 +07:00
 categories:
 - Acara
@@ -13,7 +13,7 @@ tags:
 img: "/uploads/%5BSPCCID%5D%2003%20Oktober%202018%20Tugas%20Lapangan%20Florens%20CCID-ToT%20Surabaya.jpeg"
 ---
 
-Sejak pertama kali diumumkan pada bulan Februari 2018 program [Training of Trainers Creative Commons Indonesia (ToT-CCID)](http://creativecommons.or.id/sertifikasi-perwakilan-ccid-training-of-trainers-creative-commons-indonesia/tentang-training-of-trainers-creative-commons-indonesia/) kini telah masuk ke tahap penyeleksian terakhir. Pada misi terakhir ini peserta diwajibkan menjalankan tugas lapangan yakni menyengelarakan presentasi mengenai lisensi Creative Commons/ CC di daerah sekitar peserta. Dengan menyelesaikan misi ini maka peserta dinyatakan berhak menerima besiswa [sertifikasi CC Pusat ](http://creativecommons.or.id/2018/02/cc-certificates-saatnya-menjadi-ahli-lisensi-cc-bersertifikat/)dan memiliki peluang besar untuk mendapatkan juga beasiswa perjalanan [CC summit 2019 di Lisbon, Portugal](https://summit.creativecommons.org/) bagi 3 peserta yang memeroleh nilai terbaik.
+Sejak pertama kali diumumkan pada bulan Februari 2018 program [Creative Commons Indonesia-Training of Trainers  (CCID-ToT)](http://creativecommons.or.id/sertifikasi-perwakilan-ccid-training-of-trainers-creative-commons-indonesia/tentang-training-of-trainers-creative-commons-indonesia/) kini telah masuk ke tahap penyeleksian terakhir. Pada misi terakhir ini peserta diwajibkan menjalankan tugas lapangan yakni menyengelarakan presentasi mengenai lisensi Creative Commons/ CC di daerah sekitar peserta. Dengan menyelesaikan misi ini maka peserta dinyatakan berhak menerima besiswa [sertifikasi CC Pusat ](http://creativecommons.or.id/2018/02/cc-certificates-saatnya-menjadi-ahli-lisensi-cc-bersertifikat/)dan memiliki peluang besar untuk mendapatkan juga beasiswa perjalanan [CC summit 2019 di Lisbon, Portugal](https://summit.creativecommons.org/) bagi 3 peserta yang memeroleh nilai terbaik.
 
 ![Tugas Lapangan Florens CCID-ToT Surabaya.jpeg](/uploads/Tugas%20Lapangan%20Florens%20CCID-ToT%20Surabaya.jpeg){: .img-responsive .center-block }{: width="500"}
 
