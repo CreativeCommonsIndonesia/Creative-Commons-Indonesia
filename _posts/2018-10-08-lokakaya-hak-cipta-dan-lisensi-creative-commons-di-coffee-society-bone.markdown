@@ -1,6 +1,7 @@
 ---
 title: Lokakarya Hak Cipta dan Lisensi Creative Commons di Coffee Society, Bone
 date: 2018-10-08 03:10:00 +07:00
+published: false
 categories:
 - Acara
 tags:
@@ -338,16 +339,23 @@ Berikut petunjuk teknis untuk menerapkan lisensi CC pada ciptaan
 Ciptaan-ciptaan berlisensi CC paling tidak dapat ditemukan pada situs-situs berikut:
 
 * Karya fotografi berlisensi CC di [Flickr](https://www.flickr.com/creativecommons/)
+
 * Karya fotografi bebas hak cipta di [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:PD_Indonesia_Old)
+
 * Karya desain grafis berlisensi CC di [Noun Project](https://thenounproject.com/)
+
 * Karya musik berlisensi CC di [Freemusicarchive](http://freemusicarchive.org) dan [Yes No Wave Music](http://yesnowave.com/)
+
 * Karya tulis berlisensi CC ilmiah di [Directory of Open Access Journal](doaj.org) dan [Wikipedia](id.wikipedia.org)
+
 * Karya basis data berlisensi CC di [Satu Data Indonesia](data.go.id) dan [OD Log](http://odlog.febri.web.id/index.php/od/org/) oleh Febri
 
 Selain itu, beberapa mesin pencari menyediakan fitur penyaringan untuk mencari ciptaan berlisensi CC, yaitu:
 
-* [Youtube](http://creativecommons.or.id/2018/02/panduan-mencari-konten-video-berlisensi-creative-commons-di-situs-web-youtube/), 
-* [Google Images Search (http://creativecommons.or.id/2018/02/panduan-mencari-gambar-berlisensi-creative-commons-melalui-mesin-pencari-gambar-google/),
+* [Youtube](http://creativecommons.or.id/2018/02/panduan-mencari-konten-video-berlisensi-creative-commons-di-situs-web-youtube/),
+
+* \[Google Images Search (http://creativecommons.or.id/2018/02/panduan-mencari-gambar-berlisensi-creative-commons-melalui-mesin-pencari-gambar-google/),
+
 * [CC Search Beta](https://ccsearch.creativecommons.org/)
 
 CCID juga menyediakan bahan pembelajaran tentang lisensi CC yang dapat diakses gratis di [Wikimedia Commons](s.id/bahanccid).
