@@ -2,13 +2,14 @@
 title: Tugas Lapangan Pertama TOT-CCID di Surabaya
 date: 2018-10-03 16:33:00 +07:00
 categories:
-- Berita
+- Acara
 tags:
 - Lisensi Creative Commons
 - CCID ToT
 - Surabaya
 - STIKOM Surabaya
 - Creative Commons Indonesia
+- Sosialisasi Lisensi Creative Commons
 img: "/uploads/%5BSPCCID%5D%2003%20Oktober%202018%20Tugas%20Lapangan%20Florens%20CCID-ToT%20Surabaya.jpeg"
 ---
 
