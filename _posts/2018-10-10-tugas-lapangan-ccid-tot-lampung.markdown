@@ -1,5 +1,5 @@
 ---
-title: 'Tugas Lapangan CCID-ToT: Lampung'
+title: Tugas Lapangan CCID-ToT di Lampung
 date: 2018-10-10 17:11:00 +07:00
 categories:
 - Acara
