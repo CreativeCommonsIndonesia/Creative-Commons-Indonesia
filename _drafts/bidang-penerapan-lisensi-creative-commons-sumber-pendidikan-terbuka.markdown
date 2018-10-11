@@ -100,14 +100,14 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
 Wikipedia merupakan ensiklopedia multibahasa yang dapat disunting, disalin dan disebarkan secara bebas oleh siapa saja. Hingga saat ini terhitung sebanyak 988.77 orang sukarelawan yang telah mencoba menyunting dan menciptakan 438.444 artikel dalam bahasa Indonesia.
 
-2\. Universitas Terbuka
+2\. [Sumber Pembelajaran Terbuka Universitas Terbuka ( SUAKA-UT)](https://www.ut.ac.id/OER/index.html)
 
-Di Indonesia Universitas Terbuka dan repisitori kemendikbud telah menerapkan sistem OER ini.
+**SUAKA-UT** merupakan Open Educational Resources (OER), yaitu salah satu layanan UT dalam menyediakan materi pembelajaran yang dapat diakses secara gratis oleh masyarakat luas. Di dalam SUAKA-UT terdapat begitu banyak materi sumber pembelajaran  yang dibuat sendiri oleh para dosen baik secara individu ataupun tim, dengan mengadopsi lisensi creative commons.
+
+Materi pembelajaran SUAKA-UT dikemas menjadi berbagai bentuk yakni: UT TV yakni siaran TV,  UT Radio, Guru Pintar Online (GPO), UT Open courseware.
+
+Konten-konten pembelajaran yang ada pada SUAKA-UT** ada** yang menggunakan lisensi [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/). [ ](http://www.creativecommons.org/)Dengan adanya layanan SUAKA-UT diharapkan dapat membantu masyarakat luas untuk mendapatkan sumber belajar yang berkualitas secara bebas sehingga dapat mendorong terbentuknya masyarakat belajar di Indonesia.
 
 3\. [OER Unsiyah](http://uilis.unsyiah.ac.id/oer/about)
-
-4\. BSE dari Kemendikbud
-
-BSE dari Kemendikbud yang tidak 100% OER karena tidak berlisensi terbuka. Sentil aja tuh. Gitu2 sih.
 
 Kontribusi terhadap OER juga dapat dilakukan di kalangan perorangan atau komunitas. Dengan turut serta berkontribusi dengan membuat  konten-konten  di sebuah platform OER. Adanya sistem OER ini baik untuk diadaptasi di Indonesia karena OER dapat menjadi solusi dalam permasalahan ketimpangan akses pendidikan di berbagai daerah.
