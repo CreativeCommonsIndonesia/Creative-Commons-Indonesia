@@ -29,7 +29,9 @@ Pada tanggal 7 Mei 2018, Creative Commons Indonesia (CCID) yang diwakili oleh Hi
 
 ---
 
-Hilman membuka presentasi dengan menjelaskan bahwa gerakan sumber pembelajaran terbuka terbagi menjadi dua fokus yakni Open Education (pendidikan terbuka) dan Open Access to Research (akses terbuka untuk hasil penelitian). Dua fokus ini juga merupakan bagian tak terpisahkan dari gerakan pemajuan keterbukaan konten yang sedang terjadi di seluruh dunia. Dalam dua bidang ini, lisensi CC membantu perumusan 5 prinsip dasar (5rs) di ranah Pendidikan Terbuka. 5 prinsip itu adalah:
+Gerakan sumber pembelajaran terbuka terbagi menjadi dua fokus yakni Open Education (pendidikan terbuka) dan Open Access to Research (akses terbuka untuk hasil penelitian). Dua fokus ini juga merupakan bagian tak terpisahkan dari gerakan pemajuan keterbukaan konten yang sedang terjadi di seluruh dunia. 
+
+Keterkaitan lisensi CC dengan gerakan pendidikan terbuka dapat dilihat pada 5 prinsip dasar (5rs) pendidikan terbuka:
 
 * Retain
   Setiap konten pendidikan terbuka merupakan konten yang hak ciptanya dikontrol secara penuh oleh pencipta atau pemegang hak ciptanya. Dalam penyediaannya tidak disarankan adanya pengalihan hak cipta yang mengakibatkan eksploitasi hak cipta seorang atau sekelompok pencipta atau pemegang hak cipta oleh pihak lain secara tidak bertanggung jawab.
@@ -46,13 +48,13 @@ Hilman membuka presentasi dengan menjelaskan bahwa gerakan sumber pembelajaran t
 * Redistribute
   Prinsip ini pada dasarnya mirip dengan prinsip Reuse, yaitu bagaimana pihak penyedia konten pendidikan terbuka memberikan izin langsung kepada pengguna ciptaan untuk menyebarluaskan konten pendidikan terbukanya.
 
-Melalui penjelasan tersebut, Hilman hendak menyampaikan kepada para peserta bahwa terdapat hubungan langsung antara pembuatan konten pendidikan dengan perlindungan hak cipta. Dan dengan berkembangnya konsep-konsep pendidikan terbuka, pengetahuan mengenai hak cipta serta segala aspek atau alat legal yang mengikutinya mutlak untuk diketahui oleh pengajar. Maka dari itu Hilman kemudian menyambung penjelasannya dengan konsep perlindungan hak Kekayaan Intelektual (KI) di Indonesia. Juga paparan tentang konsep perlindungan hak cipta sebagai bagian darinya.
-
 ## **Perlindungan Hak Cipta**
 
 ---
 
-Kemudian, Hilman menjelaskan jenis-jenis obyek perlindungan hak cipta (lihat pasal 40 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta, [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19)[2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Pada hakikatnya, seluruh obyek perlindungan hak cipta mewajibkan setiap pengguna ciptaan untuk memperoleh izin penggunaan (penggandaan, dan penyebarluasan) secara langsung dari pencipta atau pemegang hak cipta dalam aktivitas penggunaan ciptaan. Dalam hal ini, pencipta atau pemegang hak cipta wajib memenuhi beberapa prinsip juga agar ciptaannya dapat dilindungi dengan mekanisme perlindungan hak cipta. Prinsip-prinsip tersebut antara lain:
+Pada hakikatnya, seluruh obyek perlindungan hak cipta (lihat pasal 40 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta, [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19)[2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)) mewajibkan setiap pengguna ciptaan untuk memperoleh izin penggunaan (penggandaan, dan penyebarluasan) secara langsung dari pencipta atau pemegang hak cipta dalam aktivitas penggunaan ciptaan. 
+
+Dalam hal ini, pencipta atau pemegang hak cipta wajib memenuhi beberapa prinsip juga agar ciptaannya dapat dilindungi dengan mekanisme perlindungan hak cipta. Prinsip-prinsip tersebut antara lain:
 
 * Tangibility
   Untuk memperoleh perlindugan hak cipta, seorang pencipta atau pemegang hak cipta wajib mewujudkan ciptaannya terlebih dahulu. Mekanisme perlindungan hak cipta tidak melindungi suatu konsep atau ide yang hanya dipikirkan. Gagasan-gagasan ini dapat diwujudkan secara nyata (tangible) oleh pencipta atau pemegang hak cipta dengan, misalnya, membuat sebuah buku, lagu, gambar, atau ciptaan dalam format lain yang mengekspresikan gagasan tersebut. Mewujudkan ciptaan secara nyata juga merupakan jalan untuk melakukan klaim terhadap suatu konsep atau ide tersebut sebelum pihak lain melakukannya.
@@ -66,7 +68,7 @@ Manfaat yang dimaksud dipaparkan dalam konsep perlindungan hak moral dan hak eko
 
 Hak ekonomi membantu pencipta atau pemegang hak cipta untuk menjaga manfaat komersial dari ciptaannya. Maksudnya supaya pemasukan atau royalti dari setiap penggunaan ciptaannya dalam aktivitas komersial dapat selalu tersalurkan kepada pihak pencipta atau pemegang hak cipta. Setiap pengguna ciptaan yang hendak menggunakan suatu ciptaan wajib memperoleh izin langsung terlebih dahulu dari pihak pencipta atau pemegang hak cipta. Namun, bisa saja dalam hal ini pencita atau pemegang hak cipta mengecualikan pengguna ciptaan dari beban royalti jika memang disepakati demikian dalam konteks penggunaan tertentu.
 
-Hilman melanjutkan pemaparannya dengan menjelaskan tentang jenis-jenis subyek hukum dalam mekanisme perlindungan hak cipta. Pada intinya hubungan hukum dalam ranah perlindungan hak cipta meliputi pencipta atau pemegang hak cipta dan pengguna ciptaan. Pencipta adalah pihak yang menciptakan suatu ciptaan, yang kemudian secara langsung memiliki peran sebagai pemegang hak cipta. Pemegang hak cipta belum tentu seorang pencipta, bisa saja pihak pemegang hak cipta adalah seseorang atau suatu kelompok yang dengan izin pencipta memiliki wewenang: hak dan kewajiban yang sama dengan pencipta. Tujuan pemberian izin ini biasanya adalah untuk membantu pencipta dalam mengatur mekanisme perlindungan hak ciptanya. Pengguna ciptaan adalah pihak yang bermaksud menggunakan ciptaan milik seseorang atau suatu kelompok dengan maksud untuk memperoleh manfaat dari ciptaan tersebut. Manfaat yang dimaksud dapat berupa manfaat estetis (keindahan) atau ekonomis.
+Hubungan hukum dalam ranah perlindungan hak cipta meliputi pencipta atau pemegang hak cipta dan pengguna ciptaan. Pencipta adalah pihak yang menciptakan suatu ciptaan, yang kemudian secara langsung memiliki peran sebagai pemegang hak cipta. Pemegang hak cipta belum tentu seorang pencipta, bisa saja pihak pemegang hak cipta adalah seseorang atau suatu kelompok yang dengan izin pencipta memiliki wewenang: hak dan kewajiban yang sama dengan pencipta. Tujuan pemberian izin ini biasanya adalah untuk membantu pencipta dalam mengatur mekanisme perlindungan hak ciptanya. Pengguna ciptaan adalah pihak yang bermaksud menggunakan ciptaan milik seseorang atau suatu kelompok dengan maksud untuk memperoleh manfaat dari ciptaan tersebut. Manfaat yang dimaksud dapat berupa manfaat estetis (keindahan) atau ekonomis.
 
 Hal yang disampaikan selanjutnya adalah beberapa elemen dari Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014) sebagai fungsi sosial dari peraturan tersebut. Elemen-element tersebut antara lain adalah:
 
@@ -115,7 +117,7 @@ Ketentuan di atas ialah informasi penentuan masa berlaku perlindungan hak ekonom
 
 ---
 
-Hilman memulai penjelasan mengenai lisensi Creative Commons dengan menjelaskan dasar-dasar lisensi hak cipta dalam konteks Indonesia terlebih dahulu. Menurut Angka 20 Ketentuan Umum UUHC 2014, lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Bentuk lisensi hak cipta dapat dipahami dengan membaginya ke dalam dua bentuk:
+Menurut Angka 20 Ketentuan Umum UUHC 2014, lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Bentuk lisensi hak cipta dapat dipahami dengan membaginya ke dalam dua bentuk:
 
 1. Lisensi ke Dalam
    Lisensi ke dalam memiliki bentuk yang kurang lebih sama dengan perjanjian-perjanjian pada umumnya. Biasanya lisensi dengan bentuk ini aksesnya tidak terbuka. Lisensi ini hanya dapat diakses oleh pihak-pihak yang dengan terang disebutkan di dalam perjanjian lisensi sebagai pihak yang terikat dengan ketentuan lisensi. Karena sifatnya yang privat, lisensi dengan bentuk ini biasanya hanya mengikat beberapa pihak saja.
@@ -171,7 +173,9 @@ Hal ini sejalan dengan logika penyediaan ciptaan di dalam jaringan. Karena pada 
 
 Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna ciptaan untuk memperoleh izin langsung untuk menggandakan dan menyebarluaskan ciptaan.  Digital Rights Management (DRM) atau sarana kontrol teknologi adalah teknologi perlindungan ciptaan yang dapat menghambat pengguna ciptaan untuk menggunakan ciptaan, misalnya dalam hal penggandaan dan penyebarluasan ciptaan. Misalnya, pencipta atau pemegang hak cipta menutup akses untuk pengunduhan ciptaan yang diunggah di dalam jaringan.  Maka dari itu, model perlindungan  ini tidak relevan untuk diterapkan pada ciptaan berlisensi CC.
 
-Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Ketentuan-ketentuan ini dijelaskan dengan menjabarkan fungsi 4 spektrum utama dari lisensi CC. Setelah mengenali masing-masing spektrum tersebut, peserta diharapkan mengerti fungsi masing-masing spektrum tersebut dalam 6 pilihan lisensi CC. Selain itu, peserta juga diajak mengenali 2 penanda ciptaan lain dari CC yaitu CC0 Dedikasi Domain Publik dan Tanda Domain Publik Creative Commons.
+Lisensi CC terdiri atas 4 spektrum pilihan yang dapat dikombinasikan menjadi 6 pilihan lisensi. Selain itu, terdapat 2 penanda ciptaan lain dari CC yaitu CC0 Dedikasi Domain Publik dan Tanda Domain Publik Creative Commons.
+
+Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 4 spektrum utama lisensi CC:
 
@@ -303,7 +307,7 @@ Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC. Kete
 
   * [Koleksi-koleksi ciptaan tua di Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:CC-PD-Mark)
 
-Contoh-contoh yang digunakan pada penjelasan di atas ialah proyek atau situs web yang menerapkan one license policy atau satu ketentuan lisensi untuk semua konten. Untuk itu Hilman menambahkan proyek atau situs web lain yang menerapkan banyak ketentuan lisensi CC pada konten-kontennya. Dengan adanya ketentuan semacam ini, proyek-proyek atau situs web-situs web ini memberikan pilihan kepada pengguna ciptaan untuk memilih ciptaan berdasarkan ketentuan lisensi yang sesuai dengan kebutuhannya. Hal semacam ini diperlukan karena rasio atau spektrum dipilih dan diterapkan sesuai dengan motif penciptaan ciptaan dari masing-masing pencipta atau pemegang hak cipta.
+Contoh-contoh yang digunakan pada penjelasan di atas ialah proyek atau situs web yang menerapkan one license policy atau satu ketentuan lisensi untuk semua konten. Namun, terdapat pula proyek atau situs web lain yang menerapkan banyak ketentuan lisensi CC pada konten-kontennya. Dengan adanya ketentuan semacam ini, proyek-proyek atau situs web-situs web ini memberikan pilihan kepada pengguna ciptaan untuk memilih ciptaan berdasarkan ketentuan lisensi yang sesuai dengan kebutuhannya. Hal semacam ini diperlukan karena rasio atau spektrum dipilih dan diterapkan sesuai dengan motif penciptaan ciptaan dari masing-masing pencipta atau pemegang hak cipta.
 
 \(1) Creative Commons di Flickr
 
@@ -317,7 +321,7 @@ Contoh-contoh yang digunakan pada penjelasan di atas ialah proyek atau situs web
 
 * DOAJ memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan satu diantara enam pilihan lisensi CC, dan Tanda Domain Publik CC.
 
-Kemudian, Hilman memberikan petunjuk teknis untuk menerapkan lisensi CC pada ciptaan kepada para peserta.
+Berikut petunjuk teknis untuk menerapkan lisensi CC pada ciptaan:
 
 \(1) Kunjungi creativecommons.org/share-your-work/
 
@@ -333,10 +337,14 @@ Kemudian, Hilman memberikan petunjuk teknis untuk menerapkan lisensi CC pada cip
 
 \(7) Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan
 
-Pada bagian akhir lokakarya Hilman menunjukan tiga cara mudah untuk mencari ciptaan berlisensi CC di dalam jaringan.
+Sebagai pengguna ciptaan, berikut daftar petunjuk teknis pencarian ciptaan berlisensi CC yang dapat dimanfaatkan:
 
-\(1) Fitur penyaringan gambar berlisensi CC di mesin pencari gambar Google
+Cara mencari ciptaan berlisensi CC di [Youtube](http://creativecommons.or.id/2018/02/panduan-mencari-konten-video-berlisensi-creative-commons-di-situs-web-youtube/), [Google Images Search](http://creativecommons.or.id/2018/02/panduan-mencari-gambar-berlisensi-creative-commons-melalui-mesin-pencari-gambar-google/), dan [CC Search Beta](https://ccsearch.creativecommons.org/)
 
-\(2) Mesin Pencari Creative Commons (beta)
+\(1) Fitur penyaringan gambar berlisensi CC di [mesin pencari gambar Google](http://creativecommons.or.id/2018/02/panduan-mencari-gambar-berlisensi-creative-commons-melalui-mesin-pencari-gambar-google/)
 
-\(3) Fitur penyaringan video berlisensi CC di Youtube
+\(2) [Mesin Pencari Creative Commons (beta)](https://ccsearch.creativecommons.org/)
+
+\(3) Fitur penyaringan video berlisensi CC di [Youtube](http://creativecommons.or.id/2018/02/panduan-mencari-konten-video-berlisensi-creative-commons-di-situs-web-youtube/)
+
+----
