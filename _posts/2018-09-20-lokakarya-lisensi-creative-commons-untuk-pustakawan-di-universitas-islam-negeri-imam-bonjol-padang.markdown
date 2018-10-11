@@ -289,7 +289,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 Dengan tersedianya pilihan ketentuan, maka pencipta atau pemegang hak cipta dapat memilih ketentuan lisensi yang paling sesuai dengan maksud penyediaan ciptaannya. Hal semacam ini diperlukan karena rasio atau spektrum dipilih dan diterapkan sesuai dengan motif penciptaan ciptaan dari masing-masing pencipta atau pemegang hak cipta. Misalnya, ia ingin memberikan izin kepada pengguna ciptaan untuk menggubah dan memanfaatkan ciptaan dalam kepentingan komersial, maka ia dapat memilih ketentuan lisensi yang paling bebas. Di sisi lain pengguna ciptaan juga dapat memilih ciptaan berdasarkan ketentuan lisensi yang diterapkan sesuai dengan kebutuhan penggunaannya.
 
-Berikut petunjuk teknis untuk menerapkan lisensi CC pada ciptaan
+Berikut petunjuk teknis untuk menerapkan lisensi CC pada ciptaan:
 
 \(1) Kunjungi creativecommons.org/share-your-work/
 
@@ -386,7 +386,7 @@ Keterkaitan lisensi CC dengan gerakan pendidikan terbuka dapat dilihat pada 5 pr
 
 Contoh nyata dari upaya penyediaan sumber pembelajaran terbuka di Indonesia dapat kita lihat pada inisiatif yang dibuat oleh Universitas Terbuka (UT) dan UKM Literasi Informasi dan Perpustakaan Universitas Syiah Kuala (UnSyiah). UT menyediakan sumber pembelajaran terbuka berupa materi presentasi pengajar dalam format interaktif (SUAKA-UT) serta jurnal terbitan yang menerapkan lisensi terbuka (CC BY-NC-SA). Sumber pembelajaran terbuka yang disediakan oleh UT seluruhnya merupakan sumber pembelajaran yang dikembangkan dan diadaptasi sendiri oleh pihak UT. Lain halnya dengan UKM Literasi Informasi dan Perpustaakn UnSyiah. Perpustakaan Pusat UnSyiah membuat portal sumber pembelajaran terbuka dalam berbagai format, mulai dari teks, gambar, hingga video.
 
-Apabila kita membuka jendela ke luar, kita bisa melihat praktik penyediaan sumber pengetahuan dalam format digital melalui situs web dari Monash University. [Pelajari petunjuk-petunjuk buatan Monas University](https://guides.lib.monash.edu/c.php?g=673714), termasuk [petunjuk pengenalan lisensi](https://guides.lib.monash.edu/digital-images/copyright), dengan mengklik setiap tautan di bawah ini. 
+Apabila kita membuka jendela ke luar, kita bisa melihat praktik penyediaan sumber pengetahuan dalam format digital melalui situs web dari Monash University. [Pelajari petunjuk-petunjuk buatan Monash University](https://guides.lib.monash.edu/c.php?g=673714), termasuk [petunjuk pengenalan lisensi](https://guides.lib.monash.edu/digital-images/copyright), dengan mengklik setiap tautan di bawah ini. 
 
 * [Petunjuk konten gambar dan grafis gratis dan berlisensi terbuka](https://guides.lib.monash.edu/digital-images/copyright)
     * [Gambar bebas hak cipta dan berlisensi terbuka dari Monash University](http://www.monash.edu.au/image-library/)
@@ -432,3 +432,5 @@ Apabila kita membuka jendela ke luar, kita bisa melihat praktik penyediaan sumbe
 * [Monash Library Open Source resources](https://guides.lib.monash.edu/c.php?g=594405)
 
 * [Pedoman Praktis Penggunaan Lisensi Creative Commons](https://commons.wikimedia.org/wiki/File:Konten_Terbuka_%E2%80%93_Pedoman_Praktis_Penggunaan_Lisensi_Creative_Commons.pdf)
+
+---
