@@ -186,17 +186,67 @@ Berikut ini adalah penjelasan cara menerapkan lisensi CC pada ciptaan:
 
 \(1) Kunjungi creativecommons.org/share-your-work/
 
-\(2) Klik tombol "Get Started"
+![1-cd4428.jpg](/uploads/1-cd4428.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(2) Klik tombol "[Get Started](https://creativecommons.org/choose/)"
+
+![2-02f41b.jpg](/uploads/2-02f41b.jpg){: .img-responsive .center-block }{: width="400"}
 
 \(3) Isi formulir pemberian izin kepada pengguna ciptaan sesuai dengan keinginan
 
+![3-8351bd.jpg](/uploads/3-8351bd.jpg){: .img-responsive .center-block }{: width="400"}
+
 \(4) Mesin akan menampilkan ketentuan lisensi yang sesuai dengan apa yang pencipta atau pemegang hak cipta isi pada formulir pemberian izin
 
-\(5) Lisensi dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+![4-c047bf.jpg](/uploads/4-c047bf.jpg){: .img-responsive .center-block }{: width="400"}
 
-\(6) Lisensi dapat ditempelkan dengan memasang berkas gambar spektrum atau pilihan lisensi yang tersedia
+\(5) [Lengkapi atau modifikasi ketentuan atribusi yang dibebankan kepada pengguna ciptaan](https://creativecommons.org/choose/#metadata)
 
-\(7) Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan
+![5-2ca7d4.jpg](/uploads/5-2ca7d4.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(6) Lisensi dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+
+![6-fe834f.jpg](/uploads/6-fe834f.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(6.5) Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan
+
+![7-ae34dc.jpg](/uploads/7-ae34dc.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(7) [Lisensi dapat ditempelkan dengan memasang berkas gambar spektrum atau pilihan lisensi yang tersedia untuk ciptaan di luar jaringan](https://creativecommons.org/about/downloads/)
+
+![8-65405c.jpg](/uploads/8-65405c.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(8) Pengguna ciptaan dapat memilih bahasa apa yang ditampilkan pada ketentuan lisensi yang diterapkan
+
+![7-ae34dc.jpg](/uploads/7-ae34dc.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(9) [Tampilan laman untuk menggunakan CC0 Dedikasi Domain Publik dan Tanda Domain Publik CC](https://creativecommons.org/publicdomain/)
+
+![9-5231fa.jpg](/uploads/9-5231fa.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(10) [Isi kolom jawaban formulir sesuai dengan pertanyaan yang diajukan](https://creativecommons.org/choose/zero/waiver?lang=id)
+
+![10-8f8d52.jpg](/uploads/10-8f8d52.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(11) Baca kemudian tandai pernyataan pendedikasian hak cipta ke domain publik
+
+![11-b0c84b.jpg](/uploads/11-b0c84b.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(12) [Konfirmasi sikap pendedikasian hak cipta ke domain publik sampai akhir](https://creativecommons.org/choose/zero/confirm?license-class=zero&name=a&actor_href=a&work_title=a&work_jurisdiction=ID&confirm=confirm&understand=confirm&lang=id&field1=lanjut)
+
+![12-777c2f.jpg](/uploads/12-777c2f.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(13) Pemberitahuan pendedikasian hak cipta ke domain publik dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+
+![13-c9678c.jpg](/uploads/13-c9678c.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(14) [Isi kolom jawaban formulir sesuai dengan pertanyaan yang diajukan](https://creativecommons.org/choose/mark/details?lang=id)
+
+![14-2de147.jpg](/uploads/14-2de147.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(15) Tanda domain publik dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+
+![15.jpg](/uploads/15.jpg){: .img-responsive .center-block }{: width="400"}
 
 ## **Tentang Penerapan Lisensi Creative Commons Di Ranah Publikasi Karya Ilmiah Daring oleh Penerbit Jurnal**
 
@@ -218,14 +268,6 @@ Contoh terbaik pemberian nuansa demokratis di ranah manajemen hak cipta penulis 
 
   * Contoh dokumen pernyataan pelisensian kembali karya oleh penerbit
     \*Petunjuk pemilihan lisensi (contoh: lisensi CC)
-
-* Informasi tentang ragam versi artikel:
-
-  * Artikel pracetak
-
-  * Artikel lulus peninjauan (peer-reviewed)
-
-  * Artikel pasca cetak
 
 ## **Tentang Penerapan Lisensi Creative Commons Di Ranah Publikasi Karya Ilmiah Daring Dalam Konteks Indeksasi dan Kualifikasi di DOAJ**
 
