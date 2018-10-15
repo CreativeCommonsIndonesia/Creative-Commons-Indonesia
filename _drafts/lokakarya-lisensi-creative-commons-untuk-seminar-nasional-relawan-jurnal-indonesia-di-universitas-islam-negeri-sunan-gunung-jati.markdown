@@ -2,8 +2,18 @@
 title: Lokakarya Lisensi Creative Commons Untuk Seminar Nasional Relawan Jurnal Indonesia
   di Universitas Islam Negeri Sunan Gunung Jati
 date: 2018-10-03 13:30:00 +07:00
+tags:
+- Relawan Jurnal Indonesia
+- RJI
+- Bandung
+- Universitas Islam Negeri Sunan Gunung Jati
+- UIN Gunung Jati
+- Indonesia
+- Creative Commons Indonesia
+- Creative Commons
+- Lisensi Creative Commons
 author: hilman
-img: 
+img: "/uploads/24_Agustus_2018_lokakarya_CCID_di_semnas_dan_rakernas_RJI,_Bandung.jpg"
 comments: true
 ---
 
@@ -256,23 +266,37 @@ Penerbitan karya ilmiah daring adalah serangkaian proses yang melibatkan aktivit
 
 Seperti yang telah disinggung pada awal artikel ini, situs web-situs web penerbit jurnal, khususnya yang ada di Indonesia, telah menerapkan prinsip Open Access dengan memasang perangkat Open Journal System di situs webnya. Perangkat ini memudahkan pengelola penerbitan jurnal dalam membuat templat kebijakan-kebijakan penerbitannya, khususnya kebijakan keterbukaan akses. Yang dimaksudkan dengan kebijakan keterbukaan akses dalam hal ini adalah bagaimana pihak penerbit dapat memberikan pilihan kepada penulis untuk mengalihkan hak ciptanya atau tidak dalam perjanjian penerbitan. Juga memberi tahu apakah para penulis dapat memilih ketentuan lisensi hak cipta yang ingin mereka terapkan pada karya tulisnya, atau pemberitahuan bahwa penerbit menerapkan kebijakan lisensi tunggal (one license policy) yang wajib diikuti oleh penulis.
 
-Contoh terbaik pemberian nuansa demokratis di ranah manajemen hak cipta penulis dalam aktivitas penerbitan artikelnya dapat dirujuk dari penjelasan berikut ini:
+Contoh terbaik pemberian nuansa demokratis di ranah manajemen hak cipta penulis dalam aktivitas penerbitan artikelnya dapat dirujuk dari contoh berikut ini:
+
+![oauin6.jpg](/uploads/oauin6.jpg)
 
 \(1) Penjelasan tentang hak cipta dan pelisensian karya tulis
 
+
+![oauin12.jpg](/uploads/oauin12.jpg)
+
 * Tentang kebijakan pengarsipan mandiri oleh penulis
 
+
+![oauin5.jpg](/uploads/oauin5.jpg)
 * Informasi perbedaan antara pengalihan hak cipta dan pelisensian ciptaan
 
   * Contoh dokumen perjanjian hak cipta
 
   * Contoh dokumen pernyataan pelisensian kembali karya oleh penerbit
+
+![oauin9.jpg](/uploads/oauin9.jpg)
     \*Petunjuk pemilihan lisensi (contoh: lisensi CC)
 
 ## **Tentang Penerapan Lisensi Creative Commons Di Ranah Publikasi Karya Ilmiah Daring Dalam Konteks Indeksasi dan Kualifikasi di DOAJ**
 
 ---
+![doaj pinned.jpg](/uploads/doaj%20pinned.jpg)
 
-\(1) Informasi lisensi hak cipta CC terbaca mesin
-\(2) Ketentuan lisensi wajib mengizinkan penggubahan artikel
-\(3) Penulis memiliki kontrol penuh atas hak cipta karya tulisnya
+\(4) Informasi lisensi hak cipta CC terbaca mesin
+
+
+\(5) Ketentuan lisensi wajib mengizinkan penggubahan artikel
+
+
+\(7) Penulis memiliki kontrol penuh atas hak cipta karya tulisnya
