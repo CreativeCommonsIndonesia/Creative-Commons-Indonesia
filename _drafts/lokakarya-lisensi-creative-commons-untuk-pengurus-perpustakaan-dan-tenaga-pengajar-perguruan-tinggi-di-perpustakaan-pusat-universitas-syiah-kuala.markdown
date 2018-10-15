@@ -201,9 +201,9 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Contoh penerapan:
 
-  * Situs web Portal Data Indonesia
+  * [Situs web Portal Data Indonesia](data.go.id) (CC BY)
 
-  * Situs web ikon The Noun Project
+  * [Situs web ikon The Noun Project](thenounproject.com) (CC BY)
 
 \(2) **Spektrum BerbagiSerupa (SA)**
 
@@ -223,9 +223,9 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Contoh penerapan:
 
-  * Situs web Wikipedia
+  * [Situs web Wikipedia](id.wikipedia.org) (CC BY-SA)
 
-  * Situs web Wikimedia Commons
+  * [Situs web Wikimedia Commons](commons.wikimedia.org) (CC BY-SA)
 
 \(3) **Spektrum NonKomersial (NC)**
 
@@ -247,7 +247,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Contoh penerapan:
 
-  * Proyek Netlabel Yes No Wave Music
+  * [Proyek Netlabel Yes No Wave Music](http://yesnowave.com/)
 
 \(4) **Spektrum TanpaTurunan (ND)**
 
@@ -269,7 +269,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Contoh penerapan:
 
-  * Situs web Katadata
+  * [Situs web Katadata](https://katadata.co.id/) (CC BY-ND)
 
 \(5) Creative Commons Nol Dedikasi Domain Publik (CC0)
 
@@ -289,7 +289,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Contoh penerapan:
 
-  * Situs web WikiData
+  * [Situs web WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page) (CC0)
 
 \(6) Tanda Domain Publik Creative Commons (Tanda Domain Publik CC)
 
@@ -309,15 +309,15 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 Contoh-contoh yang digunakan pada penjelasan di atas ialah proyek atau situs web yang menerapkan one license policy atau satu ketentuan lisensi untuk semua konten. Namun, terdapat pula proyek atau situs web lain yang menerapkan banyak ketentuan lisensi CC pada konten-kontennya. Dengan adanya ketentuan semacam ini, proyek-proyek atau situs web-situs web ini memberikan pilihan kepada pengguna ciptaan untuk memilih ciptaan berdasarkan ketentuan lisensi yang sesuai dengan kebutuhannya. Hal semacam ini diperlukan karena rasio atau spektrum dipilih dan diterapkan sesuai dengan motif penciptaan ciptaan dari masing-masing pencipta atau pemegang hak cipta.
 
-\(1) Creative Commons di Flickr
+\(1) [Creative Commons di Flickr](https://www.flickr.com/creativecommons/)
 
 * Flickr memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan ketentuan all rights reserved, enam pilihan lisensi CC, lisensi CC0 Dedikasi Domain Publik, dan Tanda Domain Publik CC.
 
-\(2) Creative Commons di Freemusicarchive (FMA)
+\(2) [Creative Commons di Freemusicarchive (FMA)] (freemusicarchive.org)
 
 * FMA memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan ketentuan all rights reserved, enam pilihan lisensi CC, dan Tanda Domain Publik CC.
 
-\(3) Creative Commons di Directory of Open Access Journal (DOAJ)
+\(3) [Creative Commons di Directory of Open Access Journal (DOAJ)] (doaj.org)
 
 * DOAJ memberikan pilihan kepada pencipta atau pemegang hak cipta untuk menerapkan satu diantara enam pilihan lisensi CC, dan Tanda Domain Publik CC.
 
@@ -325,17 +325,67 @@ Berikut petunjuk teknis untuk menerapkan lisensi CC pada ciptaan:
 
 \(1) Kunjungi creativecommons.org/share-your-work/
 
-\(2) Klik tombol "Get Started"
+![1-cd4428.jpg](/uploads/1-cd4428.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(2) Klik tombol "[Get Started](https://creativecommons.org/choose/)"
+
+![2-02f41b.jpg](/uploads/2-02f41b.jpg){: .img-responsive .center-block }{: width="400"}
 
 \(3) Isi formulir pemberian izin kepada pengguna ciptaan sesuai dengan keinginan
 
+![3-8351bd.jpg](/uploads/3-8351bd.jpg){: .img-responsive .center-block }{: width="400"}
+
 \(4) Mesin akan menampilkan ketentuan lisensi yang sesuai dengan apa yang pencipta atau pemegang hak cipta isi pada formulir pemberian izin
 
-\(5) Lisensi dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+![4-c047bf.jpg](/uploads/4-c047bf.jpg){: .img-responsive .center-block }{: width="400"}
 
-\(6) Lisensi dapat ditempelkan dengan memasang berkas gambar spektrum atau pilihan lisensi yang tersedia
+\(5) [Lengkapi atau modifikasi ketentuan atribusi yang dibebankan kepada pengguna ciptaan](https://creativecommons.org/choose/#metadata)
 
-\(7) Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan
+![5-2ca7d4.jpg](/uploads/5-2ca7d4.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(6) Lisensi dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+
+![6-fe834f.jpg](/uploads/6-fe834f.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(6.5) Pengguna ciptaan dapat membaca isi ketentuan lisensi yang dipilih pencipta atau pemegang hak cipta dengan membuka tautan yang dipasang pada teks lisensi di bawah gambar pilihan lisensi yang diterapkan
+
+![7-ae34dc.jpg](/uploads/7-ae34dc.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(7) [Lisensi dapat ditempelkan dengan memasang berkas gambar spektrum atau pilihan lisensi yang tersedia untuk ciptaan di luar jaringan](https://creativecommons.org/about/downloads/)
+
+![8-65405c.jpg](/uploads/8-65405c.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(8) Pengguna ciptaan dapat memilih bahasa apa yang ditampilkan pada ketentuan lisensi yang diterapkan
+
+![7-ae34dc.jpg](/uploads/7-ae34dc.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(9) [Tampilan laman untuk menggunakan CC0 Dedikasi Domain Publik dan Tanda Domain Publik CC](https://creativecommons.org/publicdomain/)
+
+![9-5231fa.jpg](/uploads/9-5231fa.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(10) [Isi kolom jawaban formulir sesuai dengan pertanyaan yang diajukan](https://creativecommons.org/choose/zero/waiver?lang=id)
+
+![10-8f8d52.jpg](/uploads/10-8f8d52.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(11) Baca kemudian tandai pernyataan pendedikasian hak cipta ke domain publik
+
+![11-b0c84b.jpg](/uploads/11-b0c84b.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(12) [Konfirmasi sikap pendedikasian hak cipta ke domain publik sampai akhir](https://creativecommons.org/choose/zero/confirm?license-class=zero&name=a&actor_href=a&work_title=a&work_jurisdiction=ID&confirm=confirm&understand=confirm&lang=id&field1=lanjut)
+
+![12-777c2f.jpg](/uploads/12-777c2f.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(13) Pemberitahuan pendedikasian hak cipta ke domain publik dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+
+![13-c9678c.jpg](/uploads/13-c9678c.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(14) [Isi kolom jawaban formulir sesuai dengan pertanyaan yang diajukan](https://creativecommons.org/choose/mark/details?lang=id)
+
+![14-2de147.jpg](/uploads/14-2de147.jpg){: .img-responsive .center-block }{: width="400"}
+
+\(15) Tanda domain publik dapat ditempelkan pada situs web dengan memasang kode html yang tersedia
+
+![15.jpg](/uploads/15.jpg){: .img-responsive .center-block }{: width="400"}
 
 Sebagai pengguna ciptaan, berikut daftar petunjuk teknis pencarian ciptaan berlisensi CC yang dapat dimanfaatkan:
 

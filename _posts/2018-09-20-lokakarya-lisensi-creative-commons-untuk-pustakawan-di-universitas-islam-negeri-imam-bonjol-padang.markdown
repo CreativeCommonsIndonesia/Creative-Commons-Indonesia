@@ -30,7 +30,7 @@ Pada tanggal 19 September 2018, Creative Commons Indonesia (CCID) yang diwakili 
 
 ---
 
-Presentasi dimulai dengan penjelasan tentang konsep perlindungan hak Kekayaan Intelektual (KI) di Indonesia. Mekanisme perlindungan KI lain seperti Hak Merek dan Hak Paten berbeda obyek perlindungannya dengan hak cipta. Meskipun ketiga mekanisme perlindungan tersebut semuanya berada di bawah terminologi perlindungan kekayaan intelektual. Setiap mekanisme yang ada memiliki dasar hukum yang berbeda. Perlindungan hak cipta diatur melalui [Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta](https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_28_Tahun_2014) (UUHC 2014).
+Mekanisme perlindungan KI seperti Hak Merek dan Hak Paten berbeda obyek perlindungannya dengan hak cipta. Meskipun ketiga mekanisme perlindungan tersebut semuanya berada di bawah terminologi perlindungan kekayaan intelektual. Setiap mekanisme yang ada memiliki dasar hukum yang berbeda. Perlindungan hak cipta diatur melalui [Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta](https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_28_Tahun_2014) (UUHC 2014).
 
 Mekanisme perlindungan KI masing-masing dibedakan dari ruang lingkup atau obyek perlindungannya. Obyek perlindungan hak cipta diatur melalui Pasal 40 Undang-UUHC 2014 (lihat rujukan: [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19), [2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Ciptaan-ciptaan ini lah yang membedakan mekanisme perlindungan hak cipta dengan mekanisme perlindungan KI lainnya. Namun, pada dasarnya hubungan hukum dalam mekanisme perlindungan KI meliputi subyek hukum yang serupa, meskipun tidak sama.
 
@@ -221,7 +221,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Contoh penerapan:
 
-  * Proyek Netlabel Yes No Wave Music (CC BY-NC-SA)
+  * [Proyek Netlabel Yes No Wave Music (CC BY-NC-SA)](http://yesnowave.com/)
 
 \(4) **Spektrum TanpaTurunan (ND)**
 
