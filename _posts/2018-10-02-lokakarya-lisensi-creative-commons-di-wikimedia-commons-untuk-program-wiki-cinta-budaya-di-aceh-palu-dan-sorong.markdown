@@ -2,6 +2,21 @@
 title: Lokakarya Lisensi Creative Commons di Wikimedia Commons Untuk Program Wiki
   Cinta Budaya di Aceh, Palu, dan Sorong
 date: 2018-10-02 20:41:00 +07:00
+categories:
+- Acara
+tags:
+- Wiki Cinta Budaya
+- Wikimedia Commons
+- Sorong
+- Papua
+- Palu
+- Aceh
+- Lisensi Creative Commons
+- Creative Commons
+- Lisensi Terbuka
+author: hilman
+img: "/uploads/combined.jpg"
+comments: true
 ---
 
 ![combined.jpg](/uploads/combined.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>Foto oleh Fitriayu, digabungkan oleh Hilman Fathoni</i></small></center>
