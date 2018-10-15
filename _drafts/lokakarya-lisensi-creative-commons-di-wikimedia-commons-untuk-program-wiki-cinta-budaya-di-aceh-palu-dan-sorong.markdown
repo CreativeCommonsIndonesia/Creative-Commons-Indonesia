@@ -12,13 +12,13 @@ Pada tanggal 20 Agustus, 4 September ,dan 20 September tahun 2018, Creative Comm
 
 ---
 
-Presentasi dibuka dengan penjelasan tentang jenis-jenis obyek perlindungan hak cipta (lihat pasal 40 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta, [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19), [2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Ciptaan-ciptaan ini lah yang membedakan mekanisme perlindungan hak cipta dengan mekanisme perlindungan hak Kekayaan Intelektual (KI) lainnya. Mekanisme perlindungan KI lain seperti Hak Merek dan Hak Paten berbeda obyek perlindungannya dengan hak cipta. Meskipun ketiga mekanisme perlindungan tersebut semuanya berada di bawah terminologi perlindungan kekayaan intelektual. Mekanisme perlindungan hak cipta mewajibkan setiap pengguna ciptaan untuk memperoleh izin penggunaan (penggandaan, penyebarluasan, penggubahan, dan penggunaan ciptaan dalam kepentingan komersial) secara langsung dari pencipta atau pemegang hak cipta dalam aktivitas penggunaan ciptaan.
+Jenis-jenis obyek perlindungan hak cipta dapat dilihat di Pasal 40 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014, [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19), [2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Ciptaan-ciptaan ini lah yang membedakan mekanisme perlindungan hak cipta dengan mekanisme perlindungan hak Kekayaan Intelektual (KI) lainnya. Mekanisme perlindungan KI lain seperti Hak Merek dan Hak Paten berbeda obyek perlindungannya dengan hak cipta. Meskipun ketiga mekanisme perlindungan tersebut semuanya berada di bawah terminologi perlindungan kekayaan intelektual. Mekanisme perlindungan hak cipta mewajibkan setiap pengguna ciptaan untuk memperoleh izin penggunaan (penggandaan, penyebarluasan, penggubahan, dan penggunaan ciptaan dalam kepentingan komersial) secara langsung dari pencipta atau pemegang hak cipta dalam aktivitas penggunaan ciptaan.
 
 ## **Lisensi Hak Cipta**
 
 ---
 
-Presentasi kemudian dilanjutkan ke bagian penjelasan mengenai dasar-dasar lisensi hak cipta dalam konteks Indonesia. Menurut [Angka 20 Ketentuan Umum Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014)](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/4), lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Lisensi hak cipta dapat menjadi alat penyederhana bahasa hukum dari UUHC. Dengan begitu dialog antara pencipta atau pemegang hak cipta akan menjadi semakin mudah.
+Menurut [Angka 20 Ketentuan Umum Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014)](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/4), lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Lisensi hak cipta dapat menjadi alat penyederhana bahasa hukum dari UUHC. Dengan begitu dialog antara pencipta atau pemegang hak cipta akan menjadi semakin mudah.
 
 Karena tidak semua pihak-pihak terkait dalam hubungan hukum di ranah perlindungan hak cipta memiliki pengetahuan atau dapat langsung memahami mekanisme perlindungan hak cipta dengan membaca peraturannya. Selain itu dengan mengetahui perbedaan jenis lisensi dan isi ketentuannya, pengguna ciptaan dapat membedakan mana ciptaan yang dapat diakses secara gratis saja dan mana ciptaan yang dapat diakses secara gratis dan terbuka. Maksud terbuka dalam hal ini adalah ciptaan-ciptaan tersebut selain dapat diunduh dan disebarluaskan secara gratis, juga mengandung izin langsung yang memungkinkan pengguna ciptaan untuk menggubah atau menggunakan ciptaan dalam kepentingan komersial.
 
@@ -80,33 +80,33 @@ Ketentuan lisensi CC lain yang tidak ada di Wikimedia Commons ialah:
 
 * Isi ketentuan:
 
-  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk:
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun, lalu menggubah, mengubah, dan membuat turunan dari ciptaan.
 
-  * Dengan ketentuan:
+  * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Pengguna ciptaan dilarang menggunakan ciptaan untuk kepentingan komersial. 
 
 \(2)[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa);
 
 * Isi ketentuan:
 
-  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk:
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun, lalu menggubah, mengubah, dan membuat turunan dari ciptaan.
 
-  * Dengan ketentuan:
+  * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Pengguna ciptaan dilarang menggunakan ciptaan untuk kepentingan komersial. Pengguna ciptaan juga harus menyebarluaskan hasil perubahan atau penggubahan di bawah lisensi yang sama dengan materi asli.
 
 \(3)[CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan);
 
-* Isi ketentuan:
+* Isi ketentuan: 
 
-  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk:
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun, untuk kepentingan apapun, termasuk kepentingan komersial.
 
-  * Dengan ketentuan:
+  * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Namun, segala pengubahan dan penggubahan yang dibuat tidak boleh disebarluaskan.
 
 \(4)[CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
 
-* Isi ketentuan:
+* Isi ketentuan: 
 
-  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk:
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun. 
 
-  * Dengan ketentuan:
+  * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Namun, segala pengubahan dan penggubahan yang dibuat tidak boleh disebarluaskan. Pengguna ciptaan dilarang menggunakan ciptaan untuk kepentingan komersial.
 
 Beberapa pertimbangan yang harus diketahui pencipta atau pemegang hak cipta (pemberi lisensi) sebelum menerapkan lisensi tersebut pada ciptaan yaitu sebagai berikut: (Daftar ini merupakan hasil pembaruan yang merujuk ketentuan dari [laman ini](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors))
 
@@ -148,8 +148,10 @@ Pada intinya kita dapat menganalogikan prinsip "all rights reserved" seperti lam
 
 Tempat untuk mencari ciptaan berlisensi CC dalam konteks pencarian konten tentang kebudayaan ialah:
 
-\(1) Situs web Wikimedia Commons
+\(1) [Situs web Wikimedia Commons](commons.wikimedia.org)
 
-\(2) Mesin Pencari Creative Commons
+\(2) [Mesin Pencari Creative Commons](https://ccsearch.creativecommons.org/)
 
-\(3) Kumpulan Buku Cerita Anak-Anak di StoryWeaver
+\(3) [Kumpulan Buku Cerita Anak-Anak di StoryWeaver](https://storyweaver.org.in/)
+
+----
