@@ -8,6 +8,8 @@ tags:
 - Lisensi Creative Commons
 - Creative Commons Indonesia
 img: "/uploads/Infografis.png"
+author: ccid
+comments: true
 ---
 
 ![Infografis.png](/uploads/Infografis.png)
