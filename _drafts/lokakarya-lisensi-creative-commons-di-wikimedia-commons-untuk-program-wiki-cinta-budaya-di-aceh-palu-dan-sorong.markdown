@@ -4,7 +4,7 @@ title: Lokakarya Lisensi Creative Commons di Wikimedia Commons Untuk Program Wik
 date: 2018-10-02 20:41:00 +07:00
 ---
 
-![combined.jpg](/uploads/combined.jpg){: .img-responsive .center-block }{: width="500"}
+![combined.jpg](/uploads/combined.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>Foto oleh Fitriayu, digabungkan oleh Hilman Fathoni</i></small></center>
 
 Pada tanggal 20 Agustus, 4 September ,dan 20 September tahun 2018, Creative Commons Indonesia (CCID) yang diwakili oleh Fitriayu berkesempatan menyampaikan materi tentang lisensi Creative Commons (lisensi CC) di Wikiemdia Commons bekerjasama dengan Wikimedia Indonesia (WMID) untuk program [Wiki Cinta Budaya 2018 (WCB)](s.id/wcb2018). WCB adalah kompetisi foto mengenai budaya Indonesia yang berupa tari, musik, permainan tradisional, makanan, minuman, dan lain-lain yang dilakukan secara daring di situs [Wikimedia Commons](commons.wikimedia.org). Wikimedia Commons adalah salah satu proyek Wikimedia Foundation, situs web yang berisi koleksi media (foto, video, dan audio) yang menggunakan lisensi Creative Commons. Dalam hal ini, CCID membantu WMID untuk memberikan pemahaman kepada peserta sosialisasi WCB mengenai cara kerja lisensi terbuka di Wikimedia Commons.
 
