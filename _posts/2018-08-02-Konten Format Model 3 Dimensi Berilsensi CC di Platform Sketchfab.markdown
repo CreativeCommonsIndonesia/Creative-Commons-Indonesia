@@ -8,6 +8,8 @@ tags:
 - Lisensi Terbuka
 - Lisensi Creative Commons
 img: "/uploads/logo-sketchfab-grey.png"
+author: fitriayu
+comments: true
 ---
 
 ![logo-sketchfab-grey.png](/uploads/logo-sketchfab-grey.png){: .img-responsive .center-block }{: width="500"}
