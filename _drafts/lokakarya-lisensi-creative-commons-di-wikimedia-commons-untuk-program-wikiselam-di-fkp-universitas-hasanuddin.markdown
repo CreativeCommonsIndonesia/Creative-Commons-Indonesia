@@ -26,13 +26,25 @@ Pada tanggal 15 Agustus 2018, Creative Commons Indonesia (CCID) berkesempatan me
 
 Acara diawali dengan sambutan dari pihak Fakultas. Kemudian, [Ivonne Kristiani](https://www.linkedin.com/in/ivonne-kristiani?originalSubdomain=id) membuka acara dengan memperkenalkan organisasi Wikimedia Indonesia kepada seluruh peserta yang hadir. Selain itu, ia juga kembali menjelaskan sekaligus memberikan pengarahan teknis pelaksanaan program WikiSelam sebagai salah satu program dari Wikimedia Indonesia. Setelah pengetahuan dasar mengenai program selesai dijelaskan oleh Ivonne, CCID yang diwakili oleh [Hilman Fathoni](https://www.linkedin.com/in/hilman-fathoni-126570123/?originalSubdomain=id) masuk untuk memberikan perkenalan tentang Wikimedia Commons.
 
-Dalam pemaparannya, Hilman menyampaikan bahwa Wikimedia Commons merupakan salah satu dari [proyek Wiki](https://wikimediafoundation.org/our-work/wikimedia-projects/) yang fungsinya adalah sebagai tempat penyimpanan dan berbagi berkas media seperti rekaman suara, gambar, dan video. Berbeda dengan Wikipedia yang merupakan tempat untuk menyajikan artikel yang format informasinya didominasi oleh format teks. Tidak semua format berkas digital dapat disimpan dan dibagikan di Wikimedia Commons. Selain itu, Wikimedia Commons memberikan syarat bahwa setiap berkas yang diunggah harus merupakan berkas berlisensi terbuka atau yang sudah bebas hak cipta. Hal ini diperlukan karena Wikimedia Commosn bermaksud untuk menyediakan ilmu pengetahuan yang terbuka, dalam artian mudah digunakan dan memberikan kepastian hukum kepada setiap penggunanya.
+## **Wikimedia Commons**
 
-Di bagian selanjutnya Hilman langsung menjelaskan bagaimana lisensi hak cipta berfungsi sebagai salah satu sistem pendukung perlindungan hak cipta. Lisensi hak cipta dapat berfungsi sebagai lisensi publik. Yaitu alat pemberitahuan status hak cipta suatu ciptaan dari pencipta atau pemegang hak cipta kepada semua orang yang dapat mengakses ciptaan tersebut (pengguna ciptaan). Selain itu, lisensi dapat menjadi alat penyederhana bahasa hukum yang rumit. Hal ini ditujukan agar komunikasi antara pencipta atau pemegang hak cipta dan pengguna ciptaan dapat berjalan semakin lancar dengan tersedianya informasi yang bahasanya mudah dipahami oleh keduanya.
+---
 
-Menuju ke penjelasan mengenai lisensi CC, Hilman mengajak peserta untuk dapat membedakan lisensi konvensional (tertutup) dengan lisensi terbuka. Peserta diajak untuk jeli dan memperhatikan setiap pemberitahuan hak cipta yang disediakan oleh penyedia konten di dalam jaringan (daring). Cara paling mudah untuk mengenali hal ini adalah dengan mengetahui arti dari terminologi "all rights reserved" (seluruh hak dipertahankan) dan "some rights reserved" (beberapa hak dipertahankan). Secara prinsip, setiap pencipta atau pemegang hak cipta yang menerapkan konsep "all rights reserved" mewajibkan pengguna ciptaan untuk meminta izin dalam setiap bentuk penggunaan ciptaan, sebagaimana ketentuan penggunaan ciptaan yang diatur oleh Undang-Undang Hak Cipta (UUHC). Bedanya, pencipta atau pemegang hak cipta yang menerapkan konsep "some rights reserved", secara langsung memberikan izin tertulis kepada pengguna ciptaan untuk dapat langsung menggunakan ciptaannya, paling tidak untuk digandakan dan disebarluaskan. Informasi tambahan mengenai ketentuan penggunaannya, biasanya tertera dalam pemberitahuan hak cipta yang ditempelkan oleh pihak pencipta atau pemegang hak cipta pada ciptaan atau tempat ciptaan disajikan. Isi dari ketentuan ini biasanya merupakan pemberian izin langsung kepada pengguna ciptaan bahwa ciptaan dapat mereka gunakan dalam kepentingan komersial atau diubah dan digubah atau sebaliknya. Pemberitahuan biasanya disediakan dengan bahasa yang sederhana, dalam bentuk teks yang disertai dengan simbol-simbol agar mudah diingat. Dengan mengetahui perbedaan dua konsep tersebut, peserta juga diharapkan dapat membedakan mana ciptaan yang gratis saja dan mana ciptaan yang gratis sekaligus terbuka. Maksud dari terbuka ialah penyedia (pencipta atau pemegang hak cipta) ciptaan-ciptaan tersebut memberikan legitimasi kepada pengguna ciptaan untuk turut serta merasakan manfaat yang biasanya hanya dapat dirasakan oleh pencipta atau pemegang hak cipta secara eksklusif, manfaat komersial contohnya.
+Wikimedia Commons merupakan salah satu dari [proyek Wiki](https://wikimediafoundation.org/our-work/wikimedia-projects/) yang fungsinya adalah sebagai tempat penyimpanan dan berbagi berkas media seperti rekaman suara, gambar, dan video. Berbeda dengan Wikipedia yang merupakan tempat untuk menyajikan artikel yang format informasinya didominasi oleh format teks. Tidak semua format berkas digital dapat disimpan dan dibagikan di Wikimedia Commons. Selain itu, Wikimedia Commons memberikan syarat bahwa setiap berkas yang diunggah harus merupakan berkas berlisensi terbuka atau yang sudah bebas hak cipta. Hal ini diperlukan karena Wikimedia Commosn bermaksud untuk menyediakan ilmu pengetahuan yang terbuka, dalam artian mudah digunakan dan memberikan kepastian hukum kepada setiap penggunanya.
 
-Pemaparan tentang lisensi CC diawali dengan beberapa pertimbangan yang harus diketahui pencipta atau pemegang hak cipta (pemberi lisensi) sebelum menerapkan lisensi tersebut pada ciptaanya, yaitu sebagai berikut: (Daftar ini merupakan hasil pembaruan yang merujuk ketentuan dari [laman ini](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors))
+## **Lisensi Hak Cipta**
+
+---
+
+Lisensi hak cipta berfungsi sebagai salah satu sistem pendukung perlindungan hak cipta. Lisensi hak cipta dapat berfungsi sebagai lisensi publik. Yaitu alat pemberitahuan status hak cipta suatu ciptaan dari pencipta atau pemegang hak cipta kepada semua orang yang dapat mengakses ciptaan tersebut (pengguna ciptaan). Selain itu, lisensi dapat menjadi alat penyederhana bahasa hukum yang rumit. Hal ini ditujukan agar komunikasi antara pencipta atau pemegang hak cipta dan pengguna ciptaan dapat berjalan semakin lancar dengan tersedianya informasi yang bahasanya mudah dipahami oleh keduanya.
+
+Lisensi hak cipta sebagai alat pemberitahuan status hak cipta dapat dibedakan menjadi lisensi terbuka dan lisensi tertutup. Cara paling mudah untuk mengenali hal ini adalah dengan mengetahui arti dari terminologi "all rights reserved" (seluruh hak dipertahankan) dan "some rights reserved" (beberapa hak dipertahankan). Secara prinsip, setiap pencipta atau pemegang hak cipta yang menerapkan konsep "all rights reserved" mewajibkan pengguna ciptaan untuk meminta izin dalam setiap bentuk penggunaan ciptaan, sebagaimana ketentuan penggunaan ciptaan yang diatur oleh Undang-Undang Hak Cipta (UUHC). Bedanya, pencipta atau pemegang hak cipta yang menerapkan konsep "some rights reserved", secara langsung memberikan izin tertulis kepada pengguna ciptaan untuk dapat langsung menggunakan ciptaannya, paling tidak untuk digandakan dan disebarluaskan. Informasi tambahan mengenai ketentuan penggunaannya, biasanya tertera dalam pemberitahuan hak cipta yang ditempelkan oleh pihak pencipta atau pemegang hak cipta pada ciptaan atau tempat ciptaan disajikan. Isi dari ketentuan ini biasanya merupakan pemberian izin langsung kepada pengguna ciptaan bahwa ciptaan dapat mereka gunakan dalam kepentingan komersial atau diubah dan digubah atau sebaliknya. Pemberitahuan biasanya disediakan dengan bahasa yang sederhana, dalam bentuk teks yang disertai dengan simbol-simbol agar mudah diingat. Dengan mengetahui perbedaan dua konsep tersebut, peserta juga diharapkan dapat membedakan mana ciptaan yang gratis saja dan mana ciptaan yang gratis sekaligus terbuka. Maksud dari terbuka ialah penyedia (pencipta atau pemegang hak cipta) ciptaan-ciptaan tersebut memberikan legitimasi kepada pengguna ciptaan untuk turut serta merasakan manfaat yang biasanya hanya dapat dirasakan oleh pencipta atau pemegang hak cipta secara eksklusif, manfaat komersial contohnya.
+
+## Lisensi Creative Commons
+
+---
+
+Sebelum menerapkan lisensi CC, ada baiknya memahami beberapa pertimbangan yang harus diketahui pencipta atau pemegang hak cipta (pemberi lisensi) sebelum menerapkan lisensi tersebut pada ciptaanya, yaitu sebagai berikut: (Daftar ini merupakan hasil pembaruan yang merujuk ketentuan dari [laman ini](https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors))
 
 * **Ketentuan lisensi yang diterapkan tidak dapat dicabut (irrevocable)**;
 
@@ -66,15 +78,73 @@ Hal ini sejalan dengan logika penyediaan ciptaan di dalam jaringan. Karena pada 
 
 Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna ciptaan untuk memperoleh izin langsung untuk menggandakan dan menyebarluaskan ciptaan.  Digital Rights Management (DRM) atau sarana kontrol teknologi adalah teknologi perlindungan ciptaan yang dapat menghambat pengguna ciptaan untuk menggunakan ciptaan, misalnya dalam hal penggandaan dan penyebarluasan ciptaan. Misalnya, pencipta atau pemegang hak cipta menutup akses untuk pengunduhan ciptaan yang diunggah di dalam jaringan.  Maka dari itu, model perlindungan  ini tidak relevan untuk diterapkan pada ciptaan berlisensi CC.
 
-Bagian selanjutnya dalam penjelasan mengenai lisensi CC menyimpulkan bahwa ketentuan lisensi CC yang berusaha menghadirkan nilai demokrasi dalam aktivitas berbagi ciptaan. Seorang pencipta atau pemegang hak cipta bebas untuk memilih ketentuan lisensi mana yang sesuai dengan motif penciptaan dan penyediaan ciptaannya. Lalu pengguna ciptaan dapat memilih ciptaan berdasarkan ketentuan penggunaannya agar sesuai dengan kebutuhannya. Nilai ini dapat dikatakan sebagai upaya CC untuk mewujudkan ketentuan [Pasal 80 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/36) (UUHC 2014).
+Dengan tersedianya pilihan ketentuan, maka pencipta atau pemegang hak cipta dapat memilih ketentuan lisensi yang paling sesuai dengan maksud penyediaan ciptaannya. Hal semacam ini diperlukan karena rasio atau spektrum dipilih dan diterapkan sesuai dengan motif penciptaan ciptaan dari masing-masing pencipta atau pemegang hak cipta. Misalnya, ia ingin memberikan izin kepada pengguna ciptaan untuk menggubah dan memanfaatkan ciptaan dalam kepentingan komersial, maka ia dapat memilih ketentuan lisensi yang paling bebas. Di sisi lain pengguna ciptaan juga dapat memilih ciptaan berdasarkan ketentuan lisensi yang diterapkan sesuai dengan kebutuhan penggunaannya.
 
-Hilman kemudian mengajak para peserta untuk mengenali ketentuan lisensi CC apa saja yang tersedia di Wikimedia Commons. Untuk menunjukannya, ia menandai lisensi-lisensi yang berlaku di Wikimedia Commons dengan logo Wikimedia Commons pada [salindianya](https://www.slideshare.net/CreativeCommonsIndonesia/ccidwmid-15-agustus-2018-pengantar-wikimedia-commons-wikiselam-project). Wikimedia Commons hanya menyediakan dua pilihan lisensi CC di situs webnya. Ketentuan-ketentuan lisensi tersebut ialah Lisensi [CC BY (Atribusi)](https://creativecommons.org/licenses/by/4.0/deed.id) dan [Lisensi CC BY-SA (Atribusi-BerbagiSerupa)](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
+Wikimedia Commons hanya menyediakan dua pilihan lisensi CC di situs webnya. Ketentuan-ketentuan lisensi tersebut ialah: 
 
-Selanjutnya, Hilman memaparkan beberapa fakta tentang penerapan lisensi CC di Wikimedia Commons. Menurut catatan [State of the Commons 2017](https://stateof.creativecommons.org/?lang=id), setidaknya terdapat 36,9 juta ciptaan berlisensi CC di Wikimedia Commons. [Diantaranya adalah ciptaan karya fotografi bawah laut di Indonesia](https://commons.wikimedia.org/wiki/Category:Underwater_photographs_in_Indonesia). Pada bagian ini Hilman juga menyajikan kolom-kolom metadata yang dapat diisi oleh kontributor situs web Wikimedia Commons dalam aktivitas penyajian ciptaannya. Penjelasan teknis tentang Wikimedia Commons dapat Anda temukan di [artikel ini](http://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/) dan [ini](http://creativecommons.or.id/2017/03/menemukan-karya-fotografi-dan-potret-bebas-hak-cipta-indonesia-di-wikimedia-commons/).
+\(1) Lisensi [CC BY (Atribusi)](https://creativecommons.org/licenses/by/4.0/deed.id)
 
-Pada bagian berikutnya Hilman juga menjelaskan kepada peserta ketentuan-ketentuan lisensi CC lainnya kepada peserta. Ketentuan lisensi lain yang dimaksud ialah [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial), [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa), [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan), dan [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan). Selain itu, ia juga menjelaskan bagaimana Tanda Domain Publik Creative Commons juga diterapkan pada ciptaan yang sudah bebas hak cipta di Wikimedia Commons. Salah satu contohnya dapat dilihat pada penerapan pemberitahuan status bebak hak ciptaa suatu ciptaan, yang ketentuannya serupa dengan Tanda Domain Publik Creative Commons oleh Florida Memory Project pada karya fotografi bawah laut [ini](https://commons.wikimedia.org/wiki/File:Couples_performing_underwater_at_Weeki_Wachee_Springs_near_Brooksville_(3253375253).jpg). Pada bagian ini Hilman ingin menyampaikan bahwa Wikimedia Commons juga menerima konten terbuka yaitu berkas media dari ciptaan-ciptaan yang sudah bebas hak cipta.
+* Isi ketentuan:
 
-Pada bagian akhir Hilman memberikan beberapa kesimpulan tentang Wikimedia Commons yaitu:
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun, lalu menggubah, mengubah, dan membuat turunan dari ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
+
+  * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. 
+
+\(2) Lisensi [CC BY-SA (Atribusi-BerbagiSerupa)](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
+
+* Isi ketentuan:
+
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun, lalu menggubah, mengubah, dan membuat turunan dari ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
+
+  * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Pengguna ciptaan juga harus menyebarluaskan hasil perubahan atau penggubahan di bawah lisensi yang sama dengan materi asli.
+
+\(3) Tanda Domain Publik Creative Commons (Tanda Domain Publik CC)
+
+* Isi dan fungsi ketentuan:
+
+  * Hanya diterapkan pada ciptaan yang sudah habis masa berlaku perlindungan hak ciptanya.
+
+  * Banyak digunakan oleh lembaga-lembaga seperti galeri, perpustakaan, balai pengarsipan, dan museum.
+
+Menurut catatan [State of the Commons 2017](https://stateof.creativecommons.org/?lang=id), setidaknya terdapat 36,9 juta ciptaan berlisensi CC di Wikimedia Commons. [Diantaranya adalah ciptaan karya fotografi bawah laut di Indonesia](https://commons.wikimedia.org/wiki/Category:Underwater_photographs_in_Indonesia). Di situs web ini juga terdapat kolom-kolom metadata yang dapat diisi oleh kontributornya dalam aktivitas penyajian ciptaan. Penjelasan teknis tentang Wikimedia Commons dapat dibaca di [artikel ini](http://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/) dan [ini](http://creativecommons.or.id/2017/03/menemukan-karya-fotografi-dan-potret-bebas-hak-cipta-indonesia-di-wikimedia-commons/).
+
+Ketentuan lisensi CC lainnya yang tidak tersedia di Wikimedia Commons antara lain adalah:
+
+\(1)[CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial);
+
+* Isi ketentuan:
+
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun, lalu menggubah, mengubah, dan membuat turunan dari ciptaan.
+
+  * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Pengguna ciptaan dilarang menggunakan ciptaan untuk kepentingan komersial. 
+
+\(2)[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa);
+
+* Isi ketentuan:
+
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun, lalu menggubah, mengubah, dan membuat turunan dari ciptaan.
+
+  * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Pengguna ciptaan dilarang menggunakan ciptaan untuk kepentingan komersial. Pengguna ciptaan juga harus menyebarluaskan hasil perubahan atau penggubahan di bawah lisensi yang sama dengan materi asli.
+
+\(3)[CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan);
+
+* Isi ketentuan: 
+
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun, untuk kepentingan apapun, termasuk kepentingan komersial.
+
+  * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Namun, segala pengubahan dan penggubahan yang dibuat tidak boleh disebarluaskan.
+
+\(4)[CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
+
+* Isi ketentuan: 
+
+  * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun. 
+
+  * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Namun, segala pengubahan dan penggubahan yang dibuat tidak boleh disebarluaskan. Pengguna ciptaan dilarang menggunakan ciptaan untuk kepentingan komersial.
+
+## Kesimpulan Tentang Wikimedia Commons
+
+---
 
 * Tempat penyimpan media (storage) hampir tidak terbatas
 * Tanpa iklan atau kepentingan komersial
@@ -85,4 +155,4 @@ Pada bagian akhir Hilman memberikan beberapa kesimpulan tentang Wikimedia Common
 * Siapa pun dapat berkontribusi
 * Gratis
 
-Lokakarya diakhiri dengan tanya jawab dengan pihak peserta seputar hak cipta karya fotografi dan kesesuaian Wikimedia Commons sebagai tempat untuk mendokumentasikan spesies biota laut.
+----
