@@ -112,9 +112,9 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
 
 * Contoh penerapan:
 
-  * Situs web Portal Data Indonesia
+  * [Situs web Portal Data Indonesia](data.go.id) (CC BY)
 
-  * Situs web ikon The Noun Project
+  * [Situs web ikon The Noun Project](thenounproject.com) (CC BY)
 
 \(2) **Spektrum BerbagiSerupa (SA)**
 
@@ -134,9 +134,9 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
 
 * Contoh penerapan:
 
-  * Situs web Wikipedia
+  * [Situs web Wikipedia](id.wikipedia.org) (CC BY-SA)
 
-  * Situs web Wikimedia Commons
+  * [Situs web Wikimedia Commons](commons.wikimedia.org) (CC BY-SA)
 
 \(3) **Spektrum NonKomersial (NC)**
 
@@ -158,7 +158,7 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
 
 * Contoh penerapan:
 
-  * Proyek Netlabel Yes No Wave Music
+  * [Proyek Netlabel Yes No Wave Music](http://yesnowave.com/)
 
 \(4) **Spektrum TanpaTurunan (ND)**
 
@@ -180,7 +180,7 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
 
 * Contoh penerapan:
 
-  * Situs web Katadata
+  * [Situs web Katadata](https://katadata.co.id/) (CC BY-ND)
 
 Berikut ini adalah penjelasan cara menerapkan lisensi CC pada ciptaan:
 
