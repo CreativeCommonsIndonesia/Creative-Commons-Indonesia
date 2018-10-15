@@ -9,6 +9,8 @@ tags:
 - Creative Commons Indonesia
 - Open Bisnis Model
 img: "/uploads/Made%20With%20Creative%20Commons.png"
+author: fitriayu
+comments: true
 ---
 
 Sejak lisensi Creative Commons (CC) diluncurkan pada tahun 2002, penerapan lisensi CC kini berkembang pesat ke berbagai ranah mulai dari buku, musik, data, seni dan lain-lainya. Ciptaan berlisensi CC memberikan izin langsung untuk paling tidak dapat digandakan atau disebarkan sesuai dengan ketentuan yang dipilih oleh pencipta atau pemegang hak ciptanya. Dalam kondisi tersebut, apakah memungkinkan bagi pencipta untuk mendapatkan penghasilan dari ciptaannya?
