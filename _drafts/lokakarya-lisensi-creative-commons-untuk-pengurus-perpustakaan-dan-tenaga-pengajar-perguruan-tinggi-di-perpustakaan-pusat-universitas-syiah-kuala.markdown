@@ -21,7 +21,7 @@ comments: true
 img: "/uploads/SPCCID_7_Mei_2018_Lokakarya_Lisensi_CC_di_Perpustakaan_Pusat_Universias_Syiah_Kuala.jpg"
 ---
 
-![SPCCID_7_Mei_2018_Lokakarya_Lisensi_CC_di_Perpustakaan_Pusat_Universias_Syiah_Kuala.jpg](/uploads/SPCCID_7_Mei_2018_Lokakarya_Lisensi_CC_di_Perpustakaan_Pusat_Universias_Syiah_Kuala.jpg){: .img-responsive .center-block }{: width="500"}
+![SPCCID_7_Mei_2018_Lokakarya_Lisensi_CC_di_Perpustakaan_Pusat_Universias_Syiah_Kuala.jpg](/uploads/SPCCID_7_Mei_2018_Lokakarya_Lisensi_CC_di_Perpustakaan_Pusat_Universias_Syiah_Kuala.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>Foto oleh Bagian Dokumentasi Acara Universitas Syiah Kuala</i></small></center>
 
 Pada tanggal 7 Mei 2018, Creative Commons Indonesia (CCID) yang diwakili oleh Hilman Fathoni (Legal Lead CCID berkesempatan menyampaikan materi tentang lisensi Creative Commons (lisensi CC) bekerjasama dengan [Taufiq A. Ghani](http://fsd.unsyiah.ac.id/topgan/), Kepala Perpustakaan Pusat Universitas Syiah Kuala (UnSyiah), yang bertempat di Perpustkaan Pusat UnSyiah. Perpustakaan Pusat Unsyiah telah lama mengadopsi konsep Open Educational Resources (OER) sebagai [salah satu fitur perpustakaan digitalnya](http://uilis.unsyiah.ac.id/oer/). Dalam hal ini, pak Taufiq ingin agar pengetahuan mengenai tenaga pengelola perpustakaan dan tenaga pengajar pendidikan tinggi yang beliau undang ke lokakarya tersebut memperoleh pengetahuan mengenai lisensi CC, bagian yang tidak terpisahkan dari penyediaan OER.
 

@@ -20,7 +20,7 @@ img: "/uploads/15_Agustus_2018_lokakarya_CCID_di_wiki_selam,_Makassar.jpg"
 comments: true
 ---
 
-![15_Agustus_2018_lokakarya_CCID_di_wiki_selam,_Makassar.jpg](/uploads/15_Agustus_2018_lokakarya_CCID_di_wiki_selam,_Makassar.jpg){: .img-responsive .center-block }{: width="500"}
+![15_Agustus_2018_lokakarya_CCID_di_wiki_selam,_Makassar.jpg](/uploads/15_Agustus_2018_lokakarya_CCID_di_wiki_selam,_Makassar.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>Foto oleh Djohan Satria Hasibuan</i></small></center>
 
 Pada tanggal 15 Agustus 2018, Creative Commons Indonesia (CCID) berkesempatan menyampaikan materi tentang lisensi Creative Commons (lisensi CC) dan penerapannya di Wikimedia Commons dalam program [WikiSelam](https://www.facebook.com/wikimedia.indonesia/posts/hari-ini-berlangsung-pembukaan-wikiselam-sebuah-acara-hasil-kerja-sama-antara-wi/10156628358381085/) yang digagas oleh [Wikimedia Indonesia](https://id.wikimedia.org/wiki/Halaman_Utama) dan [Fakultas Ilmu Kelautan dan Perikanan Universitas Hasanuddin](http://fikp.unhas.ac.id/) (FIKP UnHas). Program ini dibagi menjadi 2 kegiatan yang dilaksanakan selama 3 hari yaitu pengarahan tentang Wikimedia Commons dan lisensi CC (15 Agustus 2018), penyelaman, dan pengunggahan karya fotografi bawah laut (16-17 Agustus 2018). Praktik pengunggahan berkas ke Wikimedia Commons tersebut lah yang menjadi alasan mengapa menjadi penting bagi peserta untuk mengenal Wikimedia Commons dan kebijakan keterbukaannya terlebih dahulu.
 
