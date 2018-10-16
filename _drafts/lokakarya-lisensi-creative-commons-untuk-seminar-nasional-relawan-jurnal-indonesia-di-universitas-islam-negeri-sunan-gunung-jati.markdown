@@ -300,3 +300,28 @@ Contoh terbaik pemberian nuansa demokratis di ranah manajemen hak cipta penulis 
 
 
 \(7) Penulis memiliki kontrol penuh atas hak cipta karya tulisnya
+
+
+Catatan:
+* Posisi tidak/belum menjadi hitungan dalam peraturan pemerintah yang baru nantinya mengenai indeksasi
+* Terdapat catatan yang menuju ke arah yang lebih baik dari editor DOAJ
+* Empiris: asal tempel templat lisensi dari ojs yang terpasang di situs web jurnal lain dalam satu kampus menyebabkan penolakan jasa indeksasi oleh DOAJ
+* Perbedaan indeksasi dengan jurnal title list
+* Syarat diindeks oleh Dimensions adalah memiliki DOI
+* List of misleading metrics
+* UGM DOAJ 41
+* Keanggotaan DOAJ tidak signifikan
+* 1355 dari 7000-an jurnal di Indonesia
+* List ranking pengindeks -> Copernicus, microsoft academic, scopus, web of science, =/ Dimensions
+* Ketentuan yang hilang terkait DOAJ dalam pesyaratan akreditasi (?) jurnal
+* Stimulan open access: 
+ * kewajiban indeksasi/upaya peningkatan daya visibilitas melalui DOAJ atau pewajiban penerapan OJS pada jurnal atau memang gagasan fundamental OA sudah banyak pendukungnya di Indonesia atau memang dari dulu sistem publikasi jurnal sudah menyajikan full text meskipun tanpa keberadaan lisensi terbuka? [V]
+ * apa yang terjadi saat pewajiban indeksasi DOAJ ditarik, apakah penerapan lisensi CC akan dicabut dari masing-masing jurnal? [V]
+ * kecenderungan policy open access jurnal apakah one license policy atau various licenses? (tradition says one license policy) [X]
+* not relevant to apply ND to text [X]
+* self license policy tidak direkomendasikan dan logika penerbitan mirip dengan 'netlabel', ekskulsif untuk pertama kali menerbitkan
+* Logika penerbitan luring ke daring -> pembaruan infrastruktur
+*  Memilih lisensi melalui licensing policy tiap jurnal yang ada di situs web dokumentasi journal licensing policy
+* Semangat sitasi menjadi alasan mengapa penerapan ND menjadi tidak relevan pada jurnal
+* Pertanyaan selanjutnya batasan pembebanan kewajiban dari ketentuan SA.
+* 
