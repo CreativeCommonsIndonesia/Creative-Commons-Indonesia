@@ -9,7 +9,7 @@ tags:
 - Hak Cipta
 - Public Domain
 - Lisensi Creative Commons
-author: hilman, chris,
+author: Chris
 comments: true
 img: "/uploads/Raden_Saleh_-_Diponegoro_arrest.jpg"
 ---
