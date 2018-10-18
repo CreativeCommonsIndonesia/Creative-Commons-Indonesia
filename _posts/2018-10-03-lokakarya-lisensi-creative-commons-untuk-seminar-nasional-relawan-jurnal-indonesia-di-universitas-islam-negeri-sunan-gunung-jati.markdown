@@ -266,39 +266,46 @@ Penerbitan karya ilmiah daring adalah serangkaian proses yang melibatkan aktivit
 
 Seperti yang telah disinggung pada awal artikel ini, situs web-situs web penerbit jurnal, khususnya yang ada di Indonesia, telah menerapkan prinsip Open Access dengan memasang perangkat Open Journal System di situs webnya. Perangkat ini memudahkan pengelola penerbitan jurnal dalam membuat templat kebijakan-kebijakan penerbitannya, khususnya kebijakan keterbukaan akses. Yang dimaksudkan dengan kebijakan keterbukaan akses dalam hal ini adalah bagaimana pihak penerbit dapat memberikan pilihan kepada penulis untuk mengalihkan hak ciptanya atau tidak dalam perjanjian penerbitan. Juga memberi tahu apakah para penulis dapat memilih ketentuan lisensi hak cipta yang ingin mereka terapkan pada karya tulisnya, atau pemberitahuan bahwa penerbit menerapkan kebijakan lisensi tunggal (one license policy) yang wajib diikuti oleh penulis.
 
-Contoh terbaik pemberian nuansa demokratis di ranah manajemen hak cipta penulis dalam aktivitas penerbitan artikelnya dapat dirujuk dari contoh berikut ini:
+Contoh terbaik pemberian nuansa demokratis di ranah manajemen hak cipta penulis dalam aktivitas penerbitan karya ilmiah daring dapat dirujuk dari contoh berikut ini:
 
 ![oauin6.jpg](/uploads/oauin6.jpg)
 
 \(1) Penjelasan tentang hak cipta dan pelisensian karya tulis
 
-
 ![oauin12.jpg](/uploads/oauin12.jpg)
 
 * Tentang kebijakan pengarsipan mandiri oleh penulis
-
+Sebagai penerbit, hendaknya kebijakan pengarsipan mandiri (*[self archiving](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/self-archiving.html)*) diterapkan dan dijelaskan pada laman *article submission* atau dengan membuat laman *resources* untuk penulis yang memuat penjelasan tersebut. Hal ini diperlukan untuk menghindari kesalahpahaman jika penulis hendak mengumumkan karya tulis tersebut di tempat lain, situs webnya sendiri atau layanan media sosial misalnya. Atau misalnya untuk menetapkan ketentuan embargo yang melarang pencipta untuk melakukan pengarsipan mandiri dalam kurun waktu tertentu. Namun, untuk menghadirkan pelayanan yang baik dan mendukung visibilitas serta dampak karya tulis para penulis, hendaknya penerbit membebaskan penulis untuk melaksanakan pengarsipan mandiri dan tidak menerapkan kebijakan embargo. Mungkin dalam hal ini, jika ingin mengecualikan sesuatu ialah menjabarkan bahwa artikel yang dapat diarsipkan secara mandiri hanya teks versi sebelum diterbitkan saja (*pre-print*), bukan teks dalam format yang sudah dipublikasikan melalui penerbit.  
 
 ![oauin5.jpg](/uploads/oauin5.jpg)
 * Informasi perbedaan antara pengalihan hak cipta dan pelisensian ciptaan
 
-  * Contoh dokumen perjanjian hak cipta
+Sebagai penerbit, ada baiknya juga untuk memberikan penjelasan, atau bahkan kesempatan, kepada penulis tentang perbedaan antara pengalihan hak cipta (*Copyright Transfer*) dengan pelisensian ciptaan (*Licensing*).
 
-  * Contoh dokumen pernyataan pelisensian kembali karya oleh penerbit
+  * [Contoh dokumen perjanjian hak cipta & Contoh dokumen pernyataan pelisensian kembali karya oleh penerbit (Wiley)](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/licensing-info-faqs.html)
+
+Sebagai contoh, Wiley berusaha menjelaskan hal tersebut dalam laman *resources* khusus untuk para penulis, sekaligus memberikan contoh format dokumen pengalihan hak cipta dari penulis kepada penerbit. Pengalihan hak cipta adalah pembagian peran sebagai pemegang hak cipta atas karya tulis dengan penerbit. Artinya penerbit sama-sama memiliki hak eksklusif untuk mengontrol di mana saja artikel dapat diumumkan dan digunakan dalam model penggunaan apa saja. Pelisensian karya yang dituangkan dalam sebuah [surat pernyataan](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/open-access-agreements.html) pemberian izin pelisensian kembali kepada penerbit memiliki maknya yang berbeda. Melisensikan karya berarti hanya memberikan izin kepada penerbit untuk mengumumkan karya dengan ketentuan lisensi yang dipilih, tanpa membagikan peran sebagai pemegang hak cipta kepada penerbit. Mekanisme ini secara otomatis mempertahankan seluruh kontrol eksklusif hak cipta atas karya tulis pada pihak penulis. Lisensi CC setidaknya sudah diterapkan pada lebih dari [3 juta karya ilmiah](https://doaj.org/) yang didiseminasikan secara daring. Petunjuk pemilihan lisensi atau isi ketentuan lisensi sangat direkomendasikan untuk ditampilkan oleh pihak penerbit agar penulis dapat mengerti akibat hukum dari lisensi yang akan diterapkan pada karya ilmiahnya. 
 
 ![oauin9.jpg](/uploads/oauin9.jpg)
     \*Petunjuk pemilihan lisensi (contoh: lisensi CC)
 
 ## **Tentang Penerapan Lisensi Creative Commons Di Ranah Publikasi Karya Ilmiah Daring Dalam Konteks Indeksasi dan Kualifikasi di DOAJ**
 
+Agar dapat memajukan semangat keterbukaan akses pada karya ilmiah (*open access*), DOAJ sebagai situs web indeksasi jurnal, menetapkan dua macam reputasi jurnal di ranah tersebut. Jurnal bereputasi baik di ranah ini akan mendapatkan gelar bernama DOAJ Seal. Sedangkan jurnal yang tidak dapat secara penuh menerapkan prinsip *open access* akan mendapatkan gelar DOAJ Green Thick. Tentu saja untuk memperoleh gelar-gelar ini DOAJ mensyaratkan beberapa hal, yang diantaranya menyangkut tentang penerapan lisensi dan manajemen hak cipta penulis. 
+
 ---
 ![doaj pinned.jpg](/uploads/doaj%20pinned.jpg)
 
 \(4) Informasi lisensi hak cipta CC terbaca mesin
 
+Untuk mendapatkan gelar DOAJ Seal, hendaknya pihak penerbit mampu memenuhi syarat untuk selalu dengan konsisten menempelkan lisensi CC yang diterapkan pada terbitannya pada setiap lapisan laman web terbitan tersebut, misalnay pada kaki situs web, laman daftar isi setiap edisi jurnal, dan laman pratayang maupun di dalam artikel yang diterbitkan.
 
 \(5) Ketentuan lisensi wajib mengizinkan penggubahan artikel
 
+Penerapan ketentuan ND (*NonDerivative*) atau TanpaTurunan dari lisensi CC pada jurnal justru menghambat upaya pemodifikasian kalimat yang hendak dikutip oleh penulis pada karya ilmiahnya. Akibat hukum yang tidak masuk akal untuk diterapkan pada aktivitas berbagi ciptaan dalam format teks ini kemudian dicegah oleh DOAJ dengan memasukannya dalam persyaratan pemberian reputasi DOAJ Seal.
 
 \(7) Penulis memiliki kontrol penuh atas hak cipta karya tulisnya
 
+DOAJ mendukung sepenuhnya hak penulis sebagai pemegang hak cipta mandiri yang dapat bebas mengumumkan karya ilmiahnya di mana pun dan untuk tujuan apa pun. Karena, dalam aktivitas berbagi karya ilmiah yang kini semakin dimudahkan dengan teknologi internet, tentu menjadi hal yang logis jika artikel sebaiknya di bagikan seluas mungkin dan dibuka aksesnya sebebas-bebasnya, baik untuk perkembangan ilmu pengetahuan itu sendiri maupun dalam upaya penyediaan ilmu pengetahuan bebas kepada publik. Untuk itu DOAJ memasukan hal ini dalam persyaratan pemberian reputasi DOAJ Seal.
 
+----
