@@ -1,5 +1,6 @@
 ---
-title: Tugas Lapangan Pertama CCID-ToT di Surabaya
+title: Tugas Lapangan CCID-ToT oleh Florens Debora Patricia di Institut Bisnis dan
+  Informatika Stikom, Surabaya
 date: 2018-10-03 16:33:00 +07:00
 categories:
 - Acara
