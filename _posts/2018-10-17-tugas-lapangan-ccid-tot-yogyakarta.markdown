@@ -1,5 +1,6 @@
 ---
-title: 'Tugas Lapangan CCID-ToT: Yogyakarta'
+title: Tugas Lapangan CCID-ToT oleh Siti Nurleily Marliana di Universitas Gadjah Mada,
+  Yogyakarta
 date: 2018-10-17 13:27:00 +07:00
 categories:
 - Acara
