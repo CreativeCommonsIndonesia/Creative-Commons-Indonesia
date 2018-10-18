@@ -1,7 +1,9 @@
 ---
 title: Lokakarya Lisensi Creative Commons Untuk Seminar Nasional Relawan Jurnal Indonesia
   di Universitas Islam Negeri Sunan Gunung Jati
-date: 2018-10-03 13:30:00 +07:00
+date: 2018-08-25 13:30:00 +07:00
+categories:
+- Acara
 tags:
 - Relawan Jurnal Indonesia
 - RJI
