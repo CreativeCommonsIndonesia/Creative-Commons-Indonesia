@@ -19,7 +19,7 @@ img: "/uploads/24_Agustus_2018_lokakarya_CCID_di_semnas_dan_rakernas_RJI,_Bandun
 comments: true
 ---
 
-![24_Agustus_2018_lokakarya_CCID_di_semnas_dan_rakernas_RJI,_Bandung.jpg](/uploads/24_Agustus_2018_lokakarya_CCID_di_semnas_dan_rakernas_RJI,_Bandung.jpg)<center><small><i>Foto oleh Muhammad Ratodi</i></small></center>
+![24_Agustus_2018_lokakarya_CCID_di_semnas_dan_rakernas_RJI,_Bandung.jpg](/uploads/24_Agustus_2018_lokakarya_CCID_di_semnas_dan_rakernas_RJI,_Bandung.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>Foto oleh Muhammad Ratodi</i></small></center>
 
 Pada tanggal 24 Agustus 2018, Creative Commons Indonesia (CCID) yang diwakili oleh Hilman Fathoni (Legal Lead CCID berkesempatan menyampaikan materi tentang lisensi Creative Commons (lisensi CC) bekerjasama dengan Relawan Jurnal Indonesia (RJI) pada perhelatan Seminar Nasional RJI di Universitas Islam Negeri Sunan Gunung Jati, Bandung. Paling tidak hingga saat ini terdapat 1355 judul jurnal dari penerbit Indonesia di Directory of Open Access Journal (DOAJ). 559 di antaranya menerapkan ketentuan lisensi terbuka Creative Commons yang paling bebas, CC BY (Atribusi). Dalam ekosistem publikasi karya ilmiah daring yang semakin terbuka, para penulis maupun penerbit dituntut untuk memahami mekanisme perlindungan hak cipta terhadap artikel-artikel yang diterbitkan. Dalam konteks tersebut, CCID berusaha memberikan pemahaman mengenai pelisensian ciptaan dan manajemen hak cipta antara penulis dan penerbit.
 
@@ -270,16 +270,16 @@ Seperti yang telah disinggung pada awal artikel ini, situs web-situs web penerbi
 
 Contoh terbaik pemberian nuansa demokratis di ranah manajemen hak cipta penulis dalam aktivitas penerbitan karya ilmiah daring dapat dirujuk dari contoh berikut ini:
 
-![oauin6.jpg](/uploads/oauin6.jpg)
+![oauin6.jpg](/uploads/oauin6.jpg){: .img-responsive .center-block }{: width="400"}
 
 \(1) Penjelasan tentang hak cipta dan pelisensian karya tulis
 
-![oauin12.jpg](/uploads/oauin12.jpg)
+![oauin12.jpg](/uploads/oauin12.jpg){: .img-responsive .center-block }{: width="400"}
 
 * Tentang kebijakan pengarsipan mandiri oleh penulis
 Sebagai penerbit, hendaknya kebijakan pengarsipan mandiri (*[self archiving](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/self-archiving.html)*) diterapkan dan dijelaskan pada laman *article submission* atau dengan membuat laman *resources* untuk penulis yang memuat penjelasan tersebut. Hal ini diperlukan untuk menghindari kesalahpahaman jika penulis hendak mengumumkan karya tulis tersebut di tempat lain, situs webnya sendiri atau layanan media sosial misalnya. Atau misalnya untuk menetapkan ketentuan embargo yang melarang pencipta untuk melakukan pengarsipan mandiri dalam kurun waktu tertentu. Namun, untuk menghadirkan pelayanan yang baik dan mendukung visibilitas serta dampak karya tulis para penulis, hendaknya penerbit membebaskan penulis untuk melaksanakan pengarsipan mandiri dan tidak menerapkan kebijakan embargo. Mungkin dalam hal ini, jika ingin mengecualikan sesuatu ialah menjabarkan bahwa artikel yang dapat diarsipkan secara mandiri hanya teks versi sebelum diterbitkan saja (*pre-print*), bukan teks dalam format yang sudah dipublikasikan melalui penerbit.  
 
-![oauin5.jpg](/uploads/oauin5.jpg)
+![oauin5.jpg](/uploads/oauin5.jpg){: .img-responsive .center-block }{: width="400"}
 * Informasi perbedaan antara pengalihan hak cipta dan pelisensian ciptaan
 
 Sebagai penerbit, ada baiknya juga untuk memberikan penjelasan, atau bahkan kesempatan, kepada penulis tentang perbedaan antara pengalihan hak cipta (*Copyright Transfer*) dengan pelisensian ciptaan (*Licensing*).
@@ -288,15 +288,14 @@ Sebagai penerbit, ada baiknya juga untuk memberikan penjelasan, atau bahkan kese
 
 Sebagai contoh, Wiley berusaha menjelaskan hal tersebut dalam laman *resources* khusus untuk para penulis, sekaligus memberikan contoh format dokumen pengalihan hak cipta dari penulis kepada penerbit. Pengalihan hak cipta adalah pembagian peran sebagai pemegang hak cipta atas karya tulis dengan penerbit. Artinya penerbit sama-sama memiliki hak eksklusif untuk mengontrol di mana saja artikel dapat diumumkan dan digunakan dalam model penggunaan apa saja. Pelisensian karya yang dituangkan dalam sebuah [surat pernyataan](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/open-access-agreements.html) pemberian izin pelisensian kembali kepada penerbit memiliki maknya yang berbeda. Melisensikan karya berarti hanya memberikan izin kepada penerbit untuk mengumumkan karya dengan ketentuan lisensi yang dipilih, tanpa membagikan peran sebagai pemegang hak cipta kepada penerbit. Mekanisme ini secara otomatis mempertahankan seluruh kontrol eksklusif hak cipta atas karya tulis pada pihak penulis. Lisensi CC setidaknya sudah diterapkan pada lebih dari [3 juta karya ilmiah](https://doaj.org/) yang didiseminasikan secara daring. Petunjuk pemilihan lisensi atau isi ketentuan lisensi sangat direkomendasikan untuk ditampilkan oleh pihak penerbit agar penulis dapat mengerti akibat hukum dari lisensi yang akan diterapkan pada karya ilmiahnya. 
 
-![oauin9.jpg](/uploads/oauin9.jpg)
-    \*Petunjuk pemilihan lisensi (contoh: lisensi CC)
+![oauin9.jpg](/uploads/oauin9.jpg){: .img-responsive .center-block }{: width="400"}<center><small><i>Contoh petunjuk pengetahuan tentang lisensi CC oleh Wiley</i></small></center>
 
 ## **Tentang Penerapan Lisensi Creative Commons Di Ranah Publikasi Karya Ilmiah Daring Dalam Konteks Indeksasi dan Kualifikasi di DOAJ**
 
 Agar dapat memajukan semangat keterbukaan akses pada karya ilmiah (*open access*), DOAJ sebagai situs web indeksasi jurnal, menetapkan dua macam reputasi jurnal di ranah tersebut. Jurnal bereputasi baik di ranah ini akan mendapatkan gelar bernama DOAJ Seal. Sedangkan jurnal yang tidak dapat secara penuh menerapkan prinsip *open access* akan mendapatkan gelar DOAJ Green Thick. Tentu saja untuk memperoleh gelar-gelar ini DOAJ mensyaratkan beberapa hal, yang diantaranya menyangkut tentang penerapan lisensi dan manajemen hak cipta penulis. 
 
 ---
-![doaj pinned.jpg](/uploads/doaj%20pinned.jpg)
+![doaj pinned.jpg](/uploads/doaj%20pinned.jpg){: .img-responsive .center-block }{: width="400"}
 
 \(4) Informasi lisensi hak cipta CC terbaca mesin
 
