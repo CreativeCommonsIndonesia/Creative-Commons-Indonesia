@@ -15,7 +15,7 @@ tags:
 - Lombok
 - Mataram
 author: hilman
-img: 
+img: "/uploads/20_Oktober_2018_Lokakarya%20CCID-ToT%20Wahyu%20Setiko%20di%20Aula%20Kantor%20PGRI%20NTB.jpg"
 comments: true
 ---
 
