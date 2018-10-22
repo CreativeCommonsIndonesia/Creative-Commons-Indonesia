@@ -26,7 +26,7 @@ Pada tanggal 7 Oktober 2018, Creative Commons Indonesia (CCID) yang diwakili ole
 
 ---
 
-Presentasi dimulai dengan penjelasan tentang konsep perlindungan hak Kekayaan Intelektual (KI) di Indonesia. Mekanisme perlindungan KI lain seperti Hak Merek dan Hak Paten berbeda obyek perlindungannya dengan hak cipta. Meskipun ketiga mekanisme perlindungan tersebut semuanya berada di bawah terminologi perlindungan kekayaan intelektual. Setiap mekanisme yang ada memiliki dasar hukum yang berbeda. Perlindungan hak cipta diatur melalui [Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta](https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_28_Tahun_2014) (UUHC 2014).
+Mekanisme perlindungan KI berebeda dengan Hak Cipta, Hak Merek, dan Hak Paten berdasarkan obyek perlindungannya. Meskipun ketiga mekanisme perlindungan tersebut semuanya berada di bawah terminologi perlindungan kekayaan intelektual. Setiap mekanisme yang ada memiliki dasar hukum yang berbeda. Perlindungan hak cipta diatur melalui [Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta](https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_28_Tahun_2014) (UUHC 2014).
 
 Mekanisme perlindungan KI masing-masing dibedakan dari ruang lingkup atau obyek perlindungannya. Obyek perlindungan hak cipta diatur melalui Pasal 40 Undang-UUHC 2014 (lihat rujukan: [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19), [2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Ciptaan-ciptaan ini lah yang membedakan mekanisme perlindungan hak cipta dengan mekanisme perlindungan KI lainnya. Namun, pada dasarnya hubungan hukum dalam mekanisme perlindungan KI meliputi subyek hukum yang serupa, meskipun tidak sama.
 
@@ -358,3 +358,5 @@ Selain itu, beberapa mesin pencari menyediakan fitur penyaringan untuk mencari c
 * [CC Search Beta](https://ccsearch.creativecommons.org/)
 
 CCID juga menyediakan bahan pembelajaran tentang lisensi CC yang dapat diakses gratis di [Wikimedia Commons](s.id/bahanccid).
+
+----
