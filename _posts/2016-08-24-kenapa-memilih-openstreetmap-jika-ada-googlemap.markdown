@@ -38,8 +38,8 @@ Pendekatan yang dianut oleh OSM bisa dibilang rentan terhadap aksi perusakan. Na
 
 Selain itu, jasa penyedia data peta komersial biasanya berfokus menyediakan fitur-fitur tertentu yang menyebabkan suatu peta memiliki nilai komersial. Sedangkan kontributor OSM yang tidak dituntut untuk menghasilkan uang dari kontribusinya, bebas untuk berkreasi dalam tiap kontribusinya. Mereka biasanya menyumbangkan peta untuk beragam jenis penggunaan. Kontributor dapat mempersembahkan kontribusinya untuk [pendaki](http://waymarkedtrails.org/en/), [pesepeda](http://www.opencyclemap.org/), [penyandang disabilitas](http://wiki.openstreetmap.org/wiki/HaptoRender), atau bahkan [pelaut](http://openseamap.org/index.php?id=openseamap&L=1). Manfaat dari OSM juga dirasakan oleh beberapa perusahaan besar. Perusahaan ini mulai menggunakan OSM, karena biaya yang dikenakan Google Maps oleh Google dirasa terlalu tinggi. Pada bulan Februari 2012, [Foursquare](https://foursquare.com/) memanfaatkan peta dari OSM dalam aktivitas penyediaan layanannya. Yang kemudian diikuti oleh [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) pada bulan Maret. Bahkan [Apple](http://www.apple.com/) juga menggunakan data dari OSM untuk peta yang mereka buat.
 
-**Aspek Hukum OpenStreetMap
-**
+* **Aspek Hukum OpenStreetMap**
+
 Pada awalnya, data-data yang diterbitkan oleh OSM berada di bawah ketentuan lisensi terbuka Creative Commons. Lisensi yang digunakan kala itu adalah [CC BY-SA (Atribusi-BerbagiSerupa) 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.id). Namun, dalam penerapan ketentuan tersebut timbul pertanyaan-pertanyaan:
 
 Apakah pengguna data peta harus memberikan atribusi kepada 1000 lebih kontributor peta tersebut? Atau hanya memberikan atribusi kepada OpenStreetMap saja?
