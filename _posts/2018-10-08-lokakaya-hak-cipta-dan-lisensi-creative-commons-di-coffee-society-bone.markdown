@@ -26,15 +26,19 @@ Pada tanggal 7 Oktober 2018, Creative Commons Indonesia (CCID) yang diwakili ole
 
 ---
 
+### Mekanisme Perlindungan
+
+---
+
 Mekanisme perlindungan KI berebeda dengan Hak Cipta, Hak Merek, dan Hak Paten berdasarkan obyek perlindungannya. Meskipun ketiga mekanisme perlindungan tersebut semuanya berada di bawah terminologi perlindungan kekayaan intelektual. Setiap mekanisme yang ada memiliki dasar hukum yang berbeda. Perlindungan hak cipta diatur melalui [Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta](https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_28_Tahun_2014) (UUHC 2014).
 
 Mekanisme perlindungan KI masing-masing dibedakan dari ruang lingkup atau obyek perlindungannya. Obyek perlindungan hak cipta diatur melalui Pasal 40 Undang-UUHC 2014 (lihat rujukan: [1.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/19), [2.](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20)). Ciptaan-ciptaan ini lah yang membedakan mekanisme perlindungan hak cipta dengan mekanisme perlindungan KI lainnya. Namun, pada dasarnya hubungan hukum dalam mekanisme perlindungan KI meliputi subyek hukum yang serupa, meskipun tidak sama.
 
 Dalam mekanisme perlindungan hak cipta, yang termasuk subyek hukum yaitu Pencipta atau Pemegang Hak Cipta dan Pengguna Ciptaan. Pencipta adalah pihak yang menciptakan suatu ciptaan, yang kemudian secara langsung memiliki peran sebagai pemegang hak cipta. Pemegang hak cipta belum tentu seorang pencipta, bisa saja pihak pemegang hak cipta adalah seseorang atau suatu kelompok yang dengan izin pencipta memiliki wewenang: hak dan kewajiban yang sama dengan pencipta. Tujuan pemberian izin ini biasanya adalah untuk membantu pencipta dalam mengatur mekanisme perlindungan hak ciptanya. Pengguna ciptaan adalah pihak yang bermaksud menggunakan ciptaan milik seseorang atau suatu kelompok dengan maksud untuk memperoleh manfaat dari ciptaan tersebut.
 
-Pada hakikatnya, seluruh obyek perlindungan hak cipta mewajibkan setiap pengguna ciptaan untuk memperoleh izin penggunaan (penggandaan, dan penyebarluasan) secara langsung dari pencipta atau pemegang hak cipta dalam aktivitas penggunaan ciptaan. Manfaat yang dimaksud pada akhir kalimat di paragraf sebelumnya ada dalam konsep perlindungan hak moral dan hak ekonomi. Hak moral melindungi hak pencipta atau pemegang hak cipta dengan mewajibkan pengguna ciptaan untuk menyebutkan nama pencipta atau pemegang hak cipta serta sumber ciptaan dengan baik. Selain itu hak moral juga mewajibkan agar setiap penggunaan ciptaan menggunakan ciptaan dengan baik, tanpa melecehkan pencipta atau pemegang hak cipta, atau menyelewengkan maksud penciptaan dari ciptaan tersebut. Arti dari penyelewengan adalah, misalnya, seorang anggota organisasi masyarakat (ormas) melakukan klaim atas suatu karya video sebagai bentuk dukungan terhadap gerakan ormasnya. Apabila pihak pencipta atau pemegang hak cipta tidak setuju dengan model penggunaan tersebut, dapat menggunakan mekanisme perlindungan hak moral untuk menghentikan distribusi karya video oleh ormas tersebut, atau bahkan meminta ganti rugi apabila permasalahan dibawa sebagai sengketa di ranah pengadilan niaga.
+Pada hakikatnya, seluruh obyek perlindungan hak cipta mewajibkan setiap pengguna ciptaan untuk memperoleh izin penggunaan (penggandaan, dan penyebarluasan) secara langsung dari pencipta atau pemegang hak cipta dalam aktivitas penggunaan ciptaan. Manfaat yang dimaksud pada akhir kalimat di paragraf sebelumnya ada dalam konsep perlindungan hak moral dan hak ekonomi. **Hak moral** melindungi hak pencipta atau pemegang hak cipta dengan mewajibkan pengguna ciptaan untuk menyebutkan nama pencipta atau pemegang hak cipta serta sumber ciptaan dengan baik. Selain itu hak moral juga mewajibkan agar setiap penggunaan ciptaan menggunakan ciptaan dengan baik, tanpa melecehkan pencipta atau pemegang hak cipta, atau menyelewengkan maksud penciptaan dari ciptaan tersebut. Arti dari penyelewengan adalah, misalnya, seorang anggota organisasi masyarakat (ormas) melakukan klaim atas suatu karya video sebagai bentuk dukungan terhadap gerakan ormasnya. Apabila pihak pencipta atau pemegang hak cipta tidak setuju dengan model penggunaan tersebut, dapat menggunakan mekanisme perlindungan hak moral untuk menghentikan distribusi karya video oleh ormas tersebut, atau bahkan meminta ganti rugi apabila permasalahan dibawa sebagai sengketa di ranah pengadilan niaga.
 
-Hak ekonomi membantu pencipta atau pemegang hak cipta untuk menjaga manfaat komersial dari ciptaannya. Maksudnya supaya pemasukan atau royalti dari setiap penggunaan ciptaannya dalam aktivitas komersial dapat selalu tersalurkan kepada pihak pencipta atau pemegang hak cipta. Setiap pengguna ciptaan yang hendak menggunakan suatu ciptaan wajib memperoleh izin langsung terlebih dahulu dari pihak pencipta atau pemegang hak cipta. Namun, bisa saja dalam hal ini pencita atau pemegang hak cipta mengecualikan pengguna ciptaan dari beban royalti jika memang disepakati demikian dalam konteks penggunaan tertentu.
+**Hak ekonomi** membantu pencipta atau pemegang hak cipta untuk menjaga manfaat komersial dari ciptaannya. Maksudnya supaya pemasukan atau royalti dari setiap penggunaan ciptaannya dalam aktivitas komersial dapat selalu tersalurkan kepada pihak pencipta atau pemegang hak cipta. Setiap pengguna ciptaan yang hendak menggunakan suatu ciptaan wajib memperoleh izin langsung terlebih dahulu dari pihak pencipta atau pemegang hak cipta. Namun, bisa saja dalam hal ini pencita atau pemegang hak cipta mengecualikan pengguna ciptaan dari beban royalti jika memang disepakati demikian dalam konteks penggunaan tertentu.
 
 Hal yang disampaikan selanjutnya adalah beberapa elemen dari UUHC 2014 sebagai fungsi sosial dari peraturan tersebut. Elemen-elemen tersebut antara lain adalah:
 
@@ -99,7 +103,7 @@ Lisensi hak cipta juga dapat dibagi berdasarkan sifat ketentuannya, yaitu:
 
 * Lisensi Terbuka biasanya, meskipun tidak selalu, dinyatakan dengan ungkapan "some rights reserved" (beberapa hak dipertahankan). Sifat terbuka dari lisensi ini biasanya dinyatakan dengan ketentuan yang langsung mengizinkan penggandaan dan penyebarluasan ciptaan oleh pengguna ciptaan. Lisensi ini biasanya dilengkapi dengan ketentuan pilihan yang nantinya ditentukan oleh pencipta atau pemegang hak cipta untuk mengatur hak penggunaan ciptaan pengguna ciptaan. Jenis lisensi ini diterapkan oleh pencipta atau pemegang hak cipta yang ingin memberikan akses terbuka dan legal kepada pengguna ciptaan dalam aktivitas penggunaan ciptaannya. Penentuan ketentuan lisensi hak cipta oleh pihak pencipta atau pemegang hak cipta sesuai dengan bunyi [Pasal 81 UUHC 2014](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/37). Sifat pembuatanya yang mandiri menyebabkan terciptanya produk lisensi terbuka yang beragam, seperti [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html), [Open Governmet License](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), dan termasuk Lisensi Creative Commons.
 
-## Lisensi Creative Commons
+### Lisensi Creative Commons
 
 ---
 
@@ -147,7 +151,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 \(1) **Spektrum Atribusi (BY)**
 
-![BY-354f63.png](/uploads/BY-354f63.png){: .img-responsive .center-block }{: width="300"}
+![BY-354f63.png](/uploads/BY-354f63.png){: .img-responsive .center-block }{: width="250"}
 
 * Isi ketentuan:
 
@@ -169,7 +173,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 \(2) **Spektrum BerbagiSerupa (SA)**
 
-![sa.large.png](/uploads/sa.large.png){: .img-responsive .center-block }{: width="300"}
+![sa.large.png](/uploads/sa.large.png){: .img-responsive .center-block }{: width="250"}
 
 * Isi ketentuan:
 
@@ -187,7 +191,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 \(3) **Spektrum NonKomersial (NC)**
 
-![nc.large.png](/uploads/nc.large.png){: .img-responsive .center-block }{: width="300"}
+![nc.large.png](/uploads/nc.large.png){: .img-responsive .center-block }{: width="250"}
 
 * Isi ketentuan:
 
@@ -207,7 +211,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 \(4) **Spektrum TanpaTurunan (ND)**
 
-![nd.large.png](/uploads/nd.large.png){: .img-responsive .center-block }{: width="300"}
+![nd.large.png](/uploads/nd.large.png){: .img-responsive .center-block }{: width="250"}
 
 * Isi ketentuan:
 
@@ -231,7 +235,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 \(5) Creative Commons Nol Dedikasi Domain Publik (CC0)
 
-![zero.large.png](/uploads/zero.large.png){: .img-responsive .center-block }{: width="300"}
+![zero.large.png](/uploads/zero.large.png){: .img-responsive .center-block }{: width="250"}
 
 * Isi dan fungsi ketentuan:
 
@@ -253,7 +257,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 \(6) Tanda Domain Publik Creative Commons (Tanda Domain Publik CC)
 
-![2010-10-15-publicdomainmark.jpg](/uploads/2010-10-15-publicdomainmark.jpg){: .img-responsive .center-block }{: width="300"}
+![2010-10-15-publicdomainmark.jpg](/uploads/2010-10-15-publicdomainmark.jpg){: .img-responsive .center-block }{: width="250"}
 
 * Isi dan fungsi ketentuan:
 
