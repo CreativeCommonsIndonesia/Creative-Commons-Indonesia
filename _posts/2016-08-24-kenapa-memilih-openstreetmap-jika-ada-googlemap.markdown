@@ -38,7 +38,7 @@ Pendekatan yang dianut oleh OSM bisa dibilang rentan terhadap aksi perusakan. Na
 
 Selain itu, jasa penyedia data peta komersial biasanya berfokus menyediakan fitur-fitur tertentu yang menyebabkan suatu peta memiliki nilai komersial. Sedangkan kontributor OSM yang tidak dituntut untuk menghasilkan uang dari kontribusinya, bebas untuk berkreasi dalam tiap kontribusinya. Mereka biasanya menyumbangkan peta untuk beragam jenis penggunaan. Kontributor dapat mempersembahkan kontribusinya untuk [pendaki](http://waymarkedtrails.org/en/), [pesepeda](http://www.opencyclemap.org/), [penyandang disabilitas](http://wiki.openstreetmap.org/wiki/HaptoRender), atau bahkan [pelaut](http://openseamap.org/index.php?id=openseamap&L=1). Manfaat dari OSM juga dirasakan oleh beberapa perusahaan besar. Perusahaan ini mulai menggunakan OSM, karena biaya yang dikenakan Google Maps oleh Google dirasa terlalu tinggi. Pada bulan Februari 2012, [Foursquare](https://foursquare.com/) memanfaatkan peta dari OSM dalam aktivitas penyediaan layanannya. Yang kemudian diikuti oleh [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) pada bulan Maret. Bahkan [Apple](http://www.apple.com/) juga menggunakan data dari OSM untuk peta yang mereka buat.
 
-* **Aspek Hukum OpenStreetMap**
+**Aspek Hukum OpenStreetMap**
 
 Pada awalnya, data-data yang diterbitkan oleh OSM berada di bawah ketentuan lisensi terbuka Creative Commons. Lisensi yang digunakan kala itu adalah [CC BY-SA (Atribusi-BerbagiSerupa) 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.id). Namun, dalam penerapan ketentuan tersebut timbul pertanyaan-pertanyaan:
 
@@ -51,9 +51,13 @@ Setelah melalui [banyak pertimbangan](https://blog.openstreetmap.org/2008/01/07/
 Ketentuan lisensi ini memperbolehkan Anda untuk:
 
 * Menggandakan dan memanfaatkan kembali seluruh atau bagian substansial dari suatu konten;
+
 * Membuat ciptaan turunan dari basis data tersebut;
+
 * Membuat ciptaan kompilasi dari basis data tersebut;
+
 * Membuat hasil reproduksi dari suatu konten untuk sementara maupun permanen, dengan tujuan apapun, dalam bentuk apapun, secara keseluruhan maupun hanya bagian substansial, termasuk basis data yang merupakan ciptaan turunan, dan basis data yang terkumpul dalam satu kompilasi;
+
 * Mendistribusikan, mengkomunikasikan, memajang, meminjamkan, menyediakan, atau mempertunjukkannya kepada publik, dengan tujuan apapun, dalam bentuk apapun, secara keseluruhan maupun hanya bagian substansial, termasuk basis data yang merupakan ciptaan turunan, dan basis data yang terkumpul dalam satu kompilasi.
 
 Dengan ketentuan, Anda harus menerapkan Atribusi yang sesuai untuk setiap konten dari basis data yang Anda gunakan. Atribusi yang dimaksudkan adalah dengan menyebutkan judul basis data tersebut, mencantumkan tautan ke sumber basis data tersebut, dan menyebutkan lisensi yang diterapkan pada basis data, yaitu lisensi ODbL. Penggunaan basis data sebagai bagian dari karya kompilasi tidak diwajibkan untuk mematuhi ketentuan BerbagiSerupa. Selain itu, Anda dilarang untuk menerapkan [Digital Rights Management](https://en.wikipedia.org/wiki/Digital_rights_management) (DRM) pada karya turunan maupun karya kompilasi yang mengandung konten dari basis data tersebut.
