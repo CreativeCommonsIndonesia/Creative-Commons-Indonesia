@@ -377,7 +377,7 @@ Selain itu, beberapa mesin pencari menyediakan fitur penyaringan untuk mencari c
 
 * [Youtube](http://creativecommons.or.id/2018/02/panduan-mencari-konten-video-berlisensi-creative-commons-di-situs-web-youtube/),
 
-* [Google Images Search] (http://creativecommons.or.id/2018/02/panduan-mencari-gambar-berlisensi-creative-commons-melalui-mesin-pencari-gambar-google/),
+* [Google Images Search](http://creativecommons.or.id/2018/02/panduan-mencari-gambar-berlisensi-creative-commons-melalui-mesin-pencari-gambar-google/),
 
 * [CC Search Beta](https://ccsearch.creativecommons.org/)
 
