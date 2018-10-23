@@ -104,6 +104,8 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
 
 \(1) **Spektrum Atribusi (BY)**
 
+![BY-354f63.png](/uploads/BY-354f63.png){: .img-responsive .center-block }{: width="250"}
+
 * Isi ketentuan:
 
   * Kewajiban untuk menyebutkan nama pencipta atau pemegang hak cipta dan sumber ciptaan.
@@ -120,7 +122,9 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
 
 * Kombinasi Spektrum:
 
-  * Ada di seluruh kombinasi spektrum lisensi CC.
+![Kurang-Paling-CCL.jpg](/uploads/Kurang-Paling-CCL.jpg){: .img-responsive .center-block }{: width="600"}
+
+  * [Ada di seluruh kombinasi spektrum lisensi CC](http://creativecommons.or.id/lisensi-cc-bahasa-indonesia/).
 
 * Contoh penerapan:
 
@@ -129,6 +133,8 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
   * [Situs web ikon The Noun Project](thenounproject.com) (CC BY)
 
 \(2) **Spektrum BerbagiSerupa (SA)**
+
+![sa.large.png](/uploads/sa.large.png){: .img-responsive .center-block }{: width="250"}
 
 * Isi ketentuan:
 
@@ -142,7 +148,11 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
 
 * Kombinasi Spektrum:
 
-  * Lisensi CC BY-SA (Atribusi-BerbagiSerupa) dan Lisensi CC BY-NC-SA (Atribusi-NonKomersial-BerbagiSerupa)
+![by-sa-e15bba.png](/uploads/by-sa-e15bba.png){: .img-responsive .center-block }{: width="150"}
+
+![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png){: .img-responsive .center-block }{: width="150"}
+
+  * [Lisensi CC BY-SA](https://creativecommons.org/licenses/by/4.0/deed.id) (Atribusi-BerbagiSerupa) dan [Lisensi CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa)
 
 * Contoh penerapan:
 
@@ -151,6 +161,8 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
   * [Situs web Wikimedia Commons](commons.wikimedia.org) (CC BY-SA)
 
 \(3) **Spektrum NonKomersial (NC)**
+
+![nc.large.png](/uploads/nc.large.png){: .img-responsive .center-block }{: width="250"}
 
 * Isi ketentuan:
 
@@ -166,13 +178,21 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
 
 * Kombinasi Spektrum:
 
-  * Lisensi CC BY-NC (Atribusi-NonKomersial), Lisensi CC BY-NC-SA (Atribusi-NonKomersial-BerbagiSerupa), dan Lisensi CC BY-NC-ND (Atribusi-NonKomersial-TanpaTurunan)
+![by-nc-d2ccff.png](/uploads/by-nc-d2ccff.png){: .img-responsive .center-block }{: width="150"}
+
+![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png){: .img-responsive .center-block }{: width="150"}
+
+![by-nc-nd-01dc41.png](/uploads/by-nc-nd-01dc41.png){: .img-responsive .center-block }{: width="150"}
+
+  * [Lisensi CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial), [Lisensi CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa), dan [Lisensi CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
 
 * Contoh penerapan:
 
   * [Proyek Netlabel Yes No Wave Music](http://yesnowave.com/)
 
 \(4) **Spektrum TanpaTurunan (ND)**
+
+![nd.large.png](/uploads/nd.large.png){: .img-responsive .center-block }{: width="250"}
 
 * Isi ketentuan:
 
@@ -188,7 +208,11 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
 
 * Kombinasi Spektrum:
 
-  * Lisensi CC BY-ND (Atribusi-TanpaTurunan) dan Lisensi CC BY-NC-ND (Atribuso-NonKomersial-TanpaTurunan).
+![by-nd-04b970.png](/uploads/by-nd-04b970.png){: .img-responsive .center-block }{: width="150"}
+
+![by-nc-nd-01dc41.png](/uploads/by-nc-nd-01dc41.png){: .img-responsive .center-block }{: width="150"}
+
+  * [Lisensi CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan) dan [Lisensi CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan).
 
 * Contoh penerapan:
 
