@@ -228,7 +228,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 ![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png){: .img-responsive .center-block }{: width="150"}
 
-  * [Lisensi CC BY-SA] (Atribusi-BerbagiSerupa)(https://creativecommons.org/licenses/by/4.0/deed.id) dan [Lisensi CC BY-NC-SA] (Atribusi-NonKomersial-BerbagiSerupa)(https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)
+  * [Lisensi CC BY-SA](https://creativecommons.org/licenses/by/4.0/deed.id) (Atribusi-BerbagiSerupa) dan [Lisensi CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa)
 
 * Contoh penerapan:
 
