@@ -18,7 +18,7 @@ comments: true
 img: "/uploads/SPCCID_7_Oktober_2018_Lokakarya_Lisensi_CC_di_Coffee_Society_Bone.jpeg"
 ---
 
-![SPCCID_7_Oktober_2018_Lokakarya_Lisensi_CC_di_Coffee_Society_Bone.jpeg](/uploads/SPCCID_7_Oktober_2018_Lokakarya_Lisensi_CC_di_Coffee_Society_Bone.jpeg){: .img-responsive .center-block }{: width="500"}
+![SPCCID_7_Oktober_2018_Lokakarya_Lisensi_CC_di_Coffee_Society_Bone.jpeg](/uploads/SPCCID_7_Oktober_2018_Lokakarya_Lisensi_CC_di_Coffee_Society_Bone.jpeg){: .img-responsive .center-block }{: width="500"}<center><small><i>Foto oleh Insan Pipin Maulana</i></small></center>
 
 Pada tanggal 7 Oktober 2018, Creative Commons Indonesia (CCID) yang diwakili oleh Hilman Fathoni (Legal Lead CCID) berkesempatan menyampaikan materi tentang hak cipta dan lisensi Creative Commons (lisensi CC) bekerjasama dengan Komunitas Teluk Bone. Acara ini mulai pada pukul 07.45 WITA di Cofee Society di Watampone, Bone, Sulawesi Selatan. Lokakarya kali ini dihadiri oleh sekitar 50 peserta yang dari berbagai latar belakang di Bone. Untuk itu materi yang dibawakan merupakan gambaran umum tentang hak cipta dan lisensi CC.
 
@@ -42,7 +42,7 @@ Pada hakikatnya, seluruh obyek perlindungan hak cipta mewajibkan setiap pengguna
 
 Hal yang disampaikan selanjutnya adalah beberapa elemen dari UUHC 2014 sebagai fungsi sosial dari peraturan tersebut. Elemen-elemen tersebut antara lain adalah:
 
-* Ciptaan-ciptaan yang tidak dilindungi ([Pasal 42](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20))
+* **Ciptaan-ciptaan yang tidak dilindungi** ([Pasal 42](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20))
   Dalam bagian ini, UUHC 2014 menjabarkan beberapa jenis ciptaan yang tidak dapat dilindungi oleh mekanisme perlindungan hak cipta di Indonesia. Arti dari pengecualian ciptaan-ciptaan ini dari mekanisme perlindungan hak cipta ialah seluruh pengguna ciptaan dapat menggunakan ciptaan-ciptaan tersebut, termasuk untuk kepentingan komersial, tanpa izin langsung dari pihak terkait (pencipta atau pemegang hak cipta). Namun, pengguna ciptaan wajib untuk tetap menyebutkan nama pencipta atau pemegang hak cipta dan/atau sumber ciptaan dalam setiap aktivitas penggunaan. Dan, setiap aktivitas penggunaan bukan merupakan aktivitas yang termasuk dalam kategori perbuatan melanggar hukum ataupun standar etika yang berlaku.
 
   * Hasil Rapat Terbuka Lembaga Negara ([contoh 1](https://www.youtube.com/user/PemprovDKI));
@@ -60,7 +60,7 @@ Hal yang disampaikan selanjutnya adalah beberapa elemen dari UUHC 2014 sebagai f
   * Kitab Suci atau Simbol Keagamaan;
     Dalam hal ini Peraturan Perundang-Undangan belum memberikan penjelasan apakah Kitab suci atau simbol keagamaan yang dimaksud adalah yang diakui oleh Negara Republik Indonesia atau juga yang lainnya.
 
-* Penggunaan wajar ([Pasal 43-51](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/21))
+* **Penggunaan wajar** ([Pasal 43-51](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/21))
   Pada prinsipnya konsep ini merupakan daftar pengecualian beberapa perbuatan yang tidak dianggap sebagai pelanggaran hak cipta. Perbuatan-perbuatan yang dikecualikan ini kemudian paling tidak dibagi lagi ke dalam 3 kategori:
 
   * Berdasarkan Lembaga
@@ -72,7 +72,7 @@ Hal yang disampaikan selanjutnya adalah beberapa elemen dari UUHC 2014 sebagai f
   * Berdasarkan Pengguna
     Dalam konsep pembatasan perlindungan hak cipta, setiap penggunaan ciptaan yang dimaksudkan untuk membuka akses ciptaan tersebut terhadap penyandang tuna netra atau keterbatasan dalam membaca dikecualikan dari kategori pelanggaran hak cipta meskipun dilaksanakan tanpa izin langsung dari pihak pencipta atau pemegang hak cipta. Selain itu, penggandaan ciptaan sebanyak 1 kopi juga dapat dilakukan oleh pengguna ciptaan, di luar konteks penggunaan untuk penyandang tuna netra, dapat dilaksanakan tanpa izin langsung pencipta dan dikecualikan dari kategori pelanggaran hak cipta apabila dilaksanakan untuk kepentingan pribadi, bukan untuk diumumkan kembali.
 
-* Masa berlaku perlindungan hak cipta ([Pasal 57-61](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/28))
+* **Masa berlaku perlindungan hak cipta** ([Pasal 57-61](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/28))
   Memahami masa berlaku perlindungan hak cipta harus merujuk pada pembagian ketentuan berdasarkan ciptaannya. Paling tidak kita dapat memahami hal tersebut dengan memisahkannya menjadi dua bagian:
 
   * Teks, rekaman suara, karya seni rupa, dan lain-lain (Pasal 58);
@@ -89,9 +89,9 @@ Ketentuan di atas ialah informasi penentuan masa berlaku perlindungan hak ekonom
 
 Menurut Angka 20 Ketentuan Umum UUHC 2014, lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Bentuk lisensi hak cipta dapat dipahami dengan membaginya ke dalam dua bentuk:
 
-* Lisensi ke Dalam memiliki bentuk yang kurang lebih sama dengan perjanjian-perjanjian pada umumnya. Biasanya lisensi dengan bentuk ini aksesnya tidak terbuka. Lisensi ini hanya dapat diakses oleh pihak-pihak yang dengan terang disebutkan di dalam perjanjian lisensi sebagai pihak yang terikat dengan ketentuan lisensi. Karena sifatnya yang privat, lisensi dengan bentuk ini biasanya hanya mengikat beberapa pihak saja.
+* Lisensi ke dalam memiliki bentuk yang kurang lebih sama dengan perjanjian-perjanjian pada umumnya. Biasanya lisensi dengan bentuk ini aksesnya tidak terbuka. Lisensi ini hanya dapat diakses oleh pihak-pihak yang dengan terang disebutkan di dalam perjanjian lisensi sebagai pihak yang terikat dengan ketentuan lisensi. Karena sifatnya yang privat, lisensi dengan bentuk ini biasanya hanya mengikat beberapa pihak saja.
 
-* Lisensi ke Luar dapat disebut sebagai lisensi publik. Akses untuk melihat ketentuan lisensi ini terbuka bagi pihak-pihak yang hendak mengikatkan diri dalam suatu hubungan hukum, dalam hal ini aktivitas penggunaan ciptaan. Lisensi dengan bentuk ini dapat mengikat banyak pihak sekaligus karena sifatnya yang terbuka. Pada intinya  ketentuan lisensi ini mengikat pencipta atau pemegang hak cipta dengan semua pengguna ciptaan yang menggunakan ciptaan yang diumumkan dengan ketentuan lisensi ini.
+* Lisensi ke luar dapat disebut sebagai lisensi publik. Akses untuk melihat ketentuan lisensi ini terbuka bagi pihak-pihak yang hendak mengikatkan diri dalam suatu hubungan hukum, dalam hal ini aktivitas penggunaan ciptaan. Lisensi dengan bentuk ini dapat mengikat banyak pihak sekaligus karena sifatnya yang terbuka. Pada intinya  ketentuan lisensi ini mengikat pencipta atau pemegang hak cipta dengan semua pengguna ciptaan yang menggunakan ciptaan yang diumumkan dengan ketentuan lisensi ini.
 
 Lisensi hak cipta dapat menjadi alat penyederhana bahasa hukum dari UUHC. Dengan begitu dialog antara pencipta atau pemegang hak cipta akan menjadi semakin mudah. Karena tidak semua pihak-pihak terkait dalam hubungan hukum di ranah perlindungan hak cipta memiliki pengetahuan atau dapat langsung memahami mekanisme perlindungan hak cipta dengan membaca peraturannya. Selain itu dengan mengetahui perbedaan jenis lisensi dan isi ketentuannya, pengguna ciptaan dapat membedakan mana ciptaan yang dapat diakses secara gratis saja dan mana ciptaan yang dapat diakses secara gratis dan terbuka. Maksud terbuka dalam hal ini adalah ciptaan-ciptaan tersebut selain dapat diunduh dan disebarluaskan secara gratis, juga mengandung izin langsung yang memungkinkan pengguna ciptaan untuk menggubah atau menggunakan ciptaan dalam kepentingan komersial.
 
@@ -145,7 +145,7 @@ Lisensi CC terdiri atas 4 spektrum pilihan yang dapat dikombinasikan menjadi 6 p
 
 Dengan tersedianya pilihan ketentuan, maka pencipta atau pemegang hak cipta dapat memilih ketentuan lisensi yang paling sesuai dengan maksud penyediaan ciptaannya. Hal semacam ini diperlukan karena rasio atau spektrum dipilih dan diterapkan sesuai dengan motif penciptaan ciptaan dari masing-masing pencipta atau pemegang hak cipta. Misalnya, ia ingin memberikan izin kepada pengguna ciptaan untuk menggubah dan memanfaatkan ciptaan dalam kepentingan komersial, maka ia dapat memilih ketentuan lisensi yang paling bebas. Di sisi lain pengguna ciptaan juga dapat memilih ciptaan berdasarkan ketentuan lisensi yang diterapkan sesuai dengan kebutuhan penggunaannya.
 
-Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
+Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut.
 
 4 spektrum utama lisensi CC:
 
