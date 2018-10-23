@@ -187,7 +187,7 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
 
 Lisensi CC terdiri atas 4 spektrum pilihan yang dapat dikombinasikan menjadi 6 pilihan lisensi. Selain itu, terdapat 2 penanda ciptaan lain dari CC yaitu CC0 Dedikasi Domain Publik dan Tanda Domain Publik Creative Commons.
 
-Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
+Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut.
 
 4 spektrum utama lisensi CC:
 
