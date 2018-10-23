@@ -308,11 +308,12 @@ Sebagai penerbit, ada baiknya juga untuk memberikan penjelasan, atau bahkan kese
 
 ![oauin9.jpg](/uploads/oauin9.jpg){: .img-responsive .center-block }{: width="400"}<center><small><i>Contoh petunjuk pengetahuan tentang lisensi CC oleh Wiley</i></small></center>
 
-## **Tentang Penerapan Lisensi Creative Commons Di Ranah Publikasi Karya Ilmiah Daring Dalam Konteks Indeksasi dan Kualifikasi di DOAJ**
+### Tentang Penerapan Lisensi Creative Commons Di Ranah Publikasi Karya Ilmiah Daring Dalam Konteks Indeksasi dan Kualifikasi di DOAJ
+
+----
 
 Agar dapat memajukan semangat keterbukaan akses pada karya ilmiah (*open access*), DOAJ sebagai situs web indeksasi jurnal, menetapkan dua macam reputasi jurnal di ranah tersebut. Jurnal bereputasi baik di ranah ini akan mendapatkan gelar bernama DOAJ Seal. Sedangkan jurnal yang tidak dapat secara penuh menerapkan prinsip *open access* akan mendapatkan gelar DOAJ Green Thick. Tentu saja untuk memperoleh gelar-gelar ini DOAJ mensyaratkan beberapa hal, yang diantaranya menyangkut tentang penerapan lisensi dan manajemen hak cipta penulis. Berikut penjelasan masing-masing poin persyaratan DOAJ Seal yang berkaitan dengan lisensi dan manajemen hak cipta penulis. 
 
----
 ![doaj pinned.jpg](/uploads/doaj%20pinned.jpg){: .img-responsive .center-block }{: width="400"}
 
 \(4) Informasi lisensi hak cipta CC terbaca mesin
