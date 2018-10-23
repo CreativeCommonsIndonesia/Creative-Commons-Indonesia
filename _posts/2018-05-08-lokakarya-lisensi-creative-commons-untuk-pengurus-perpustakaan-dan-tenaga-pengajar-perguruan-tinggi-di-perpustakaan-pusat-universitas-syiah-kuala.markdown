@@ -198,7 +198,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Kombinasi Spektrum:
 
-![Kurang-Paling-CCL.jpg](/uploads/Kurang-Paling-CCL.jpg){: .img-responsive .center-block }{: width="150"}
+![Kurang-Paling-CCL.jpg](/uploads/Kurang-Paling-CCL.jpg){: .img-responsive .center-block }{: width="250"}
 
   * Ada di seluruh kombinasi spektrum lisensi CC.
 
@@ -224,10 +224,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Kombinasi Spektrum:
 
-<div style="text-align: right"><img src="/uploads/by-sa-e15bba.png" width="100" /></div>
-
-![by-sa-e15bba.png](/uploads/by-sa-e15bba.png)
-![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png)
+<img style="float: left;" src="/uploads/by-sa-e15bba.png" class="img-responsive" width="150"><img style="float: right;" src="/uploads/by-nc-sa-6738bb.png" class="img-responsive" width="150">
 
   * Lisensi CC BY-SA (Atribusi-BerbagiSerupa) dan Lisensi CC BY-NC-SA (Atribusi-NonKomersial-BerbagiSerupa)
 
