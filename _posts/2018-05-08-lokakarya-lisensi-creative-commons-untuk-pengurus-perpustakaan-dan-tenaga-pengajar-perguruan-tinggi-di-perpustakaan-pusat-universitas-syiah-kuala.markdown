@@ -224,13 +224,9 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Kombinasi Spektrum:
 
-<img style="float: left;" src="/uploads/by-sa-e15bba.png" class="img-responsive" width="150"><img style="float: left;" src="/uploads/by-nc-sa-6738bb.png" class="img-responsive" width="150">{: .img-responsive .center-block }
+<img style="float: left;" src="/uploads/by-sa-e15bba.png" class="img-responsive" width="150">
 
-
-
-
-
-
+<img style="float: left;" src="/uploads/by-nc-sa-6738bb.png" class="img-responsive" width="150">
 
   * Lisensi CC BY-SA (Atribusi-BerbagiSerupa) dan Lisensi CC BY-NC-SA (Atribusi-NonKomersial-BerbagiSerupa)
 
