@@ -40,7 +40,11 @@ Pada hakikatnya, seluruh obyek perlindungan hak cipta mewajibkan setiap pengguna
 
 **Hak ekonomi** membantu pencipta atau pemegang hak cipta untuk menjaga manfaat komersial dari ciptaannya. Maksudnya supaya pemasukan atau royalti dari setiap penggunaan ciptaannya dalam aktivitas komersial dapat selalu tersalurkan kepada pihak pencipta atau pemegang hak cipta. Setiap pengguna ciptaan yang hendak menggunakan suatu ciptaan wajib memperoleh izin langsung terlebih dahulu dari pihak pencipta atau pemegang hak cipta. Namun, bisa saja dalam hal ini pencita atau pemegang hak cipta mengecualikan pengguna ciptaan dari beban royalti jika memang disepakati demikian dalam konteks penggunaan tertentu.
 
-Hal yang disampaikan selanjutnya adalah beberapa elemen dari UUHC 2014 sebagai fungsi sosial dari peraturan tersebut. Elemen-elemen tersebut antara lain adalah:
+### Fungsi Sosial Hak Cipta
+
+---
+
+Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014) beberapa elemen fungsi sosial. Elemen-elemen tersebut antara lain adalah:
 
 * **Ciptaan-ciptaan yang tidak dilindungi** ([Pasal 42](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20))
   Dalam bagian ini, UUHC 2014 menjabarkan beberapa jenis ciptaan yang tidak dapat dilindungi oleh mekanisme perlindungan hak cipta di Indonesia. Arti dari pengecualian ciptaan-ciptaan ini dari mekanisme perlindungan hak cipta ialah seluruh pengguna ciptaan dapat menggunakan ciptaan-ciptaan tersebut, termasuk untuk kepentingan komersial, tanpa izin langsung dari pihak terkait (pencipta atau pemegang hak cipta). Namun, pengguna ciptaan wajib untuk tetap menyebutkan nama pencipta atau pemegang hak cipta dan/atau sumber ciptaan dalam setiap aktivitas penggunaan. Dan, setiap aktivitas penggunaan bukan merupakan aktivitas yang termasuk dalam kategori perbuatan melanggar hukum ataupun standar etika yang berlaku.
