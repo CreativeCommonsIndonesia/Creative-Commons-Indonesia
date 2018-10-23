@@ -198,7 +198,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Kombinasi Spektrum:
 
-![Kurang-Paling-CCL.jpg](/uploads/Kurang-Paling-CCL.jpg){: .img-responsive .center-block }{: width="250"}
+![Kurang-Paling-CCL.jpg](/uploads/Kurang-Paling-CCL.jpg){: .img-responsive .center-block }{: width="400"}
 
   * Ada di seluruh kombinasi spektrum lisensi CC.
 
