@@ -254,6 +254,12 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Kombinasi Spektrum:
 
+![by-nc-d2ccff.png](/uploads/by-nc-d2ccff.png){: .img-responsive .center-block }{: width="150"}
+
+![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png){: .img-responsive .center-block }{: width="150"}
+
+![by-nc-d2ccff.png](/uploads/by-nc-d2ccff.png){: .img-responsive .center-block }{: width="150"}
+
   * Lisensi CC BY-NC (Atribusi-NonKomersial), Lisensi CC BY-NC-SA (Atribusi-NonKomersial-BerbagiSerupa), dan Lisensi CC BY-NC-ND (Atribusi-NonKomersial-TanpaTurunan)
 
 * Contoh penerapan:
@@ -277,6 +283,10 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
   * Menghindari pelanggaran kehormatan terhadap pencipta atau pemegang hak cipta dari aktivitas pengguna ciptaan.
 
 * Kombinasi Spektrum:
+
+![by-nd-04b970.png](/uploads/by-nd-04b970.png){: .img-responsive .center-block }{: width="150"}
+
+![by-nc-nd-01dc41.png](/uploads/by-nc-nd-01dc41.png){: .img-responsive .center-block }{: width="150"}
 
   * Lisensi CC BY-ND (Atribusi-TanpaTurunan) dan Lisensi CC BY-NC-ND (Atribuso-NonKomersial-TanpaTurunan).
 
