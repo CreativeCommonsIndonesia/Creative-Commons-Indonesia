@@ -1,5 +1,5 @@
 ---
-title: Tugas Lapangan CCID-ToT oleh Wahyu Setioko di PGRI Provinsi NTB, Jakarta
+title: Tugas Lapangan CCID-ToT oleh Wahyu Setioko di PGRI Provinsi NTB
 date: 2018-10-21 08:57:00 +07:00
 categories:
 - Acara
