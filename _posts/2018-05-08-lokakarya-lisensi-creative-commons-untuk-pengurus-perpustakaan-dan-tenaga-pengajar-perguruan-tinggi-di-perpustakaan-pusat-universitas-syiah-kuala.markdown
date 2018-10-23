@@ -198,6 +198,8 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 * Kombinasi Spektrum:
 
+![Kurang-Paling-CCL.jpg](/uploads/Kurang-Paling-CCL.jpg){: .img-responsive .center-block }{: width="150"}
+
   * Ada di seluruh kombinasi spektrum lisensi CC.
 
 * Contoh penerapan:
@@ -221,6 +223,11 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
   * Untuk mempertahankan maksud penerapan lisensi pada materi asli oleh pencipta.
 
 * Kombinasi Spektrum:
+
+<div style="text-align: right"><img src="/uploads/by-sa-e15bba.png" width="100" /></div>
+
+![by-sa-e15bba.png](/uploads/by-sa-e15bba.png)
+![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png)
 
   * Lisensi CC BY-SA (Atribusi-BerbagiSerupa) dan Lisensi CC BY-NC-SA (Atribusi-NonKomersial-BerbagiSerupa)
 
