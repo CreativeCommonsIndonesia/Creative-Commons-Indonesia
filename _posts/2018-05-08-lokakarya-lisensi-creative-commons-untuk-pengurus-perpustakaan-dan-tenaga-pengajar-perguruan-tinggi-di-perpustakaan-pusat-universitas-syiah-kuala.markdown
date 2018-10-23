@@ -258,7 +258,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 ![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png){: .img-responsive .center-block }{: width="150"}
 
-![by-nc-d2ccff.png](/uploads/by-nc-d2ccff.png){: .img-responsive .center-block }{: width="150"}
+![by-nc-nd-01dc41.png](/uploads/by-nc-nd-01dc41.png){: .img-responsive .center-block }{: width="150"}
 
   * [Lisensi CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial), [Lisensi CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa), dan [Lisensi CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
 
@@ -329,6 +329,8 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
   * Banyak digunakan oleh lembaga-lembaga seperti galeri, perpustakaan, balai pengarsipan, dan museum.
 
 * Kombinasi Spektrum:
+
+![publicdomain-9d38b1.png](/uploads/publicdomain-9d38b1.png){: .img-responsive .center-block }{: width="150"}
 
   * [Tanda Domain Publik Creative Commons](https://creativecommons.org/publicdomain/mark/1.0/).
 
