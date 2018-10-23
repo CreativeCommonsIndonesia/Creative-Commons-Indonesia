@@ -97,7 +97,7 @@ Dua contoh penerapan ketentuan lisensi CC dan Tanda Domain Publik Creative Commo
 
 Ketentuan lisensi CC lain yang tidak ada di Wikimedia Commons ialah:
 
-\(1)[CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial);
+\(1) [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial);
 
 ![by-nc-d2ccff.png](/uploads/by-nc-d2ccff.png){: .img-responsive .center-block }{: width="150"}
 
@@ -107,7 +107,7 @@ Ketentuan lisensi CC lain yang tidak ada di Wikimedia Commons ialah:
 
   * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Pengguna ciptaan dilarang menggunakan ciptaan untuk kepentingan komersial. 
 
-\(2)[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa);
+\(2) [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa);
 
 ![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png){: .img-responsive .center-block }{: width="150"}
 
@@ -117,7 +117,7 @@ Ketentuan lisensi CC lain yang tidak ada di Wikimedia Commons ialah:
 
   * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Pengguna ciptaan dilarang menggunakan ciptaan untuk kepentingan komersial. Pengguna ciptaan juga harus menyebarluaskan hasil perubahan atau penggubahan di bawah lisensi yang sama dengan materi asli.
 
-\(3)[CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan);
+\(3) [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan);
 
 ![by-nd-04b970.png](/uploads/by-nd-04b970.png){: .img-responsive .center-block }{: width="150"}
 
@@ -127,7 +127,7 @@ Ketentuan lisensi CC lain yang tidak ada di Wikimedia Commons ialah:
 
   * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Namun, segala pengubahan dan penggubahan yang dibuat tidak boleh disebarluaskan.
 
-\(4)[CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
+\(4) [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
 
 ![by-nc-nd-01dc41.png](/uploads/by-nc-nd-01dc41.png){: .img-responsive .center-block }{: width="150"}
 
