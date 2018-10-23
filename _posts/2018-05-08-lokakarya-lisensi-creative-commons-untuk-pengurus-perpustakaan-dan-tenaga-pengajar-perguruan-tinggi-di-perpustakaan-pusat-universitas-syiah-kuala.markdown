@@ -74,6 +74,7 @@ Hubungan hukum dalam ranah perlindungan hak cipta meliputi pencipta atau pemegan
 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014) beberapa elemen fungsi sosial. Elemen-elemen tersebut antara lain adalah:
 
 * **Ciptaan-ciptaan yang tidak dilindungi** ([Pasal 42](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20))
+
 Dalam bagian ini, UUHC 2014 menjabarkan beberapa jenis ciptaan yang tidak dapat dilindungi oleh mekanisme perlindungan hak cipta di Indonesia. Arti dari pengecualian ciptaan-ciptaan ini dari mekanisme perlindungan hak cipta ialah seluruh pengguna ciptaan dapat menggunakan ciptaan-ciptaan tersebut, termasuk untuk kepentingan komersial, tanpa izin langsung dari pihak terkait (pencipta atau pemegang hak cipta). Namun, pengguna ciptaan wajib untuk tetap menyebutkan nama pencipta atau pemegang hak cipta dan/atau sumber ciptaan dalam setiap aktivitas penggunaan. Dan, setiap aktivitas penggunaan bukan merupakan aktivitas yang termasuk dalam kategori perbuatan melanggar hukum ataupun standar etika yang berlaku.
 
   * Hasil Rapat Terbuka Lembaga Negara ([contoh 1](https://www.youtube.com/user/PemprovDKI));
