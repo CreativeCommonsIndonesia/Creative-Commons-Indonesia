@@ -73,7 +73,7 @@ Hubungan hukum dalam ranah perlindungan hak cipta meliputi pencipta atau pemegan
 
 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014) beberapa elemen fungsi sosial. Elemen-elemen tersebut antara lain adalah:
 
-* **Ciptaan-ciptaan yang tidak dilindungi (Pasal 42)**
+* **Ciptaan-ciptaan yang tidak dilindungi** ([Pasal 42](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/20))
   Dalam bagian ini, UUHC 2014 menjabarkan beberapa jenis ciptaan yang tidak dapat dilindungi oleh mekanisme perlindungan hak cipta di Indonesia. Arti dari pengecualian ciptaan-ciptaan ini dari mekanisme perlindungan hak cipta ialah seluruh pengguna ciptaan dapat menggunakan ciptaan-ciptaan tersebut, termasuk untuk kepentingan komersial, tanpa izin langsung dari pihak terkait (pencipta atau pemegang hak cipta). Namun, pengguna ciptaan wajib untuk tetap menyebutkan nama pencipta atau pemegang hak cipta dan/atau sumber ciptaan dalam setiap aktivitas penggunaan. Dan, setiap aktivitas penggunaan bukan merupakan aktivitas yang termasuk dalam kategori perbuatan melanggar hukum ataupun standar etika yang berlaku.
 
   * Hasil Rapat Terbuka Lembaga Negara ([contoh 1](https://www.youtube.com/user/PemprovDKI));
@@ -91,7 +91,7 @@ Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014) beberapa elemen fu
   * Kitab Suci atau Simbol Keagamaan
     Dalam hal ini Peraturan Perundang-Undangan belum memberikan penjelasan apakah Kitab suci atau simbol keagamaan yang dimaksud adalah yang diakui oleh Negara Republik Indonesia atau juga yang lainnya.
 
-* **Penggunaan wajar** (Pasal 43-51)
+* **Penggunaan wajar** ([Pasal 43-51](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/21))
   Pada prinsipnya konsep ini merupakan daftar pengecualian beberapa perbuatan yang tidak dianggap sebagai pelanggaran hak cipta. Perbuatan-perbuatan yang dikecualikan ini kemudian paling tidak dibagi lagi ke dalam 3 kategori:
 
   * Berdasarkan Lembaga
@@ -103,7 +103,7 @@ Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014) beberapa elemen fu
   * Berdasarkan Pengguna
     Dalam konsep pembatasan perlindungan hak cipta, setiap penggunaan ciptaan yang dimaksudkan untuk membuka akses ciptaan tersebut terhadap penyandang tuna netra atau keterbatasan dalam membaca dikecualikan dari kategori pelanggaran hak cipta meskipun dilaksanakan tanpa izin langsung dari pihak pencipta atau pemegang hak cipta. Selain itu, penggandaan ciptaan sebanyak 1 kopi juga dapat dilakukan oleh pengguna ciptaan, di luar konteks penggunaan untuk penyandang tuna netra, dapat dilaksanakan tanpa izin langsung pencipta dan dikecualikan dari kategori pelanggaran hak cipta apabila dilaksanakan untuk kepentingan pribadi, bukan untuk diumumkan kembali.
 
-* **Masa berlaku perlindungan hak cipta** (Pasal 57-61)
+* **Masa berlaku perlindungan hak cipta** ([Pasal 57-61](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/28))
   Memahami masa berlaku perlindungan hak cipta harus merujuk pada pembagian ketentuan berdasarkan ciptaannya. Paling tidak kita dapat memahami hal tersebut dengan memisahkannya menjadi dua bagian:
 
   * Teks, rekaman suara, karya seni rupa, dan lain-lain (Pasal 58)
