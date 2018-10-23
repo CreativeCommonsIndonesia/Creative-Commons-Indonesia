@@ -316,15 +316,15 @@ Agar dapat memajukan semangat keterbukaan akses pada karya ilmiah (*open access*
 
 ![doaj pinned.jpg](/uploads/doaj%20pinned.jpg){: .img-responsive .center-block }{: width="400"}
 
-\**(4)** Informasi lisensi hak cipta CC terbaca mesin
+**(4)** Informasi lisensi hak cipta CC terbaca mesin
 
-Untuk mendapatkan gelar DOAJ Seal, hendaknya pihak penerbit mampu memenuhi syarat untuk selalu dengan konsisten menempelkan lisensi CC yang diterapkan pada terbitannya pada setiap lapisan laman web terbitan tersebut, misalnay pada kaki situs web, laman daftar isi setiap edisi jurnal, dan laman pratayang maupun di dalam artikel yang diterbitkan.
+Untuk mendapatkan gelar DOAJ Seal, hendaknya pihak penerbit mampu memenuhi syarat untuk selalu dengan konsisten menempelkan lisensi CC yang diterapkan pada terbitannya pada setiap lapisan laman web terbitan tersebut, misalnya pada kaki situs web, laman daftar isi setiap edisi jurnal, dan laman pratayang maupun di dalam artikel yang diterbitkan.
 
-\**(5)** Ketentuan lisensi wajib mengizinkan penggubahan artikel
+**(5)** Ketentuan lisensi wajib mengizinkan penggubahan artikel
 
 Penerapan ketentuan ND (*NonDerivative*) atau TanpaTurunan dari lisensi CC pada jurnal justru menghambat upaya pemodifikasian kalimat yang hendak dikutip oleh penulis pada karya ilmiahnya. Akibat hukum yang tidak masuk akal untuk diterapkan pada aktivitas berbagi ciptaan dalam format teks ini kemudian dicegah oleh DOAJ dengan memasukannya dalam persyaratan pemberian reputasi DOAJ Seal.
 
-\**(7)** Penulis memiliki kontrol penuh atas hak cipta karya tulisnya
+**(7)** Penulis memiliki kontrol penuh atas hak cipta karya tulisnya
 
 DOAJ mendukung sepenuhnya hak penulis sebagai pemegang hak cipta mandiri yang dapat bebas mengumumkan karya ilmiahnya di mana pun dan untuk tujuan apa pun. Karena, dalam aktivitas berbagi karya ilmiah yang kini semakin dimudahkan dengan teknologi internet, tentu menjadi hal yang logis jika artikel sebaiknya di bagikan seluas mungkin dan dibuka aksesnya sebebas-bebasnya, baik untuk perkembangan ilmu pengetahuan itu sendiri maupun dalam upaya penyediaan ilmu pengetahuan bebas kepada publik. Untuk itu DOAJ memasukan hal ini dalam persyaratan pemberian reputasi DOAJ Seal.
 
