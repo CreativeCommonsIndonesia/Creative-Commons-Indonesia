@@ -169,6 +169,8 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut.
 
 * Kombinasi Spektrum:
 
+![Kurang-Paling-CCL.jpg](/uploads/Kurang-Paling-CCL.jpg){: .img-responsive .center-block }{: width="600"}
+
   * [Ada di seluruh kombinasi spektrum lisensi CC](http://creativecommons.or.id/lisensi-cc-bahasa-indonesia/).
 
 \(2) **Spektrum BerbagiSerupa (SA)**
@@ -187,7 +189,11 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut.
 
 * Kombinasi Spektrum:
 
-  * [Lisensi CC BY-SA (Atribusi-BerbagiSerupa)](https://creativecommons.org/licenses/by/4.0/deed.id) dan [Lisensi CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa)
+![by-sa-e15bba.png](/uploads/by-sa-e15bba.png){: .img-responsive .center-block }{: width="150"}
+
+![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png){: .img-responsive .center-block }{: width="150"}
+
+  * [Lisensi CC BY-SA](https://creativecommons.org/licenses/by/4.0/deed.id) (Atribusi-BerbagiSerupa) dan [Lisensi CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa)
 
 \(3) **Spektrum NonKomersial (NC)**
 
@@ -207,7 +213,13 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut.
 
 * Kombinasi Spektrum:
 
-  * [Lisensi CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial), Lisensi [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa), dan Lisensi [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
+![by-nc-d2ccff.png](/uploads/by-nc-d2ccff.png){: .img-responsive .center-block }{: width="150"}
+
+![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png){: .img-responsive .center-block }{: width="150"}
+
+![by-nc-nd-01dc41.png](/uploads/by-nc-nd-01dc41.png){: .img-responsive .center-block }{: width="150"}
+
+  * [Lisensi CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial), [Lisensi CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa), dan [Lisensi CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
 
 \(4) **Spektrum TanpaTurunan (ND)**
 
@@ -227,7 +239,11 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut.
 
 * Kombinasi Spektrum:
 
-  * Lisensi [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan) dan [Lisensi CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribuso-NonKomersial-TanpaTurunan).
+![by-nd-04b970.png](/uploads/by-nd-04b970.png){: .img-responsive .center-block }{: width="150"}
+
+![by-nc-nd-01dc41.png](/uploads/by-nc-nd-01dc41.png){: .img-responsive .center-block }{: width="150"}
+
+  * [Lisensi CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan) dan [Lisensi CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan).
 
 * Contoh penerapan:
 
@@ -249,7 +265,9 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut.
 
 * Kombinasi Spektrum:
 
-  * Tidak ada.
+![cc-zero-e0a127.png](/uploads/cc-zero-e0a127.png){: .img-responsive .center-block }{: width="150"}
+
+  * [CC0 Dedikasi Domain Publik](https://creativecommons.org/publicdomain/zero/1.0/deed.id)
 
 * Contoh penerapan:
 
@@ -267,7 +285,9 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut.
 
 * Kombinasi Spektrum:
 
-  * Tidak ada.
+![publicdomain-9d38b1.png](/uploads/publicdomain-9d38b1.png){: .img-responsive .center-block }{: width="150"}
+
+  * [Tanda Domain Publik Creative Commons](https://creativecommons.org/publicdomain/mark/1.0/).
 
 * Contoh penerapan:
 
