@@ -43,11 +43,13 @@ Lisensi hak cipta dapat dibagi berdasarkan sifat ketentuannya, yaitu:
 
 * Lisensi Terbuka biasanya, meskipun tidak selalu, dinyatakan dengan ungkapan "some rights reserved" (beberapa hak dipertahankan). Sifat terbuka dari lisensi ini biasanya dinyatakan dengan ketentuan yang langsung mengizinkan penggandaan dan penyebarluasan ciptaan oleh pengguna ciptaan. Lisensi ini biasanya dilengkapi dengan ketentuan pilihan yang nantinya ditentukan oleh pencipta atau pemegang hak cipta untuk mengatur hak penggunaan ciptaan pengguna ciptaan. Jenis lisensi ini diterapkan oleh pencipta atau pemegang hak cipta yang ingin memberikan akses terbuka dan legal kepada pengguna ciptaan dalam aktivitas penggunaan ciptaannya. Penentuan ketentuan lisensi hak cipta oleh pihak pencipta atau pemegang hak cipta sesuai dengan bunyi [Pasal 81 UUHC 2014](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/37). Sifat pembuatannya yang mandiri menyebabkan terciptanya produk lisensi terbuka yang beragam, seperti [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html), [Free Art License](http://artlibre.org/licence/lal/en/), dan termasuk Lisensi Creative Commons.
 
-## **Lisensi Creative Commons di Wikimedia Commons**
+### Lisensi Creative Commons di Wikimedia Commons
 
 ---
 
 Wikimedia Commons hanya menyediakan dua pilihan lisensi CC di situs webnya. Ketentuan-ketentuan lisensi tersebut ialah:
+
+![CC by.png](/uploads/CC%20by.png){: .img-responsive .center-block }{: width="150"}
 
 \(1) Lisensi [CC BY (Atribusi)](https://creativecommons.org/licenses/by/4.0/deed.id)
 
@@ -59,6 +61,8 @@ Wikimedia Commons hanya menyediakan dua pilihan lisensi CC di situs webnya. Kete
 
 \(2) Lisensi [CC BY-SA (Atribusi-BerbagiSerupa)](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
 
+![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png){: .img-responsive .center-block }{: width="150"}
+
 * Isi ketentuan:
 
   * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun, lalu menggubah, mengubah, dan membuat turunan dari ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
@@ -66,6 +70,8 @@ Wikimedia Commons hanya menyediakan dua pilihan lisensi CC di situs webnya. Kete
   * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Pengguna ciptaan juga harus menyebarluaskan hasil perubahan atau penggubahan di bawah lisensi yang sama dengan materi asli.
 
 \(3) Tanda Domain Publik Creative Commons (Tanda Domain Publik CC)
+
+![publicdomain-9d38b1.png](/uploads/publicdomain-9d38b1.png){: .img-responsive .center-block }{: width="150"}
 
 * Isi dan fungsi ketentuan:
 
@@ -93,6 +99,8 @@ Ketentuan lisensi CC lain yang tidak ada di Wikimedia Commons ialah:
 
 \(1)[CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial);
 
+![by-nc-d2ccff.png](/uploads/by-nc-d2ccff.png){: .img-responsive .center-block }{: width="150"}
+
 * Isi ketentuan:
 
   * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun, lalu menggubah, mengubah, dan membuat turunan dari ciptaan.
@@ -100,6 +108,8 @@ Ketentuan lisensi CC lain yang tidak ada di Wikimedia Commons ialah:
   * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Pengguna ciptaan dilarang menggunakan ciptaan untuk kepentingan komersial. 
 
 \(2)[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa);
+
+![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png){: .img-responsive .center-block }{: width="150"}
 
 * Isi ketentuan:
 
@@ -109,6 +119,8 @@ Ketentuan lisensi CC lain yang tidak ada di Wikimedia Commons ialah:
 
 \(3)[CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan);
 
+![by-nd-04b970.png](/uploads/by-nd-04b970.png){: .img-responsive .center-block }{: width="150"}
+
 * Isi ketentuan: 
 
   * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun, untuk kepentingan apapun, termasuk kepentingan komersial.
@@ -116,6 +128,8 @@ Ketentuan lisensi CC lain yang tidak ada di Wikimedia Commons ialah:
   * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Namun, segala pengubahan dan penggubahan yang dibuat tidak boleh disebarluaskan.
 
 \(4)[CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
+
+![by-nc-nd-01dc41.png](/uploads/by-nc-nd-01dc41.png){: .img-responsive .center-block }{: width="150"}
 
 * Isi ketentuan: 
 
