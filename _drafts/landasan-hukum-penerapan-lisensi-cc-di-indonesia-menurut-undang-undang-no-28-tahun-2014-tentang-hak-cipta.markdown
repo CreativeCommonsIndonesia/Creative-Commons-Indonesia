@@ -5,10 +5,6 @@ date: 2018-09-18 23:44:00 +07:00
 user: hilman
 ---
 
-Jadi gini, CCID itu proyek di bawah Wikimedia Indonesia. Terafiliasi secara resmi dengan Creative Commons internasional. Bukan badan hukum. Yang menjadi badan hukum di sini Wikimedia Indonesia, bentuknya Perkumpulan.
-
-Lembaga Manajemen Kolektif itu lain cerita ya, silakan merujuk UU 28 Tahun 2014 dan laman FAQ kami di creativecommons.or.id (langsung ulur ke bagian paling bawah situs web-nya).
-
 Nah, pada intinya lisensi CC sebagai izin tertulis sudah sesuai dengan bunyi Angka 20 Ketentuan Umum Undang-Undang No.28 Tahun 2014 Tentnag Hak Cipta (UUHC 2014). Dibaca saja ketentuannya. Hanya saja, Undang-Undang belum menjelaskan secara lebih lanjut mengenai perbedaan lisensi terbuka dan lisensi tertutup tradisional (tertutup). Namun, karena secara prinsip fungsinya sama:
 
 1. Sebagai alat pemberitahuan status hak cipta;
