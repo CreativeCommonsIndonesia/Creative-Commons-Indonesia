@@ -200,7 +200,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 ![Kurang-Paling-CCL.jpg](/uploads/Kurang-Paling-CCL.jpg){: .img-responsive .center-block }{: width="600"}
 
-  * Ada di seluruh kombinasi spektrum lisensi CC.
+  * [Ada di seluruh kombinasi spektrum lisensi CC](http://creativecommons.or.id/lisensi-cc-bahasa-indonesia/).
 
 * Contoh penerapan:
 
@@ -228,7 +228,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 ![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png){: .img-responsive .center-block }{: width="150"}
 
-  * Lisensi CC BY-SA (Atribusi-BerbagiSerupa) dan Lisensi CC BY-NC-SA (Atribusi-NonKomersial-BerbagiSerupa)
+  * [Lisensi CC BY-SA] (Atribusi-BerbagiSerupa)(https://creativecommons.org/licenses/by/4.0/deed.id) dan [Lisensi CC BY-NC-SA] (Atribusi-NonKomersial-BerbagiSerupa)(https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)
 
 * Contoh penerapan:
 
