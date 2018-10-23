@@ -288,7 +288,7 @@ Berikut isi dari ketentuan-ketentuan lisensi dan penanda ciptaan tersebut:
 
 ![by-nc-nd-01dc41.png](/uploads/by-nc-nd-01dc41.png){: .img-responsive .center-block }{: width="150"}
 
-  * [Lisensi CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan) dan [Lisensi CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribuso-NonKomersial-TanpaTurunan).
+  * [Lisensi CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan) dan [Lisensi CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan).
 
 * Contoh penerapan:
 
