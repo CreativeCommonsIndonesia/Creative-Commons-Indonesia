@@ -82,6 +82,8 @@ Dengan tersedianya pilihan ketentuan, maka pencipta atau pemegang hak cipta dapa
 
 Wikimedia Commons hanya menyediakan dua pilihan lisensi CC di situs webnya. Ketentuan-ketentuan lisensi tersebut ialah: 
 
+![CC by.png](/uploads/CC%20by.png){: .img-responsive .center-block }{: width="150"}
+
 \(1) Lisensi [CC BY (Atribusi)](https://creativecommons.org/licenses/by/4.0/deed.id)
 
 * Isi ketentuan:
@@ -92,6 +94,8 @@ Wikimedia Commons hanya menyediakan dua pilihan lisensi CC di situs webnya. Kete
 
 \(2) Lisensi [CC BY-SA (Atribusi-BerbagiSerupa)](https://creativecommons.org/licenses/by-sa/4.0/deed.id).
 
+![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png){: .img-responsive .center-block }{: width="150"}
+
 * Isi ketentuan:
 
   * Pencipta atau pemegang hak cipta mengizinkan pengguna ciptaan untuk: Menyalin dan menyebarluaskan kembali ciptaan dalam bentuk atau format apapun, lalu menggubah, mengubah, dan membuat turunan dari ciptaan untuk kepentingan apapun, termasuk kepentingan komersial.
@@ -100,17 +104,21 @@ Wikimedia Commons hanya menyediakan dua pilihan lisensi CC di situs webnya. Kete
 
 \(3) Tanda Domain Publik Creative Commons (Tanda Domain Publik CC)
 
+![publicdomain-9d38b1.png](/uploads/publicdomain-9d38b1.png){: .img-responsive .center-block }{: width="150"}
+
 * Isi dan fungsi ketentuan:
 
   * Hanya diterapkan pada ciptaan yang sudah habis masa berlaku perlindungan hak ciptanya.
 
   * Banyak digunakan oleh lembaga-lembaga seperti galeri, perpustakaan, balai pengarsipan, dan museum.
 
-Menurut catatan [State of the Commons 2017](https://stateof.creativecommons.org/?lang=id), setidaknya terdapat 36,9 juta ciptaan berlisensi CC di Wikimedia Commons. [Diantaranya adalah ciptaan karya fotografi bawah laut di Indonesia](https://commons.wikimedia.org/wiki/Category:Underwater_photographs_in_Indonesia). Di situs web ini juga terdapat kolom-kolom metadata yang dapat diisi oleh kontributornya dalam aktivitas penyajian ciptaan. Penjelasan teknis tentang Wikimedia Commons dapat dibaca di [artikel ini](http://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/) dan [ini](http://creativecommons.or.id/2017/03/menemukan-karya-fotografi-dan-potret-bebas-hak-cipta-indonesia-di-wikimedia-commons/).
+Menurut catatan [State of the Commons 2017](https://stateof.creativecommons.org/), setidaknya terdapat 36,9 juta ciptaan berlisensi CC di Wikimedia Commons. [Diantaranya adalah ciptaan karya fotografi bawah laut di Indonesia](https://commons.wikimedia.org/wiki/Category:Underwater_photographs_in_Indonesia). Di situs web ini juga terdapat kolom-kolom metadata yang dapat diisi oleh kontributornya dalam aktivitas penyajian ciptaan. Penjelasan teknis tentang Wikimedia Commons dapat dibaca di [artikel ini](http://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/) dan [ini](http://creativecommons.or.id/2017/03/menemukan-karya-fotografi-dan-potret-bebas-hak-cipta-indonesia-di-wikimedia-commons/).
 
 Ketentuan lisensi CC lainnya yang tidak tersedia di Wikimedia Commons antara lain adalah:
 
-\(1)[CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial);
+\(1) [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.id) (Atribusi-NonKomersial);
+
+![by-nc-d2ccff.png](/uploads/by-nc-d2ccff.png){: .img-responsive .center-block }{: width="150"}
 
 * Isi ketentuan:
 
@@ -118,7 +126,9 @@ Ketentuan lisensi CC lainnya yang tidak tersedia di Wikimedia Commons antara lai
 
   * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Pengguna ciptaan dilarang menggunakan ciptaan untuk kepentingan komersial. 
 
-\(2)[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa);
+\(2) [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Atribusi-NonKomersial-BerbagiSerupa);
+
+![by-nc-sa-6738bb.png](/uploads/by-nc-sa-6738bb.png){: .img-responsive .center-block }{: width="150"}
 
 * Isi ketentuan:
 
@@ -126,7 +136,9 @@ Ketentuan lisensi CC lainnya yang tidak tersedia di Wikimedia Commons antara lai
 
   * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Pengguna ciptaan dilarang menggunakan ciptaan untuk kepentingan komersial. Pengguna ciptaan juga harus menyebarluaskan hasil perubahan atau penggubahan di bawah lisensi yang sama dengan materi asli.
 
-\(3)[CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan);
+\(3) [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.id) (Atribusi-TanpaTurunan);
+
+![by-nd-04b970.png](/uploads/by-nd-04b970.png){: .img-responsive .center-block }{: width="150"}
 
 * Isi ketentuan: 
 
@@ -134,7 +146,9 @@ Ketentuan lisensi CC lainnya yang tidak tersedia di Wikimedia Commons antara lai
 
   * Dengan ketentuan: Pengguna ciptaan harus mencantumkan nama yang sesuai, mencantumkan tautan terhadap lisensi, dan menyatakan bahwa telah ada perubahan yang dilakukan. Namun, segala pengubahan dan penggubahan yang dibuat tidak boleh disebarluaskan.
 
-\(4)[CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
+\(4) [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) (Atribusi-NonKomersial-TanpaTurunan)
+
+![by-nc-nd-01dc41.png](/uploads/by-nc-nd-01dc41.png){: .img-responsive .center-block }{: width="150"}
 
 * Isi ketentuan: 
 
