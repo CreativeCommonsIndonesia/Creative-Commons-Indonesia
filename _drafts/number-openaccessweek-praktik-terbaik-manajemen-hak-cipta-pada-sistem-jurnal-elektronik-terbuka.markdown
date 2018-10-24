@@ -73,11 +73,11 @@ Harapannya, semakin lengkap informasi tentang proses penerbitan artikel tersedia
 
 Situs web indeksasi jurnal elektornik seperti Directory of Open Access Journal (DOAJ) berperan untuk meningkatkan visibilitas setiap artikel dari jurnal-jurnal tersebut. DOAJ adalah situs penyedia jasa indeksasi artikel yang mendorong para pengindeksnya agar menerapkan prinsip keterbukaan terbaik pada jurnal elektronik terbitannya. Situs web ini menyampaikan hal tersebut pada [formulir permohonan indeksasi jurnal](https://doaj.org/application/new) yang mereka sediakan.  [Lisensi Creative Commons (lisensi CC) BY (Atribusi)](https://creativecommons.org/licenses/by/4.0/deed.id) menjadi ketentuan lisensi yang paling banyak diterapkan oleh jurnal-jurnal elektronik di Indonesia, yaitu sejumlah 553 jurnal elektronik. Dari [6 pilihan lisensi CC](http://creativecommons.or.id/lisensi-cc-bahasa-indonesia/), Lisensi CC BY (Atribusi) merupakan pilihan lisensi dengan ketentuan yang paling banyak memberikan kebebasan kepada pengakses ciptaan. Meskipun begitu, tidak satu pun dari jurnal penerap lisensi tersebut memperoleh reputasi "DOAJ Seal". Karena, praktik terbaik dalam penerapan prinsip keterbukaan akses, setidaknya menurut DOAJ, belum dilaksanakan oleh para penerbit tersebut.
 
-Yang dimaksud dengan penerapan prinsip keterbukaan akses terbaik, setidaknya menurut DOAj, adalah:
+Yang dimaksud dengan penerapan prinsip keterbukaan akses terbaik, setidaknya menurut DOAJ, adalah:
 
-* Pihak penerbit dapat memberikan pilihan kepada penulis untuk **mengalihkan hak ciptanya** atau hanya memberikan **izin pelisensian kembali** ciptaan dalam surat perjanjian penerbitan.
+* Pihak penerbit dapat memberikan hanya menerima **izin pelisensian kembali** ciptaan dalam surat perjanjian penerbitan.
 
-* **Penerapan lisensi terbuka** (lisensi CC) pada situs web dan ciptaan-ciptaan yang tersedia di situs web penerbit, termasuk jurnal elektronik itu sendiri.
+* **Penerapan lisensi terbuka** (lisensi CC), dengan ketentuan yang paling bebas, pada situs web dan ciptaan-ciptaan yang tersedia di situs web penerbit, termasuk jurnal elektronik itu sendiri.
 
 Menurut data yang disediakan oleh DOAJ terdapat 1085 jurnal elektronik Indonesia yang tidak memberikan status pemegang hak cipta kepada penulis. Lalu terdapat 1094 jurnal elektronik Indonesia yang tidak membebaskan penulis untuk menerbitkan artikel versi paling akhir di beberapa kanal publikasi lain. Selain itu, pada ranah penerapan lisensi, sebanyak 802 jurnal elektronik tidak menempelkan ketentuan lisensi terbaca mesin di situs webnya dengan baik. Angka-angka ini dapat kita gunakan sebagai motivasi untuk lebih memahami penerapan prinsip tersebut agar jurnal-jurnal di Indonesia dapat menjadi jurnal percontohan dalam penerapan prinsip keterbukaan akses yang baik di DOAJ.
 
