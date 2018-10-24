@@ -1,6 +1,6 @@
 ---
 title: "#OpenAccessWeek - Praktik Terbaik Diseminasi Jurnal Elektronik Terbuka"
-date: 2018-10-23 19:53:00 +07:00
+date: 2018-10-24 19:53:00 +07:00
 categories:
 - Kajian
 tags:
