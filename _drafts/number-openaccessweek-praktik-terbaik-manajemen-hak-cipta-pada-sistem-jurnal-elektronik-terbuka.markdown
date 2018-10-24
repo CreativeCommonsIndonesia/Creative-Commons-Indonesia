@@ -92,3 +92,5 @@ Penerapan ketentuan ND (Tanpa Turunan) dari lisensi CC pada jurnal justru mengha
 **(7)** Penulis memiliki kontrol penuh atas hak cipta karya tulisnya
 
 DOAJ mendukung sepenuhnya hak penulis sebagai pemegang hak cipta mandiri yang dapat bebas mengumumkan karya ilmiahnya di mana pun dan untuk tujuan apa pun. Karena, dalam aktivitas berbagi karya ilmiah yang kini semakin dimudahkan dengan teknologi internet, tentu menjadi hal yang logis jika artikel sebaiknya di bagikan seluas mungkin dan dibuka aksesnya sebebas-bebasnya, baik untuk perkembangan ilmu yang dibagikan maupun dalam upaya penyediaan ilmu pengetahuan bebas kepada publik. Selain itu, dapat diaksesnya artikel di manapun mengangkat nilai pengakuan penulis atas karya tulis yang diciptakan. Untuk itu DOAJ memasukan hal ini dalam persyaratan pemberian reputasi DOAJ Seal.
+
+----
