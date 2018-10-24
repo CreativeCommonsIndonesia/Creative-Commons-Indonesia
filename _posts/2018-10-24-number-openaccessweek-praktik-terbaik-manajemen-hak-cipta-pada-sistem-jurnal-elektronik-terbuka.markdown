@@ -17,7 +17,7 @@ tags:
 - Lisensi Cretaive Commons
 - Creative Commons License
 author: hilman
-img: 
+img: "/uploads/web%20banner_blank_id.png"
 comments: true
 ---
 
