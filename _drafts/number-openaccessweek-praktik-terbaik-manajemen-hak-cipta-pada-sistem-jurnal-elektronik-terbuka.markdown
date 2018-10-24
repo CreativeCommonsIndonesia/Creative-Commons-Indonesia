@@ -1,6 +1,24 @@
 ---
 title: "#OpenAccessWeek - Praktik Terbaik Diseminasi Jurnal Elektronik Terbuka"
 date: 2018-10-23 19:53:00 +07:00
+categories:
+- Kajian
+tags:
+- Open Access Week
+- Open Access
+- Directory of Open Access Journal
+- Author's Right
+- Copyright
+- Hak Cipta
+- Penulis
+- Penerbitan
+- Jurnal di Indonesia
+- Lisensi CC
+- Lisensi Cretaive Commons
+- Creative Commons License
+author: hilman
+img: 
+comments: true
 ---
 
 ![web banner_blank_id.png](/uploads/web%20banner_blank_id.png)
@@ -53,11 +71,12 @@ Harapannya, semakin lengkap informasi tentang proses penerbitan artikel tersedia
 
 ---
 
-Situs web indeksasi jurnal elektornik seperti Directory of Open Access Journal (DOAJ) berperan untuk meningkatkan visibilitas setiap artikel dari jurnal-jurnal tersebut. DOAJ adalah situs penyedia jasa indeksasi artikel yang mendorong para pengindeksnya agar menerapkan prinsip keterbukaan terbaik pada jurnal elektronik terbitannya. Situs web ini menyampaikan hal tersebut pada [formulir permohonan indeksasi jurnal](https://doaj.org/application/new) yang mereka sediakan.  [Lisensi Creative Commons (lisensi CC) BY (Atribusi)](https://creativecommons.org/licenses/by/4.0/deed.id) menjadi ketentuan lisensi yang paling banyak diterapkan oleh jurnal-jurnal elektronik di Indonesia, yaitu sejumlah 553 jurnal elektronik. Lisensi CC BY (Atribusi) merupakan pilihan lisensi dengan ketentuan yang paling banyak memberikan kebebasan kepada pengakses ciptaan. Meskipun begitu, tidak satu pun dari jurnal penerap lisensi tersebut memperoleh reputasi "DOAJ Seal". Karena, praktik terbaik dalam penerapan prinsip keterbukaan akses, setidaknya menurut DOAJ, belum dilaksanakan oleh para penerbit tersebut. 
+Situs web indeksasi jurnal elektornik seperti Directory of Open Access Journal (DOAJ) berperan untuk meningkatkan visibilitas setiap artikel dari jurnal-jurnal tersebut. DOAJ adalah situs penyedia jasa indeksasi artikel yang mendorong para pengindeksnya agar menerapkan prinsip keterbukaan terbaik pada jurnal elektronik terbitannya. Situs web ini menyampaikan hal tersebut pada [formulir permohonan indeksasi jurnal](https://doaj.org/application/new) yang mereka sediakan.  [Lisensi Creative Commons (lisensi CC) BY (Atribusi)](https://creativecommons.org/licenses/by/4.0/deed.id) menjadi ketentuan lisensi yang paling banyak diterapkan oleh jurnal-jurnal elektronik di Indonesia, yaitu sejumlah 553 jurnal elektronik. Dari [6 pilihan lisensi CC](http://creativecommons.or.id/lisensi-cc-bahasa-indonesia/), Lisensi CC BY (Atribusi) merupakan pilihan lisensi dengan ketentuan yang paling banyak memberikan kebebasan kepada pengakses ciptaan. Meskipun begitu, tidak satu pun dari jurnal penerap lisensi tersebut memperoleh reputasi "DOAJ Seal". Karena, praktik terbaik dalam penerapan prinsip keterbukaan akses, setidaknya menurut DOAJ, belum dilaksanakan oleh para penerbit tersebut.
+
+Dengan tujuan memajukan semangat keterbukaan akses pada karya ilmiah, DOAJ menetapkan dua macam reputasi jurnal di ranah tersebut. Jurnal yang dijadikan sebagai percontohan di situs web ini akan mendapatkan gelar "DOAJ Seal". Sedangkan jurnal yang dianggap tidak dapat menerapkan prinsip keterbukaan akses terbaik akan mendapatkan gelar DOAJ Green Thick. Tentu saja untuk memperoleh gelar-gelar ini DOAJ mensyaratkan beberapa hal, yang diantaranya menyangkut tentang penerapan lisensi dan manajemen hak cipta penulis. Berikut penjelasan masing-masing poin persyaratan DOAJ Seal yang berkaitan dengan lisensi dan manajemen hak cipta penulis. 
 
 Yang dimaksud dengan praktik terbaik dalam penerapan prinsip keterbukaan akses pada hasil penelitian dalam adalah:
 
-Agar dapat memajukan semangat keterbukaan akses pada karya ilmiah (*open access*), DOAJ sebagai situs web indeksasi jurnal, menetapkan dua macam reputasi jurnal di ranah tersebut. Jurnal bereputasi baik di ranah ini akan mendapatkan gelar bernama DOAJ Seal. Sedangkan jurnal yang tidak dapat secara penuh menerapkan prinsip *open access* akan mendapatkan gelar DOAJ Green Thick. Tentu saja untuk memperoleh gelar-gelar ini DOAJ mensyaratkan beberapa hal, yang diantaranya menyangkut tentang penerapan lisensi dan manajemen hak cipta penulis. Berikut penjelasan masing-masing poin persyaratan DOAJ Seal yang berkaitan dengan lisensi dan manajemen hak cipta penulis.
 
 ![doaj pinned.jpg](/uploads/doaj%20pinned.jpg){: .img-responsive .center-block }{: width="400"}
 
