@@ -21,7 +21,7 @@ img:
 comments: true
 ---
 
-![web banner_blank_id.png](/uploads/web%20banner_blank_id.png)
+![web banner_blank_id.png](/uploads/web%20banner_blank_id.png){: .img-responsive .center-block }{: width="500"}<center><small><i>Logo Pekan Keterbukaan Akses Internasional diterjemahkan oleh Hilman Fathoni, templat disediakan oleh Open Access Week, di openaccessweek.org, dengan lisensi CC BY.</i></small></center>
 
 # **Open Access Week**
 
@@ -95,7 +95,7 @@ Untuk mendapatkan gelar "DOAJ Seal", hendaknya pihak penerbit mampu memenuhi sya
 
 Penerapan ketentuan ND (Tanpa Turunan) dari lisensi CC pada jurnal justru menghambat upaya pemodifikasian bagian yang hendak dikutip oleh penulis pada karya ilmiahnya. Pelarangan pemodifikasian artikel berlawanan dengan kebijakan anti plagiat dalam kode etik ilmuwan. Pada dasarnya setiap penggunaan kembali bagian artikel sebagai sumber mewajibkan adanya parafrase. Akibat hukum yang tidak masuk akal untuk diterapkan pada aktivitas berbagi ciptaan dalam format teks ini kemudian dicegah oleh DOAJ dengan memasukannya dalam persyaratan pemberian reputasi "DOAJ Seal".
 
-**(7)** Penulis memiliki kontrol penuh atas hak cipta karya tulisnya
+**(7)** Penulis memiliki kontrol penuh atas publikasi karya tulisnya
 
 DOAJ mendukung sepenuhnya hak penulis sebagai pemegang hak cipta mandiri yang dapat bebas mengumumkan karya ilmiahnya di mana pun dan untuk tujuan apa pun. Karena, dalam aktivitas berbagi karya ilmiah yang kini semakin dimudahkan dengan teknologi internet, tentu menjadi hal yang logis jika artikel sebaiknya di bagikan seluas mungkin dan dibuka aksesnya sebebas-bebasnya, baik untuk perkembangan ilmu yang dibagikan maupun dalam upaya penyediaan ilmu pengetahuan bebas kepada publik. Selain itu, dapat diaksesnya artikel di manapun mengangkat nilai pengakuan penulis atas karya tulis yang diciptakan. Untuk itu DOAJ memasukan hal ini dalam persyaratan pemberian reputasi DOAJ Seal.
 
