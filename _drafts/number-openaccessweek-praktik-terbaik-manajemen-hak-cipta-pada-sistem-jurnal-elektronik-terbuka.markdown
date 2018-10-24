@@ -1,6 +1,5 @@
 ---
-title: "#OpenAccessWeek Praktik Terbaik Manajemen Hak Cipta Pada Sistem Jurnal Elektronik
-  Terbuka"
+title: "#OpenAccessWeek - Praktik Terbaik Diseminasi Jurnal Elektronik Terbuka"
 date: 2018-10-23 19:53:00 +07:00
 ---
 
@@ -18,47 +17,49 @@ Pemajuan prinsip ini menjadi hal yang penting karena [kebutuhan akses terhadap i
 
 ---
 
-Penerbitan karya ilmiah daring adalah serangkaian proses yang melibatkan aktivitas pengiriman dan/atau pemilihan artikel ilmiah, termasuk upaya penerbitan artikel pracetak secara mandiri baik di kanal pribadi maupun bersama (*pre-print repository*). Saat artikel yang dikirimkan oleh penulis telah memenuhi persyaratan yang diajukan penerbit, misalnya telah selesai ditinjau oleh beberapa peninjau sesama yang ditunjuk oleh penerbit (*peer-reviewed*), maka setelah itu artikel dipublikasikan oleh penerbit jurnal terkait. Baru setelah itu artikel diindeksasi di situs web-situs web indeksasi jurnal elektronik seperti Scopus atau Directory of Open Access Journal (DOAJ). Dalam konteks *open access*, artikel tidak akan membahas proses pengindeksan jurnal elektronik di Scopus.
+Penerbitan karya ilmiah daring adalah serangkaian proses yang melibatkan aktivitas pengiriman dan/atau pemilihan artikel ilmiah, termasuk upaya penerbitan artikel pracetak secara mandiri baik di kanal pribadi maupun bersama (*pre-print repository*). Saat artikel yang dikirimkan oleh penulis telah memenuhi persyaratan yang diajukan penerbit, misalnya telah selesai ditinjau oleh beberapa peninjau sesama yang ditunjuk oleh penerbit (*peer-reviewed*), maka setelah itu artikel dipublikasikan oleh penerbit jurnal terkait. Baru setelah itu artikel diindeksasi di situs web-situs web indeksasi jurnal elektronik seperti [Scopus](https://www.scopus.com/home.uri) atau [Directory of Open Access Journal](https://doaj.org/) (DOAJ). Dalam konteks *open access*, artikel tidak akan membahas proses pengindeksan jurnal elektronik di Scopus.
 
-Penerapan prinsip keterbukaan akses bukan lagi suatu keniscayaan di Indonesia. Per 23 Oktober 2014, setidaknya terdapat [1362 jurnal elektronik Indonesia](https://drive.google.com/open?id=1VzXhxdJmJfgnxQOVM3tKpBfU7tKVN-W3) yang menerapkan prinsip *open access* dengan memasang perangkat *Open Journal System* (OJS) di situs webnya serta mengindeks artikel-artikelnya di DOAJ. 
+## **Open Journal System**
 
-Perangkat OJS memudahkan pengelola penerbitan jurnal dalam membuat templat informasi kebijakan penerbitan yang dapat dibaca terlebih dahulu oleh penulis sebelum mengirimkan naskah. Informasi yang dimuat antara lain: 
+---
 
-* Pihak pemegang hak cipta artikel
-* Hak pengarsipan mandiri oleh penulis
-* Proses peninjauan artikel (*review process*) 
-* Biaya pemrosesan artikel
-* Kebijakan keterbukaan akses jurnal elektronik dan informasi ketentuan lisensi CC yang diterapkan 
-* Teknologi pengarsipan jurnal elektronik
-* Syarat-syarat penerbitan artikel
+<grafik platform list>
 
-Situs web indeksasi jurnal elektornik seperti DOAJ berperan untuk meningkatkan visibilitas setiap artikel dari jurnal-jurnal tersebut . 
+Penerapan prinsip keterbukaan akses bukan lagi suatu keniscayaan di Indonesia. Per 23 Oktober 2014, setidaknya terdapat [1319 jurnal elektronik Indonesia](https://drive.google.com/open?id=1VzXhxdJmJfgnxQOVM3tKpBfU7tKVN-W3) menerapkan prinsip *open access* dengan memasang perangkat *Open Journal System* (OJS) di situs webnya dan terdapat 1362 jurnal elektronik yang diindeks di Direcotry of Open Access Journal (DOAJ). 
+
+Perangkat OJS memudahkan pengelola penerbitan jurnal dalam membuat templat informasi kebijakan penerbitan yang dapat dibaca terlebih dahulu oleh penulis sebelum mereka mengirimkan naskah. 
+
+Informasi yang dimuat antara lain:
+
+* Pihak pemegang hak cipta artikel;
+
+* Hak pengarsipan mandiri oleh penulis;
+
+* Proses peninjauan artikel (*review process*);
+
+* Biaya pemrosesan artikel;
+
+* Kebijakan keterbukaan akses jurnal elektronik dan informasi ketentuan lisensi Creative Commons (lisensi CC) yang diterapkan;
+
+* Teknologi pengarsipan jurnal elektronik;
+
+* Syarat-syarat penerbitan artikel,
+
+* dan lain-lain.
+
+Harapannya, semakin lengkap informasi tentang proses penerbitan artikel tersedia di suatu situs web jurnal elektronik, maka aktivitas pengiriman naskah dan penerbitan artikel, dalam kata lain komuniaksi antara penulis dan penerbit, dapat berjalan semakin lancar.
+
+## **Directory of Open Access Journal**
+
+---
+
+Situs web indeksasi jurnal elektornik seperti Directory of Open Access Journal (DOAJ) berperan untuk meningkatkan visibilitas setiap artikel dari jurnal-jurnal tersebut. DOAJ adalah situs penyedia jasa indeksasi artikel yang mendorong para pengindeksnya agar menerapkan prinsip keterbukaan terbaik pada jurnal elektronik terbitannya. Situs web ini menyampaikan hal tersebut pada [formulir permohonan indeksasi jurnal](https://doaj.org/application/new) yang mereka sediakan.  [Lisensi Creative Commons (lisensi CC) BY (Atribusi)](https://creativecommons.org/licenses/by/4.0/deed.id) menjadi ketentuan lisensi yang paling banyak diterapkan oleh jurnal-jurnal elektronik di Indonesia, yaitu sejumlah 553 jurnal elektronik. Meskipun begitu, tidak satu pun dari penerap lisensi tersebut memperoleh reputasi "DOAJ Seal" karena praktik 
 
 Yang dimaksud dengan kebijakan keterbukaan akses pada hasil penelitian dalam hal ini adalah:
 
-* Pihak penerbit dapat memberikan pilihan kepada penulis untuk **mengalihkan hak ciptanya** atau hanya memberikan **izin pelisensian kembali** ciptaan dalam surat perjanjian penerbitan. 
+* Pihak penerbit dapat memberikan pilihan kepada penulis untuk **mengalihkan hak ciptanya** atau hanya memberikan **izin pelisensian kembali** ciptaan dalam surat perjanjian penerbitan.
+
 * **Penerapan lisensi terbuka** (lisensi Creative Commons) pada situs web dan ciptaan-ciptaan yang tersedia di situs web penerbit, termasuk jurnal elektronik itu sendiri.
-
-
-
-![oauin6.jpg](/uploads/oauin6.jpg){: .img-responsive .center-block }{: width="400"}
-
-![oauin12.jpg](/uploads/oauin12.jpg){: .img-responsive .center-block }{: width="400"}
-
-* Tentang kebijakan pengarsipan mandiri oleh penulis
-  Sebagai penerbit, hendaknya kebijakan pengarsipan mandiri (*[self archiving](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/self-archiving.html)*) diterapkan dan dijelaskan pada laman *article submission* atau dengan membuat laman *resources* untuk penulis yang memuat penjelasan tersebut. Hal ini diperlukan untuk menghindari kesalahpahaman jika penulis hendak mengumumkan karya tulis tersebut di tempat lain, situs webnya sendiri atau layanan media sosial misalnya. Atau misalnya untuk menetapkan ketentuan embargo yang melarang pencipta untuk melakukan pengarsipan mandiri dalam kurun waktu tertentu. Namun, untuk menghadirkan pelayanan yang baik dan mendukung visibilitas serta dampak karya tulis para penulis, hendaknya penerbit membebaskan penulis untuk melaksanakan pengarsipan mandiri dan tidak menerapkan kebijakan embargo. Mungkin dalam hal ini, jika ingin mengecualikan sesuatu ialah menjabarkan bahwa artikel yang dapat diarsipkan secara mandiri hanya teks versi sebelum diterbitkan saja (*pre-print*), bukan teks dalam format yang sudah dipublikasikan melalui penerbit.
-
-![oauin5.jpg](/uploads/oauin5.jpg){: .img-responsive .center-block }{: width="400"}
-
-* Informasi perbedaan antara pengalihan hak cipta dan pelisensian ciptaan
-
-Sebagai penerbit, ada baiknya juga untuk memberikan penjelasan, atau bahkan kesempatan, kepada penulis tentang perbedaan antara pengalihan hak cipta (*Copyright Transfer*) dengan pelisensian ciptaan (*Licensing*). Lihat [Contoh dokumen perjanjian hak cipta & Contoh dokumen pernyataan pelisensian kembali karya oleh penerbit (Wiley)](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/licensing-info-faqs.html) barikut ini. Wiley berusaha menjelaskan hal tersebut dalam laman *resources* khusus untuk para penulis, sekaligus memberikan contoh format dokumen pengalihan hak cipta dari penulis kepada penerbit. Pengalihan hak cipta adalah pembagian peran sebagai pemegang hak cipta atas karya tulis dengan penerbit. Artinya penerbit sama-sama memiliki hak eksklusif untuk mengontrol di mana saja artikel dapat diumumkan dan digunakan dalam model penggunaan apa saja. Pelisensian karya yang dituangkan dalam sebuah [surat pernyataan](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/open-access-agreements.html) pemberian izin pelisensian kembali kepada penerbit memiliki maknya yang berbeda. Melisensikan karya berarti hanya memberikan izin kepada penerbit untuk mengumumkan karya dengan ketentuan lisensi yang dipilih, tanpa membagikan peran sebagai pemegang hak cipta kepada penerbit. Mekanisme ini secara otomatis mempertahankan seluruh kontrol eksklusif hak cipta atas karya tulis pada pihak penulis. Lisensi CC setidaknya sudah diterapkan pada lebih dari [3 juta karya ilmiah](https://doaj.org/) yang didiseminasikan secara daring. Petunjuk pemilihan lisensi atau isi ketentuan lisensi sangat direkomendasikan untuk ditampilkan oleh pihak penerbit agar penulis dapat mengerti akibat hukum dari lisensi yang akan diterapkan pada karya ilmiahnya.
-
-![oauin9.jpg](/uploads/oauin9.jpg){: .img-responsive .center-block }{: width="400"}<center><small><i>Contoh petunjuk pengetahuan tentang lisensi CC oleh Wiley</i></small></center>
-
-### Tentang Penerapan Lisensi Creative Commons Di Ranah Publikasi Karya Ilmiah Daring Dalam Konteks Indeksasi dan Kualifikasi di DOAJ
-
----
 
 Agar dapat memajukan semangat keterbukaan akses pada karya ilmiah (*open access*), DOAJ sebagai situs web indeksasi jurnal, menetapkan dua macam reputasi jurnal di ranah tersebut. Jurnal bereputasi baik di ranah ini akan mendapatkan gelar bernama DOAJ Seal. Sedangkan jurnal yang tidak dapat secara penuh menerapkan prinsip *open access* akan mendapatkan gelar DOAJ Green Thick. Tentu saja untuk memperoleh gelar-gelar ini DOAJ mensyaratkan beberapa hal, yang diantaranya menyangkut tentang penerapan lisensi dan manajemen hak cipta penulis. Berikut penjelasan masing-masing poin persyaratan DOAJ Seal yang berkaitan dengan lisensi dan manajemen hak cipta penulis.
 
