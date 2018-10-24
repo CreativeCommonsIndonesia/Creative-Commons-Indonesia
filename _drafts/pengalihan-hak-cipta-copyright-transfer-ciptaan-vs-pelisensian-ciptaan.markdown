@@ -18,13 +18,18 @@ Pemajuan prinsip ini menjadi hal yang penting karena [kebutuhan akses terhadap i
 
 ---
 
-Hak cipta atas suatu ciptaan pada umumnya dipegang secara eksklusif oleh pencipta seketika ciptaan diwujudkan dan diumumkan. Kontrol eksklusif adalah kekuatan untuk menggunakan dan/atau menyebarkan  Namun, pencipta memiliki wewenang untuk membagi kontrol ekskulsif tersebut pada pihak lain. 
+Hak cipta atas suatu ciptaan pada umumnya dipegang secara eksklusif oleh pencipta seketika ciptaan diwujudkan dan diumumkan. Kontrol eksklusif dari hak cipta memastikan setiap manfaat ciptaan dapat dirasakan oleh pencipta. Namun, pencipta memiliki hak untuk membagi kontrol ekskulsif tersebut pada pihak lain. Pihak yang mendapatkan sebagaian dari kontrol eksklusif tersebut adalah pemegang hak cipta.
 
-> Subyek Hak Cipta
-> Sumber hukum pengalihan hak cipta
+Pemegang hak cipta dapat dilaksanakan oleh perseorangan maupun kelompok. Posisi ini biasanya mereka dapatkan saat pencipta membutuhkan jasa dari pihak lain yang sama sekali tidak ikut serta menciptakan suatu ciptaan. Karena memiliki kelebihan yang tidak dimiliki pencipta, ketika pencipta telah sepakat untuk menggunakan bantuan pihak lain tersebut, maka pencipta membayar sejumlah kompensasi dengan besaran sesuai kesepakatan antara dua pihak tersebut. Misalnya, pencipta adalah seorang penulis buku yang ingin menerbitkan buku ciptaannya. Proses penerbitan buku tersebut biasanya melibatkan pihak penerbit sebagai pemegang hak cipta yang nantinya membantu proses penggandaan, pendistribusian, dan penjualan buku. Hasil penjualan buku kemudian dibagi sesuai dengan kesepakatan, atau, bisa juga penerbit 'membeli' hak eksklusif pencipta selama beberapa tahun dengan membayar di depan (jual putus), guna mendapatkan keuntungan penjualan buku tersebut untuk dirinya sendiri.
+
+Mekanisme ini diatur dalam Pasal 16-19, pasal 29-30, Pasal 76-77, Pasal 98, dan Pasal 122 Undang-Undang No. 28 Tahun 2014 tentang Hak Cipta (UUHC 2014).
+
+
+
+
+
 > Sumber hukum pelisensian ciptaan
 > Untung-Rugi bagi pencipta
-
 
 # **Manajemen Hak Cipta Penulis Dalam Publikasi Karya Ilmiah Terbuka**
 
@@ -46,4 +51,3 @@ Dalam prinsip keterbukaan akses diyakini bahwa kontrol penuh ciptaan yang dipega
 Sebagai penerbit, ada baiknya juga untuk memberikan penjelasan, atau bahkan kesempatan, kepada penulis tentang perbedaan antara pengalihan hak cipta (*Copyright Transfer*) dengan pelisensian ciptaan (*Licensing*). Lihat [Contoh dokumen perjanjian hak cipta & Contoh dokumen pernyataan pelisensian kembali karya oleh penerbit (Wiley)](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/licensing-info-faqs.html) barikut ini. Wiley berusaha menjelaskan hal tersebut dalam laman *resources* khusus untuk para penulis, sekaligus memberikan contoh format dokumen pengalihan hak cipta dari penulis kepada penerbit. Pengalihan hak cipta adalah pembagian peran sebagai pemegang hak cipta atas karya tulis dengan penerbit. Artinya penerbit sama-sama memiliki hak eksklusif untuk mengontrol di mana saja artikel dapat diumumkan dan digunakan dalam model penggunaan apa saja. Pelisensian karya yang dituangkan dalam sebuah [surat pernyataan](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/open-access-agreements.html) pemberian izin pelisensian kembali kepada penerbit memiliki maknya yang berbeda. Melisensikan karya berarti hanya memberikan izin kepada penerbit untuk mengumumkan karya dengan ketentuan lisensi yang dipilih, tanpa membagikan peran sebagai pemegang hak cipta kepada penerbit. Mekanisme ini secara otomatis mempertahankan seluruh kontrol eksklusif hak cipta atas karya tulis pada pihak penulis. Lisensi CC setidaknya sudah diterapkan pada lebih dari [3 juta karya ilmiah](https://doaj.org/) yang didiseminasikan secara daring. Petunjuk pemilihan lisensi atau isi ketentuan lisensi sangat direkomendasikan untuk ditampilkan oleh pihak penerbit agar penulis dapat mengerti akibat hukum dari lisensi yang akan diterapkan pada karya ilmiahnya.
 
 ![oauin9.jpg](/uploads/oauin9.jpg){: .img-responsive .center-block }{: width="400"}<center><small><i>Contoh petunjuk pengetahuan tentang lisensi CC oleh Wiley</i></small></center>
-
