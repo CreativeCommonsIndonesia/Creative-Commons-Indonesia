@@ -43,9 +43,11 @@ Penerbitan karya ilmiah daring adalah serangkaian proses yang melibatkan aktivit
 
 <grafik platform list>
 
-Penerapan prinsip keterbukaan akses bukan lagi suatu keniscayaan di Indonesia. Per 23 Oktober 2014, setidaknya terdapat [1319 jurnal elektronik Indonesia](https://drive.google.com/open?id=1VzXhxdJmJfgnxQOVM3tKpBfU7tKVN-W3) menerapkan prinsip *open access* dengan memasang perangkat *Open Journal System* (OJS) di situs webnya dan terdapat 1362 jurnal elektronik yang diindeks di Direcotry of Open Access Journal (DOAJ). 
+Penerapan prinsip keterbukaan akses bukan lagi suatu keniscayaan di Indonesia. Banyak upaya atau inisiatif telah dikerahkan untuk memajukan penerapan prinsip tersebut, salah satu contohnya adalah petunjuk-petunjuk buatan Dasapta Erwin Irawan. Diantaranya adalah bagaimana pemerintah, khususnya Kementerian Riset, Teknologi, dan Pendidikan Tinggi agar dapat menerbitkan [dasar hukum yang baik](http://dasaptaerwin.net/wp/2018/07/telaah-singkat-permenristekdikti-no-20-tahun-2018-tentang-penelitian-v1.html) sebagai legitimasi pelaksanaan aktivitas tersebut. 
 
-Perangkat OJS memudahkan pengelola penerbitan jurnal dalam membuat templat informasi kebijakan penerbitan yang dapat dibaca terlebih dahulu oleh penulis sebelum mereka mengirimkan naskah. 
+Per 23 Oktober 2014, setidaknya terdapat [1319 jurnal elektronik Indonesia](https://drive.google.com/open?id=1VzXhxdJmJfgnxQOVM3tKpBfU7tKVN-W3) menerapkan prinsip *open access* dengan memasang perangkat *Open Journal System* (OJS) di situs webnya dan terdapat 1362 jurnal elektronik yang diindeks di Direcotry of Open Access Journal (DOAJ).
+
+Perangkat OJS memudahkan pengelola penerbitan jurnal dalam membuat templat informasi kebijakan penerbitan yang dapat dibaca terlebih dahulu oleh penulis sebelum mereka mengirimkan naskah.
 
 Informasi yang dimuat antara lain:
 
