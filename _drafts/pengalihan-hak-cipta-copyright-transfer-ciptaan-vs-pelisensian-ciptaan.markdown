@@ -4,9 +4,33 @@ title: "#OpenAccessWeek Pengalihan Hak Cipta (Copyright Transfer) Ciptaan vs Pel
 date: 2018-06-28 16:45:00 +07:00
 ---
 
-* Pihak penerbit dapat memberikan pilihan kepada penulis untuk **mengalihkan hak ciptanya** atau hanya memberikan **izin pelisensian kembali** ciptaan dalam surat perjanjian penerbitan.
+![web banner_blank_id.png](/uploads/web%20banner_blank_id.png){: .img-responsive .center-block }{: width="500"}<center><small><i>Logo Pekan Keterbukaan Akses Internasional diterjemahkan oleh Hilman Fathoni, templat disediakan oleh Open Access Week, di openaccessweek.org, dengan lisensi CC BY.</i></small></center>
 
-* **Penerapan lisensi terbuka** (lisensi Creative Commons) pada situs web dan ciptaan-ciptaan yang tersedia di situs web penerbit, termasuk jurnal elektronik itu sendiri.
+# **Open Access Week**
+
+---
+
+Artikel ini merupakan bagian dari agenda [Pekan Keterbukaan Akses Internasional 2018](http://www.openaccessweek.org/profiles/blogs/theme-of-2018-international-open-access-week-to-be-designing-equi) (Selanjutnya disebut dengan PKAI atau PKAI 2018). PKAI 2018 merupakan serangkaian upaya untuk meningkatkan kesadaran tentang prinsip *open access* atau gerakan keterbukaan publikasi karya ilmiah di ranah daring. Tahun ini, PKAI mengangkat tema “*Designing Equitable Foundations for Open Knowledge*” (bahasa Inggris) atau Merancang Pondasi Pengetahuan Terbuka Yang Berkeadilan. Tema ini dibuat untuk mengajak para pemangku kepentingan terkait agar dapat sama-sama merumuskan peran gerakan *open access* dalam isu keberagaman, keadilan, dan inklusifitas. Tiga unsur tersebut perlu dikaji lebih lanjut agar akses keterlibatan pemangku kepentingan dapat berjalan lancar dan distribusi pengetahuan terbuka dapat terlaksana secara berkelanjutan. Anda dapat turut serta berkampanya dengan mengikuti petunjuk-petunjuk di [situs web ini](http://www.openaccessweek.org/page/graphics).
+
+Pemajuan prinsip ini menjadi hal yang penting karena [kebutuhan akses terhadap ilmu pengetahuan dari seluruh penjuru dunia](https://www.vox.com/2016/2/18/11047052/alexandra-elbakyan-interview) semakin meningkat seiring berkembangnya teknologi pengaksesan informasi. Hal ini membuktikan bahwa, model penyediaan ilmu pengetahuan secara [tertutup](https://www.theguardian.com/commentisfree/2018/sep/13/scientific-publishing-rip-off-taxpayers-fund-research?CMP=share_btn_fb&fbclid=IwAR2JGNRnIdGK3-bRavUWO1tIah1G9rTloTNhOiL6Ypv2iXCqtmA91CvDOxI) yang mengenakan biaya mahal dan keterbatasan penggunaan serta penyebaran kembali oleh pengakses maupun pencipta sudah bukan lagi menjadi hal yang relevan. Untuk itu dibutuhkan ekosistem ketersediaan ilmu pengetahuan yang terbuka bagi lebih banyak orang, tidak hanya untuk para ilmuwan, sambil menetapkan beberapa pembatasan yang masuk akal [sebagai model bisnis, strategi diseminasi, dan infrastruktur penerbitan karya ilmiah daring](https://www.openaccess.nl/en/what-is-open-access). Maka dari itu, kini, hampir setiap saat, ide-ide mengenai pewujudan sistem baru tersebut, terus d[ikumpulkan, diolah, dan diupayakan](http://oad.simmons.edu/oadwiki/Main_Page).
+
+# **Pengalihan Hak Cipta vs Pelisensian Ciptaan**
+
+---
+
+Hak cipta atas suatu ciptaan pada umumnya dipegang secara eksklusif oleh pencipta seketika ciptaan diwujudkan dan diumumkan. Kontrol eksklusif adalah kekuatan untuk menggunakan dan/atau menyebarkan  Namun, pencipta memiliki wewenang untuk membagi kontrol ekskulsif tersebut pada pihak lain. 
+
+> Subyek Hak Cipta
+> Sumber hukum pengalihan hak cipta
+> Sumber hukum pelisensian ciptaan
+> Untung-Rugi bagi pencipta
+
+
+# **Manajemen Hak Cipta Penulis Dalam Publikasi Karya Ilmiah Terbuka**
+
+---
+
+Dalam prinsip keterbukaan akses diyakini bahwa kontrol penuh ciptaan yang dipegang oleh penulis, jauh lebih memberdayakan daripada kontrol tersebut dipegang oleh penerbit. Pihak penerbit dapat memberikan pilihan kepada penulis untuk **mengalihkan hak ciptanya** atau hanya memberikan **izin pelisensian kembali** ciptaan dalam surat perjanjian penerbitan. Perlu diketahui ba
 
 ![oauin6.jpg](/uploads/oauin6.jpg){: .img-responsive .center-block }{: width="400"}
 
