@@ -22,7 +22,9 @@ Hak cipta atas suatu ciptaan pada umumnya dipegang secara eksklusif oleh pencipt
 
 Pemegang hak cipta dapat dilaksanakan oleh perseorangan maupun kelompok. Posisi ini biasanya mereka dapatkan saat pencipta membutuhkan jasa dari pihak lain yang sama sekali tidak ikut serta menciptakan suatu ciptaan. Karena memiliki kelebihan yang tidak dimiliki pencipta, ketika pencipta telah sepakat untuk menggunakan bantuan pihak lain tersebut, maka pencipta membayar sejumlah kompensasi dengan besaran sesuai kesepakatan antara dua pihak tersebut. Misalnya, pencipta adalah seorang penulis buku yang ingin menerbitkan buku ciptaannya. Proses penerbitan buku tersebut biasanya melibatkan pihak penerbit sebagai pemegang hak cipta yang nantinya membantu proses penggandaan, pendistribusian, dan penjualan buku. Hasil penjualan buku kemudian dibagi sesuai dengan kesepakatan, atau, bisa juga penerbit 'membeli' hak eksklusif pencipta selama beberapa tahun dengan membayar di depan (jual putus), guna mendapatkan keuntungan penjualan buku tersebut untuk dirinya sendiri.
 
-Mekanisme ini diatur dalam Pasal 16-19, pasal 29-30, Pasal 76-77, Pasal 98, dan Pasal 122 Undang-Undang No. 28 Tahun 2014 tentang Hak Cipta (UUHC 2014).
+Mekanisme ini diatur dalam [Pasal 16-19](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/11), [pasal 29-30](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/16), [Pasal 76-77](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/35), [Pasal 98](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/43), dan [Pasal 122](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/57) Undang-Undang No. 28 Tahun 2014 tentang Hak Cipta (UUHC 2014). Pada umunya, pengalihan hak cipta hanya menyangkut persoalan pengalihan hak ekonomi saja. Untuk mengatur distribusi manfaat ekonomis yang lahir dari estetika ekspresif suatu ciptaan. Bahasa yang digunakan oleh UU dalam hal ini ialah "jual putus", di mana pihak ketiga, dalam hal ini kemudian berperan sebagai pemegang hak cipta setelah mereka membeli hak ekonomi melalui kesepakatan yang dituangkan dalam perjanjian tertulis dengan pihak pencipta. Perjanjian tersebut diatur pula masa perikatannya oleh UUHC 2014 yaitu paling lama 25 tahun. Setelah 25 tahun berlalu, kontrol atas hak ekonomi kembali lagi secara eksklusif dipegang hanya oleh pihak pencipta.
+
+
 
 
 
@@ -57,3 +59,5 @@ http://www.dmlp.org/legal-guide/understanding-difference-between-transfer-and-li
 https://www.authorsalliance.org/our-issues/managing-rights/
 
 https://www.authorsalliance.org/resources/
+
+#OpenAccessWeek - Pengarsipan Kebijakan Manajemen Hak Cipta di SHERPA/Romeo
