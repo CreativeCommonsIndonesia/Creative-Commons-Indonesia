@@ -1,7 +1,17 @@
 ---
-title: "#OpenAccessWeek - Pengalihan Hak Cipta (Copyright Transfer) Ciptaan vs Pelisensian
-  Ciptaan"
+title: "#OpenAccessWeek - Pengalihan Hak Cipta (Copyright Transfer Agreement) Ciptaan
+  vs Pelisensian Ciptaan"
 date: 2018-06-28 16:45:00 +07:00
+tags:
+- Open Access
+- Open Access Week
+- Pengalihan Hak Cipta
+- Pelisensian Ciptaan
+- Copyright Transfer Agreement
+- Copyright license
+author: hilman
+img: "/uploads/web%20banner_blank_id.png"
+comments: true
 ---
 
 ![web banner_blank_id.png](/uploads/web%20banner_blank_id.png){: .img-responsive .center-block }{: width="500"}<center><small><i>Logo Pekan Keterbukaan Akses Internasional diterjemahkan oleh Hilman Fathoni, templat disediakan oleh Open Access Week, di openaccessweek.org, dengan lisensi CC BY.</i></small></center>
