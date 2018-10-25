@@ -30,7 +30,9 @@ Pada praktiknya, akibat hukum dari pengalihan hak cipta antara penulis kepada pe
 
 ---
 
-Mekanisme pelisensian ciptaan diatur pada Angka [20](https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_28_Tahun_2014) Ketentuan Umum dan Pasal [80](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/36)-[83](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/37) Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014). Menurut Angka 20 Ketentuan Umum UUHC 2014, lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Pasal 80 menyatakan bahwa pemegang hak cipta, dalam hal ini pencipta, dapat
+Mekanisme pelisensian ciptaan diatur pada Angka [20](https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_28_Tahun_2014) Ketentuan Umum dan Pasal [80](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/36)-[83](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/37) Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014). Pada umumnya, lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Pemegang hak cipta, dapat melisensikan ciptaan secara mandiri atau melalui perwakilan kepada pihak ketiga, atau dalam hal ini pengguna ciptaan, untuk melaksanakan beberapa perbuatan berdasarkan ketentuan lisensi yang diterapkan. Ketentuan lisensi yang diterapkan dapat diberlakukan hingga masa berlaku perlindungan hak cipta ciptaan yang dilisensikan habis.
+
+Lisensi hak cipta tidak perlu 
 
 ## Manajemen Hak Cipta Penulis Dalam Publikasi Karya Ilmiah Terbuka
 
