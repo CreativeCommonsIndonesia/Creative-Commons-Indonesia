@@ -6,6 +6,12 @@ date: 2018-10-22 12:42:00 +07:00
 
 https://creativecommons.org/about/program-areas/legal-tools-licenses/legal-tools-licenses-resources/foundations/
 
+http://api.ning.com/files/zRFidZuXNPSiyVKVhJ40gWQ-uHZd4smwjFm0elVHTZDvWXKbY*8mAMPvwwaIAY6eC2kfO6hRxKs3kb7Ncf6FeB*VaQIOqbD-/Faculty
+
+http://api.ning.com/files/57tG6isEEAt7OK9PdqKpfOfDckKpy5k7wCGogTg0xRtJyEbF0gNGFjRJW0UrqJHoVZpSFCihAXOrf6ko9AVk3Jasi8ZVyfCa/Research%20Funders
+
+file:///C:/Users/Wikimedia%20Indonesia/Downloads/Documents/WhatUniversitiesandAdminCanDo.pdf
+
 
 Sebenarnya yang dimaksudkan dari deeds atau penjelasan ketentuan lisensi CC BY tersebut merupakan bagian dari upaya penyediaan ruang dengan prinsip "prasangka baik" dalam lingkup perlindungan hak cipta ketika seseorang mengumunkan atau membagikan ciptaannya.
 
