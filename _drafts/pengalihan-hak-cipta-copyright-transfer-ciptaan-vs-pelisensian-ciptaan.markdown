@@ -1,5 +1,5 @@
 ---
-title: "#OpenAccessWeek Pengalihan Hak Cipta (Copyright Transfer) Ciptaan vs Pelisensian
+title: "#OpenAccessWeek - Pengalihan Hak Cipta (Copyright Transfer) Ciptaan vs Pelisensian
   Ciptaan"
 date: 2018-06-28 16:45:00 +07:00
 ---
@@ -30,7 +30,7 @@ Pada praktiknya, akibat hukum dari pengalihan hak cipta antara penulis kepada pe
 
 ---
 
-Mekanisme pelisensian ciptaan diatur pada Angka [20](https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_28_Tahun_2014) Ketentuan Umum dan Pasal [80](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/36)-[83](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/37) Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014). Menurut Angka 20 Ketentuan Umum UUHC 2014, lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Pasal 80 menyatakan bahwa pemegang hak cipta, dalam hal ini pencipta, dapat 
+Mekanisme pelisensian ciptaan diatur pada Angka [20](https://id.wikisource.org/wiki/Undang-Undang_Republik_Indonesia_Nomor_28_Tahun_2014) Ketentuan Umum dan Pasal [80](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/36)-[83](https://id.wikisource.org/wiki/Halaman%3AUU_No._28_Tahun_2014.djvu/37) Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC 2014). Menurut Angka 20 Ketentuan Umum UUHC 2014, lisensi hak cipta adalah sebuah izin tertulis yang berfungsi sebagai pemberitahuan oleh pencipta atau pemegang hak cipta kepada pengguna ciptaan mengenai pelaksanaan hak dan kewajiban dari aktivitas penggunaan suatu ciptaan. Intinya, izin tersebut menyatakan apa yang boleh dan tidak boleh dilakukan oleh pengguna ciptaan terhadap suatu ciptaan. Pasal 80 menyatakan bahwa pemegang hak cipta, dalam hal ini pencipta, dapat
 
 ## Manajemen Hak Cipta Penulis Dalam Publikasi Karya Ilmiah Terbuka
 
