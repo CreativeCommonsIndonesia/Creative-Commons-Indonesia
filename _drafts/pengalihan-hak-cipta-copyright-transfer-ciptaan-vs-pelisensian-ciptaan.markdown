@@ -2,6 +2,8 @@
 title: "#OpenAccessWeek - Pengalihan Hak Cipta (Copyright Transfer Agreement) Ciptaan
   vs Pelisensian Ciptaan"
 date: 2018-06-28 16:45:00 +07:00
+categories:
+- Kajian
 tags:
 - Open Access
 - Open Access Week
@@ -72,7 +74,9 @@ Hal ini dapat dipahami dengan mengetahui sifat lisensi hak cipta:
 
 ---
 
-Dalam prinsip keterbukaan akses diyakini bahwa kontrol penuh ciptaan yang dipegang oleh penulis, jauh lebih memberdayakan daripada kontrol tersebut dipegang oleh penerbit. Pihak penerbit dapat memberikan pilihan kepada penulis untuk **mengalihkan hak ciptanya** atau hanya memberikan **izin pelisensian kembali** ciptaan dalam surat perjanjian penerbitan. Perlu diketahui ba
+Dalam penerapan prinsip keterbukaan akses diyakini bahwa kontrol penuh ciptaan yang dipegang oleh penulis, jauh lebih memberdayakan daripada kontrol tersebut dipegang oleh penerbit. 
+
+Sudah menjadi keharusan pihak penerbit untuk mengarahkan pencipta pada konsep pemberian lisensi dan **izin pelisensian kembali** terhadap karya tulis yang akan diterbitkan dalam suatu surat perjanjian penerbitan. 
 
 ![oauin6.jpg](/uploads/oauin6.jpg){: .img-responsive .center-block }{: width="400"}
 
