@@ -4,6 +4,8 @@ title: "#OpenAccessWeek - Tentang Pewajiban Penerapan Lisensi Terbuka oleh Lemba
 date: 2018-10-22 12:42:00 +07:00
 ---
 
+https://creativecommons.org/about/program-areas/legal-tools-licenses/legal-tools-licenses-resources/foundations/
+
 Sebenarnya yang dimaksudkan dari deeds atau penjelasan ketentuan lisensi CC BY tersebut merupakan bagian dari upaya penyediaan ruang dengan prinsip "prasangka baik" dalam lingkup perlindungan hak cipta ketika seseorang mengumunkan atau membagikan ciptaannya.
 
 Yang dimaksud prinsip "prasangka baik" yaitu bagaimana kita dapat menghindarkan diri dari prasangka kurang baik terhadap model-model pemanfaatan atau penggunaan kembali ciptaan yang nantinya akan diumumkan.
