@@ -9,7 +9,7 @@ tags:
 - Lisensi Creative Commons
 - Creative Commons Indonesia
 img: "/uploads/Plos.png"
-author: fitriayu
+author: Fitriayu
 comments: true
 ---
 
