@@ -1,6 +1,13 @@
 ---
 title: Tugas Lapangan CCID-ToT oleh - Bhredipta Socarana di Ruang Komunal Indonesia
 date: 2018-10-27 15:45:00 +07:00
+categories:
+- Acara
+tags:
+- Creative Commons Indonesia
+- Training of Trainers Creative Commons Indonesia
+- Socolas
+- Ruang Komunal Indonesia
 author: Fitriayu
 img: "/uploads/SPCCID%2027%20%20OKT%202018%20Tugas%20Lapangan%20Training%20of%20Trainers%20Creative%20Commons%20Indonesia%20-%20Bhredipta%20Socarana%20-%20HF.jpeg"
 ---
