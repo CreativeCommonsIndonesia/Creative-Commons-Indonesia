@@ -8,7 +8,7 @@ tags:
 - Training of Trainers Creative Commons Indonesia
 - Socolas
 - Ruang Komunal Indonesia
-author: Fitriayu
+author: Fitriayu Penyalai
 img: "/uploads/SPCCID%2027%20%20OKT%202018%20Tugas%20Lapangan%20Training%20of%20Trainers%20Creative%20Commons%20Indonesia%20-%20Bhredipta%20Socarana%20-%20HF.jpeg"
 ---
 
@@ -18,7 +18,7 @@ Program [Creative Commons Indonesia-Training of Trainers (CCID-ToT)](http://crea
 
 Bhredipta Socarana adalah seorang advokat dan anggota[ SOCOLAS](https://www.tunasnusa.org/socolas) (Social Corporate Lawyers Society) yakni perkumpulan praktisi hukum yang memberikan bantuan hukum secara pro bono kepada individu atau perusahaan sosial (social enterprise) . Acara yang diadakan di Ruang Komunal Indonesia ini terbuka untuk umum, diikuti oleh peserta dengan latar belakang mulai dari pekerja di industri kreatif, ilustrator, periklanan, desain grafis, freelancer, komunitas.  Lokakarya ini mengangkat tema "Pengenalan Hak Cipta di Indonesia dan Lisensi Creative Commons di Ranah Industri Kreatif".
 
-Acara dimulai dengan sambutan dari Ruang Komunal Indonesia (RUKI) dari Facebook oleh Emalia Kusmiati yang menjelaskan bahwa RUKI ini diperuntukan untuk berkumpulnya atau menjadi wadah bertemunya berbagai komunitas atau kegiatan sosial. Kemudian sambutan selanjutnya diberikan oleh Hilman Fathoni selaku perwakilan CCID yang menjelaskan secara singkat mengenai program CCID-ToT. Terkahir sambutan ditutup oleh Louis perwakilan dari SOCOLAS yang memaparkan misi dan visi serta kegiatan SOCOLAS. 
+Acara dimulai dengan sambutan dari Ruang Komunal Indonesia (RUKI) dari Facebook oleh Emalia Kusmiati yang menjelaskan bahwa RUKI ini diperuntukan untuk berkumpulnya atau menjadi wadah bertemunya berbagai komunitas atau kegiatan sosial. Kemudian sambutan selanjutnya diberikan oleh Hilman Fathoni selaku perwakilan CCID yang menjelaskan secara singkat mengenai program CCID-ToT. Terakhir sambutan ditutup oleh Louis perwakilan dari SOCOLAS yang memaparkan misi dan visi serta kegiatan SOCOLAS. 
 
 ![SPCCID 27  OKT 2018 Tugas Lapangan Training of Trainers Creative Commons Indonesia - Bhredipta Socarana 2.jpeg](/uploads/SPCCID%2027%20%20OKT%202018%20Tugas%20Lapangan%20Training%20of%20Trainers%20Creative%20Commons%20Indonesia%20-%20Bhredipta%20Socarana%202.jpeg){: .img-responsive .center-block }{: width="500"}
 
