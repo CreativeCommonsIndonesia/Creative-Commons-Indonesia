@@ -1,0 +1,11 @@
+---
+title: Tugas Lapangan CCID-ToT oleh - Bhredipta Socarana di Ruang Komunal Indonesia
+date: 2018-10-27 15:45:00 +07:00
+author: Fitriayu
+---
+
+Program [Creative Commons Indonesia-Training of Trainers (CCID-ToT)](http://creativecommons.or.id/sertifikasi-perwakilan-ccid-training-of-trainers-creative-commons-indonesia/tentang-training-of-trainers-creative-commons-indonesia/) kini telah masuk ke tahap penyeleksian terakhir sejak pertama kali diumumkan pada bulan Februari 2018 .Dengan menyelesaikan misi ini maka peserta dinyatakan berhak menerima besiswa [sertifikasi Creative Commons](http://creativecommons.or.id/2018/02/cc-certificates-saatnya-menjadi-ahli-lisensi-cc-bersertifikat/)dan memiliki peluang besar untuk mendapatkan beasiswa perjalanan ke [CC summit 2019 di Lisbon, Portugal](https://summit.creativecommons.org/) bagi 3 peserta dengan nilai terbaik. Pada misi terakhir ini peserta diwajibkan menjalankan tugas lapangan yakni menyelenggarakan presentasi mengenai lisensi Creative Commons (lisensi CC) di tempat peserta berdomisili. 
+
+Bhredipta Socarana adalah seorang advokat dan anggota SOCOLAS (Social Corporate Lawyers Society) yakni perkumpulan praktisi hukum yang memberikan bantuan hukum secara pro bono kepada individu atau perusahaan sosial (social enterprise) . Acara yang diadakan di Ruang Komunal Indonesia ini terbuka untuk umum, diikuti oleh peserta dengan latar belakang mulai dari pekerja di industri kreatif, ilustrator, periklanan, desain grafis, freelancer, komunitas.  Lokakarya ini mengangkat tema "Pengenalan Hak Cipta di Indonesia dan Lisensi Creative Commons di Ranah Industri Kreatif". 
+
+Penyampaian materi dibagi menjadi dua sesi. Materi pertama merupakan penjelasan tentang literasi digital oleh Dedy Ari Asfar selaku pendiri @pustakarumahaloy dan Asmirizani selaku ketua @flpkalbar (Forum Lingkar Pena KalBar). Pada sesi kedua, Maura memyampaikan materi tentang hak cipta dan penerapan lisensi terbuka Creative Commons di bidang tersebut. Acara ditutup dengan pembacaan puisi oleh Devita dan foto bersama.
