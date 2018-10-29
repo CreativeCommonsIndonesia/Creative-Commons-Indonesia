@@ -1,6 +1,6 @@
 ---
-title: "#OpenAccessWeek - Pengarsipan Kebijakan Manajemen Hak Cipta dengan layanan
-  SHERPA/Romeo"
+title: "#OpenAccessWeek - Pencatatan Kebijakan Pengarsipan Mandiri oleh Penulis di
+  Situs Web SHERPA/RoMEO"
 date: 2018-10-28 20:09:00 +07:00
 categories:
 - Kajian
