@@ -14,9 +14,9 @@ Bagaimana jika proses pengambilan gambar tersebut dikategorikan sebagai "**pelan
 
 Tahukah Anda bahwa beberapa negara di Eropa dan Amerika menetapkan bahwa "segala obyek yang ada di ruang publik" tersebut **hanya dapat diabadikan** di bawah ketentuan "**Freedom of Panorama**" (FoP)?
 
-* **Awal Mula Pemikiran Kebebasan Pencitraan Obyek di Ruang Publik**
+# **Awal Mula Pemikiran Kebebasan Pencitraan Obyek di Ruang Publik**
 
-----
+---
 
 Pemikiran ini pertama kali muncul di Swedia, melibatkan Bildkonst Upphovsrätt i Sverige (BUS), lembaga manajemen kolektif untuk seniman-seniman Swedia dan Wikimedia Swedia. 
 
@@ -32,9 +32,9 @@ Salah satu wilayah yang terkena dampak oleh kasus tersebut adalah proyek [Wikime
 
 Sebagai salah satu platform sumber ilmu pengetahuan terbesar di dunia, tak ayal **putusan pengadilan tersebut kemudian melahirkan dampak global**. Pihak Yayasan Wikimedia dan para pengurus Wikimedia Commons kemudian membuat [satu laman](https://commons.wikimedia.org/wiki/Commons:Freedom_of_panorama) dokumentasi tentang apa yang boleh dan tidak boleh dibagikan dengan merujuk pada ketentuan pengecualian dan pembatasan dari berbagai negara mengenai “penggunaan” ciptaan-ciptaan yang ada di ruang publik. Resiko dari tidak ditaatinya ketentuan yang ada di wilayah hukum masing-masing kontributor adalah [penghapusan berkas yang dilaksanakan oleh para pengurus situs web Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Freedom_of_panorama#Uploading_images_covered_under_Freedom_of_Panorama_to_the_Commons). Karena, pihak pengurus situs Wikimedia Commons **menghindari adanya ketidakpastian hukum** yang dianggap **mengusik upaya penyediaan konten-konten ilmu pengetahuan secara permanen**.
 
-* **Penerapan Pengecualian dan Pembatasan “Freedom of Panorama” di Berbagai Negara**
+# **Penerapan Pengecualian dan Pembatasan “Freedom of Panorama” di Berbagai Negara**
 
-----
+---
 
 Berikut contoh-contoh pemberlakuan ketentuan “pembatasan dan/atau pengecualian” yang membebaskan “penggunaan” ciptaan yang ada di ruang publik, pada regulasi-regulasi pelindungan hak cipta di beberapa negara:
 
