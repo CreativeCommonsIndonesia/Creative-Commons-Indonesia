@@ -104,7 +104,7 @@ Pada huruf d, disebutkan bahwa pembuatan dan penyebarluasan ciptaan secara darin
 
 **Pencitraan obyek yang ada di ruang publik, dengan kemudahan yang ditawarkan oleh teknologi terkini, [semakin menjadi sesuatu yang lumrah bagi masyarakat umum](https://kominfo.go.id/content/detail/6095/indonesia-raksasa-teknologi-digital-asia/0/sorotan_media). Hukum, dalam hal ini peraturan, seharusnya dapat mengikuti perkembangan teknologi dan kebiasaan masyarakat. Karena, pada hakikatnya, peraturan dibuat untuk memberikan kepastian hukum terhadap hubungan hukum antara subyek-subyek hukum di suatu wilayah hukum. Maka dari itu, alangkah baiknya suatu ketentuan dibuat selengkap dan serinci mungkin, untuk menghindari adanya kekosongan hukum. Serta memberikan ruang gerak yang bebas dan masih ada dalam batas-batas kewajaran.**
 
-## Jalan Keluar Sementara: Menunggu Masa Berlaku pelindungan Habis
+## **Jalan Keluar Sementara: Menunggu Masa Berlaku pelindungan Habis**
 
 ---
 
