@@ -1,139 +1,93 @@
 ---
 title: Apa itu Freedom of Panorama?
 date: 2018-07-06 14:55:00 +07:00
-author: ccid
+author: hilman
 comments: true
-Field name: 
+img: 
 ---
 
-Anda suka memotret? 
+Anda suka mengaambil gambar di ruang publik? 
 
-Apakah obyek-obyek yang Anda ambil gambarnya terletak di ruang publik?
+Seperti **gedung**, **patung**, **monumen**, **lukisan di suatu pameran**, **koleksi museum**, atau **papan reklame**?
 
-Seperti gedung, patung, monumen, lukisan di suatu pameran, koleksi museum, atau papan reklame?
+Bagaimana jika proses pengambilan gambar tersebut dikategorikan sebagai "**pelanggaran hak cipta**" oleh Undang-Undang Hak Cipta yang berlaku?
 
-Bagaimana jika proses pengambilan gambar tersebut dikategorikan sebagai "penggandaan" oleh Undang-Undang Hak Cipta yang berlaku?
+Tahukah Anda bahwa beberapa negara di Eropa dan Amerika menetapkan bahwa "segala obyek yang ada di ruang publik" tersebut **hanya dapat diabadikan** di bawah ketentuan "**Freedom of Panorama**" (FoP)?
 
-Tahukah Anda bahwa beberapa negara di Eropa dan Amerika menetapkan bahwa "segala obyek yang ada di ruang publik" tersebut boleh diabadikan di bawah ketentuan "Freedom of Panorama" (FoP)?
+* **Awal Mula Pemikiran Kebebasan Pencitraan Obyek di Ruang Publik**
 
-**Apa itu FoP?**
+----
 
-FoP adalah sebuah ketentuan yang diatur di dalam regulasi tentang hak cipta oleh rezim hak cipta suatu negara untuk mengecualikan beberapa perbuatan dari indikasi sebagai "penggandaan" maupun "penggunaan kembali" suatu obyek perlindungan hak cipta yang ada di ruang publik. Perbuatan yang dimaksud biasanya adalah perbuatan-perbuatan yang bertujuan untuk mengabadikan obyek-obyek tersebut dalam medium gambar, seperti pembuatan karya fotografi dan pembuatan rekaman video, atau beberapa perbuatan yang dianggap sebagai "penggunaan kembali" dan/atau "pembuatan ciptaan turunan" seperti pembuatan lukisan dari obyek tersebut. Dalam hal ini, apabila perbuatan-perbuatan tersebut tidak dikecualikan, maka perbuatan-perbuatan tersebut dapat dianggap sebagai perbuatan melanggar hak cipta.
+Pemikiran ini pertama kali muncul di Swedia, melibatkan Bildkonst Upphovsrätt i Sverige (BUS), lembaga manajemen kolektif untuk seniman-seniman Swedia dan Wikimedia Swedia. 
 
-Dalam hal ini obyek yang dimaksud dapat dibagi menjadi dua kategori, yaitu obyek dalam format dua dimensi dan tiga dimensi. Hal ini mengacu pada pembolehan pengambilan gambar karya seni rupa mural di Swiss, yang mana karya seni rupa mural termasuk dalam obyek dua dimensi. Namun, terdapat pengecualian dalam pembolehan ini. Yaitu pengambilan gambar, dalam konteks penggunaan kembali, tidak diperbolehkan untuk digunakan dalam suatu perbuatan yang sama sekali sama dengan penciptaan obyek yang diabadikan dalam bentuk gambar. Artinya seseorang tidak diperbolehkan untuk membuat kembali karya mural yang sama sekali sama dengan merujuk karya fotografi hasil pengambilan gambar atas mural tersebut, penggunaan wajar seperti penerapan atribusi yang baik atau penggunaan bukan untuk kepentingan komersial, dikecualikan. Lalu yang termasuk sebagai obyek tiga dimensi dalam konteks ini ialah gedung, monumen, patung, serta obyek-obyek dalam format tiga dimensi lainnya, termasuk obyek-obyek di bawah ketentuan perlindungan kekayaan intelektual selain hak cipta. Yang tidak boleh luput dari perhatian dalam mendefinisikan obyek-obyek ini tentu saja keberadaan obyek-obyek tersebut di ruang publik atau di tempat umum seperti taman, jalanan, maupun galeri atau museum yang terbuka untuk umum. 
+Pihak BUS menggugat Wikimedia Swedia karena telah membuat [basis data terbuka dalam bentuk peta](http://offentligkonst.se/) yang menampilkan karya-karya seni rupa di ruang publik. Wikimedia Swedia dianggap telah melakukan pelanggaran hak cipta dengan m**engumumkan ciptaan milik pihak lain secara daring dengan penerapan lisensi terbuka (CC BY-SA) yang memungkinkan penggunaan ciptaan dalam kepentingan komersial tanpa izin langsung dari pihak terkait**. Dalam gugatan ini, BUS tidak mengindahkan fakta bahwa proyek tersebut bukan merupakan proyek untuk mencari keuntungan. Juga, bagaimana regulasi pelindungan hak cipta Swedia sudah mengecualikan pencitraan ciptaan yang ada di ruang publik ke medium lain yang dilakukan tanpa izin pencipta atau pemegang hak cipta dari kategori pelanggaran hak cipta. BUS beranggapan bahwa ciptaan apapun yang diumumkan secara daring **dapat berpotensi menguntungkan pihak-pihak yang dapat mengaksesnya**, tanpa ada sistem penyaluran royalti yang layak kepada pemegang hak cipta atas ciptaan yang diumumkan. Dalam gugatannya, BUS juga meminta agar Wikimedia Swedia membayar ganti rugi sebesar SEK 100.000 (setara dengan 12.300 dollar Amerika).
 
-**Akar Permasalahan**
+Gugatan tersebut disambut dengan pernyataan sikap oleh [Yayasan Wikimedia](https://blog.wikimedia.org/2016/04/04/strike-against-freedom-panorama/) yang pada intinya menyatakan bahwa gugatan tersebut tidak dapat diterima karena bertentangan dengan asas **kebebasan berekspresi dan kebebasan berbagi konten secara wajar**, baik secara daring maupun luring. Selain itu, setiap ciptaan yang dicitrakan dalam proyek offentlig konst merupakan ciptaan yang diadakan [berdasarkan pembayaran pajak oleh masyarakat Swedia](https://www.privateinternetaccess.com/blog/2016/04/supreme-court-wikipedia-violates-copyright-posting-photos-public-art/). Secara logis, ciptaan-ciptaan tersebut seharusnya bebas digunakan oleh publik. Mereka juga berpendapat bahwa jika memang ciptaan-ciptaan terkait tidak dapat langsung dicitrakan dalam karya fotografi atau format lainnya, sebaiknya pencipta atau pemegang hak cipta ciptaan tersebut memublikasikannya secara terbatas, di tempat-tempat tertutup. 
 
-Contoh negara yang tidak memberlakukan hal ini di bagian tersebut adalah Italia yang secara terang mengatur dalam Codice Urbani bahwa setiap tindakan pengambilan gambar terhadap obyek kebudayaan di ruang publik untuk kepentingan komersial harus terlebih dahulu merujuk izin dari pihak pengawas yaitu Kementerian Peninggalan Kebudayaan dan Kesenian Italia. 
+Karena, sangat tidak masuk akal untuk memaksakan keinginan pihak-pihak tertentu yang dapat berdampak pada kebebasan pengabadian pemandangan di ruang publik. Apabila gugatan BUS dikabulkan, setiap aktivitas pengambilan dan penyebaran gambar yang baik secara sengaja atau tidak sengaja, sampai hal kecil seperti swafoto, mengandung unsur ciptaan seseorang di dalamnya dapat terkena dampak atas adanya pembatasan tersebut. Wikimedia Swedia juga merasa bahwa hal ini seharusnya diatur dalam ketentuan "pembatasan pelindungan" pada Undang-Undang Hak Cipta Swedia dan diharmonisasikan dengan seluruh peraturan menyangkut hak cipta yang mengikat semua negara di Eropa. Tentu saja tanpa pembatasan untuk penggunaan dalam kepentingan komersial. Karena hal tersebut akan mempengaruhi setiap hasil pencitraan yang dikontribusikan ke proyek Wikimedia, yang mewajibkan setiap kontributor untuk memperbolehkan penggunaan dalam kepentingan komersial melalui penerapan lisensi CC BY atau CC BY-SA. 
 
-Salah satu wilayah yang paling terpengaruh secara nasional, kemudian internasional, dari regulasi hak cipta yang tidak mengindahkan prinsip FoP adalah [Wikimedia Commons](https://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/https://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/). Salah satu jenis gambar media visual yang paling banyak dibagikan di Wikimedia Commons adalah karya fotografi, termasuk dalam hal ini adalah karya fotografi dengan obyek-obyek ciptaan yang ada di ruang publik. Permasalahan mengenai platform penyimpanan dan pembagian berkas media ini bermula di Swedia, melibatkan Bildkonst Upphovsrätt i Sverige (BUS), representasi hak cipta untuk seniman Swedia, dengan Wikimedia Swedia. Pihak BUS menggugat Wikimedia Swedia karena telah membuat [basis data terbuka dalam bentuk peta](http://offentligkonst.se/) yang menampilkan karya-karya seni rupa yang ada di ruang publik secara permanen. 
+Perkara ini akhirnya ditutup dengan dikabulkannya gugatan BUS di tingkat Pengadilan Tinggi Swedia. Wikimedia Swedia harus mengeluarkan uang sebesar 89.000 Dollar Amerika Serikat untuk biaya perkara dan pembayaran ganti rugi. Situs web proyek pemetaan masih dapat diakses. Namun, tidak semua monumen atau patung yang dipetakan dapat disaksikan secara langsung gambar-gambarnya melalui proyek peta interaktif tersebut. 
 
-Dalam kasus ini, Wikimedia Swedia dianggap telah melakukan pelanggaran hak cipta dengan mengumumkan ciptaan milik pihak lain secara daring, tanpa izin langsung dari pihak terkait. Argumentasi ini diutarakan berdasarkan ketentuan Undang-Undang Hak Cipta Swedia yang melarang pengumuman hasil reproduksi ciptaan secara daring tanpa izin dari pemegang hak cipta. Dalam gugatan ini, BUS merasa tidak bisa mengindahkan ungkapan bahwa Offentligkonst adalah proyek nirlaba. Karena menurut BUS ciptaan apapun yang diumumkan secara daring tetap memiliki potensi menguntungkan pihak-pihak yang dapat mengaksesnya, tanpa ada sistem penyaluran royalti kepada pemegang hak cipta atas ciptaan yang diumumkan. BUS dalam gugatannya juga meminta agar Wikimedia Swedia didenda SEK 100.000 (setara dengan 12.300 dollar Amerika) sebagai ganti rugi biaya lisensi yang tidak dibayarkan dan pengganti biaya perkara.
+Salah satu wilayah yang terkena dampak oleh kasus tersebut adalah proyek [Wikimedia Commons](https://creativecommons.or.id/2016/10/kenapa-mengunggah-karya-ke-wikimedia-commons/) oleh [Yayasan Wikimedia](https://www.wikimedia.org/). Salah satu jenis berkas gambar yang paling banyak dibagikan di Wikimedia Commons adalah karya fotografi, termasuk [karya fotografi dengan obyek-obyek ciptaan yang ada di ruang publik](http://www.wikilovesmonuments.org/). Proyek Wiki, seperti [Wikipedia](https://www.wikipedia.org/) dan [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), adalah salah satu situs web yang paling kerap digunakan sebagai sumber ilmu pengetahuan di seluruh dunia. Setidaknya terdapat jutaan artikel dalam berbagai bahasa di Wikipedia dan puluhan ribu berkas media di Wikimedia Commons yang dibagikan oleh para kontributor untuk bebas digunakan kembali di bawah ketentuan lisensi CC BY atau CC BY-SA, yang mengizinkan penggunaan dalam kepentingan komersial.
 
-Gugatan tersebut disambut dengan [pernyataan sikap](https://blog.wikimedia.org/2016/04/04/strike-against-freedom-panorama/) oleh Wikimedia Swedia yang pada intinya menyatakan bahwa gugatan tersebut tidak dapat diterima karena bertentangan dengan asas kebebasan berekspresi dan kebebasan berbagi konten secara wajar, baik secara daring maupun luring. Apabila gugatan disetujui, diasumsikan bahwa nantinya setiap aktivitas pengambilan dan penyebaran gambar yang baik secara sengaja atau tidak sengaja, sampai hal kecil seperti swafoto, dapat terkena dampak atas adanya pembatasan tersebut. Wikimedia Swedia juga merasa bahwa hal ini seharusnya diatur dalam ketentuan "pembatasan perlindungan" pada Undang-Undang Hak Cipta Swedia dan diharmonisasikan dengan seluruh peraturan menyangkut hak cipta yang mengikat semua negara di Eropa. Meskipun begitu, perkara ini akhirnya naik tingkat ke Mahkamah Agung Swedia dengan putusan yang menyetujui argumen pihak BUS.
+Sebagai salah satu platform sumber ilmu pengetahuan terbesar di dunia, tak ayal **putusan pengadilan tersebut kemudian melahirkan dampak global**. Pihak Yayasan Wikimedia dan para pengurus Wikimedia Commons kemudian membuat [satu laman](https://commons.wikimedia.org/wiki/Commons:Freedom_of_panorama) dokumentasi tentang apa yang boleh dan tidak boleh dibagikan dengan merujuk pada ketentuan pengecualian dan pembatasan dari berbagai negara mengenai “penggunaan” ciptaan-ciptaan yang ada di ruang publik. Resiko dari tidak ditaatinya ketentuan yang ada di wilayah hukum masing-masing kontributor adalah [penghapusan berkas yang dilaksanakan oleh para pengurus situs web Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Freedom_of_panorama#Uploading_images_covered_under_Freedom_of_Panorama_to_the_Commons). Karena, pihak pengurus situs Wikimedia Commons **menghindari adanya ketidakpastian hukum** yang dianggap **mengusik upaya penyediaan konten-konten ilmu pengetahuan secara permanen**.
 
-Proyek Wiki, seperti Wikipedia dan Wikimedia Commons, adalah satu tempat yang amat besar dan kerap digunakan sebagai sumber ilmu pengetahuan di seluruh dunia. Di Indonesia saja setidaknya terdapat lebih dari 2 juta artikel di Wikipedia dan puluhan ribu berkas tentang Indonesia di Wikimedia Commons yang tersedia untuk bebas digunakan kembali di bawah ketentuan CC BY-SA. Sebagai salah satu platform penyedia ilmu pengetahuan terbesar di dunia, putusan tersebut jadi memiliki dampak global. Pihak Wikimedia Foundation dan pengurus Wikimedia Commons kemudian membuat [satu laman](https://commons.wikimedia.org/wiki/Commons:Freedom_of_panorama) berisikan informasi tentang apa yang boleh dan tidak boleh dibagikan dengan berkaca pada ketentuan FoP dari berbagai negara. Risiko dari tidak ditaatinya informasi ini adalah penghapusan berkas yang dilaksanakan oleh para pengurus situs web Wikimedia Commons, karena pihak pengurus menghindari ketidakpastian hukum di platform yang seharusnya dapat menampilkan konten-konten ilmu pengetahuan secara permanen.
+* **Penerapan Pengecualian dan Pembatasan “Freedom of Panorama” di Berbagai Negara**
 
-Menurut informasi dari laman tersebut, [Swedia](https://commons.wikimedia.org/wiki/Commons:Freedom_of_panorama#Sweden) dianggap tidak memiliki kepastian hukum yang jelas terkait ketentuan tentang aktivitas berbagi konten di bawah prinsip FoP. Status Swedia diungkapkan sedemikian rupa karena kini terdapat inisiatif pengharmonisasian prinsip FoP untuk seluruh negara di Eropa oleh Julia Reda. Selain itu, berdasar pada disetujuinya gugatan BUS serta Pasal 24 Undang-Undang Hak Cipta Swedia mengikat seluruh aktivitas pengambilan dan pegumuman gambar terhadap obyek karya seni ataupun gedung di ruang publik akan dianggap sebagai "pelanggaran hak cipta" apabila tidak disertai izin langsung oleh pencipta ciptaan terkait. Lain daripada itu, para pengurus Wikipedia masih memperbolehkan pengunggahan gambar yang tidak mengantongi izin langsung dari Pencipta gambar atau obyek yang ada pada gambar yang akan diunggah dengan mengunggah gambar di server Wikipedia dan memberikan tanda "fair use" pada gambar yang diunggah. 
+----
 
-**Dasar Pemberlakuan**
+Berikut contoh-contoh pemberlakuan ketentuan “pembatasan dan/atau pengecualian” yang membebaskan “penggunaan” ciptaan yang ada di ruang publik, pada regulasi-regulasi pelindungan hak cipta di beberapa negara:
 
-Terminologi FoP merupakan turunan dari istilah bahasa Jerman, "Panoramafreiheit", yang artinya adalah "panorama freedom". Karena akar dari ketentuan ini berasal dari wilayah Eropa, maka kita akan merujuk beberapa kasus yang terjadi di Eropa, yang menjadi landasan pemberlakuan ketentuan ini. Uni Eropa menyediakan ketentuan mengenai hal ini di dalam "Directive 2001/29/EC" sebagai dasar hukum pemberlakuan peraturan yang sama oleh negara-negara anggotanya. Sebagai contoh, ketentuan ini diratifikasi oleh Jerman pada Pasal 59 "Urheberrechtsgesetz" (Undang-Undang Hak Cipta di Jerman), Pasal 62 Undang-Undang Desain Industri dan Paten Britania Raya Tahun 1988, dan di beberapa [negara lainnya](https://commons.wikimedia.org/wiki/Commons:Freedom_of_panorama). Untuk lebih jelasnya lagi kita bisa melihat bunyi-bunyi ketentuan terkait FoP dari Prancis, Australia, Kanada, Amerika Serikat (AS), dan beberapa mantan negara anggota Uni Soviet:
+Sejak 7 Oktober 2016, Prancis memberlakukan ketentuan pembatasan dan pengecualian pelindungan hak cipta terkait hal ini melalui Pasal L122-5 Undang-Undang Kekayaan Intelektual. Pada prinsipnya, ketentuan ini mengecualikan perbuatan "penyebaran kembali" dan "penggunaan kembali" terhadap segala karya arsitektur dan karya seni rupa, khususnya patung, yang ada di ruang publik dan diciptakan oleh perseorangan dari kategori pelanggaran hak cipta asal bukan untuk kepentingan komersial. Bagian pelarangan penggunaan dalam kepentingan komersial ini merupakan hal problematis bagi pihak Wikimedia. Karena, setiap kontributor proyek Wikimedia selalu membagikan berkas dengan hak penggunaan untuk kepentingan komersial melalui penerapan lisensi CC BY atau CC BY-SA.
 
-* Sejak 7 Oktober 2016, Prancis memberlakukan FoP melalui Pasal L122-5 Undang-Undang Kekayaan Intelektualnya yang mengecualikan perbuatan "penyebaran kembali" dan "penggunaan kembali" terhadap segala karya arsitektur dan karya seni rupa patung yang ada di ruang publik dan diciptakan oleh perseorangan dari kategori pelanggaran hak cipta asal bukan untuk kepentingan komersial.
-*  Di Australia ketentuan ini diatur lebih jelas lagi melalui Pasal 65 hingga 68 Undang-Undang Hak Cipta Tahun 1968. Inti bunyi dari pasal 65 tersebut ialah "segala perbuatan seperti pembuatan lukisan, pembuatan sketsa, pembuatan ukiran, pembuatan karya fotografi atau masuknya karya dalam rekaman karya sinematografi maupun siaran televisi terhadap seluruh karya seni rupa (tidak termasuk desain tata letak sirkuit terpadu) yang terdapat di ruang publik, baik yang sementara maupun permanen, dikecualikan dari kategori perbuatan pelanggaran hak cipta. Selanjutnya pada Pasal 66 disebutkan bahwa ciptaan berupa karya arsitektur seperti gedung dan maket dari gedung tersebut juga dikecualikan dari kategori perbuatan pelanggaran hak cipta. Meskipun begitu, dalam hal ini [pengecualian tidak diberlakukan](https://web.archive.org/web/20140630101936/http://www.artslaw.com.au/info-sheets/info-sheet/street-photographers-rights/) terhadap ciptaan dalam format 2 dimensi seperti mural atau karya seni rupa jalanan lainnya.
-* Kanada memberlakukan hal yang sama seperti Australia melalui Pasal 32.2 ayat 1 Undang-Undang Hak Ciptanya. Yang berbeda ialah perbuatan-perbuatan tersebut tidak dikecualikan dari kategori pelanggaran hak cipta apabila obyek perbuatan tersebut merupakan maket atau ilustrasi karya arsitektur. Selain itu pengecualian hanya berlaku pada karya seni rupa yang ada secara permanen di ruang publik. Yang menarik, sebagai pelengkap, ketentuan ini mengecualikan seluruh obyek yang menjadi bagian latar belakang di dalam sebuah karya fotografi, yang ikut tertangkap di dalam karya fotografi tersebut secara tidak sengaja atau tidak menjadi bagian inti dari karya fotografi tersebut, sebagai suatu upaya pelanggaran hak cipta dari perbuatan seperti penyebaran kembali atau penggunaan kembali suatu ciptaan.
-* Di AS, FoP hanya diberlakukan terhadap gedung-gedung yang ada di ruang publik. Disebutkan dalam [17 U.S. Code § 120(a)](https://en.wikisource.org/wiki/United_States_Code/Title_17/Chapter_1/Section_120) yang dimaksud dengan gedung adalah bangunan yang secara permanen ada di ruang publik dan digunakan oleh manusia seperti rumah, gedung perkantoran, tempat ibadah, museum, gazebo, dan taman.  Ketentuan ini tidak berlaku terhadap karya-karya seni rupa yang ada di ruang publik. Sebagai tambahan, ketentuan ini tidak terbatas hanya pada jenis bangunan yang disebutkan saja, namun juga bangunan lain yang memenuhi kriteria seperti bangunan-bangunan tersebut. 
-* Mantan Negara Uni Soviet yang memberlakukan ketentuan ini adalah Moldova, Armenia, dan Russia. Sebagai contoh, Russia memberlakukan ketentuan yang memperbolehkan pengambilan gambar terhadap taman terbuka, namun tidak termasuk karya seni rupa, baik yang diumumkan dalam format 2 dimensi maupun 3 dimensi. 
+Di Australia ketentuan mengenai hal ini diatur melalui Pasal 65 hingga 68 Undang-Undang Hak Cipta Tahun 1968. Inti bunyi dari pasal 65 tersebut ialah "segala perbuatan seperti pembuatan lukisan, pembuatan sketsa, pembuatan ukiran, pembuatan karya fotografi atau masuknya karya dalam rekaman karya sinematografi maupun siaran televisi terhadap seluruh karya seni rupa (tidak termasuk desain tata letak sirkuit terpadu) yang terdapat di ruang publik, baik yang ada sementara maupun permanen, dikecualikan dari kategori perbuatan pelanggaran hak cipta. Selanjutnya pada Pasal 66 disebutkan bahwa ciptaan berupa karya arsitektur seperti gedung dan maket dari gedung tersebut juga dikecualikan dari kategori perbuatan pelanggaran hak cipta. Meskipun begitu, dalam hal ini pengecualian tidak diberlakukan terhadap ciptaan dalam format 2 dimensi seperti mural dan/atau karya seni rupa jalanan lainnya.
 
-Seluruh ketentuan tentang FoP di atas dapat ditemukan pada bagian "Penggunaan Wajar" atau "Pembatasan atau Pengecualian Perlindungan" Undang-Undang Hak Cipta masing-masing negara.
+Kanada memberlakukan hal yang sama seperti Australia melalui Pasal 32.2 ayat 1 Undang-Undang Hak Cipta. Yang berbeda ialah perbuatan-perbuatan tersebut tidak dikecualikan dari kategori pelanggaran hak cipta apabila ciptaan yang dicitrakan merupakan maket atau ilustrasi karya arsitektur. Selain itu pengecualian hanya berlaku pada karya seni rupa yang ada secara permanen di ruang publik. Sebagai pelengkap, ketentuan ini mengecualikan seluruh ciptaan yang menjadi bagian latar belakang di dalam sebuah karya fotografi, yang ikut tertangkap di dalam karya fotografi tersebut secara sengaja atau tidak sengaja menjadi bagian inti dari karya fotografi tersebut, dari kategori perbuatan melanggar hak cipta.
 
-**Konteks Indonesia**
+Di Amerika Serikat (AS), pengecualian hanya diberlakukan terhadap gedung-gedung yang ada di ruang publik. Disebutkan dalam 17 U.S. Code § 120(a) yang dimaksud dengan gedung adalah bangunan yang secara permanen ada di ruang publik dan digunakan oleh manusia, seperti rumah, gedung perkantoran, tempat ibadah, museum, dan taman.  Ketentuan ini tidak berlaku terhadap karya-karya seni rupa yang ada di ruang publik. Sebagai tambahan, ketentuan ini tidak terbatas hanya pada jenis bangunan yang disebutkan saja, namun juga bangunan lain yang memenuhi kriteria seperti bangunan-bangunan tersebut. 
 
-Dalam konteks Indonesia, memang terlihat berlebihan untuk menempatkan kekhawatiran mengenai hal ini. Karena, di bawah rezim perlindungan hak cipta Indonesia dari dulu hingga kini, belum pernah terdapat kasus atau peraturan yang secara spesifik menyinggung mengenai hal ini. Namun, seperti yang diutarakan pada bagian ketiga artikel ini, bahwa ketentuan FoP wajib dipastikan terlebih dahulu apabila berkaitan dengan aktivitas berbagi berkas dengan menggunakan platform Wikimedia Commons. Apabila kita melihat laman informasi tentang [status FoP berdasarkan negara ini](https://commons.wikimedia.org/wiki/Commons:Freedom_of_panorama#Indonesia), dinyatakan bahwa Indonesia belum memiliki ketentuan yang mengatur secara jelas di Undang-Undang Hak Ciptanya bahwa perseorangan atau badan hukum dapat mengunggah berkas media visual (gambar/video) yang mengandung karya orang lain yang termasuk sebagai obyek perlindungan hak cipta. 
+Rusia memberlakukan ketentuan yang memperbolehkan pengambilan gambar taman terbuka, namun tidak termasuk karya seni rupa, baik yang diumumkan dalam format 2 dimensi maupun 3 dimensi. 
 
-Pada kenyataannya 
+Setiap kontributor proyek Wiki harus merujuk pada setiap ketentuan pengecualian dan pembatasan yang berlaku di negaranya, sebagaimana disebutkan dalam beberapa contoh di atas, untuk menghindari akibat hukum yang tidak diinginkan seperti yang dialami oleh Wikimedia Swedia, juga penghapusan kontribusi oleh pengurus situs web proyek Wiki terkait.
 
-[2]. Besides the countries in which copyright laws clearly protect or do not protect the
-freedom of panorama, there are also some countries that do not have specific
-provisions related to the freedom of panorama. An example is Indonesia.87 Its
-copyright law does not mention or list what kinds of photographs are protected, which
-creates ambiguity as to whether it should include the photographs of copyright protected
-works. Although photographic works are protected under the Indonesian
-Copyright Law 2002 in a similar way to how they are protected under the copyright
-laws of the United States and New Zealand, freedom of panorama is not mentioned in
-the legislation. (Nita)
+---- Kerangka Dasar pelindungan Hak Cipta di Indonesia ----
 
-[3]. That may confuse
-some people who are interested in taking photographs of architectural and sculptural
-works in public places in Indonesia as to whether they would infringe the architects
-and sculptors’ copyright and whether they can own copyright over their photographs.
-One of the downsides of this confusion was made evident when Wikimedia
-Commons, one of the largest information resources on the internet, decided to delete
-pictures of architectural and sculptural works in Indonesia, including those of works
-permanently situated in public places. (Nita) ->  This information was obtained from Wikimedia Indonesia Chairwoman in 2012 and it affected some
-of Wikipedia articles about Indonesia. The problem is now solved with the understanding that the
-freedom of panorama is applicable in Indonesia under the legality principle. 
+Hak cipta adalah hak eksklusif yang dimiliki oleh pencipta atau pemegang hak cipta seketika ciptaannya diwujudkan dan diumumkan. Selain kewajiban penyebutan nama pencipta atau pemegang hak cipta, pelindungan hak moral dari Pasal 5 Undang-Undang No. 28 Tahun 2014 Tentang Hak Cipta (UUHC14) memastikan agar aktivitas seperti “pembuatan ciptaan turunan atau pemodifikasian ciptaan” terhadap suatu obyek pelindungan hak cipta wajib disertai izin langsung dari pencipta atau pemegang hak cipta ciptaan terkait. Hak ekonomi mewajibkan setiap “pengumuman”, “penggandaan”, “pendistribusian” dan “pengadaptasian” ciptaan, apalagi yang melibatkan kepentingan komersial, juga harus dilaksanakan atas izin langsung dari pencipta atau pemegang hak cipta. Termasuk dalam aktivitas pengumuman ialah penyajian kembali ciptaan dengan pemberitahuan hak penggunaan (copyright notice, lisensi publik, dan lain-lain) kepada setiap pengakses tempat ciptaan diumumkan.
 
-[4]. In Indonesia, the freedom to photograph and commercialise photographs of
-architectural and sculptural works is considered allowed and protected under the
-Indonesian Copyright Law 2002 according to the logical applicability of the “legality
-principle”170. As there is no provision under the Indonesian Copyright Law 2002 that
-prohibits the taking photographs of copyright-protected works and the
-commercialisation of such photographs, photographs taken under the freedom of
-panorama in Indonesia are protected in the same way as other photographic works.
-However, other people without *proper comprehension of the Indonesian legal system might argue that the freedom of panorama does not exist in Indonesia,
-because it is not explicitly mentioned in the Indonesian Copyright Law 2002. 
+Berkaca pada penjelasan di bagian sebelumnya, Freedom of Panorama (FoP) adalah ketentuan yang diatur melalui regulasi Kekayaan Intelektual (hak cipta, paten, desain industri, dan lain-lain) untuk mengecualikan beberapa aktivitas “penggunaan ciptaan” yang ada di ruang publik dari kategori pelanggaran hak cipta, dengan mewajibkan pengguna ciptaan untuk mengikuti ketentuan tertentu. Penggunaan ciptaan yang dimaksud antara lain adalah pembuatan karya fotografi dan/atau pembuatan rekaman video ciptaan tertentu. Termasuk juga upaya pencitraan beberapa ciptaan tersebut seperti pengabadian dalam format lukisan. Ciptaan di ruang publik dalam konteks ini dibagi dalam dua kategori, yaitu dalam format dua dimensi dan tiga dimensi, juga yang permanen dan sementara.
 
-[5]. In reference to the cases mentioned in the previous subchapter it is clear that
-copyright protection for photographs and copyright protection for the object of the
-photographs are different from one another and do not conflict. It also seems clear
-that photographs taken under the freedom of panorama should not be seen as
-interfering with the copyright protections attached to the depicted architectural and
-sculptural works. The subject of most photographs consists of other people’s works,
-but that does not mean that the photographs are not original. There is no question that
-photographs of three-dimensional objects, such as buildings and sculptures, are
-original whether a two-dimensional work that depicts a three-dimensional work is a
-copy of it is still very much debatable, and therefore is not a valid reason on which to
-prohibit the freedom of panorama.
-The fact that protection for photographs taken under the freedom of panorama is not
-currently being regulated or protected in most countries could potentially create a
-legal loophole that should be fixed to avoid any doubt about copyright protection for
-photographs. Otherwise, the problem will only resolve around the same issue, which
-is copyright infringement through the taking of photographs under the freedom of
-panorama, until there is no point any longer discussing the issue. Photographers put
-effort and creativity towards the production of photographs, including those taken
-under the freedom of panorama. Giving copyright protection to the photographs taken
-under the freedom of panorama, and treating them as a separate issue to the copyright
-protection for the depicted copyright-protected works, would be a fair approach.
+Merujuk dari Pasal 40 UUHC14, ciptaan-ciptaan yang terkait langsung dengan ketentuan ini ialah:
 
-[6]. Copyright protection could be granted without the registration of literary and artistic
-works.215 To be granted copyright protection in a country, one of the requirements is
-that the literary or artistic work should originate from that country, or that the author be a citizen in, or a resident of, it. However, each country has its own provisions
-determining whether its law gives copyright protection over a particular literary or
-artistic work. This part of the first subchapter explains how copyright laws in the
-United States, New Zealand, and Indonesia see literary and artistic works as having
-originated from those countries. 
+f. karya seni rupa dalam segala bentuk seperti lukisan, gambar, ukiran, kaligrafi, seni pahat, patung, atau kolase;
+h. karya arsitektur.
 
-[7]. For
-the first step in “certain special cases”, the freedom of panorama is specifically related
-to the act of taking photographs of works permanently situated in public places,
-although what is covered under the word “works” differs in the United States and
-New Zealand. It is also a special case that taking photographs in public places should
-not be seen as violating architects and sculptors’ rights.257
-The second step requires that the freedom of panorama “does not conflict with a
-normal exploitation of a work”. The fulfilment of this step can be seen in the sense
-that this freedom to take photographs does not limit what usually can be done over
-architectural and sculptural works by their authors. Other than that, the freedom of
-panorama implements copyright protection over photographs and not limiting what
-can be photographed or not in public places.
-Finally, the third step requires the freedom of panorama to “not unreasonably
-prejudice the legitimate interests of the author”. The freedom of panorama does not
-limit the architects and sculptors' ability to gain commercial advantage from their
-works although these were placed in public places. Other than that, the freedom of
-panorama merely implements copyright protection over photographs, by ensuring that
-there is no limitation of what can or cannot be photographed in public places. 
+Yaitu monumen, gedung tua maupun baru, dan setiap karya seni rupa yang dapat diakses di ruang publik dengan atau tanpa pembatasan, permanen maupun sementara. 
 
-**Ciptaan di Ruang Publik Yang Bebas Hak Cipta**
+Artinya, setiap aktivitas-aktivitas “penggunaan ciptaan” yang disebutkan di atas dapat dilaksanakan jika izin langsung dari pencipta atau pemegang hak cipta diperoleh, terdapat ketentuan pengecualian dalam regulasi pelindungan hak cipta, dan jika masa berlaku pelindungan ciptaan terkait sudah habis. Apabila kita melihat laman ini, dinyatakan bahwa Indonesia belum memiliki ketentuan yang mengatur secara jelas pada Undang-Undang Hak Ciptanya (UUHC). Pengaturan secara jelas yang dimaksud adalah pengecualian bagi pihak perseorangan atau kelompok untuk dapat mengunggah berkas media hasil citraan ciptaan, dalam format dua dimensi maupun tiga dimensi, yang tersedia di ruang publik secara permanen maupun sementara. 
 
-**Ide Gila: Penempelan Lisensi Hak Cipta Pada Ciptaan di Ruang Publik**
+----- Pengecualian dan Pembatasan pelindungan Hak Cipta Ciptaan di Indonesia -----
+
+Meskipun begitu, Indonesia telah mengatur pembatasan hak cipta melalui huruf b dan d ayat Pasal 43 UUHC14:
+
+Perbuatan yang tidak dianggap sebagai pelanggaran Hak Cipta meliputi: 
+
+b. Pengumuman, Pendistribusian, Komunikasi, dan/atau Penggandaan segala sesuatu yang dilaksanakan oleh atau atas nama pemerintah, kecuali dinyatakan dilindungi oleh peraturan perundang-undangan, pernyataan pada Ciptaan tersebut, atau ketika terhadap Ciptaan tersebut dilakukan Pengumuman, Pendistribusian, Komunikasi, dan/atau Penggandaan;
+d. pembuatan dan penyebarluasan konten Hak Cipta melalui media teknologi informasi dan komunikasi yang bersifat tidak komersial dan/atau menguntungkan Pencipta atau pihak terkait, atau Pencipta tersebut menyatakan tidak keberatan atas pembuatan dan penyebarluasan tersebut.
+
+Pada huruf b disebutkan bahwa setiap pengumuman, pendistribusian, komunikasi, dan/atau penggandaan setiap ciptaan yang merupakan produk pemerintah, boleh dilaksanakan tanpa izin langsung dari pencipta atau pemegang hak ciptanya. Artinya, setiap upaya pencitraan kembali gedung atau monumen, sebagai karya seni rupa maupun karya arsitektur, yang pengadaannya dilaksanakan atas nama pemerintah, dapat dilakukan secara langsung tanpa perlu ada izin tertulis dari siapapun. Asalkan pelaksanaan hak tersebut masih dalam batas wajar, yaitu tidak mengurangi nilai kehormatan dari ciptaan dan juga pencipta atau pemegang hak cipta ciptaan terkait. 
+
+Dengan begitu, upaya pendokumentasian, pengumuman, dan pelisensian kembali ciptaan berupa gedung atau monumen, sebagai karya seni rupa maupun karya arsitektur, dalam format dua dimensi maupun tiga dimensi, yang tersedia di ruang publik secara permanen maupun sementara, dan diciptakan atas nama pemerintah tidak dianggap sebagai perbuatan melanggar hak cipta meskipun dilaksanakan tanpa izin langsung secara tertulis maupun tidak tertulis oleh pencipta atau pemegang hak cipta. Kecuali, dilarang oleh ketentuan peraturan perundang-undangan lain, misalnya untuk menjaga keamanan dan kestabilan negara Republik Indonesia.
+
+Pada huruf d, disebutkan bahwa pembuatan dan penyebarluasan ciptaan secara daring, selain ciptaan yang dimaksud dalam huruf b, dapat dilaksanakan, bahkan dalam kepentingan komersial atau disediakan untuk digunakan kembali dalam kepentingan komersial secara langsung asal pihak pencipta atau pemegang hak cipta tidak keberatan terhadap hal tersebut. Artinya, setiap ciptaan berupa karya seni rupa maupun karya arsitektur lainnya yang hendak dicitrakan serta dibagikan dalam format lain dan untuk kepentingan apapun, harus menyertakan pernyataan bahwa penggunaan tersebut bukan merupakan untuk kepentingan komersial. Atau, jika penggunaan melibatkan kepentingan komersial, izin langsung dari pencipta atau pemegang hak cipta, mutlak dibutuhkan untuk menghindarkan perbuatan dari kategori pelanggaran hak cipta. Bagian ini menjadi dasar status “not OK” Indonesia di laman ini karena belum memenuhi standar atau kriteria “FoP” Wikimedia Commons. 
+
+Untuk memenuhi kriteria tersebut, Indonesia dapat menerapkan pengecualian dan pembatasan yang diberlakukan pada ciptaan di huruf b, tanpa membuat daftar spesifik tentang ciptaan apa yang dikecualikan, karena sesungguhnya jenis ciptaan yang ada di ruang publik bisa saja tidak hanya berupa karya seni rupa dan karya arsitektur (pameran karya teks, karya seni terapan di pasaran, ekspresi budaya tradisional, rekaman suara musik di ruang publik dan lain-lain), dengan tambahan ketentuan yang mewajibkan penyebutan sumber atau nama pencipta dan/atau pemegang hak cipta, yang kemudian dapat memperluas kriteria penggunaan ciptaan dan menghindari sifat multitafsir (“tidak merugikan kepentingan wajar”) dari huruf a ayat (1) Pasal 44 UUHC14.
+
+Pencitraan obyek yang ada di ruang publik, dengan kemudahan yang ditawarkan oleh teknologi terkini, semakin menjadi sesuatu yang lumrah bagi masyarakat umum. Hukum, dalam hal ini peraturan, seharusnya dapat mengikuti perkembangan teknologi dan kebiasaan masyarakat. Karena, pada hakikatnya, peraturan dibuat untuk memberikan kepastian hukum terhadap hubungan hukum antara subyek-subyek hukum di suatu wilayah hukum. Maka dari itu, alangkah baiknya suatu ketentuan dibuat selengkap dan serinci mungkin, untuk menghindari adanya kekosongan hukum.
+
+----- Jalan Keluar Sementara: Menunggu Masa Berlaku pelindungan Habis ----
+
+Indonesia mengatur masa berlaku pelindungan hak cipta melalui Pasal 58-61 UUHC14. Pasal 58 dan 60 merupakan pasal-pasal yang relevan untuk dikaitkan dalam konteks diskusi mengenai FoP. Ketentuan di dalam kedua pasal ini dapat menjadi jalan keluar sementara dalam aktivitas “penggunaan” ciptaan yang ada di ruang publik. Aktivitas tersebut bisa saja hanya menargetkan ciptaan-ciptaan di ruang publik yang sudah habis masa berlaku pelindungan hak ciptanya.
+
+Masa berlaku pelindungan hak cipta untuk karya seni rupa dan karya arsitektur ialah seumur hidup pencipta ditambah 70 tahun setelah pencipta meninggal dunia. Apabila ciptaan diciptakan oleh dua orang atau lebih, hitung mundur selama 70 tahun dihitung sejak tahun meninggal pencipta yang meninggal paling terakhir. Apabila ciptaan diciptakan oleh badan hukum, maka masa berlaku pelindungannya adalah 50 tahun sejak ciptaan pertama kali dipublikasikan. Seluruh ciptaan yang telah habis masa berlaku pelindungannya, dapat digunakan dengan cara apapun dan untuk kepentingan apapun, asal sumber ciptaan ditemukan dan/atau nama pencipta atau pemegang hak cipta terus disebutkan. Kemudian, Pasal 60 mengatur masa berlaku pelindungan ciptaan yang tidak diketahui identitas penciptanya. Setiap ciptaan yang tidak diketahui identitas penciptanya habis masa berlaku pelindungan hak ciptanya pada tahun ke-50 setelah pertama kali dipublikasikan. 
+
+Para pengguna ciptaan yang melaksanakan aktivitas “penggunaan” ciptaan di ruang publik dapat merujuk ketentuan-ketentuan di atas, misalnya untuk aktivitas pembangunan pangkalan data bangunan tua di ruang publik, sedikit mirip dengan yang dilaksanakan oleh Wikimedia Swedia. Keberadaan pangkalan data semacam itu, kemudian dapat memudahkan upaya-upaya pembuatan sumber pengetahuan lain, misalnya penyusunan buku tentang sejarah karya arsitektur di Indonesia atau paling tidak untuk melengkapi setiap artikel tentang bangunan-bangunan di Wikipedia dengan data dan gambar yang ada. Upaya seperti ini seharusnya juga mendapatkan dorongan dari pihak pemerintah. Ketentuan masa berlaku pelindungan hak cipta merupakan salah satu pewujudan fungsi sosial dari regulasi tentang pelindungan hak cipta. Pewujudan fungsi tersebut dapat didukung dengan pembangunan infrastruktur, pangkalan data misalnya, yang memuat data tentang ciptaan yang sudah habis masa berlaku pelindungan hak ciptanya, dan lebih bagus lagi jika ciptaan atau informasi tentang ciptaan terkait juga dapat langsung diakses pada infrastruktur tersebut.
