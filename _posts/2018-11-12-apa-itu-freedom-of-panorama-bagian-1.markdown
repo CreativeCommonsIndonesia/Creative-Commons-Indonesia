@@ -1,9 +1,23 @@
 ---
 title: Apa itu Freedom of Panorama?
-date: 2018-07-06 14:55:00 +07:00
+date: 2018-11-12 14:55:00 +07:00
+categories:
+- Kajian
+tags:
+- cc
+- freedom of panorama
+- lisensi cc
+- lisensi creative commons
+- indonesia
+- cc indonesia
+- ccid
+- panorama
+- wikimedia commons
+- wikimedia
+- wikimedia indonesia
 author: hilman
 comments: true
-img: 
+img: "/uploads/Atomium_010-censored.png"
 ---
 
 Anda suka mengaambil gambar di ruang publik?
