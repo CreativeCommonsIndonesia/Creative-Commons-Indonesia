@@ -14,7 +14,7 @@ Bagaimana jika proses pengambilan gambar tersebut dikategorikan sebagai "**pelan
 
 Tahukah Anda bahwa beberapa negara di Eropa dan Amerika menetapkan bahwa "segala obyek yang ada di ruang publik" tersebut **hanya dapat diabadikan** di bawah ketentuan "***Freedom of Panorama***" (FoP)?
 
-
+![Atomium_010-censored.png](/uploads/Atomium_010-censored.png)<center><small><i>Gambar digubah oleh Hilman Fathoni dari berkas Atomium 010-censored oleh <a href="https://commons.wikimedia.org/wiki/User:Nro92">Nro92</a> dan <a href="https://commons.wikimedia.org/wiki/User:Romaine">Romaine</a>, melalui <a href="https://commons.wikimedia.org/wiki/File:Atomium_010-censored.png">Wikimedia Commons</a>, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.id">CC0</a></i></small></center>
 
 
 # **Awal Mula Pemikiran Kebebasan Pencitraan Obyek di Ruang Publik**
