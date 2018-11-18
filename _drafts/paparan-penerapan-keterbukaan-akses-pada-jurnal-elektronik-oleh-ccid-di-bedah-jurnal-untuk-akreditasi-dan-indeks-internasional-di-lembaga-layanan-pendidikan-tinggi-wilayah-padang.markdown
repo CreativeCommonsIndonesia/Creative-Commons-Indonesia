@@ -3,6 +3,22 @@ title: Paparan "Penerapan Keterbukaan Akses Pada Jurnal Elektronik" oleh CCID di
   Jurnal “Untuk Akreditasi dan Indeks Internasional”, di Lembaga Layanan Pendidikan
   Tinggi Wilayah Padang
 date: 2018-11-18 12:23:00 +07:00
+categories:
+- Acara
+tags:
+- jurnal elektronik
+- lisensi cc
+- cc
+- cc indonesia
+- ccid
+- pendidikan tinggi
+- padang
+- sumatera barat
+- hak cipta
+- lisensi
+author: hilman
+comments: true
+img: "/uploads/WhatsApp%20Image%202018-11-18%20at%2012.16.24%20PM.jpeg"
 ---
 
 ![WhatsApp Image 2018-11-18 at 12.16.24 PM.jpeg](/uploads/WhatsApp%20Image%202018-11-18%20at%2012.16.24%20PM.jpeg) Foto oleh Ikhwan Arief
