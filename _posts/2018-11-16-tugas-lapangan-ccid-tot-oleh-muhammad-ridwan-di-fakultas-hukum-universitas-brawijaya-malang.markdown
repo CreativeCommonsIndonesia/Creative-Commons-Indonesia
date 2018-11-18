@@ -13,7 +13,7 @@ tags:
 - lisensi creative commons
 - training of trainers creative commons indonesia
 - ccid-tot
-img: 
+img: "/uploads/WhatsApp%20Image%202018-11-15%20at%203.14.39%20PM.jpeg"
 comments: true
 author: hilman
 ---
