@@ -53,13 +53,15 @@ Keseluruhan ketentuan di atas diberlakukan kepada pihak-pihak selain pencipta, d
 
 Pada prinsipnya, pemegang hak cipta eksklusif suatu karya tulis adalah pihak penulis. Kecuali diperjanjikan lain, pihak penerbit dan pembaca berperan sebagai pengguna karya tulis. Suatu kesepakatan yang dimuat secara tertulis dapat memberikan penerbit akses sebagai pemegang hak cipta, misalnya sebagai jalur eksklusif (pengalihan hak cipta) dalam proses diseminasi suatu karya tulis. Kesepakatan tersebut biasanya dimuat dalam suatu surat perjanjian penerbitan. 
 
-Hal-hal yang diatur mengenai pembagian kekuasaan antara penulis dan penerbit sebagai sesama pemegang hak cipta suatu karya tulis ialah:
+Hal-hal yang diatur mengenai pembagian kekuasaan antara penulis dan penerbit sebagai sesama pemegang hak cipta (pengalihan hak cipta) suatu karya tulis ialah:
 
-*Pengalihan Hak Cipta Secara Eksklusif
+* Pengalihan Hak Cipta Secara Eksklusif
     * Penulis sama sekali dilarang memublikasikan semua versi karya tulis di penerbit lain dalam jangka waktu tertentu;
     * Penulis sama sekali dilarang memublikasikan semua versi karya tulis secara mandiri dalam jangka waktu tertentu.
 
+* Pengalihan Hak Cipta Secara Non Eksklusif
+    * Penulis diperbolehkan memublikasikan semua versi karya tulis atau versi tertentu naskah di penerbit lain dalam jangka waktu tertentu;
+    * Penulis diperbolehkan memublikasikan semua versi karya tulis atau versi tertentu karya tulis secara mandiri dalam jangka waktu tertentu.
 
-
-Selain itu, penulis dan/atau penerbit dapat secara sendiri-sendiri atau bersama-sama membuat ketentuan tertulis untuk mengatur tata cara penggunaan karya tulisnya oleh para pengaksesnya, dalam hal ini pembaca maupun pengutip. Ketentuan tertulis tersebut biasa disebut sebagai ketentuan penggunaan ciptaan, yang dimuat sebagai lisensi hak cipta, alat untuk mengatur izin penggunaan suatu ciptaan.
+Selain itu, penulis dan/atau penerbit dapat secara sendiri-sendiri atau bersama-sama membuat ketentuan tertulis untuk mengatur tata cara penggunaan karya tulisnya oleh para pengaksesnya, dalam hal ini pembaca maupun pengutip. Ketentuan tertulis tersebut biasa disebut sebagai ketentuan penggunaan ciptaan, yang dimuat sebagai lisensi hak cipta, alat untuk mengatur izin penggunaan suatu ciptaan. Penerbit dapat mengatur secara ketat bahwa setiap karya tulis yang hendak diterbitkan harus 
 
