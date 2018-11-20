@@ -21,7 +21,7 @@ comments: true
 img: "/uploads/WhatsApp%20Image%202018-11-18%20at%2012.16.24%20PM.jpeg"
 ---
 
-![WhatsApp Image 2018-11-18 at 12.16.24 PM.jpeg](/uploads/WhatsApp%20Image%202018-11-18%20at%2012.16.24%20PM.jpeg) Foto oleh Ikhwan Arief
+![WhatsApp Image 2018-11-18 at 12.16.24 PM.jpeg](/uploads/WhatsApp%20Image%202018-11-18%20at%2012.16.24%20PM.jpeg){: .img-responsive .center-block }{: width="500"}<center><small><i>Foto oleh Ikhwan Arief</i></small></center>
 
 Pada tanggal 17 November 2018, Creative Commons Indonesia (CCID) yang diwakili oleh Hilman Fathoni (Legal Lead CCID) berkesempatan menyampaikan materi tentang "Prinsip Keterbukaan Akses Jurnal Elektronik" untuk acara "Bedah Jurnal Untuk Akreditasi dan Indeks Internasional”, di Lembaga Layanan Pendidikan Tinggi (LLPT) Wilayah Padang. Acara ini mulai pada pukul 08.00 WIB di Gedung Kopertis LLPT Wilayah Padang, Sumatera Barat. Lokakarya kali ini dihadiri oleh para peserta yang merupakan pengelola jurnal dari berbagai institusi. Pemaparan ini diharapkan dapat membantu para pengelola jurnal dalam aktivitas pengelolaan hak cipta dan pelisensian artikel jurnal elektronik yang didiseminasikan secara daring.
 
@@ -199,10 +199,10 @@ Sebagaimana disebutkan dalam poin sebelumnya, lisensi CC memungkinkan pengguna c
 
 Penjelasan lebih lanjut mengenai praktik penerapan lisensi CC pada jurnal elektronik "Open Access" dapat dibaca di artikel-artikel berikut ini:
 
-* Praktik Terbaik Diseminasi Jurnal Elektronik Terbuka
+* [Praktik Terbaik Diseminasi Jurnal Elektronik Terbuka](http://creativecommons.or.id/2018/10/number-openaccessweek-praktik-terbaik-manajemen-hak-cipta-pada-sistem-jurnal-elektronik-terbuka/)
 
-* Pengalihan Hak Cipta (Copyright Transfer Agreement) Ciptaan vs Pelisensian Ciptaan
+* [Pengalihan Hak Cipta (Copyright Transfer Agreement) Ciptaan vs Pelisensian Ciptaan](http://creativecommons.or.id/2018/10/pengalihan-hak-cipta-copyright-transfer-ciptaan-vs-pelisensian-ciptaan/)
 
-* Pencatatan Kebijakan Pengarsipan Mandiri oleh Penulis di Situs Web SHERPA/RoMEO
+* [Pencatatan Kebijakan Pengarsipan Mandiri oleh Penulis di Situs Web SHERPA/RoMEO](http://creativecommons.or.id/2018/10/openaccessweek-pengarsipan-kebijakan-manajemen-hak-cipta-dengan-layanan-sherpa-slash-romeo/)
 
 ----
