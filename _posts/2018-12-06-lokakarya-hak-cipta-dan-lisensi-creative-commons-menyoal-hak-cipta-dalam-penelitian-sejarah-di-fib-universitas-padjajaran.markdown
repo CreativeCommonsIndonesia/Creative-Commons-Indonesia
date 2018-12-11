@@ -28,4 +28,4 @@ comments: true
 
 Pada tanggal 5 Desember 2018, CCID bekerjasama dengan Fakultas Ilmu Budaya Universitas Padjajaran menggelar lokakarya tentang pelindungan hak cipta dan lisensi Creative Commons. Lokakarya kali ini dipandu oleh Fitriayu, dimulai dasar-dasar pelindungan hak cipta, fungsi sosialnya, dan pengetahuan tentang lisensi hak cipta Creative Commons sebagai panduan dalam aktivitas penelitian sejarah. Dalam lokakarya ini juga disampaikan beberapa cerita percontohan kegiatan yang berkaitan dengan penyediaan sumber primer penelitian sejarah di Indonesia. Kegiatan yang diceritakan meliputi proyek-proyek digitalisasi konten oleh @wikimediaid, Troppenmuseum, maupun yang dilaksanakan secara independen oleh kontributor proyek Wiki seperti Chris Woodrich.
 
-Akses salindia [di sini](http://s.id/sld511218).
+Akses salindia [di sini](https://drive.google.com/open?id=1elWPyZSZk9JX9XV3jTT-z5Qt9qAib2yK).
