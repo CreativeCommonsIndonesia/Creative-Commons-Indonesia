@@ -33,7 +33,7 @@ Peserta Penerima Beasiswa Sertifikat CC dan Beasiswa Perjalanan CC Global Summit
 
 * Wahyu Setioko (Lombok, NTB)
 
-![Wahyu Setioko.png](/uploads/Wahyu%20Setioko.png){: .img-responsive .center-block }{: width="500"}
+![Wahyu Setioko-d3620e.png](/uploads/Wahyu%20Setioko-d3620e.png){: .img-responsive .center-block }{: width="500"}
 
 Wahyu Setioko (Koko) adalah seorang aktivis bidang pendidikan yang berdomisili di Lombok Tengah.
 
@@ -53,7 +53,7 @@ Lihat dokumentasi tugas lapangan Koko [di tautan ini](https://www.instagram.com/
 
 * Siti Nurleily Marliana (Yogyakarta)
 
-[Siti Nurleily Mariana.JPG](/uploads/Siti%20Nurleily%20Mariana.JPG){: .img-responsive .center-block }{: width="500"}
+![Leily.jpeg](/uploads/Leily.jpeg){: .img-responsive .center-block }{: width="500"}
 
 Leily adalah seorang pengelola jurnal di Universitas Gadjah Mada.
 
@@ -73,7 +73,7 @@ Lihat dokumentasi tugas lapangan Leily di [tautan ini](https://www.instagram.com
 
 * Bhredipta Socarana Cresti (Jakarta)
 
-![Bhredipta Socarana Cresti.jpeg](/uploads/Bhredipta%20Socarana%20Cresti.jpeg){: .img-responsive .center-block }{: width="500"}
+[Bhredipta Socarana.JPG](/uploads/Bhredipta%20Socarana.JPG){: .img-responsive .center-block }{: width="500"}
 
 Bhredipta Socarana adalah seorang advokat dan anggota dari organisasi [Social Corporate Law Society Indonesia](https://www.instagram.com/socolas_id/), perkumpulan praktisi hukum yang memberikan bantuan hukum secara pro bono baik kepada individu maupun kelompok seperti perusahaan di bidang sosial.
 
@@ -95,7 +95,7 @@ Peserta Penerima Beasiswa Sertifikat CC:
 
 * Harsa Wayu Ramadhan (Lampung)
 
-![Harsa Wahyu Ramadhan.jpg](/uploads/Harsa%20Wahyu%20Ramadhan.jpg){: .img-responsive .center-block }{: width="500"}
+![Harsa WR.jpg](/uploads/Harsa%20WR.jpg){: .img-responsive .center-block }{: width="500"}
 
 Harsa adalah seorang konsultan hukum di salah satu firma hukum swasta Lampung.
 
@@ -111,7 +111,7 @@ Lihat dokumentasi tugas lapangan Harsa di [tautan ini](https://www.instagram.com
 
 * Maura Aviolis (Pontianak)
 
-![Maura Aviolis.jpg](/uploads/Maura%20Aviolis.jpg){: .img-responsive .center-block }{: width="500"}
+![Maura.jpg](/uploads/Maura.jpg){: .img-responsive .center-block }{: width="500"}
 
 Maura adalah seorang pegiat literasi dan pendidik yang berdomisili di Pontianak.
 
@@ -127,7 +127,7 @@ Lihat dokumentasi tugas lapangan Maura di [tautan ini](https://www.instagram.com
 
 * Yosefin Candra Pranadewi (Jakarta)
 
-[Yosefin Candra Pranadewi.JPG](/uploads/Yosefin%20Candra%20Pranadewi.JPG){: .img-responsive .center-block }{: width="500"}
+[Yosefin Candra Pranadewi-f6dd9f.JPG](/uploads/Yosefin%20Candra%20Pranadewi-f6dd9f.JPG){: .img-responsive .center-block }{: width="500"}
 
 Yosefin adalah salah seorang alumni Program Magister Sekolah Tinggi Manajemen dan Akuntansi PPM yang kini juga aktif sebagai konsultan di PPM Manajemen.
 
@@ -143,7 +143,7 @@ Lihat dokumentasi tugas lapangan Yosefin di [tautan ini](https://www.instagram.c
 
 * Muhammad Ridwan (Malang)
 
-![Ridwan Muhammad.jpg](/uploads/Ridwan%20Muhammad.jpg){: .img-responsive .center-block }{: width="500"}
+![Ridwan.jpg](/uploads/Ridwan.jpg){: .img-responsive .center-block }{: width="500"}
 
 Ridwan adalah mahasiswa tingkat akhir di Fakultas Hukum Universitas Brawijaya.
 
@@ -159,7 +159,7 @@ Lihat dokumentasi tugas lapangan Ridwan di [tautan ini](https://www.instagram.co
 
 * Florens Debora Patricia (Surabaya)
 
-![Florens Debora Patricia.jpg](/uploads/Florens%20Debora%20Patricia.jpg){: .img-responsive .center-block }{: width="500"}
+[Yosefin Candra Pranadewi-f6dd9f.JPG](/uploads/Yosefin%20Candra%20Pranadewi-f6dd9f.JPG){: .img-responsive .center-block }{: width="500"}
 
 Florens adalah salah seorang tenaga pengajar di Institut Bisnis dan Informatika Stikom Surabaya.
 
@@ -175,7 +175,7 @@ Lihat dokumentasi tugas lapangan Florens di [tautan ini](https://www.instagram.c
 
 * Risky Amelia Ramadhani (Surabaya)
 
-![Risky Amelia Ramadhani.jpg](/uploads/Risky%20Amelia%20Ramadhani.jpg){: .img-responsive .center-block }{: width="500"}
+![Kiky.jpg](/uploads/Kiky.jpg){: .img-responsive .center-block }{: width="500"}
 
 Kiky adalah salah seorang peneliti bidang pemasaran yang berdomisili di Surabaya.
 
@@ -198,4 +198,4 @@ Kami mengucapkan terima kasih sebesar-besarnya kepada seluruh pihak yang telah m
 Ingat, ini bukan lah penutup, dan bukan pula sebuah akhiran, ini adalah salah satu dari sekian banyak langkah baru dalam pemajuan lisensi terbuka di Indonesia!
 
 Pokoknya Creative Commons!
-([Staf proyek Sertifikasi Perwakilan Creative Commons Indonesia](https://id.wikimedia.org/wiki/Sertifikasi_Perwakilan_Creative_Commons_Indonesia))
+\([Staf proyek Sertifikasi Perwakilan Creative Commons Indonesia](https://id.wikimedia.org/wiki/Sertifikasi_Perwakilan_Creative_Commons_Indonesia))
