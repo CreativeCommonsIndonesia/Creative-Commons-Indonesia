@@ -1,6 +1,7 @@
 ---
 title: 'Pengumuman Resmi: Hasil Akhir Training of Trainers Creative Commons Indonesia'
 date: 2018-12-14 17:00:00 +07:00
+published: false
 categories:
 - Berita
 tags:
