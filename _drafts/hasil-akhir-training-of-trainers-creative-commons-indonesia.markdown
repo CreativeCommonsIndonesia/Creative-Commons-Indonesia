@@ -79,7 +79,7 @@ Bhredipta Socarana adalah seorang advokat dan anggota dari organisasi [Social Co
 
 Lihat dokumentasi tugas lapangan Bhredipta di [tautan ini](https://www.instagram.com/p/BphAFiBg7MM/).
 
->Kesan dan pesan:
+> Kesan dan pesan:
 >
 > > "Menantang dan memberikan banyak informasi terkait penggunaan lisensi Creative Commons."
 
@@ -137,7 +137,7 @@ Lihat dokumentasi tugas lapangan Yosefin di [tautan ini](https://www.instagram.c
 >
 > > "Penugasan dengan konsep Misi menjadi menarik karena tantangan yang diberikan sifatnya berjenjang, secara sadar atau tidak konsep ini membuat peserta perlahan-lahan mengulik lebih dalam tentang Creative Commons dan prinsip-prinsip Lisensi yang digunakan. Terlepas dari kompetisi yang sebenarnya, saya pribadi merasa lebih puas atas pembelajaran saat mengerjakan ketiga misi tersebut. Refleksi terhadap keseharian dan kepekaan terhadap kebebasan serta batasan hak cipta merupakan poin utama yang saya dapat saat mengerjakan ketiga misi tersebut, diskusi aktif dengan pihak Creative Commons Indonesia menjadi bonus tambahan dalam menjawab rasa penasaran akan beberapa hal dan isu yang dihadapi."
 
->Proyeksi:
+> Proyeksi:
 >
 > > "Rencananya saya akan membagikan informasi dan pengetahuan yang saya peroleh di lingkungan saya maupun melalui kanal media sosial yang secara aktif saya gunakan dalam keseharian. Serta terbuka untuk terlibat dalam forum diskusi atau kajian untuk mengembangkan dan menyebarluaskan pengetahuan mengenai Lisensi Creative Commons (baik dalam bentuk tatap muka maupun daring)."
 
@@ -188,3 +188,14 @@ Lihat dokumentasi tugas lapangan Kiky di [tautan ini](https://www.instagram.com/
 > Proyeksi:
 >
 > > "Tetap melaju ke depan dan melanjutkan apa yang sudah dilaksanakan sebelumya."
+
+---
+
+CCID akan berupaya untuk mendorong dan melibatkan peserta dalam kegiatan-kegiatan yang berkaitan dengan pemajuan lisensi terbuka, khususnya lisensi terbuka di Creative Commons. Dan, tidak menutup kemungkinan dibukanya kembali program serupa di kesempatan yang lain berdasarkan saran dan/atau rekomendasi yang kami terima dari luar sebagai bekal untuk membuat konten program menjadi lebih baik dan semakin berdampak.
+
+Kami mengucapkan terima kasih sebesar-besarnya kepada seluruh pihak yang telah mendukung berjalannya program ini dari awal hingga akhir, khususnya untuk [Ford Foundation](https://www.fordfoundation.org/regions/indonesia/), [Wikimedia Indonesia](https://wikimedia.or.id/), [Creative Commons HQ](https://creativecommons.org/), para pendahulu di Creative Commons Indonesia atas segala bimbingannya ([Ari Juliano Gema](http://www.bekraf.go.id/profil/lengkap/53/Deputi-Fasilitasi-Hak-Kekayaan-Intelektual-dan-Regulasi), [Ivan Lanin](https://twitter.com/ivanlanin), [Siska Doviana](https://www.linkedin.com/in/siskadoviana?originalSubdomain=id), dan [Alifia Qonita Sudharto](https://www.linkedin.com/in/alifiaqonita?originalSubdomain=id)), [Relawan Jurnal Indonesia](https://relawanjurnal.id/), [Universitas Pattimura](https://info.unpatti.ac.id/), [C20 Library & Collabtive](https://c2o-library.net/), [ALSA LC Fakultas Hukum Universitas Syiah Kuala](https://www.facebook.com/alsa.lcunsyiah), [ALSA LC Fakultas Hukum Universitas Andalas](https://www.gemajustisia.com/semakin-dekat-menuju-alsa-lc-unand/), [Jagongan Media Rakyat](https://www.facebook.com/events/1471896269586471/), [COMBINE RI](https://www.combine.or.id/), [UNDAS.Co](https://undas.co/), [Jenggala Community Hub](https://www.instagram.com/jenggala.id/?hl=id), [Kampus ISBI Tanah Papua](https://www.facebook.com/pages/Kampus-ISBI-Tanah-Papua/1398999950361667), Komunitas Hukum Bisnis [Fakultas Hukum Universitas Brawijaya](http://hukum.ub.ac.id/), [Institut Bisnis dan Informatika Stikom Surabaya](https://www.stikom.edu/), [Fakultas Hukum Universitas Negeri Lampung](http://fh.unila.ac.id/), [Badan Penerbitan dan Publikasi Universitas Gadjah Mada](https://publikasi.ugm.ac.id/id/), [PPM Manajemen](https://ppm-manajemen.ac.id/), [Mata Garuda NTB](https://www.matagarudantb.org/), [PGRI Provinsi NTB](https://www.facebook.com/pgrintb/), [Pustaka Rumah Aloy](https://www.facebook.com/pustakarumahaloy/), [Social Corporate Law Society Indonesia](https://www.instagram.com/socolas_id/), [KORIDOR Coworking Space](https://www.koridor.space/), dan semua pihak yang tidak dapat kami sebutkan satu per satu atas kontribusi langsung maupun tidak langsung dalam pelaksanaan program ini.
+
+Ingat, ini bukan lah penutup, dan bukan pula sebuah akhiran, ini adalah salah satu dari sekian banyak langkah baru dalam pemajuan lisensi terbuka di Indonesia!
+
+Pokoknya Creative Commons!
+([Staf proyek Sertifikasi Perwakilan Creative Commons Indonesia](https://id.wikimedia.org/wiki/Sertifikasi_Perwakilan_Creative_Commons_Indonesia))
