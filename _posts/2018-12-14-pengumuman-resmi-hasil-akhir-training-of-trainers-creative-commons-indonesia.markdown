@@ -36,7 +36,7 @@ Peserta Penerima Beasiswa Sertifikat CC dan Beasiswa Perjalanan CC Global Summit
 
 ![Wahyu Setioko-d3620e.png](/uploads/Wahyu%20Setioko-d3620e.png){: .img-responsive .center-block }{: width="500"}
 
-Wahyu Setioko (Koko) adalah seorang aktivis bidang pendidikan yang berdomisili di Lombok Tengah.
+Wahyu adalah seorang aktivis bidang pendidikan yang berdomisili di Lombok Tengah.
 
 Lihat dokumentasi tugas lapangan Koko [di tautan ini](https://www.instagram.com/p/BpJSdAcjwB3/).
 
