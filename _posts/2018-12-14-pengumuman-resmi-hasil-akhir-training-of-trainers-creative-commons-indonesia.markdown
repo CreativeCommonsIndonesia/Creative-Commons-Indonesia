@@ -73,7 +73,7 @@ Lihat dokumentasi tugas lapangan Leily di [tautan ini](https://www.instagram.com
 
 * Bhredipta Socarana Cresti (Jakarta)
 
-[Bhredipta Socarana.JPG](/uploads/Bhredipta%20Socarana.JPG){: .img-responsive .center-block }{: width="500"}
+![Bhredipta Socarana.JPG](/uploads/Bhredipta%20Socarana.JPG){: .img-responsive .center-block }{: width="500"}
 
 Bhredipta Socarana adalah seorang advokat dan anggota dari organisasi [Social Corporate Law Society Indonesia](https://www.instagram.com/socolas_id/), perkumpulan praktisi hukum yang memberikan bantuan hukum secara pro bono baik kepada individu maupun kelompok seperti perusahaan di bidang sosial.
 
@@ -127,7 +127,7 @@ Lihat dokumentasi tugas lapangan Maura di [tautan ini](https://www.instagram.com
 
 * Yosefin Candra Pranadewi (Jakarta)
 
-[Yosefin Candra Pranadewi-f6dd9f.JPG](/uploads/Yosefin%20Candra%20Pranadewi-f6dd9f.JPG){: .img-responsive .center-block }{: width="500"}
+![Yosefin Candra Pranadewi-f6dd9f.JPG](/uploads/Yosefin%20Candra%20Pranadewi-f6dd9f.JPG){: .img-responsive .center-block }{: width="500"}
 
 Yosefin adalah salah seorang alumni Program Magister Sekolah Tinggi Manajemen dan Akuntansi PPM yang kini juga aktif sebagai konsultan di PPM Manajemen.
 
@@ -159,7 +159,7 @@ Lihat dokumentasi tugas lapangan Ridwan di [tautan ini](https://www.instagram.co
 
 * Florens Debora Patricia (Surabaya)
 
-[Yosefin Candra Pranadewi-f6dd9f.JPG](/uploads/Yosefin%20Candra%20Pranadewi-f6dd9f.JPG){: .img-responsive .center-block }{: width="500"}
+![Florens Patricia.jpg](/uploads/Florens%20Patricia.jpg){: .img-responsive .center-block }{: width="500"}
 
 Florens adalah salah seorang tenaga pengajar di Institut Bisnis dan Informatika Stikom Surabaya.
 
