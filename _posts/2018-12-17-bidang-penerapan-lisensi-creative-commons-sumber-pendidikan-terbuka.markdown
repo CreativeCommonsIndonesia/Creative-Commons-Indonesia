@@ -1,6 +1,7 @@
 ---
 title: Sumber Pembelajaran Terbuka Sebagai Salah Satu Bidang Penerapan Lisensi CC
 date: 2018-12-17 14:43:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
@@ -104,7 +105,7 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
    ![EoL.png](/uploads/EoL.png){: .img-responsive .left-block }{: width="300"}
 
-   EoL menyediakan ensiklopedia kolaboratif online yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi.
+   EoL menyediakan ensiklopedia kolaboratif daring yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi.
 
 **4. Public Library of Science ([PLOS](http://www.plos.org))**
 
