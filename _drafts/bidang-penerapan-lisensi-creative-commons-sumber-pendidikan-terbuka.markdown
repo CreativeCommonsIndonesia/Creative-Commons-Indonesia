@@ -84,7 +84,7 @@ Gerakan OER  muncul karena adanya kepedulian yang sama oleh pemerhati pendidikan
 
 Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform OER yang menerapan lisensi CC. Beberapa diantaranya yakni:
 
-1. [Wikimedia](http://www.wikimedia.org/) 
+1. [Wikimedia](http://www.wikimedia.org/)
 
    ![600px-Wikimedia_logo_family_complete.svg.png](/uploads/600px-Wikimedia_logo_family_complete.svg.png)
 
@@ -92,31 +92,31 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
    Sebagai organisasi nirlaba bersekala global, Wikimedia mempunyai misi untuk membebaskan konten pendidikan ke seluruh dunia. Melalui berbagai macam proyek, Wikmedia mengajak siapa saja untuk berkontribusi dan berbagi pengetahuan. Adapun proyek-proyek Wikimedia yakni: Wikipedia, Wikionary, Wikiquote, Wikibooks, Wikisource,Wikimedia Commons dan lain-lainya.
 
-2. Open Educational Resources Commons ([OER Commons](http://www.oercommons.org/)) 
+2. Open Educational Resources Commons ([OER Commons](http://www.oercommons.org/))
 
    ![OER Commons.png](/uploads/OER%20Commons.png){: .img-responsive .center-block }{: width="200"}
 
    OER Commons menyediakan 30.000 materi dengan lebih dari 120 akun pembuat konten.
 
-3. Encyclopedia of Life ([EoL](http://eol.org/)) 
+3. Encyclopedia of Life ([EoL](http://eol.org/))
 
    ![EoL.png](/uploads/EoL.png){: .img-responsive .center-block }{: width="200"}
 
    EoL menyediakan ensiklopedia kolaboratif online yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi.
 
-4. Public Library of Science ([PLOS](http://www.plos.org)) 
+4. Public Library of Science ([PLOS](http://www.plos.org))
 
    ![Plos-0729de.png](/uploads/Plos-0729de.png)
 
    PLoS sebagai organisasi  penerbitan dan advokasi nirlaba berlisensi CC yang berfokus pada sains dan kedokteran.
 
-5. [School of Open](http://schoolofopen.p2pu.org/) 
+5. [School of Open](http://schoolofopen.p2pu.org/)
 
    ![School of Open.png](/uploads/School%20of%20Open.png){: .img-responsive .center-block }{: width="200"}
 
    School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis untuk siapa saja yang ingin belajar mengenai arti dan dampak dari lisensi dan sumber terbuka, Open Policy Network adalah  koalisi para ahli yang berkerja untuk mendorong pembuatan, adopsi, dan penerapan kebijakan dan praktik terbuka yang memajukan kepentingan publik.
 
-6. [StoryWeaver](https://creativecommons.or.id/2017/07/jaringan-buku-cerita-anak-berlisensi-terbuka-di-storyweaver-oleh-pratham-books/) 
+6. [StoryWeaver](https://creativecommons.or.id/2017/07/jaringan-buku-cerita-anak-berlisensi-terbuka-di-storyweaver-oleh-pratham-books/)
 
    ![Story weaver.png](/uploads/Story%20weaver.png){: .img-responsive .center-block }{: width="200"}
 
@@ -142,6 +142,6 @@ Wikipedia merupakan ensiklopedia multibahasa yang dapat disunting, disalin dan d
 
 OER Unsiyah merupakan hasil kerja sama antara perpustakaan Unsiyah dan UKM literasi Unsiyah. Portal ini menyimpan berbagai bentuk materi pembelajaran seperti audio, video, buku dan poster elektronik yang berlisensi CC. Saat ini terhitung terdapat 1097 berkas yang ada pada portal OER Unsiyah yang berasal dari kontributor ataupun dari situs web yang menyediakan materi OER dan menerapkan lisensi Creative Commons seperti [https://www.e-ir.info/](https://www.e-ir.info/), [http://oapen.org/content/about-rights](http://oapen.org/content/about-rights), dll.
 
-Sebagai penutup, untuk turut serta dalam menambah jumlah materi OER dapat dilakukan secara perorangan dengan  berkontribusi pada platform yang telah menyediakan fitur untuk berkontribusi seperti platform-platform OER yang telah disebutkan di atas. Atau dapat juga bersama-sama membuat platform OER sendiri sesuai dengan kebutuhan yang ada. Semakin banyak platform yang menyediakan materi pembelajaran terbuka maka dapat mengurangi ketimpangan dalam mengakses dan mendapatkan materi pembelajaran.
+Sebagai penutup, untuk turut serta dalam menambah jumlah materi OER dapat dilakukan secara perorangan dengan  berkontribusi pada platform yang  menyediakan fitur untuk berkontribusi seperti platform-platform OER  lainya atau yang telah disebutkan di atas. Dan Anda dapat juga bersama-sama menginisiasi pembuatan  platform OER sendiri sesuai dengan kebutuhan materi pembelajaran yang dibutuhkan. Karena semakin banyak platform yang menyediakan materi pembelajaran terbuka, maka semakin berkurang ketimpangan dalam mengakses dan mendapatkan materi pembelajaran.
 
-Ketimpangan materi pembelajaran masih menjadi masalah utama di ranah pendidikan di Indonesia. Luasnya wilayah Indonesia dan mahalnya biaya cetak buku serta biaya pengiriman buku ke seluruh penjuru di Indonesia menjadi penyebabnya. Dengan mengadaptasi sistem OER secara masif di Indonesia serta didukung dengan infastruktur internet yang memadai akan menjadi salah satu solusi dalam mengurangi biaya cetak dan pengiriman buku sehingga mengurangi ketimpangan materi pembelajaran di Indonesia.
+Ketimpangan materi pembelajaran masih menjadi masalah utama di ranah pendidikan di Indonesia. Luasnya wilayah Indonesia dan mahalnya biaya cetak buku serta biaya pengiriman buku ke seluruh penjuru di Indonesia menjadi salah satu penyebabnya. Dengan mengadaptasi sistem OER secara masif di Indonesia serta didukung dengan infastruktur internet yang memadai akan menjadi salah satu solusi dalam mengurangi beban biaya cetak dan pengiriman buku sehingga ketimpangan materi pembelajaran di Indonesia berkurang.
