@@ -1,6 +1,6 @@
 ---
 title: Sumber Pembelajaran Terbuka Sebagai Salah Satu Bidang Penerapan Lisensi CC
-date: 2018-07-12 17:43:00 +07:00
+date: 2018-12-17 14:43:00 +07:00
 categories:
 - Kajian
 tags:
