@@ -126,7 +126,7 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
 ## **OER  di  Indonesia**
 
-**1\. [Wikipedia Bahasa Indonesia ]**(https://id.wikipedia.org/wiki/Halaman_Utama)
+**1\. [Wikipedia Bahasa Indonesia ](https://id.wikipedia.org/wiki/Halaman_Utama)**
 
 ![wikipedia bahasa indonesia.png](/uploads/wikipedia%20bahasa%20indonesia.png){: .img-responsive .center-block }{: width="200"}
 
