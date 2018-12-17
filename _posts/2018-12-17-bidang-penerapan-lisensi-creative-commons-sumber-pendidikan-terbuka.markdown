@@ -84,37 +84,37 @@ Gerakan OER  muncul karena adanya kepedulian yang sama oleh pemerhati pendidikan
 
 Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform OER yang menerapan lisensi CC. Beberapa diantaranya yakni:
 
-1. [Wikimedia](http://www.wikimedia.org/)
+**1. [Wikimedia](http://www.wikimedia.org/)**
 
 ![600px-Wikimedia_logo_family_complete.svg.png](/uploads/600px-Wikimedia_logo_family_complete.svg.png){: width="200"}<center><small><i><a href="https://en.wikipedia.org/wiki/File:Wikimedia_logo_family_complete.svg">Wikimedia Logo family</a> oleh <a href="https://wikimediafoundation.org/about/contact/">Wikimedia Foundation</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id">CC BY SA 3.0</a></i></small></center>
 
    Sebagai organisasi nirlaba bersekala global, Wikimedia mempunyai misi untuk membebaskan konten pendidikan ke seluruh dunia. Melalui berbagai macam proyek, Wikmedia mengajak siapa saja untuk berkontribusi dan berbagi pengetahuan. Adapun proyek-proyek Wikimedia yakni: Wikipedia, Wikionary, Wikiquote, Wikibooks, Wikisource,Wikimedia Commons dan lain-lainya.
 
-2. Open Educational Resources Commons ([OER Commons](http://www.oercommons.org/))
+**2. Open Educational Resources Commons ([OER Commons](http://www.oercommons.org/))**
 
    ![OER Commons.png](/uploads/OER%20Commons.png){: .img-responsive .left-block }{: width="200"}
 
    OER Commons menyediakan 30.000 materi dengan lebih dari 120 akun pembuat konten.
 
-3. Encyclopedia of Life ([EoL](http://eol.org/))
+**3. Encyclopedia of Life ([EoL](http://eol.org/))**
 
    ![EoL.png](/uploads/EoL.png){: .img-responsive .left-block }{: width="200"}
 
    EoL menyediakan ensiklopedia kolaboratif online yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi.
 
-4. Public Library of Science ([PLOS](http://www.plos.org))
+**4. Public Library of Science ([PLOS](http://www.plos.org))**
 
    ![Plos-0729de.png](/uploads/Plos-0729de.png){: .img-responsive .left-block }{: width="200"}
 
    PLoS sebagai organisasi  penerbitan dan advokasi nirlaba berlisensi CC yang berfokus pada sains dan kedokteran.
 
-5. [School of Open](http://schoolofopen.p2pu.org/)
+**5. [School of Open](http://schoolofopen.p2pu.org/)**
 
    ![School of Open.png](/uploads/School%20of%20Open.png){: .img-responsive .left-block }{: width="200"}
 
    School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis untuk siapa saja yang ingin belajar mengenai arti dan dampak dari lisensi dan sumber terbuka, Open Policy Network adalah  koalisi para ahli yang bekerja untuk mendorong pembuatan, adopsi, dan penerapan kebijakan dan praktik terbuka yang memajukan kepentingan publik.
 
-6. [StoryWeaver](https://creativecommons.or.id/2017/07/jaringan-buku-cerita-anak-berlisensi-terbuka-di-storyweaver-oleh-pratham-books/)
+**6. [StoryWeaver]**(https://creativecommons.or.id/2017/07/jaringan-buku-cerita-anak-berlisensi-terbuka-di-storyweaver-oleh-pratham-books/)
 
    ![Story weaver.png](/uploads/Story%20weaver.png){: .img-responsive .left-block }{: width="200"}
 
@@ -122,19 +122,19 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
 ## **OER  di  Indonesia**
 
-1\. [Wikipedia Bahasa Indonesia ](https://id.wikipedia.org/wiki/Halaman_Utama)
+**1\. [Wikipedia Bahasa Indonesia ]**(https://id.wikipedia.org/wiki/Halaman_Utama)
 
 ![wikipedia bahasa indonesia.png](/uploads/wikipedia%20bahasa%20indonesia.png){: .img-responsive .center-block }{: width="200"}
 
 Wikipedia merupakan ensiklopedia multibahasa yang dapat disunting, disalin dan disebarkan secara bebas oleh siapa saja. Hinga saat ini terhitung sebanyak 988.77 orang sukarelawan yang telah mencoba menyunting dan menciptakan 438.444 artikel dalam bahasa Indonesia.  Seluruh artikel di Wikipedia menerapkan lisensi CC BY SA
 
-2\. [Sumber Pembelajaran Terbuka Universitas Terbuka ( SUAKA-UT)](https://www.ut.ac.id/OER/index.html)
+**2\. [Sumber Pembelajaran Terbuka Universitas Terbuka ( SUAKA-UT)](https://www.ut.ac.id/OER/index.html)**
 
 ![OER UT.png](/uploads/OER%20UT.png){: .img-responsive .center-block }{: width="200"}
 
 **SUAKA-UT** merupakan Open Educational Resources (OER), yaitu salah satu layanan UT dalam menyediakan materi pembelajaran yang dapat diakses secara gratis oleh masyarakat umum. Materi pembelajaran dalam bentuk siaran TV (UT TV) yang, siaran radio (UT Radio) yang ditransmisikan ke internet, perpustakaan digital, layanan guru pintar (GPO) yakni portal untuk para guru di seluruh Indonesia agar dapat mengakses sumber belajar dengan cepat dan mudah dan juga UT open courseware. Materi-materi tersebut berlisensi Creative Commons [CC BY-NC-SA ](http://creativecommons.org/licenses/by-nc-sa/3.0/)dan dibuat oleh para dosen baik secara individu ataupun tim.
 
-3\. Open Educational Resource Unsiyah /[OER Unsiyah](http://uilis.unsyiah.ac.id/oer/about)
+**3\. Open Educational Resource Unsiyah /[OER Unsiyah](http://uilis.unsyiah.ac.id/oer/about)**
 
 ![OER Unsiyah.png](/uploads/OER%20Unsiyah.png){: .img-responsive .center-block }{: width="200"}
 
