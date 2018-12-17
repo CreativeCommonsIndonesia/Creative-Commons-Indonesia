@@ -118,7 +118,7 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
    School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis untuk siapa saja yang ingin belajar mengenai arti dan dampak dari lisensi dan sumber terbuka, Open Policy Network adalah  koalisi para ahli yang bekerja untuk mendorong pembuatan, adopsi, dan penerapan kebijakan dan praktik terbuka yang memajukan kepentingan publik.
 
-**6. [StoryWeaver]**(https://creativecommons.or.id/2017/07/jaringan-buku-cerita-anak-berlisensi-terbuka-di-storyweaver-oleh-pratham-books/)
+**6.[StoryWeaver](https://creativecommons.or.id/2017/07/jaringan-buku-cerita-anak-berlisensi-terbuka-di-storyweaver-oleh-pratham-books/)**
 
    ![Story weaver.png](/uploads/Story%20weaver.png){: .img-responsive .left-block }{: width="200"}
 
