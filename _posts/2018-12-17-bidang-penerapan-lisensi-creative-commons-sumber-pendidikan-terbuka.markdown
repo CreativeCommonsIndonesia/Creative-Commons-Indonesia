@@ -22,9 +22,8 @@ Di sisi lain, kini makin banyak orang yang berbagi ilmu dengan membuat sumber pe
 
 
 
-OER adalah sebuah istilah yang disepakati oleh berbagai organisasi. [UNESCO](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-are-open-educational-resources-oers/) salah satu organisasi internasional yang turut serta memberikan definisi mengenai OER yakni:
-
-> Materi ajar atau hasil penelitian yang tersedia dalam berbagi media secara terbuka (menerapkan lisensi terbuka) dan bebas biaya untuk diakses, digunakan kembali atau diadaptasi, dan disebarkan kembali oleh penggunanya dapat disebut sebagai OER. OER biasanya berupa buku teks, kurikulum, silabus, catatan, contoh penugasan, contoh tes yang disediakan dalam format audio, video tutorial maupun animasi.
+>OER adalah sebuah istilah yang disepakati oleh berbagai organisasi. [UNESCO](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-are-open-educational-resources-oers/) salah satu organisasi internasional yang turut serta memberikan definisi mengenai OER yakni:
+Materi ajar atau hasil penelitian yang tersedia dalam berbagi media secara terbuka (menerapkan lisensi terbuka) dan bebas biaya untuk diakses, digunakan kembali atau diadaptasi, dan disebarkan kembali oleh penggunanya dapat disebut sebagai OER. OER biasanya berupa buku teks, kurikulum, silabus, catatan, contoh penugasan, contoh tes yang disediakan dalam format audio, video tutorial maupun animasi.
 
 OER sebaiknya dianjurkan menganut [prinsip 5R ](http://www.opencontent.org/definition/) yaitu:
 
