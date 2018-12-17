@@ -99,7 +99,7 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
    ![OER Commons.png](/uploads/OER%20Commons.png){: .img-responsive .left-block }{: width="300"}
 
-   OER Commons menyediakan 30.000 materi dengan lebih dari 120 akun pembuat konten.
+   OER Commons merupakan perpustakaan daring bebas akses yang memungkinkan para guru dan pengguna lainya untuk mencari dan menemukan materi sumber pembelajaran terbuka dan bahan ajar lainya secara gratis. Saat ini terhitung tersedia 30.000 materi dengan lebih dari 120 akun pembuat konten.
 
 **3. Encyclopedia of Life ([EoL](http://eol.org/))**
 
