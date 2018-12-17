@@ -86,37 +86,37 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
 1. [Wikimedia](http://www.wikimedia.org/)
 
-   ![600px-Wikimedia_logo_family_complete.svg.png](/uploads/200px-Wikimedia_logo_family_complete.svg.png){: .img-responsive .center-block }{: width="200"}{: .img-responsive .center-block }<center><small><i><a href="https://en.wikipedia.org/wiki/File:Wikimedia_logo_family_complete.svg">Wikimedia Logo family</a> oleh <a href="https://wikimediafoundation.org/about/contact/">Wikimedia Foundation</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id">CC BY SA 3.0</a></i></small></center>
+   ![600px-Wikimedia_logo_family_complete.svg.png](/uploads/200px-Wikimedia_logo_family_complete.svg.png){: .img-responsive .center-block }{: width="200"}{: .img-responsive .center-block }<center><small><i><a href="https://en.wikipedia.org/wiki/File:Wikimedia_logo_family_complete.svg">Wikimedia Logo family</a> oleh <a href="https://wikimediafoundation.org/about/contact/">Wikimedia Foundation</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id">CC BY SA 3.0</a></i></small></left>
 
    Sebagai organisasi nirlaba bersekala global, Wikimedia mempunyai misi untuk membebaskan konten pendidikan ke seluruh dunia. Melalui berbagai macam proyek, Wikmedia mengajak siapa saja untuk berkontribusi dan berbagi pengetahuan. Adapun proyek-proyek Wikimedia yakni: Wikipedia, Wikionary, Wikiquote, Wikibooks, Wikisource,Wikimedia Commons dan lain-lainya.
 
 2. Open Educational Resources Commons ([OER Commons](http://www.oercommons.org/))
 
-   ![OER Commons.png](/uploads/OER%20Commons.png){: .img-responsive .center-block }{: width="200"}
+   ![OER Commons.png](/uploads/OER%20Commons.png){: .img-responsive .left-block }{: width="200"}
 
    OER Commons menyediakan 30.000 materi dengan lebih dari 120 akun pembuat konten.
 
 3. Encyclopedia of Life ([EoL](http://eol.org/))
 
-   ![EoL.png](/uploads/EoL.png){: .img-responsive .center-block }{: width="200"}
+   ![EoL.png](/uploads/EoL.png){: .img-responsive .left-block }{: width="200"}
 
    EoL menyediakan ensiklopedia kolaboratif online yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi.
 
 4. Public Library of Science ([PLOS](http://www.plos.org))
 
-   ![Plos-0729de.png](/uploads/Plos-0729de.png){: .img-responsive .center-block }{: width="200"}
+   ![Plos-0729de.png](/uploads/Plos-0729de.png){: .img-responsive .left-block }{: width="200"}
 
    PLoS sebagai organisasi  penerbitan dan advokasi nirlaba berlisensi CC yang berfokus pada sains dan kedokteran.
 
 5. [School of Open](http://schoolofopen.p2pu.org/)
 
-   ![School of Open.png](/uploads/School%20of%20Open.png){: .img-responsive .center-block }{: width="200"}
+   ![School of Open.png](/uploads/School%20of%20Open.png){: .img-responsive .left-block }{: width="200"}
 
    School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis untuk siapa saja yang ingin belajar mengenai arti dan dampak dari lisensi dan sumber terbuka, Open Policy Network adalah  koalisi para ahli yang bekerja untuk mendorong pembuatan, adopsi, dan penerapan kebijakan dan praktik terbuka yang memajukan kepentingan publik.
 
 6. [StoryWeaver](https://creativecommons.or.id/2017/07/jaringan-buku-cerita-anak-berlisensi-terbuka-di-storyweaver-oleh-pratham-books/)
 
-   ![Story weaver.png](/uploads/Story%20weaver.png){: .img-responsive .center-block }{: width="200"}
+   ![Story weaver.png](/uploads/Story%20weaver.png){: .img-responsive .left-block }{: width="200"}
 
    StoryWeaver repisitori digital dari multibahasa cerita anak yang digagas oleh [Pratham Books](http://prathambooks.org/). Platform ini memungkinkan Anda untuk membaca, menyumbangkan cerita karangan Anda sendiri, menerjemahkan cerita ke dalam berbagai bahasa dan juga membagikan cerita tersebut.
 
