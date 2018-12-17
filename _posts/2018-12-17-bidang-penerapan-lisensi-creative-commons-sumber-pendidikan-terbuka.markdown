@@ -1,7 +1,6 @@
 ---
 title: Sumber Pembelajaran Terbuka Sebagai Salah Satu Bidang Penerapan Lisensi CC
 date: 2018-12-17 14:43:00 +07:00
-published: false
 categories:
 - Kajian
 tags:
@@ -13,7 +12,7 @@ img: "/uploads/OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.jpg"
 
 Sumber pembelajaran kini tersedia dengan banyak ragam mulai dari buku teks cetak ke buku digital, gambar, video, infografik, permainan video, dan media lainya. Seiring berkembangnya teknologi internet, sumber pembelajaran  tersebut kini dapat dengan mudah diakses secara daring agar persebarannya semakin luas dan cepat. Tidak hanya itu, biaya produksi dan distribusi pun dapat berkurang. Namun tidak semua sumber pembelajaran yang ada di dunia maya dapat diakses dengan cuma-cuma. Beberapa penyedia sumber pembelajaran, membebankan biaya kepada pengguna jika ingin mengakses sumber pendidikan tersebut.
 
-Di sisi lain, kini makin banyak orang yang berbagi ilmu dengan membuat sumber pembelajaran yang dapat diakses secara dar****ing dan gratis. Bahkan mereka mengajak mengajak pembuat bahan ajar yang lain untuk turut serta mengembangkan sumber pembelajaran tersebut dan mengizinkan penggunanya untuk menggunakan dan menyebarkan kembali dengan izin langsung oleh penciptanya yang tertera pada suatu ketentuan lisensi agar terdapat kepastian hukum. Karena pada hakikatnya hak untuk mendapatkan ilmu pengetahuan merupakan hak setiap orang. Sumber pembelajaran tersebut dinamakan sumber pembelajaran terbuka atau Open Educational Resource (OER) dalam bahasa Inggrisnya.
+Di sisi lain, kini makin banyak orang yang berbagi ilmu dengan membuat sumber pembelajaran yang dapat diakses secara dar\*\*\*\*ing dan gratis. Bahkan mereka mengajak mengajak pembuat bahan ajar yang lain untuk turut serta mengembangkan sumber pembelajaran tersebut dan mengizinkan penggunanya untuk menggunakan dan menyebarkan kembali dengan izin langsung oleh penciptanya yang tertera pada suatu ketentuan lisensi agar terdapat kepastian hukum. Karena pada hakikatnya hak untuk mendapatkan ilmu pengetahuan merupakan hak setiap orang. Sumber pembelajaran tersebut dinamakan sumber pembelajaran terbuka atau Open Educational Resource (OER) dalam bahasa Inggrisnya.
 
 ## **Open Educational Resource (OER)**
 
@@ -21,22 +20,20 @@ Di sisi lain, kini makin banyak orang yang berbagi ilmu dengan membuat sumber pe
 
 <left><small><i><a href="https://commons.wikimedia.org/wiki/File:OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.svg">Lambang OER versi bahasa Indonesia</a> oleh <a href="https://commons.wikimedia.org/wiki/User:IvanLanin">Ivan Lanin</a>, <a href="https://creativecommons.org/licenses/by/3.0/deed.en">CC BY</a></i></small></left>
 
-
-
->**OER** adalah sebuah istilah yang disepakati oleh berbagai organisasi. [UNESCO](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-are-open-educational-resources-oers/) salah satu organisasi internasional yang turut serta memberikan definisi mengenai OER yakni:
-Materi ajar atau hasil penelitian yang tersedia dalam berbagi media secara terbuka (menerapkan lisensi terbuka) dan bebas biaya untuk diakses, digunakan kembali atau diadaptasi, dan disebarkan kembali oleh penggunanya dapat disebut sebagai OER. OER biasanya berupa buku teks, kurikulum, silabus, catatan, contoh penugasan, contoh tes yang disediakan dalam format audio, video tutorial maupun animasi.
+> **OER** adalah sebuah istilah yang disepakati oleh berbagai organisasi. [UNESCO](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-are-open-educational-resources-oers/) salah satu organisasi internasional yang turut serta memberikan definisi mengenai OER yakni:
+> Materi ajar atau hasil penelitian yang tersedia dalam berbagi media secara terbuka (menerapkan lisensi terbuka) dan bebas biaya untuk diakses, digunakan kembali atau diadaptasi, dan disebarkan kembali oleh penggunanya dapat disebut sebagai OER. OER biasanya berupa buku teks, kurikulum, silabus, catatan, contoh penugasan, contoh tes yang disediakan dalam format audio, video tutorial maupun animasi.
 
 **OER sebaiknya dianjurkan menganut [prinsip 5R ](http://www.opencontent.org/definition/) yaitu:**
 
-**1\. Retain**: Dapat diakses untuk diunduh.
+**1. Retain**: Dapat diakses untuk diunduh.
 
-**2\. Reuse**: Dapat digunakan kembali.
+**2. Reuse**: Dapat digunakan kembali.
 
-**3\. Revise**: Dapat diubah untuk diperbaiki atau dikembangkan.
+**3. Revise**: Dapat diubah untuk diperbaiki atau dikembangkan.
 
-**4\. Remix**: Dapat dimodifikasi, diadaptasikan dan digunakan dengan bahan-bahan lain atau dibuat turunannya.
+**4. Remix**: Dapat dimodifikasi, diadaptasikan dan digunakan dengan bahan-bahan lain atau dibuat turunannya.
 
-**5\. Redistribute**: Dapat digandakan dan disebarluaskan.
+**5. Redistribute**: Dapat digandakan dan disebarluaskan.
 
 Prinsip 5R di atas menerangkan bahwa penerapan lisensi terbuka juga termasuk sebagai persyaratan penyediaan OER. Lisensi yang lazim diterapkan pada OER ialah lisensi Creative Commons (lisensi CC). Lisensi CC dapat menjadi dasar legal penciptaan, penggunaan, penyebaran, pengumuman, pengubahan, dan penggubahan konten OER bagi pencipta maupun penggunanya.
 
@@ -45,7 +42,6 @@ Prinsip 5R di atas menerangkan bahwa penerapan lisensi terbuka juga termasuk seb
 Lisensi terbuka yakni lisensi yang menganut prinsip "Some Right Reserved" atau beberapa hak dipertahankan. Dengan menerapkan lisensi terbuka seperti Creative Commons (CC). Paling tidak pengguna secara legal dapat menggunakan dan menyebarkan kembali ciptaan. Dengan izin langsung oleh penciptanya yang tertera pada suatu ketentuan lisensi agar terdapat kepastian hukum. Penerapan lisensi CC pada OER dapat memudahkan segala aktivitas pembuatan atau pengembangan OER.
 
 ![creative-commons.jpg](/uploads/creative-commons.jpg){: .img-responsive .center-block }{: width="300"}
-
 
 Untuk mengenal lisensi CC, pertama-tama perlu diketahui 4 ketentuan lisensi CC yakni:
 
@@ -83,7 +79,7 @@ Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND
 
 ## **OER Sebagai Gerakan**
 
-Gerakan OER  muncul karena adanya kepedulian yang sama oleh pemerhati pendidikan dari berbagai kalangan dan negara akan tingginya biaya untuk mengakses atau mendapatkan pendidikan. Mereka berkumpul dalam kongres yang khsusus membahas OER. Tercatat sudah tersengelara dua kongres tingkat dunia yakni di[ Paris tahun 2012](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-is-the-2012-world-open-educational-resources-congress-and-what-are-its-aims/)  yang mempertemukan kalangan pemerintahan, pakar OER, NGO, dan pendidik dari seluruh dunia untuk berdiskusi dan berbagi mengenai contoh terbaik dari  kebijakan dan insisiatif OER.  Kedua di [Slovenia 2017 ](http://www.oercongress.org/)yang mengangkat tema "OER untuk Pendidikan yang Inklusif dan Berkeadilan: dari Komitmen ke Pelaksanaan". Hasil kongres ini, diadaptasi oleh para delegasi dalam rencana kerja di negara atau organisasi masing-masing.
+ Gerakan OER merupakan sebuah gerakan berlandaskan pada perwujudan pemenuhan hak asasi manusia dalam mengakses pendidikan yang berkualitas. Gerakan ini muncul  karena adanya kepedulian yang sama oleh pemerhati pendidikan dari berbagai kalangan dan negara akan tingginya biaya untuk mengakses atau mendapatkan pendidikan. Mereka berkumpul dalam kongres yang khsusus membahas OER. Tercatat sudah tersengelara dua kongres tingkat dunia yakni di[ Paris tahun 2012](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-is-the-2012-world-open-educational-resources-congress-and-what-are-its-aims/)  yang mempertemukan kalangan pemerintahan, pakar OER, NGO, dan pendidik dari seluruh dunia untuk berdiskusi dan berbagi mengenai contoh terbaik dari  kebijakan dan insisiatif OER.  Kedua di [Slovenia 2017 ](http://www.oercongress.org/)yang mengangkat tema "OER untuk Pendidikan yang Inklusif dan Berkeadilan: dari Komitmen ke Pelaksanaan". Hasil kongres ini, diadaptasi oleh para delegasi dalam rencana kerja di negara atau organisasi masing-masing.
 
 ## **Penerapan Lisensi CC pada OER**
 
@@ -93,53 +89,53 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
 ![600px-Wikimedia_logo_family_complete.svg.png](/uploads/600px-Wikimedia_logo_family_complete.svg.png){: width="300"}<center><small><i><a href="https://en.wikipedia.org/wiki/File:Wikimedia_logo_family_complete.svg">Wikimedia Logo family</a> oleh <a href="https://wikimediafoundation.org/about/contact/">Wikimedia Foundation</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id">CC BY SA 3.0</a></i></small></center>
 
-   Sebagai organisasi nirlaba bersekala global, Wikimedia mempunyai misi untuk membebaskan konten pendidikan ke seluruh dunia. Melalui berbagai macam proyek, Wikmedia mengajak siapa saja untuk berkontribusi dan berbagi pengetahuan. Adapun proyek-proyek Wikimedia yakni: Wikipedia, Wikionary, Wikiquote, Wikibooks, Wikisource,Wikimedia Commons dan lain-lainya.
+Sebagai organisasi nirlaba bersekala global, Wikimedia mempunyai misi untuk membebaskan konten pendidikan ke seluruh dunia. Melalui berbagai macam proyek, Wikmedia mengajak siapa saja untuk berkontribusi dan berbagi pengetahuan. Adapun proyek-proyek Wikimedia yakni: Wikipedia, Wikionary, Wikiquote, Wikibooks, Wikisource,Wikimedia Commons dan lain-lainya.
 
 **2. Open Educational Resources Commons ([OER Commons](http://www.oercommons.org/))**
 
-   ![OER Commons.png](/uploads/OER%20Commons.png){: .img-responsive .left-block }{: width="300"}
+![OER Commons.png](/uploads/OER%20Commons.png){: .img-responsive .left-block }{: width="300"}
 
-   OER Commons merupakan perpustakaan daring bebas akses yang memungkinkan para guru dan pengguna lainya untuk mencari dan menemukan materi sumber pembelajaran terbuka dan bahan ajar lainya secara gratis. Saat ini terhitung tersedia 30.000 materi dengan lebih dari 120 akun pembuat konten.
+OER Commons merupakan perpustakaan daring bebas akses yang memungkinkan para guru dan pengguna lainya untuk mencari dan menemukan materi sumber pembelajaran terbuka dan bahan ajar lainya secara gratis. Saat ini terhitung tersedia 30.000 materi dengan lebih dari 120 akun pembuat konten.
 
 **3. Encyclopedia of Life ([EoL](http://eol.org/))**
 
-   ![EoL.png](/uploads/EoL.png){: .img-responsive .left-block }{: width="300"}
+![EoL.png](/uploads/EoL.png){: .img-responsive .left-block }{: width="300"}
 
-   EoL menyediakan ensiklopedia kolaboratif daring yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi.
+EoL menyediakan ensiklopedia kolaboratif daring yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi.
 
 **4. Public Library of Science ([PLOS](http://www.plos.org))**
 
-   ![Plos-0729de.png](/uploads/Plos-0729de.png){: .img-responsive .left-block }{: width="300"}
+![Plos-0729de.png](/uploads/Plos-0729de.png){: .img-responsive .left-block }{: width="300"}
 
-   PLoS sebagai organisasi  penerbitan dan advokasi nirlaba berlisensi CC yang berfokus pada sains dan kedokteran.
+PLoS sebagai organisasi  penerbitan dan advokasi nirlaba berlisensi CC yang berfokus pada sains dan kedokteran.
 
 **5. [School of Open](http://schoolofopen.p2pu.org/)**
 
-   ![School of Open.png](/uploads/School%20of%20Open.png){: .img-responsive .left-block }{: width="300"}
+![School of Open.png](/uploads/School%20of%20Open.png){: .img-responsive .left-block }{: width="300"}
 
-   School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis untuk siapa saja yang ingin belajar mengenai arti dan dampak dari lisensi dan sumber terbuka, Open Policy Network adalah  koalisi para ahli yang bekerja untuk mendorong pembuatan, adopsi, dan penerapan kebijakan dan praktik terbuka yang memajukan kepentingan publik.
+School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis untuk siapa saja yang ingin belajar mengenai arti dan dampak dari lisensi dan sumber terbuka, Open Policy Network adalah  koalisi para ahli yang bekerja untuk mendorong pembuatan, adopsi, dan penerapan kebijakan dan praktik terbuka yang memajukan kepentingan publik.
 
 **6.[StoryWeaver](https://creativecommons.or.id/2017/07/jaringan-buku-cerita-anak-berlisensi-terbuka-di-storyweaver-oleh-pratham-books/)**
 
-   ![Story weaver.png](/uploads/Story%20weaver.png){: .img-responsive .left-block }{: width="300"}
+![Story weaver.png](/uploads/Story%20weaver.png){: .img-responsive .left-block }{: width="300"}
 
-   StoryWeaver repisitori digital dari multibahasa cerita anak yang digagas oleh [Pratham Books](http://prathambooks.org/). Platform ini memungkinkan Anda untuk membaca, menyumbangkan cerita karangan Anda sendiri, menerjemahkan cerita ke dalam berbagai bahasa dan juga membagikan cerita tersebut.
+StoryWeaver repisitori digital dari multibahasa cerita anak yang digagas oleh [Pratham Books](http://prathambooks.org/). Platform ini memungkinkan Anda untuk membaca, menyumbangkan cerita karangan Anda sendiri, menerjemahkan cerita ke dalam berbagai bahasa dan juga membagikan cerita tersebut.
 
 ## **OER  di  Indonesia**
 
-**1\. [Wikipedia Bahasa Indonesia ](https://id.wikipedia.org/wiki/Halaman_Utama)**
+**1. [Wikipedia Bahasa Indonesia ](https://id.wikipedia.org/wiki/Halaman_Utama)**
 
 ![wikipedia bahasa indonesia.png](/uploads/wikipedia%20bahasa%20indonesia.png){: .img-responsive .center-block }{: width="300"}
 
-Wikipedia merupakan ensiklopedia multibahasa yang dapat disunting, disalin dan disebarkan secara bebas oleh siapa saja. Hinga saat ini terhitung sebanyak 988.77 orang sukarelawan yang telah mencoba menyunting dan menciptakan 438.444 artikel dalam bahasa Indonesia.  Seluruh artikel di Wikipedia menerapkan lisensi CC BY SA
+Wikipedia merupakan ensiklopedia multibahasa yang dapat disunting, disalin dan disebarkan secara bebas oleh siapa saja. Hinga saat ini terhitung sebanyak 988.77 orang sukarelawan yang telah mencoba menyunting dan menciptakan 438.444 artikel dalam bahasa Indonesia. Seluruh artikel di Wikipedia menerapkan lisensi CC BY SA
 
-**2\. [Sumber Pembelajaran Terbuka Universitas Terbuka ( SUAKA-UT)](https://www.ut.ac.id/OER/index.html)**
+**2. [Sumber Pembelajaran Terbuka Universitas Terbuka ( SUAKA-UT)](https://www.ut.ac.id/OER/index.html)**
 
 ![OER UT.png](/uploads/OER%20UT.png){: .img-responsive .center-block }{: width="300"}
 
 **SUAKA-UT** merupakan Open Educational Resources (OER), yaitu salah satu layanan UT dalam menyediakan materi pembelajaran yang dapat diakses secara gratis oleh masyarakat umum. Materi pembelajaran dalam bentuk siaran TV (UT TV) yang, siaran radio (UT Radio) yang ditransmisikan ke internet, perpustakaan digital, layanan guru pintar (GPO) yakni portal untuk para guru di seluruh Indonesia agar dapat mengakses sumber belajar dengan cepat dan mudah dan juga UT open courseware. Materi-materi tersebut berlisensi Creative Commons [CC BY-NC-SA ](http://creativecommons.org/licenses/by-nc-sa/3.0/)dan dibuat oleh para dosen baik secara individu ataupun tim.
 
-**3\. Open Educational Resource Unsiyah /[OER Unsiyah](http://uilis.unsyiah.ac.id/oer/about)**
+**3. Open Educational Resource Unsiyah /[OER Unsiyah](http://uilis.unsyiah.ac.id/oer/about)**
 
 ![OER Unsiyah.png](/uploads/OER%20Unsiyah.png){: .img-responsive .center-block }{: width="300"}
 
