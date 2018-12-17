@@ -20,6 +20,7 @@ Di sisi lain, kini makin banyak orang yang berbagi ilmu dengan membuat sumber pe
 
 <left><small><i><a href="https://commons.wikimedia.org/wiki/File:OER_in_Indonesian_Sumber_Pembelajaran_Terbuka_Logo.svg">Lambang OER versi bahasa Indonesia</a> oleh <a href="https://commons.wikimedia.org/wiki/User:IvanLanin">Ivan Lanin</a>, <a href="https://creativecommons.org/licenses/by/3.0/deed.en">CC BY</a></i></small></left>
 
+
 OER adalah sebuah istilah yang disepakati oleh berbagai organisasi. [UNESCO](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-are-open-educational-resources-oers/) salah satu organisasi internasional yang turut serta memberikan definisi mengenai OER yakni:
 
 > Materi ajar atau hasil penelitian yang tersedia dalam berbagi media secara terbuka (menerapkan lisensi terbuka) dan bebas biaya untuk diakses, digunakan kembali atau diadaptasi, dan disebarkan kembali oleh penggunanya dapat disebut sebagai OER. OER biasanya berupa buku teks, kurikulum, silabus, catatan, contoh penugasan, contoh tes yang disediakan dalam format audio, video tutorial maupun animasi.
@@ -43,6 +44,7 @@ Prinsip 5R di atas menerangkan bahwa penerapan lisensi terbuka juga termasuk seb
 Lisensi terbuka yakni lisensi yang menganut prinsip "Some Right Reserved" atau beberapa hak dipertahankan. Dengan menerapkan lisensi terbuka seperti Creative Commons (CC). Paling tidak pengguna secara legal dapat menggunakan dan menyebarkan kembali ciptaan. Dengan izin langsung oleh penciptanya yang tertera pada suatu ketentuan lisensi agar terdapat kepastian hukum. Penerapan lisensi CC pada OER dapat memudahkan segala aktivitas pembuatan atau pengembangan OER.
 
 ![creative-commons.jpg](/uploads/creative-commons.jpg){: .img-responsive .center-block }{: width="300"}
+
 
 Untuk mengenal lisensi CC, pertama-tama perlu diketahui 4 ketentuan lisensi CC yakni:
 
@@ -74,7 +76,7 @@ Empat ketentuan tersebut tersedia 6 pilihan lisensi CC yang diterapkan oleh penc
 
 ## **Pilihan lisensi CC yang tidak disarankan pada materi OER**
 
-![oer_cc-by_license-650x479.png](/uploads/oer_cc-by_license-650x479.png){: .img-responsive .center-block }{: width="500"}
+![oer_cc-by_license-650x479.png](/uploads/oer_cc-by_license-650x479.png){: .img-responsive .center-block }{: width="600"}
 
 Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND   ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)dan [CC-BY-NC-ND ](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) tidak disarankan. Karena spektrum ND atau tanpa turunan dapat menutup peluang orang lain untuk mengembangkan kembali konten OER tersebut.
 
