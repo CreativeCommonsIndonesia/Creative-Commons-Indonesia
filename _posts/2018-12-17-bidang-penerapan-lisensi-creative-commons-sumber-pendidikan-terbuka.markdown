@@ -40,7 +40,7 @@ Prinsip 5R di atas menerangkan bahwa penerapan lisensi terbuka juga termasuk seb
 
 Lisensi terbuka yakni lisensi yang menganut prinsip "Some Right Reserved" atau beberapa hak dipertahankan. Dengan menerapkan lisensi terbuka seperti Creative Commons (CC). Paling tidak pengguna secara legal dapat menggunakan dan menyebarkan kembali ciptaan. Dengan izin langsung oleh penciptanya yang tertera pada suatu ketentuan lisensi agar terdapat kepastian hukum. Penerapan lisensi CC pada OER dapat memudahkan segala aktivitas pembuatan atau pengembangan OER.
 
-![creative-commons.jpg](/uploads/creative-commons.jpg)
+![creative-commons.jpg](/uploads/creative-commons.jpg){: .img-responsive .center-block }{: width="300"}
 
 Untuk mengenal lisensi CC, pertama-tama perlu diketahui 4 ketentuan lisensi CC yakni:
 
@@ -72,7 +72,7 @@ Empat ketentuan tersebut tersedia 6 pilihan lisensi CC yang diterapkan oleh penc
 
 ## **Pilihan lisensi CC yang tidak disarankan pada materi OER**
 
-![oer_cc-by_license-650x479.png](/uploads/oer_cc-by_license-650x479.png){: .img-responsive .center-block }{: width="200"}
+![oer_cc-by_license-650x479.png](/uploads/oer_cc-by_license-650x479.png){: .img-responsive .center-block }{: width="500"}
 
 Dari keenam ragam  pilihan lisensi CC, hanya dua pilihan lisensi yakni [CC-BY-ND   ](http://creativecommons.org/licenses/by-nd/4.0/deed.id)dan [CC-BY-NC-ND ](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.id) tidak disarankan. Karena spektrum ND atau tanpa turunan dapat menutup peluang orang lain untuk mengembangkan kembali konten OER tersebut.
 
@@ -106,7 +106,7 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
 4. Public Library of Science ([PLOS](http://www.plos.org))
 
-   ![Plos-0729de.png](/uploads/Plos-0729de.png)
+   ![Plos-0729de.png](/uploads/Plos-0729de.png){: .img-responsive .center-block }{: width="200"}
 
    PLoS sebagai organisasi  penerbitan dan advokasi nirlaba berlisensi CC yang berfokus pada sains dan kedokteran.
 
