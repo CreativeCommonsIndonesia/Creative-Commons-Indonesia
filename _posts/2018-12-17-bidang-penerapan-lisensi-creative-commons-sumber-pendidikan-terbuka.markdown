@@ -103,11 +103,11 @@ OER Commons merupakan perpustakaan daring bebas akses yang memungkinkan para gur
 
 EoL menyediakan ensiklopedia kolaboratif daring yang menyediakan akses global terhadap ilmu pengetahuan tentang kehidupan bilologis di muka bumi.
 
-**4. Public Library of Science ([PLOS](http://www.plos.org))**
+**4. Public Library of Science ([PLOS](https://creativecommons.or.id/2018/08/data-dan-artikel-ilmiah-terbuka-dari-plos/))**
 
 ![Plos-0729de.png](/uploads/Plos-0729de.png){: .img-responsive .left-block }{: width="300"}
 
-PLoS sebagai organisasi  penerbitan dan advokasi nirlaba berlisensi CC yang berfokus pada sains dan kedokteran.
+PLoS adalah sebuah organisasi dan advokat nirlaba yang berupaya agar literatur ilmiah yakni sains dan kedokteran dapat tersedia bebas sebagai sumber pengetahuan bersama.
 
 **5. [School of Open](http://schoolofopen.p2pu.org/)**
 
