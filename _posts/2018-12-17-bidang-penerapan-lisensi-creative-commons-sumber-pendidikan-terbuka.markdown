@@ -22,20 +22,20 @@ Di sisi lain, kini makin banyak orang yang berbagi ilmu dengan membuat sumber pe
 
 
 
->OER adalah sebuah istilah yang disepakati oleh berbagai organisasi. [UNESCO](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-are-open-educational-resources-oers/) salah satu organisasi internasional yang turut serta memberikan definisi mengenai OER yakni:
+>**OER **adalah sebuah istilah yang disepakati oleh berbagai organisasi. [UNESCO](http://http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/what-are-open-educational-resources-oers/) salah satu organisasi internasional yang turut serta memberikan definisi mengenai OER yakni:
 Materi ajar atau hasil penelitian yang tersedia dalam berbagi media secara terbuka (menerapkan lisensi terbuka) dan bebas biaya untuk diakses, digunakan kembali atau diadaptasi, dan disebarkan kembali oleh penggunanya dapat disebut sebagai OER. OER biasanya berupa buku teks, kurikulum, silabus, catatan, contoh penugasan, contoh tes yang disediakan dalam format audio, video tutorial maupun animasi.
 
-OER sebaiknya dianjurkan menganut [prinsip 5R ](http://www.opencontent.org/definition/) yaitu:
+**OER sebaiknya dianjurkan menganut [prinsip 5R ](http://www.opencontent.org/definition/) yaitu:**
 
-1\. Retain: Dapat diakses untuk diunduh.
+**1\. Retain**: Dapat diakses untuk diunduh.
 
-2\. Reuse: Dapat digunakan kembali.
+**2\. Reuse**: Dapat digunakan kembali.
 
-3\. Revise: Dapat diubah untuk diperbaiki atau dikembangkan.
+**3\. Revise**: Dapat diubah untuk diperbaiki atau dikembangkan.
 
-4\. Remix: Dapat dimodifikasi, diadaptasikan dan digunakan dengan bahan-bahan lain atau dibuat turunannya.
+**4\. Remix**: Dapat dimodifikasi, diadaptasikan dan digunakan dengan bahan-bahan lain atau dibuat turunannya.
 
-5\. Redistribute: Dapat digandakan dan disebarluaskan.
+**5\. Redistribute**: Dapat digandakan dan disebarluaskan.
 
 Prinsip 5R di atas menerangkan bahwa penerapan lisensi terbuka juga termasuk sebagai persyaratan penyediaan OER. Lisensi yang lazim diterapkan pada OER ialah lisensi Creative Commons (lisensi CC). Lisensi CC dapat menjadi dasar legal penciptaan, penggunaan, penyebaran, pengumuman, pengubahan, dan penggubahan konten OER bagi pencipta maupun penggunanya.
 
