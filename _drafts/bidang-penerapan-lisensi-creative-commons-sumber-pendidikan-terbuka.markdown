@@ -114,7 +114,7 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
    ![School of Open.png](/uploads/School%20of%20Open.png){: .img-responsive .center-block }{: width="200"}
 
-   School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis untuk siapa saja yang ingin belajar mengenai arti dan dampak dari lisensi dan sumber terbuka, Open Policy Network adalah  koalisi para ahli yang berkerja untuk mendorong pembuatan, adopsi, dan penerapan kebijakan dan praktik terbuka yang memajukan kepentingan publik.
+   School of Open merupakan sekolah yang menawarkan kesempatan  pendidikan gratis untuk siapa saja yang ingin belajar mengenai arti dan dampak dari lisensi dan sumber terbuka, Open Policy Network adalah  koalisi para ahli yang bekerja untuk mendorong pembuatan, adopsi, dan penerapan kebijakan dan praktik terbuka yang memajukan kepentingan publik.
 
 6. [StoryWeaver](https://creativecommons.or.id/2017/07/jaringan-buku-cerita-anak-berlisensi-terbuka-di-storyweaver-oleh-pratham-books/)
 
@@ -128,7 +128,7 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
 ![wikipedia bahasa indonesia.png](/uploads/wikipedia%20bahasa%20indonesia.png){: .img-responsive .center-block }{: width="200"}
 
-Wikipedia merupakan ensiklopedia multibahasa yang dapat disunting, disalin dan disebarkan secara bebas oleh siapa saja. Hingga saat ini terhitung sebanyak 988.77 orang sukarelawan yang telah mencoba menyunting dan menciptakan 438.444 artikel dalam bahasa Indonesia. Seluruh artikel di Wikipedia menerapkan lisensi CC BY SA
+Wikipedia merupakan ensiklopedia multibahasa yang dapat disunting, disalin dan disebarkan secara bebas oleh siapa saja. Hinga saat ini terhitung sebanyak 988.77 orang sukarelawan yang telah mencoba menyunting dan menciptakan 438.444 artikel dalam bahasa Indonesia.  Seluruh artikel di Wikipedia menerapkan lisensi CC BY SA
 
 2\. [Sumber Pembelajaran Terbuka Universitas Terbuka ( SUAKA-UT)](https://www.ut.ac.id/OER/index.html)
 
