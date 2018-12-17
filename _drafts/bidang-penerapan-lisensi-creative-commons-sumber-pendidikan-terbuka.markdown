@@ -86,9 +86,7 @@ Selain pengadaptasian OER pada kebijakan publik, terdapat juga platform-platform
 
 1. [Wikimedia](http://www.wikimedia.org/)
 
-![600px-Wikimedia_logo_family_complete.svg.png](/uploads/600px-Wikimedia_logo_family_complete.svg.png)
-
-   {: .img-responsive .center-block }{: width="200"}{: .img-responsive .center-block }<center><small><i><a href="https://en.wikipedia.org/wiki/File:Wikimedia_logo_family_complete.svg">Wikimedia Logo family</a> oleh <a href="https://wikimediafoundation.org/about/contact/">Wikimedia Foundation</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id">CC BY SA 3.0</a></i></small></center>
+![600px-Wikimedia_logo_family_complete.svg.png](/uploads/200px-Wikimedia_logo_family_complete.svg.png){: .img-responsive .center-block }<center><small><i><a href="https://en.wikipedia.org/wiki/File:Wikimedia_logo_family_complete.svg">Wikimedia Logo family</a> oleh <a href="https://wikimediafoundation.org/about/contact/">Wikimedia Foundation</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id">CC BY SA 3.0</a></i></small></center>
 
    Sebagai organisasi nirlaba bersekala global, Wikimedia mempunyai misi untuk membebaskan konten pendidikan ke seluruh dunia. Melalui berbagai macam proyek, Wikmedia mengajak siapa saja untuk berkontribusi dan berbagi pengetahuan. Adapun proyek-proyek Wikimedia yakni: Wikipedia, Wikionary, Wikiquote, Wikibooks, Wikisource,Wikimedia Commons dan lain-lainya.
 
