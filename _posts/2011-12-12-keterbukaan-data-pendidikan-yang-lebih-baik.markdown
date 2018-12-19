@@ -1,6 +1,7 @@
 ---
 title: Keterbukaan Data = Pendidikan yang Lebih Baik
 date: 2011-12-12 16:22:00 +07:00
+published: false
 categories:
 - Berita
 - Kajian
