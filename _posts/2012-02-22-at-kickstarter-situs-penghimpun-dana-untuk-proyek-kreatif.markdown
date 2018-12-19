@@ -1,6 +1,7 @@
 ---
 title: "@kickstarter: situs penghimpun dana untuk proyek kreatif"
 date: 2012-02-22 19:11:00 +07:00
+published: false
 categories:
 - Berita
 tags:

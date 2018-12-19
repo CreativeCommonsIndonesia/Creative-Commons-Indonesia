@@ -1,6 +1,7 @@
 ---
 title: 'Buku dengan #lisensiCC BY-NC-SA dari Julie E. Cohen'
 date: 2012-02-21 19:08:00 +07:00
+published: false
 categories:
 - Berita
 tags:
