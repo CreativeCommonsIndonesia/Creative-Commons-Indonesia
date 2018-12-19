@@ -4,7 +4,6 @@ title: Konferensi Creative Commons Asia Pasifik 2012 dan Peluncuran Creative Com
 date: 2012-11-23 11:52:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Konferensi Creative Commons Asia Pasifik 2012
 - Peluncuran Creative Commons Indonesia

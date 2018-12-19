@@ -3,7 +3,6 @@ title: Konferensi Creative Commons Asia Pasifik 2012 dan Peluncuran Creative Com
   Indonesia
 date: 2012-11-03 21:06:00 +07:00
 categories:
-- Berita
 - Acara
 tags:
 - CCID
