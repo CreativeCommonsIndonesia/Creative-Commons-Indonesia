@@ -3,7 +3,6 @@ title: Diskusi Teks Terjemahan Lisensi Creative Commons di Indonesian Visual Art
   Yogyakarta
 date: 2012-09-21 20:49:00 +07:00
 categories:
-- Berita
 - Acara
 tags:
 - Diskusi
