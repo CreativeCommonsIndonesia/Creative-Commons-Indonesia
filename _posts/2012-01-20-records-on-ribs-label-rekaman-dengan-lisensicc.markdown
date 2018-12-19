@@ -1,6 +1,7 @@
 ---
 title: 'Records on Ribs: label rekaman dengan #lisensiCC'
 date: 2012-01-20 17:32:00 +07:00
+published: false
 categories:
 - Berita
 tags:
