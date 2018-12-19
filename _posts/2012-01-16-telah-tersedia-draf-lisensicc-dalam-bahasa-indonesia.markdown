@@ -1,9 +1,6 @@
 ---
 title: 'Telah tersedia: Draf #lisensiCC Versi 3.0 dalam Bahasa Indonesia'
 date: 2012-01-16 17:25:00 +07:00
-categories:
-- Kajian
-- Berita
 tags:
 - Draf Lisensi
 - Lisensi Creative Commons
