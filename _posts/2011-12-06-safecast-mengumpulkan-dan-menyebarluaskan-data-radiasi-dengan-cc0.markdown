@@ -1,6 +1,7 @@
 ---
 title: 'Safecast: mengumpulkan dan menyebarluaskan data radiasi dengan CC0'
 date: 2011-12-06 15:08:00 +07:00
+published: false
 categories:
 - Berita
 tags:

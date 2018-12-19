@@ -1,6 +1,7 @@
 ---
 title: Situs DEEDI dan QPS dengan lisensi CC Australia
 date: 2011-12-01 15:00:00 +07:00
+published: false
 categories:
 - Berita
 tags:
