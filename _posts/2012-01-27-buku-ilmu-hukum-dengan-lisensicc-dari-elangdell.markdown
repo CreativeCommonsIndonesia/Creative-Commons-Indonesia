@@ -1,6 +1,7 @@
 ---
 title: 'Buku Ilmu Hukum dengan #lisensiCC dari eLangdell'
 date: 2012-01-27 17:40:00 +07:00
+published: false
 categories:
 - Berita
 tags:
