@@ -1,6 +1,7 @@
 ---
 title: 'Media dengan #lisensiCC dari SpinXpress'
 date: 2012-01-11 17:17:00 +07:00
+published: false
 categories:
 - Berita
 tags:
