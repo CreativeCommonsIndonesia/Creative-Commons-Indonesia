@@ -2,7 +2,6 @@
 title: Creative Commons Indonesia Meramaikan Social Media Festival 2012
 date: 2012-10-15 21:19:00 +07:00
 categories:
-- Berita
 - Acara
 tags:
 - CCID
