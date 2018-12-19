@@ -1,6 +1,7 @@
 ---
 title: Proyek Film "This is Not a Conspiracy Theory" dengan Lisensi CC BY
 date: 2012-03-01 19:21:00 +07:00
+published: false
 categories:
 - Berita
 tags:
