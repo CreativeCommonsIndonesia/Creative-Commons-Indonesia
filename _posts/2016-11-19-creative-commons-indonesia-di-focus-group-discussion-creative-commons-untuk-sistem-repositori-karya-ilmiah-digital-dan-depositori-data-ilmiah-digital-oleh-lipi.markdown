@@ -5,7 +5,6 @@ title: Creative Commons Indonesia di Focus Group Discussion "Creative Commons Un
 date: 2016-11-19 18:30:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - LIPI
 - PDII LIPI
