@@ -2,8 +2,6 @@
 title: Diskusi penerapan lisensi Creative Commons untuk Yayasan Lontar
 date: 2011-10-20 13:13:00 +07:00
 categories:
-- Berita
-- Sobat CCID
 - Acara
 tags:
 - Sosialisasi Lisensi Creative Commons
