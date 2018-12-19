@@ -1,6 +1,7 @@
 ---
 title: 'Jonathan Worth: Fotografer pengguna #lisensiCC'
 date: 2012-01-31 17:50:00 +07:00
+published: false
 categories:
 - Berita
 tags:
