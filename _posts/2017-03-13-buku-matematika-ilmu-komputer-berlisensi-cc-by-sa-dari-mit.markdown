@@ -1,6 +1,7 @@
 ---
 title: Buku Matematika Ilmu Komputer Berlisensi CC BY-SA dari MIT!
 date: 2017-03-13 11:54:00 +07:00
+published: false
 categories:
 - Berita
 tags:
