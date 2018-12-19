@@ -2,8 +2,6 @@
 title: Metropolitan Museum of Art di New York melepaskan 375.000 lebih karya digital!
   (CC0)
 date: 2017-03-02 21:02:00 +07:00
-categories:
-- Berita
 tags:
 - Metropolitan Museum of Art
 - New York
