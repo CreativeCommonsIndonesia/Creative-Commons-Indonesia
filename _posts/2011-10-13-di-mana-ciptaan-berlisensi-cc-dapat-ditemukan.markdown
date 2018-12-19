@@ -1,6 +1,7 @@
 ---
 title: Di mana ciptaan berlisensi CC dapat ditemukan?
 date: 2011-10-13 19:27:00 +07:00
+published: false
 categories:
 - Kajian
 - Berita

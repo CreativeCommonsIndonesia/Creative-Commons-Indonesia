@@ -1,6 +1,7 @@
 ---
 title: Apa versi terakhir lisensi yang ditawarkan oleh Creative Commons?
 date: 2011-10-13 17:33:00 +07:00
+published: false
 categories:
 - Kajian
 - Berita
