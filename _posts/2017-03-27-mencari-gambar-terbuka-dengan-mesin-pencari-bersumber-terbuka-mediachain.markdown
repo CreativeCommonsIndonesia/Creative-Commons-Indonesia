@@ -1,8 +1,6 @@
 ---
 title: Mencari Gambar Terbuka Dengan Mesin Pencari Bersumber Terbuka, Mediachain!
 date: 2017-03-27 17:54:00 +07:00
-categories:
-- Berita
 tags:
 - Mediachain
 - Open Source
