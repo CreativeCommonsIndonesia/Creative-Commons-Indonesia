@@ -1,6 +1,7 @@
 ---
 title: 'Foto dengan #lisensiCC dari Fotopedia'
 date: 2012-01-10 17:15:00 +07:00
+published: false
 categories:
 - Berita
 tags:
