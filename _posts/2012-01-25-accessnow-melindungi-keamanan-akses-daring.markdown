@@ -1,6 +1,7 @@
 ---
 title: 'Accessnow: Melindungi Keamanan Akses Daring'
 date: 2012-01-25 17:36:00 +07:00
+published: false
 categories:
 - Berita
 tags:
