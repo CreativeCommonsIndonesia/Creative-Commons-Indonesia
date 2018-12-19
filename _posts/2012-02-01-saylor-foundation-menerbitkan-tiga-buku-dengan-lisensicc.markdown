@@ -1,6 +1,7 @@
 ---
 title: 'Saylor Foundation menerbitkan tiga buku dengan #lisensiCC'
 date: 2012-02-01 17:51:00 +07:00
+published: false
 categories:
 - Berita
 tags:
