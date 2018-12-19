@@ -1,5 +1,5 @@
 ---
-title: Infografis Bermain Internet Meme Sambil Menghindari Pelanggaran Hak Cipta oleh
+title: Infografik Bermain Internet Meme Sambil Menghindari Pelanggaran Hak Cipta oleh
   Beritagar!
 date: 2016-09-02 20:28:00 +07:00
 categories:
