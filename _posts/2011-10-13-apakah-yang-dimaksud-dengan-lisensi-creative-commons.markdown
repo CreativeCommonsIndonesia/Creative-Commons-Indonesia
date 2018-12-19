@@ -1,6 +1,7 @@
 ---
 title: Apakah yang dimaksud dengan lisensi Creative Commons?
 date: 2011-10-13 17:28:00 +07:00
+published: false
 categories:
 - Berita
 tags:
