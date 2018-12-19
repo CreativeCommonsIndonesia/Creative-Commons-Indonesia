@@ -2,9 +2,6 @@
 title: Pertemuan CC Indonesia, OCW Consortium, dan Aptikom
 date: 2011-10-07 00:00:00 +07:00
 categories:
-- Sobat CCID
-- Berita
-- Kajian
 - Acara
 tags:
 - Sosialisasi
@@ -13,9 +10,9 @@ tags:
 - Hak Cipta
 - Lisensi Terbuka
 author: ivan
-layout: post
 comments: true
 img: "/uploads/Logo%20OCW.jpg"
+layout: post
 ---
 
 ![Logo OCW.jpg](/uploads/Logo%20OCW.jpg){: .img-responsive .center-block }
