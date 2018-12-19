@@ -1,6 +1,7 @@
 ---
 title: Perpustakaan dan Museum Nasional dengan CC0
 date: 2012-03-13 19:48:00 +07:00
+published: false
 categories:
 - Berita
 - Kajian

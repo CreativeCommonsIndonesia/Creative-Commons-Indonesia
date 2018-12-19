@@ -2,6 +2,7 @@
 title: Kompetisi Video Why Open Education Matters oleh Creative Commons, Departemen
   Pendidikan AS, dan Open Society Foundation
 date: 2012-03-06 19:32:00 +07:00
+published: false
 categories:
 - Berita
 tags:
