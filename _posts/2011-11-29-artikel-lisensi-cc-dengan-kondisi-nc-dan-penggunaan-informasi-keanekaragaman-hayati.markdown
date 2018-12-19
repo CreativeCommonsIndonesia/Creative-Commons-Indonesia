@@ -1,6 +1,7 @@
 ---
 title: Lisensi CC dengan kondisi NC dan penggunaan informasi keanekaragaman hayati
 date: 2011-11-29 14:56:00 +07:00
+published: false
 categories:
 - Kajian
 - Berita
