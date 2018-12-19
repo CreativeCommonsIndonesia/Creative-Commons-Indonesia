@@ -1,9 +1,6 @@
 ---
 title: Daftar Pertanyaan Umum Baru tentang Data
 date: 2012-01-12 17:19:00 +07:00
-categories:
-- Berita
-- Kajian
 tags:
 - Data
 - Basis Data
