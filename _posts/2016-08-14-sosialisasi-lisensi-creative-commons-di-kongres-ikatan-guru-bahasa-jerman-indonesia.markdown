@@ -3,7 +3,6 @@ title: Sosialisasi Lisensi Creative Commons di Kongres Ikatan Guru Bahasa Jerman
 date: 2016-08-14 16:37:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Acara
 - Sosialisasi Lisensi Creative Commons

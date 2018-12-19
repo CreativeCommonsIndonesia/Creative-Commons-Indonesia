@@ -3,7 +3,6 @@ title: 'Peluncuran Album Kompilasi #tribute2ERK di Ruang Rupa Radio'
 date: 2016-07-14 17:57:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - "#Tribute2ERK"
 - Ruang Rupa Radio
