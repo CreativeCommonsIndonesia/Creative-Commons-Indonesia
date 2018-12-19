@@ -1,6 +1,7 @@
 ---
 title: Bagaimana cara kerja lisensi CC?
 date: 2011-10-13 17:29:00 +07:00
+published: false
 categories:
 - Kajian
 - Berita
