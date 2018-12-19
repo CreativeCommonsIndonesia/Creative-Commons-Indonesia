@@ -1,6 +1,7 @@
 ---
 title: 'Saylor Foundation: US$ 20,000 untuk buku kuliah gratis!'
 date: 2012-05-11 20:04:00 +07:00
+published: false
 categories:
 - Berita
 tags:
