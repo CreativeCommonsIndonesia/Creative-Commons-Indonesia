@@ -1,8 +1,6 @@
 ---
 title: Sajian Data Global Berlisensi Terbuka oleh ourworldindata.org
 date: 2017-04-03 19:03:00 +07:00
-categories:
-- Berita
 tags:
 - Our Wolrd In Data
 - OWID
