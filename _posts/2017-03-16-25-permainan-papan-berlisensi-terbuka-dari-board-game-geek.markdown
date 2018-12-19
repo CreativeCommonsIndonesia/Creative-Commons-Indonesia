@@ -1,6 +1,7 @@
 ---
 title: 25 Permainan Papan Berlisensi Terbuka dari Board Game Geek!
 date: 2017-03-16 19:08:00 +07:00
+published: false
 categories:
 - Berita
 tags:
