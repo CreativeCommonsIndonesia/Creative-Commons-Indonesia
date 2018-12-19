@@ -1,6 +1,7 @@
 ---
 title: Dua Radio Daring Indonesia Menggunakan Lisensi CC
 date: 2011-11-07 14:10:00 +07:00
+published: false
 categories:
 - Berita
 - Sobat CCID
