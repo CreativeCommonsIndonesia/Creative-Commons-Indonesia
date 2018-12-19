@@ -2,7 +2,6 @@
 title: Gorontalo, Kota Ketiga Yang Dikunjungi oleh Creative Commons Indonesia
 date: 2013-10-19 12:26:00 +07:00
 categories:
-- Berita
 - Acara
 tags:
 - Creative Commons Indonesia
