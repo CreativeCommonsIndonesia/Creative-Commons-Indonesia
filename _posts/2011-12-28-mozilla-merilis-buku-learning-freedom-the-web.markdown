@@ -1,6 +1,7 @@
 ---
 title: Mozilla merilis buku Learning, Freedom & the Web
 date: 2011-12-28 17:01:00 +07:00
+published: false
 categories:
 - Berita
 tags:
