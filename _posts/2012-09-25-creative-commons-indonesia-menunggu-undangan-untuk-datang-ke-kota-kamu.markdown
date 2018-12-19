@@ -1,6 +1,7 @@
 ---
 title: Creative Commons Indonesia Menunggu Undangan untuk Datang ke Kota Kamu
 date: 2012-09-25 20:53:00 +07:00
+published: false
 categories:
 - Acara
 - Sobat CCID
