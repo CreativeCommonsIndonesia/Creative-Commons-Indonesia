@@ -3,7 +3,6 @@ title: Celebration of Freedom of Sharing in Indonesia!
 date: 2016-12-18 19:07:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Celebration of Freedom of Sharing in Indonesia
 - Freedom of Sharing
