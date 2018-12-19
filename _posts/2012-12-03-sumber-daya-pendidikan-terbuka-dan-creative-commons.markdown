@@ -2,7 +2,6 @@
 title: Sumber Pembelajaran Terbuka dan Creative Commons
 date: 2012-12-03 12:06:00 +07:00
 categories:
-- Berita
 - Kajian
 tags:
 - Sumber Pembelajaran Terbuka
