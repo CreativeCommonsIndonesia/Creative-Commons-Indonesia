@@ -2,6 +2,7 @@
 title: Mengapa Creative Commons melakukan kampanye penggalangan dana tahunan? Untuk
   apa uang itu?
 date: 2011-10-13 16:46:00 +07:00
+published: false
 categories:
 - Berita
 tags:
