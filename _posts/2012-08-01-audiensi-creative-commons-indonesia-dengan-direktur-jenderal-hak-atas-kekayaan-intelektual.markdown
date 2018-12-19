@@ -3,7 +3,6 @@ title: Audiensi Creative Commons Indonesia dengan Direktur Jenderal Hak atas Kek
   Intelektual
 date: 2012-08-01 20:32:00 +07:00
 categories:
-- Berita
 - Acara
 tags:
 - Sosialisasi Lisensi Creative Commons

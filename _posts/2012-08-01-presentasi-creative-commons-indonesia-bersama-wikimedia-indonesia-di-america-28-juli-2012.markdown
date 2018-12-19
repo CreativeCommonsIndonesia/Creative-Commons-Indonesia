@@ -3,7 +3,6 @@ title: Presentasi Creative Commons Indonesia bersama Wikimedia Indonesia di @Ame
   28 Juli 2012
 date: 2012-08-01 20:26:00 +07:00
 categories:
-- Berita
 - Acara
 tags:
 - Sosialisasi Lisensi Creative Commons

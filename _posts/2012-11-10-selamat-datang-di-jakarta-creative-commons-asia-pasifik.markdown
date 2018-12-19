@@ -3,7 +3,6 @@ title: Selamat Datang di Jakarta Creative Commons Asia Pasifik!
 date: 2012-11-10 21:25:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Creative Commons Indonesia
 - CCID
