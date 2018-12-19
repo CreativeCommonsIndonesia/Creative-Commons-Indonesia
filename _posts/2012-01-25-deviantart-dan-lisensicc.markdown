@@ -1,8 +1,6 @@
 ---
 title: 'DeviantART dan #lisensiCC'
 date: 2012-01-25 17:33:00 +07:00
-categories:
-- Berita
 tags:
 - DeviantArt
 - Fotografi
