@@ -2,6 +2,7 @@
 title: 'SACEM (organisasi pengumpul royalti di Perancis) dan penggunaan #lisensiCC
   NC'
 date: 2012-01-13 17:23:00 +07:00
+published: false
 categories:
 - Berita
 tags:
