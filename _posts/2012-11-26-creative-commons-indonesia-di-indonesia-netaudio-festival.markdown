@@ -3,7 +3,6 @@ title: Creative Commons Indonesia di Indonesia Netaudio Festival
 date: 2012-11-26 12:01:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Creative Commons Indonesia
 - CCID
