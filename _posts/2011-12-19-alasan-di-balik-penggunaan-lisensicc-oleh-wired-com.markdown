@@ -1,6 +1,7 @@
 ---
 title: 'Alasan di balik penggunaan #lisensiCC oleh Wired.com'
 date: 2011-12-19 16:52:00 +07:00
+published: false
 categories:
 - Berita
 tags:
