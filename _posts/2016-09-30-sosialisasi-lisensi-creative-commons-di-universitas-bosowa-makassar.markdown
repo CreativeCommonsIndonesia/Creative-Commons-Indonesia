@@ -3,7 +3,6 @@ title: Sosialisasi Lisensi Creative Commons di Universitas Bosowa Makassar
 date: 2016-09-30 18:11:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Sosialisasi Lisensi Creative Commons
 - Sosialisasi

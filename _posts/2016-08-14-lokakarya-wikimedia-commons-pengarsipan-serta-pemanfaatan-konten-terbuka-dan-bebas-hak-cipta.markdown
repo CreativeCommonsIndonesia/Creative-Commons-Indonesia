@@ -4,7 +4,6 @@ title: 'Lokakarya Wikimedia Commons: "Pengarsipan serta Pemanfaatan Konten Terbu
 date: 2016-08-14 16:50:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Wikimedia Commons
 - Lokakarya Wikimedia Commons
