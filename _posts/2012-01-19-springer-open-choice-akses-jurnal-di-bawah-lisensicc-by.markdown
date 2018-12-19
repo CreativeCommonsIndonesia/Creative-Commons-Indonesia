@@ -1,6 +1,7 @@
 ---
 title: 'Springer Open Choice: akses jurnal di bawah #lisensiCC BY'
 date: 2012-01-19 17:30:00 +07:00
+published: false
 categories:
 - Berita
 tags:
