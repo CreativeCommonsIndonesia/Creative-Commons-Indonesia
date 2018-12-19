@@ -2,7 +2,6 @@
 title: Persiapan dan Anggaran
 date: 2012-07-17 20:08:00 +07:00
 categories:
-- Berita
 - Acara
 tags:
 - Persiapan dan Anggaran
