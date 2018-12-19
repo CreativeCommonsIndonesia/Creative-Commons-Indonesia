@@ -1,6 +1,7 @@
 ---
 title: Curi Konten Berita Kami! Jurnalistik berbasis lisensi terbuka dari ProPublica!
 date: 2017-03-27 18:42:00 +07:00
+published: false
 categories:
 - Berita
 tags:
