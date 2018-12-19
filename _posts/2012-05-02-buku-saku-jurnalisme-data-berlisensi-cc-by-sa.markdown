@@ -1,6 +1,7 @@
 ---
 title: Buku Saku Jurnalisme Data berlisensi CC BY-SA
 date: 2012-05-02 19:59:00 +07:00
+published: false
 categories:
 - Berita
 tags:
