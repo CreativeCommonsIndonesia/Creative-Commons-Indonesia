@@ -3,7 +3,6 @@ title: Diskusi Teks Terjemahan Lisensi Creative Commons di London School of Publ
   Relations
 date: 2012-08-14 20:37:00 +07:00
 categories:
-- Berita
 - Acara
 tags:
 - Diskusi

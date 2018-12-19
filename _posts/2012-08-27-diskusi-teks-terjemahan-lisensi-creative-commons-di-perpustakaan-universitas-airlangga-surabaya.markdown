@@ -3,7 +3,6 @@ title: Diskusi Teks Terjemahan Lisensi Creative Commons di Perpustakaan Universi
   Airlangga, Surabaya
 date: 2012-08-27 20:45:00 +07:00
 categories:
-- Berita
 - Acara
 tags:
 - Diskusi

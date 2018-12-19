@@ -2,7 +2,6 @@
 title: Creative Commons Indonesia di Jagongan Media Rakyat 2012
 date: 2012-04-27 19:13:00 +07:00
 categories:
-- Berita
 - Acara
 tags:
 - Jagongan Media Rakyat
