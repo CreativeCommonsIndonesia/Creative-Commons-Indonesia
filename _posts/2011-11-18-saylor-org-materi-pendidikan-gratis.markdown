@@ -1,6 +1,7 @@
 ---
 title: 'Saylor.org: Materi pendidikan gratis!'
 date: 2011-11-18 14:37:00 +07:00
+published: false
 categories:
 - Berita
 tags:
