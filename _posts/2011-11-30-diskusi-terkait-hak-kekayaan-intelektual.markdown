@@ -2,7 +2,6 @@
 title: Diskusi terkait Hak Kekayaan Intelektual
 date: 2011-11-30 14:58:00 +07:00
 categories:
-- Berita
 - Acara
 tags:
 - Diskusi
