@@ -3,7 +3,6 @@ title: Sosialisasi Lisensi Creative Commons di Fakultas Hukum Universitas Gadjah
 date: 2016-10-15 18:20:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Sosialisasi
 - Sosialisasi Lisensi

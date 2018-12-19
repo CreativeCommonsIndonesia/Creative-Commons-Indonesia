@@ -3,7 +3,6 @@ title: Perwakilan Creative Commons Indonesia Menghadiri CC Asia Pacific Regional
 date: 2016-07-01 16:55:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Creative Commons
 - Creative Commons Indonesia
