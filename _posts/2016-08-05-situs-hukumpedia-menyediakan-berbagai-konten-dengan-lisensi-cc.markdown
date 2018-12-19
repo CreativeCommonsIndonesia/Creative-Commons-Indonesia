@@ -1,6 +1,7 @@
 ---
 title: Situs Hukumpedia Menyediakan Berbagai Konten Dengan Lisensi CC
 date: 2016-08-05 12:49:00 +07:00
+published: false
 categories:
 - Sobat CCID
 - Berita
