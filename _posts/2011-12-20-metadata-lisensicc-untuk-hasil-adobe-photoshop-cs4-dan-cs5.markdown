@@ -1,8 +1,6 @@
 ---
 title: 'Metadata #lisensiCC untuk hasil Adobe Photoshop CS5'
 date: 2011-12-20 16:54:00 +07:00
-categories:
-- Berita
 tags:
 - Metadata
 - Lisensi CC
