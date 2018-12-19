@@ -1,6 +1,7 @@
 ---
 title: 'Occuprint: poster gerakan anti kapitalis dengan #lisensiCC BY-NC-SA'
 date: 2012-02-14 18:56:00 +07:00
+published: false
 categories:
 - Berita
 tags:
