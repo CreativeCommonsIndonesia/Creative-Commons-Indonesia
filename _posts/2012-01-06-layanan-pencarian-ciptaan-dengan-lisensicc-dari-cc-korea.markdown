@@ -1,6 +1,7 @@
 ---
 title: 'Layanan Pencarian Ciptaan dengan #lisensiCC dari CC Korea'
 date: 2012-01-06 17:11:00 +07:00
+published: false
 categories:
 - Berita
 tags:

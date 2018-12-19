@@ -1,6 +1,7 @@
 ---
 title: 'Jurnal Ilmiah tentang Mengenal Teknologi dengan #lisensiCC BY 3.0'
 date: 2012-01-05 17:09:00 +07:00
+published: false
 categories:
 - Berita
 tags:

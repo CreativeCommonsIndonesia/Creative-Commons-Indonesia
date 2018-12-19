@@ -1,6 +1,7 @@
 ---
 title: 'globalvoicesonline.org: situs dengan #lisensiCC BY 3.0'
 date: 2012-01-04 17:06:00 +07:00
+published: false
 categories:
 - Berita
 tags:
