@@ -3,7 +3,6 @@ title: Creative Commons Indonesia di ALSA Legal Coaching Clinic 2012
 date: 2012-12-11 12:14:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Creative Commons Indonesia
 - CCID

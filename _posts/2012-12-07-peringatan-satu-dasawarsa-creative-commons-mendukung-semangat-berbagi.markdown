@@ -3,7 +3,6 @@ title: Peringatan Satu Dasawarsa Creative Commons Mendukung Semangat Berbagi
 date: 2012-12-07 12:09:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Creative Commons 10th Years Anniversary
 - Creative Commons
