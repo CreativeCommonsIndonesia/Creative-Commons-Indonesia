@@ -1,6 +1,7 @@
 ---
 title: 'Inspired Teachers: logo dan poster dengan #lisensiCC tentang pengajar'
 date: 2012-02-09 18:08:00 +07:00
+published: false
 categories:
 - Berita
 tags:

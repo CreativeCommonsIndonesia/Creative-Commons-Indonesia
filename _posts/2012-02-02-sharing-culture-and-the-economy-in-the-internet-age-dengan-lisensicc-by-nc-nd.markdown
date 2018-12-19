@@ -1,6 +1,7 @@
 ---
 title: 'Sharing: Culture and the Economy in the Internet Age dengan #lisensiCC BY-NC-ND'
 date: 2012-02-02 17:54:00 +07:00
+published: false
 categories:
 - Berita
 - kajia

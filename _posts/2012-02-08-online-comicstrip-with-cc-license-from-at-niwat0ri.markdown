@@ -1,6 +1,7 @@
 ---
 title: Online comicstrip with CC license from @niwat0ri
 date: 2012-02-08 18:02:00 +07:00
+published: false
 categories:
 - Berita
 - Sobat CCID
