@@ -2,7 +2,6 @@
 title: Diskusi Publik Creative Commons Indonesia, 7 Juli 2012
 date: 2012-07-17 20:20:00 +07:00
 categories:
-- Berita
 - Acara
 tags:
 - Diskusi Publik
