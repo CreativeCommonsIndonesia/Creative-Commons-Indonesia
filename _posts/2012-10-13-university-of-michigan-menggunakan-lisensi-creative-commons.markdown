@@ -1,6 +1,7 @@
 ---
 title: University of Michigan Menggunakan Lisensi Creative Commons
 date: 2012-10-13 21:10:00 +07:00
+published: false
 categories:
 - Berita
 tags:

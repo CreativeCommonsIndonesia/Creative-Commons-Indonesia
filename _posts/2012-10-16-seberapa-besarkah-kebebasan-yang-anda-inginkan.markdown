@@ -2,7 +2,6 @@
 title: Seberapa Besarkah Kebebasan yang Anda Inginkan?
 date: 2012-10-16 21:22:00 +07:00
 categories:
-- Berita
 - Kajian
 tags:
 - Budaya Bebas
