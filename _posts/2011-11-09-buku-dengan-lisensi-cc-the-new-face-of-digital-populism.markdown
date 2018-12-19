@@ -1,6 +1,7 @@
 ---
 title: 'Buku dengan lisensi CC: The New Face of Digital Populism'
 date: 2011-11-09 14:26:00 +07:00
+published: false
 categories:
 - Berita
 tags:

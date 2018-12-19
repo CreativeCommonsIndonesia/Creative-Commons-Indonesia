@@ -1,6 +1,7 @@
 ---
 title: 'Wired.com: 50 gambar dengan lisensi CC'
 date: 2011-11-11 14:30:00 +07:00
+published: false
 categories:
 - Berita
 tags:
