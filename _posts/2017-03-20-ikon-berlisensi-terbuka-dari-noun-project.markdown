@@ -1,8 +1,6 @@
 ---
 title: Ikon berlisensi terbuka dari Noun Project!
 date: 2017-03-20 17:58:00 +07:00
-categories:
-- Berita
 tags:
 - Noun Project
 - Icon
