@@ -3,7 +3,6 @@ title: Creative Commons Indonesia Kumpul-Kumpul Bersama Komunitas Web Series Ind
 date: 2012-12-24 12:17:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Creative Commons Indonesia
 - CCID

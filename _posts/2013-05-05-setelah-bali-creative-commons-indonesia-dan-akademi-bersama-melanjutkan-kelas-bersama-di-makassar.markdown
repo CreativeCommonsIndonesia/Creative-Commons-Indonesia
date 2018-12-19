@@ -4,7 +4,6 @@ title: Setelah Bali, Creative Commons Indonesia dan Akademi Bersama Melanjutkan 
 date: 2013-05-05 12:23:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Creative Commons Indonesia
 - Akademi Bersama

@@ -4,7 +4,6 @@ title: Creative Commons Indonesia dan Akademi Berbagi Mengadakan Kelas Bersama d
 date: 2013-04-30 12:19:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Creative Commons Indonesia
 - CCID
