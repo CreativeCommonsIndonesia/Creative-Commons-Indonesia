@@ -2,8 +2,6 @@
 title: Apakah organisasi Anda siap untuk menerapkan lisensi terbuka? Coba perangkat
   penilaian keterbukaan ini!
 date: 2017-03-17 18:06:00 +07:00
-categories:
-- Berita
 tags:
 - OER
 - Open Licenses
