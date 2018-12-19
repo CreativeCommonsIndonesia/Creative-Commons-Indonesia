@@ -1,8 +1,6 @@
 ---
 title: Panduan Mencari Ciptaan Domain Publik Daring dari Open Knowledge
 date: 2012-01-26 17:39:00 +07:00
-categories:
-- Berita
 tags:
 - Open Knowledge Foudnation
 - Public Domain
