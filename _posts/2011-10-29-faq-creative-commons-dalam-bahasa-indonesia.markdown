@@ -1,10 +1,6 @@
 ---
 title: FAQ Creative Commons dalam bahasa Indonesia
 date: 2011-10-29 13:21:00 +07:00
-published: false
-categories:
-- Berita
-- Kajian
 tags:
 - FAQ
 - FAQ Creative Commons
