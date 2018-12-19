@@ -3,7 +3,6 @@ title: Sosialisasi Lisensi CC di Fakultas Hukum Universitas Brawijaya Malang
 date: 2016-11-19 18:59:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Sosialisasi
 - Sosialisasi Lisensi
