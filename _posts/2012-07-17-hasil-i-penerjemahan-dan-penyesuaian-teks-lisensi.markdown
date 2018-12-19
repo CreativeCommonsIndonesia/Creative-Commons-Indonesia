@@ -1,9 +1,6 @@
 ---
 title: Hasil I Penerjemahan dan Penyesuaian Teks Lisensi
 date: 2012-07-17 20:13:00 +07:00
-categories:
-- Berita
-- Kajian
 tags:
 - Terjemah Teks Lisensi
 - Lisensi
