@@ -1,6 +1,7 @@
 ---
 title: 'Proyek Leebre: untuk membaca dan mengunduh buku gratis'
 date: 2012-01-17 17:29:00 +07:00
+published: false
 categories:
 - Berita
 tags:
