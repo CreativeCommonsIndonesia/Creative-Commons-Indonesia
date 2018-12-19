@@ -1,6 +1,7 @@
 ---
 title: Apakah Creative Commons itu dan apa kegiatannya?
 date: 2011-10-13 16:30:00 +07:00
+published: false
 categories:
 - Berita
 tags:

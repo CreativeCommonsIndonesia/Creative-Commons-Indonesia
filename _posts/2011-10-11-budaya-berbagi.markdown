@@ -1,6 +1,7 @@
 ---
 title: Budaya berbagi
 date: 2011-10-11 15:46:00 +07:00
+published: false
 categories:
 - Kajian
 - Berita
