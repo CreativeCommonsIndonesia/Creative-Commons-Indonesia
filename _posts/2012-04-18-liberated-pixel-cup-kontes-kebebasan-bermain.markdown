@@ -1,6 +1,7 @@
 ---
 title: 'Liberated Pixel Cup: Kontes Kebebasan Bermain'
 date: 2012-04-18 19:53:00 +07:00
+published: false
 categories:
 - Berita
 tags:

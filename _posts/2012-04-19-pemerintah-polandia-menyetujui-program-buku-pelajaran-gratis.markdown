@@ -1,6 +1,7 @@
 ---
 title: Pemerintah Polandia menyetujui program buku pelajaran gratis
 date: 2012-04-19 19:56:00 +07:00
+published: false
 categories:
 - Berita
 tags:
