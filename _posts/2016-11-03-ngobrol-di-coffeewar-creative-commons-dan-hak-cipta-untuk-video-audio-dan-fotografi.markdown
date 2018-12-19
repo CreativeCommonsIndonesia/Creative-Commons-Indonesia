@@ -4,7 +4,6 @@ title: 'Ngobrol di Coffeewar: Creative Commons, dan Hak Cipta untuk video, audio
 date: 2016-11-03 18:53:00 +07:00
 categories:
 - Acara
-- Berita
 tags:
 - Coffeewar
 - Kemang
