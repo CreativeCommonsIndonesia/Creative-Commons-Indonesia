@@ -2,6 +2,7 @@
 title: Apakah yang disebut lisensi Creative Commons internasional ("tanpa adaptasi")
   dan mengapa CC menawarkan lisensi "adaptasi"?
 date: 2011-10-13 17:59:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

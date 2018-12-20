@@ -1,6 +1,7 @@
 ---
 title: Apakah lisensi Creative Commons dapat ditegakkan di pengadilan?
 date: 2011-10-13 17:53:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
