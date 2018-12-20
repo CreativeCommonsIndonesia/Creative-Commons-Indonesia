@@ -1,6 +1,7 @@
 ---
 title: Apa yang dimaksud dengan RDFa?
 date: 2011-10-13 12:52:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

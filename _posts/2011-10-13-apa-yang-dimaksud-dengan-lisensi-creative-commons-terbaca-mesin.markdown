@@ -1,6 +1,7 @@
 ---
 title: Apa yang dimaksud dengan lisensi Creative Commons "terbaca-mesin"?
 date: 2011-10-13 12:50:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

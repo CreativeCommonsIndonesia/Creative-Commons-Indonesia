@@ -1,6 +1,7 @@
 ---
 title: Apa yang dimaksud dengan CC REL dan mengapa Creative Commons menyarankannya?
 date: 2011-10-13 12:54:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
