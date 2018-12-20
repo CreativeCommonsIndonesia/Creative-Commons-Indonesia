@@ -2,6 +2,7 @@
 title: Dapatkah seseorang menempatkan merek dagang terhadap suatu ciptaan berlisensi
   CC tanpa memengaruhi hak pada merek dagang?
 date: 2011-10-13 19:11:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

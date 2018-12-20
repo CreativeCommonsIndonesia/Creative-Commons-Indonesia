@@ -2,6 +2,7 @@
 title: Dapatkah lisensi Creative Commons diterapkan pada suatu ciptaan milik publik
   (public domain)?
 date: 2011-10-13 19:06:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

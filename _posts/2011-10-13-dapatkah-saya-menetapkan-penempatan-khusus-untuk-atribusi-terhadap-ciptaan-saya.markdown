@@ -1,6 +1,7 @@
 ---
 title: Dapatkah seseorang menetapkan penempatan khusus untuk atribusi terhadap ciptaannya?
 date: 2011-10-13 19:08:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
