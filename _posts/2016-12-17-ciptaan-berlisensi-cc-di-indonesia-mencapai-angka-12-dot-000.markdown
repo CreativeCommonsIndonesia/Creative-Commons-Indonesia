@@ -2,7 +2,6 @@
 title: Ciptaan berlisensi CC di Indonesia mencapai angka 12.000!
 date: 2016-12-17 20:47:00 +07:00
 categories:
-- Kajian
 - Berita
 tags:
 - Creative Commons

@@ -2,7 +2,6 @@
 title: Lisensi Creative Commons Dibebaskan Dari Kewajiban Mencatatkan Lisensi!
 date: 2016-11-28 20:42:00 +07:00
 categories:
-- Kajian
 - Berita
 tags:
 - Lisensi Creative Commons
