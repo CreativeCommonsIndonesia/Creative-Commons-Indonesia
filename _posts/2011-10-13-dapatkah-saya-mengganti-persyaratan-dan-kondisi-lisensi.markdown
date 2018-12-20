@@ -1,6 +1,7 @@
 ---
 title: Dapatkah seseorang mengganti persyaratan dan kondisi lisensi?
 date: 2011-10-13 18:52:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

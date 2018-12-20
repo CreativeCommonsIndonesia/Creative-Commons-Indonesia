@@ -2,6 +2,7 @@
 title: Apakah Pencipta tetap dapat memperoleh uang dari ciptaan yang berlisensi Creative
   Commons?
 date: 2011-10-13 18:49:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

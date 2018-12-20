@@ -1,6 +1,7 @@
 ---
 title: Bagaimana jika seseorang menyalahgunakan ciptaan berlisensi Creative Commons?
 date: 2011-10-13 18:54:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

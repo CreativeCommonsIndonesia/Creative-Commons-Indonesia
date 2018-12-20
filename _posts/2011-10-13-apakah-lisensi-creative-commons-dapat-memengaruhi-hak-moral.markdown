@@ -1,6 +1,7 @@
 ---
 title: Apakah lisensi Creative Commons dapat memengaruhi hak moral?
 date: 2011-10-13 18:50:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

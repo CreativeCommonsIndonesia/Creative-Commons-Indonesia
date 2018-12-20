@@ -1,6 +1,7 @@
 ---
 title: Dapatkah anggota organisasi pemungut royalti menggunakan lisensi Creative Commons?
 date: 2011-10-13 18:40:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
