@@ -1,6 +1,7 @@
 ---
 title: Siapa yang memberi izin untuk menggunakan ciptaan yang berlisensi CC?
 date: 2011-10-13 16:25:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

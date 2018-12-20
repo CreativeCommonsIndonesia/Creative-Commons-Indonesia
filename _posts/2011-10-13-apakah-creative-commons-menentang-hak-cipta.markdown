@@ -1,6 +1,7 @@
 ---
 title: Apakah Creative Commons menentang hak cipta?
 date: 2011-10-13 16:37:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
