@@ -1,6 +1,7 @@
 ---
 title: Bagaimana jika seseorang berubah pikiran mengenai lisensi yang digunakan?
 date: 2011-10-13 18:38:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
