@@ -1,6 +1,7 @@
 ---
 title: Pencarian ciptaan dengan lisensi CC melalui Firefox
 date: 2011-11-25 14:54:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
