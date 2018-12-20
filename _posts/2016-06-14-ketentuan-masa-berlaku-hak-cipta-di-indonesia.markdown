@@ -1,6 +1,7 @@
 ---
 title: Ketentuan Masa Berlaku Hak Cipta di Indonesia Berdasarkan UUHC 2014
 date: 2016-06-14 14:36:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
