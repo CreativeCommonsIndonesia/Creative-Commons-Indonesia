@@ -2,6 +2,7 @@
 title: Jika seseorang membuat bunga rampai yang menyertakan ciptaan yang berlisensi
   CC, ciptaan apa yang dapat diikutsertakan di dalam bunga rampai tersebut?
 date: 2011-10-13 19:24:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

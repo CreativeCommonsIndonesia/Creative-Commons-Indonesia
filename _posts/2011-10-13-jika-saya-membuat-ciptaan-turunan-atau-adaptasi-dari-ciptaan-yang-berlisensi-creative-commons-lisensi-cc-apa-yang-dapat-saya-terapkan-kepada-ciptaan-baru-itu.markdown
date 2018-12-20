@@ -2,6 +2,7 @@
 title: Jika seseorang membuat ciptaan turunan atau adaptasi dari ciptaan yang berlisensi
   Creative Commons, lisensi CC apa yang dapat diterapkan pada ciptaan baru tersebut?
 date: 2011-10-13 19:19:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
