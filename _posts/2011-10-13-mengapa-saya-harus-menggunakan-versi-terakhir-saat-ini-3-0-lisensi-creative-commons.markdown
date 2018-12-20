@@ -2,6 +2,7 @@
 title: Mengapa Pengguna Lisensi harus menggunakan versi terakhir (saat ini 3.0) lisensi
   Creative Commons?
 date: 2011-10-13 17:34:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

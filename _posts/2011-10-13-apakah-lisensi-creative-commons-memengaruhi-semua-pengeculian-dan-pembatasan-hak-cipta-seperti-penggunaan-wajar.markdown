@@ -2,6 +2,7 @@
 title: Apakah lisensi Creative Commons memengaruhi semua pengeculian dan pembatasan
   hak cipta seperti penggunaan wajar?
 date: 2011-10-13 17:36:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
