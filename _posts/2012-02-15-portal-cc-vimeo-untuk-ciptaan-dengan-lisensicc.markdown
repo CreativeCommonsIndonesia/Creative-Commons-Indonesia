@@ -1,6 +1,7 @@
 ---
 title: 'Portal CC @vimeo untuk ciptaan dengan #lisensiCC'
 date: 2012-02-15 18:58:00 +07:00
+published: false
 tags:
 - Vimeo
 - Video
