@@ -1,6 +1,7 @@
 ---
 title: 'Easy CC License: plugin lisensi Creative Commons untuk tulisan di WordPress'
 date: 2012-02-28 19:16:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
