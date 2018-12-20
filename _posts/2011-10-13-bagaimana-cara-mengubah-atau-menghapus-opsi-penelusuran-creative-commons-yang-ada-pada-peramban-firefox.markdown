@@ -2,6 +2,7 @@
 title: Bagaimana cara mengubah atau menghapus opsi penelusuran Creative Commons yang
   ada pada peramban Firefox?
 date: 2011-10-13 12:59:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
