@@ -1,6 +1,7 @@
 ---
 title: Dapatkah lisensi Creative Commons diterapkan pada perangkat lunak?
 date: 2011-10-13 17:13:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
