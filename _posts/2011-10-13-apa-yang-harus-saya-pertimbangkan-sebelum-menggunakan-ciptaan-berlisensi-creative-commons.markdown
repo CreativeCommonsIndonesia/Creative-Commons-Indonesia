@@ -2,6 +2,7 @@
 title: Apa yang harus dipertimbangkan sebelum menerapkan lisensi Creative Commons
   pada suatu ciptaan?
 date: 2011-10-13 18:06:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
