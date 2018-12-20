@@ -2,6 +2,7 @@
 title: Bagaimana cara memberikan atribusi yang layak untuk suatu ciptaan berlisensi
   Creative Commons?
 date: 2011-10-13 16:49:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
