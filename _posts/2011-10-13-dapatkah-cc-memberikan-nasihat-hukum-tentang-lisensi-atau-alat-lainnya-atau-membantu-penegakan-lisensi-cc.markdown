@@ -2,6 +2,7 @@
 title: Dapatkah CC memberikan nasihat hukum tentang lisensi atau alat lainnya, atau
   membantu penegakan lisensi CC?
 date: 2011-10-13 16:19:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
