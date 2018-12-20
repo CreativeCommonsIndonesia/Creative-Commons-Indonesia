@@ -1,8 +1,6 @@
 ---
 title: Apa yang dimaksud mesin pencari berdaya-CC?
 date: 2011-10-13 12:55:00 +07:00
-categories:
-- Kajian
 tags:
 - CC Search
 - Google Search
