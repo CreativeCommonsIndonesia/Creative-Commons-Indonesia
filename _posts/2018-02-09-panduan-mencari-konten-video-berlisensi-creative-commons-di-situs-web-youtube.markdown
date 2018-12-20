@@ -1,8 +1,6 @@
 ---
 title: Panduan Mencari Konten Video Berlisensi Creative Commons di Situs Web Youtube
 date: 2018-02-09 17:10:00 +07:00
-categories:
-- Kajian
 img: "/uploads/YouTube%20Logo%20Andrew%20Perri%20CC%20BY.jpg"
 ---
 
