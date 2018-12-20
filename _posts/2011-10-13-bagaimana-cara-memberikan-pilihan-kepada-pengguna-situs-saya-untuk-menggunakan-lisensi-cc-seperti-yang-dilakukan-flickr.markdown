@@ -2,6 +2,7 @@
 title: Bagaimana cara memberikan pilihan kepada pengunjung suatu situs  untuk menggunakan
   lisensi CC seperti yang dilakukan Flickr?
 date: 2011-10-13 12:57:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
