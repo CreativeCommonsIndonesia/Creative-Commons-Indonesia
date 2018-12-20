@@ -2,7 +2,7 @@
 title: Literatur tentang Model Bisnis Terbuka "Made With CC"
 date: 2018-08-17 19:06:00 +07:00
 categories:
-- Kajian
+- Berita
 tags:
 - Made with CC
 - Creative Commons
