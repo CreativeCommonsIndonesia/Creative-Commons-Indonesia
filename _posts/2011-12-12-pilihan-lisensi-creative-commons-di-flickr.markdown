@@ -1,8 +1,6 @@
 ---
 title: Pilihan Lisensi Creative Commons di Flickr
 date: 2011-12-12 16:24:00 +07:00
-categories:
-- Kajian
 tags:
 - Flickr
 - Flickr CC
