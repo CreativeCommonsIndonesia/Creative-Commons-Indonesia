@@ -1,8 +1,7 @@
 ---
 title: 'Bagaimana cara melisensikan situs di bawah #lisensiCC BY?'
 date: 2011-12-16 16:49:00 +07:00
-categories:
-- Kajian
+published: false
 tags:
 - Lisensi Creative Commons
 - Website
