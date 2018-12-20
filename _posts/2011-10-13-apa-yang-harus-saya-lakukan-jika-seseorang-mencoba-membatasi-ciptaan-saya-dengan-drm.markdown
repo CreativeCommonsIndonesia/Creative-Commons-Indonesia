@@ -2,6 +2,7 @@
 title: Apa yang harus dilakukan jika seseorang mencoba membatasi suatu ciptaan dengan
   DRM?
 date: 2011-10-13 18:57:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

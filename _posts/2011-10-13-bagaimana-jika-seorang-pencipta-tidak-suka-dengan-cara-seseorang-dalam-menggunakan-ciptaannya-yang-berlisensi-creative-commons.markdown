@@ -2,6 +2,7 @@
 title: Bagaimana jika seorang Pencipta tidak suka dengan cara seseorang dalam menggunakan
   ciptaannya yang berlisensi Creative Commons?
 date: 2011-10-13 18:56:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

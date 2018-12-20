@@ -2,6 +2,7 @@
 title: Perlukah seseorang menandatangani sesuatu atau melakukan pendaftaran untuk
   mendapat lisensi Creative Commons?
 date: 2011-10-13 18:59:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

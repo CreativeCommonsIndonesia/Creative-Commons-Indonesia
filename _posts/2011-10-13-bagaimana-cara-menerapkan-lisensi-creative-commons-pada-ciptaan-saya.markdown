@@ -1,6 +1,7 @@
 ---
 title: Bagaimana cara menerapkan lisensi Creative Commons pada suatu ciptaan?
 date: 2011-10-13 19:02:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
