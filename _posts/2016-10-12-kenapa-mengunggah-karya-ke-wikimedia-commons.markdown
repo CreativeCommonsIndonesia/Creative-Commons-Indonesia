@@ -1,8 +1,6 @@
 ---
 title: Kenapa Mengunggah Karya di Wikimedia Commons?
 date: 2016-10-12 15:41:00 +07:00
-categories:
-- Kajian
 tags:
 - Wikimedia Commons
 - Wikimedia Commons Tutorial
