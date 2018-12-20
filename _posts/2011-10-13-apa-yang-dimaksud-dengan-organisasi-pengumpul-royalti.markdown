@@ -1,6 +1,7 @@
 ---
 title: Apa yang dimaksud dengan organisasi pengumpul royalti?
 date: 2011-10-13 13:10:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
