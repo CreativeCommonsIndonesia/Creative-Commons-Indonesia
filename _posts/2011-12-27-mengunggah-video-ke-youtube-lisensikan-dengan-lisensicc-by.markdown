@@ -1,6 +1,7 @@
 ---
 title: 'Mengunggah video ke @youtube, lisensikan dengan #lisensiCC BY'
 date: 2011-12-27 16:57:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
