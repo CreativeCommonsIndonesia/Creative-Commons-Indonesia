@@ -1,8 +1,6 @@
 ---
 title: Kiat praktis mencantumkan lisensi Creative Commons untuk fotografer
 date: 2016-07-29 16:57:00 +07:00
-categories:
-- Kajian
 tags:
 - Fotografi
 - Lisensi Creative Commons
