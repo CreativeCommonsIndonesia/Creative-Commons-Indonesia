@@ -3,7 +3,6 @@ title: Indonesia di Hari Domain Publik 2017
 date: 2017-01-01 21:02:00 +07:00
 categories:
 - Kajian
-- Berita
 tags:
 - Domain Publik
 - Hari Domain Publik
