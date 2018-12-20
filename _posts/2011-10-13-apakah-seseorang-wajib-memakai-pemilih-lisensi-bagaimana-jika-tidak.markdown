@@ -1,6 +1,7 @@
 ---
 title: Apakah seseorang wajib memakai perangkat pemilih lisensi? Bagaimana jika tidak?
 date: 2011-10-13 19:04:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
