@@ -2,6 +2,7 @@
 title: Apakah semua orang dapat menggunakan lisensi CC? Bagaimana dengan organisasi
   pemerintah dan antarpemerintah ("IGO")?
 date: 2011-10-13 18:05:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
