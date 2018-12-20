@@ -2,6 +2,7 @@
 title: Apakah Creative Commons mengumpulkan atau melacak ciptaan yang dilisensikan
   di bawah suatu lisensi CC?
 date: 2011-10-13 16:38:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
