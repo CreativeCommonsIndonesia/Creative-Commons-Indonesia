@@ -1,6 +1,7 @@
 ---
 title: Apa yang perlu dilakukan untuk mendapat hak cipta?
 date: 2011-10-13 13:04:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

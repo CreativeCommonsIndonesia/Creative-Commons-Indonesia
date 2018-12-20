@@ -1,6 +1,7 @@
 ---
 title: Apa yang dimaksud dengan hak moral?
 date: 2011-10-13 13:08:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
