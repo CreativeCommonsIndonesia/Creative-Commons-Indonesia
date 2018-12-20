@@ -1,8 +1,6 @@
 ---
 title: Pencarian ciptaan dengan lisensi CC melalui Google
 date: 2011-11-24 14:52:00 +07:00
-categories:
-- Kajian
 tags:
 - CC Search
 - Google CC Search
