@@ -2,6 +2,7 @@
 title: Apakah Creative Commons terlibat dalam manajemen hak digital (digital rights
   management, DRM)?
 date: 2011-10-13 13:00:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
