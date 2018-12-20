@@ -1,6 +1,7 @@
 ---
 title: Bagaimana teknis cara kerja lisensi Creative Commons dan alat domain publik?
 date: 2011-10-13 19:29:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
