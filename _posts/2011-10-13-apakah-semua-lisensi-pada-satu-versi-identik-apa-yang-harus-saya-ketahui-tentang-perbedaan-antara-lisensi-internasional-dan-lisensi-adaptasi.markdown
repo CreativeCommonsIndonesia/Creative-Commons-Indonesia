@@ -2,6 +2,7 @@
 title: Apakah semua lisensi pada satu versi identik? Apa yang harus diketahui tentang
   perbedaan antara lisensi internasional dan lisensi adaptasi?
 date: 2011-10-13 19:15:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

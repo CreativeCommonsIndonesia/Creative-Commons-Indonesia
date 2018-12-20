@@ -2,6 +2,7 @@
 title: Dapatkah seseorang menggabungkan ciptaan yang menggunakan lisensi Creative
   Commons yang berbeda dalam satu ciptaan?
 date: 2011-10-13 19:18:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

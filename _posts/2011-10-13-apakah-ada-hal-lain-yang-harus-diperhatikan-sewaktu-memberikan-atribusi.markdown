@@ -1,6 +1,7 @@
 ---
 title: Apakah ada hal lain yang harus diperhatikan sewaktu memberikan atribusi?
 date: 2011-10-13 19:16:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

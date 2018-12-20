@@ -2,6 +2,7 @@
 title: Apa yang harus dipertimbangkan dalam menggunakan ciptaan berlisensi Creative
   Commons?
 date: 2011-10-13 19:13:00 +07:00
+published: false
 categories:
 - Kajian
 tags:

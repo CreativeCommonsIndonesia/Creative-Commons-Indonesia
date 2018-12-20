@@ -2,6 +2,7 @@
 title: Bagaimana jika seseorang ingin menggunakan ciptaan dengan cara yang tidak diizinkan
   oleh lisensi?
 date: 2011-10-13 19:17:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
