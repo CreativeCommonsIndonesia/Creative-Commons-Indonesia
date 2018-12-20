@@ -1,6 +1,7 @@
 ---
 title: Bagaimana cara menentukan lisensi apa yang harus dipilih?
 date: 2011-10-13 18:35:00 +07:00
+published: false
 categories:
 - Kajian
 tags:
