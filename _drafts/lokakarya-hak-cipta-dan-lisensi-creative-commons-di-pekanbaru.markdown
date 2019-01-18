@@ -5,7 +5,7 @@ date: 2019-01-18 10:17:00 +07:00
 
 Minggu (13/01/2019), Creative Commons Indonesia (CCID) bekerja sama dengan komunitas literasi Hidden Gems dan Balai Pustaka Universitas Riau dalam penyelengaraan lokakarya lisensi Creative Commons. Sesi lokakarya kali ini dibawakan oleh Fitriayu selaku perwakilan CCID. Acara dimulai pada pukul 11.30-15.00 WIB ini diikuti oleh berbagai macam perwakilan komunitas literasi, penulis buku, jurnalis dan mahasiswa. Secara garis besar Materi dibagi menjadi tiga  yakni pemaparan hak cipta kemudian disusul dengan penjelasan lisensi CC dan ditutup  diakhir pemaparan dijelaskan juga mengenai contoh penerapan lisensi CC.
 
-![\[SPCCID\] 13 Januari 2019 Lokakarya CCID di Pekanbaru FA.jpeg](https://manage.siteleaf.com/api/v2/sites/58a15a68c1d6701a51c08017/source/_uploads/\[SPCCID\]%2013%20Januari%202019%20Lokakarya%20CCID%20di%20Pekanbaru%20FA.jpeg?download)
+![\[SPCCID\] 13 Januari 2019 Lokakarya CCID di Pekanbaru FA.jpeg](https://manage.siteleaf.com/api/v2/sites/58a15a68c1d6701a51c08017/source/_uploads/\[SPCCID\]%2013%20Januari%202019%20Lokakarya%20CCID%20di%20Pekanbaru%20FA.jpeg?download){: .img-responsive .center-block }{: width="500"}
 
 
 Di sesi pertama dijelaskan secara singkat mengenai definisi hak cipta, apa saja pelindungan hak cipta dan obyek-obyek pelindungan hak cipta. Berlanjut ke pemaparan selanjutnya yakni mengenai fungsi sosial hak cipta yakni apa saja yang tidak termasuk ke dalam obyek pelidungan hak cipta, penggunaan wajar yang harus mengikuti ketentuan-ketentuan tertentu, masa pelindungan hak cipta yang beragam tergantung obyek hak ciptanya. Setelah mengetahui definisi dan ketentuan serta fungsi sosial hak cipta, pemaparan berlanjut ke materi selanjutnya yakni lisensi hak cipta.
