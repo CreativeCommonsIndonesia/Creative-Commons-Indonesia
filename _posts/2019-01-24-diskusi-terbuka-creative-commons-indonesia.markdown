@@ -7,7 +7,10 @@ tags:
 - Creative Commons
 author: ccid
 comments: true
+img: "/uploads/poster-diskusi-cc-01-a99234.jpg"
 ---
+
+![poster-diskusi-cc-01-a99234.jpg](/uploads/poster-diskusi-cc-01-a99234.jpg)(https://manage.siteleaf.com/api/v2/sites/58a15a68c1d6701a51c08017/source/_uploads/%5BSPCCID%5D%2013%20Januari%202019%20Lokakarya%20CCID%20di%20Pekanbaru%20FA.jpeg?download){: .img-responsive .center-block }{: width="500"}
 
 **Pendahuluan**
 Creative Commons (CC) adalah organisasi nirlaba yang berpusat di Mountain View, Canada, dengan jaringan afiliasi yang tersebar di berbagai negara.
