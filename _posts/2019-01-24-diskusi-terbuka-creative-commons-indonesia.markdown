@@ -51,7 +51,7 @@ Anda dapat turut serta berpartisipasi dalam forum ini, baik secara daring (onlin
 
   * Baca baik-baik setiap bahan bacaan dan catatan pertemuan kemudian masukan saran Anda pada bagian yang disediakan;
 
-  * Anda juga dapat bergabung dalam percakapan yang berlangsung dalam Diskusi Terbuka Creative Commons Indonesia dengan mengakses [tautan ini](meet.google.com/ngt-zidq-bqo).
+  * Anda juga dapat bergabung dalam percakapan yang berlangsung dalam Diskusi Terbuka Creative Commons Indonesia dengan mengakses [tautan ini](https://meet.google.com/ngt-zidq-bqo).
 
 Susunan acara:
   * 13\.00-13.30: Pemaparan Capaian-Capaian Creative Commons Indonesia
