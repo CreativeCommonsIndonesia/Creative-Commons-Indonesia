@@ -7,10 +7,7 @@ tags:
 - Creative Commons
 author: ccid
 comments: true
-img: "/uploads/poster-diskusi-cc-noinfo-01.jpg"
 ---
-
-![poster-diskusi-cc-noinfo-01.jpg](/uploads/poster-diskusi-cc-noinfo-01.jpg){: .img-responsive .center-block }{: width="300"}
 
 **Pendahuluan**
 Creative Commons (CC) adalah organisasi nirlaba yang berpusat di Mountain View, Canada, dengan jaringan afiliasi yang tersebar di berbagai negara.
@@ -42,13 +39,13 @@ Anda dapat turut serta berpartisipasi dalam forum ini, baik secara daring (onlin
 * Kehadiran luring (offline)
   Waktu: Sabtu, 26 Januari 2019, Pukul 13.00-16.00 WIB (UTC\+7), Hotel Grand Cemara, Jakarta, Indonesia;
 
-  * Silakan mendaftarkan diri melalui [formulir google ini](https://docs.google.com/forms/d/e/1FAIpQLScWKhgOQoibGFF_zuZYbD9nNVuEs50sQMkd18BIsHkqPT8UcA/viewform?usp=sf_link);
+  * Silakan mendaftarkan diri melalui [formulir google ini](https://goo.gl/forms/9BDEqHe1usfxLBj53);
 
   * Panitia acara akan menghubungi Anda h-1 menjelang acara Diskusi Terbuka Creative Commons Indonesia melalui nomor kontak yang Anda isi dalam formulir google untuk memastikan kehadiran Anda pada hari pelaksanaan Chapter Meeting Creative Commons Indonesia.
 
 * Kehadiran daring (online)
 
-  * Silakan mendaftarkan diri melalui [formulir google ini](https://docs.google.com/forms/d/e/1FAIpQLScWKhgOQoibGFF_zuZYbD9nNVuEs50sQMkd18BIsHkqPT8UcA/viewform?usp=sf_link);
+  * Silakan mendaftarkan diri melalui [formulir google ini](https://goo.gl/forms/9BDEqHe1usfxLBj53);
 
   * Silakan akses dokumen [Diskusi Terbuka Creative Commons Indonesia](https://docs.google.com/document/d/15R9lqUXPIld8EzVWD-dWnUFHOLC3OWiJgqapLUA19Z8/edit);
 
@@ -57,11 +54,7 @@ Anda dapat turut serta berpartisipasi dalam forum ini, baik secara daring (onlin
   * Anda juga dapat bergabung dalam percakapan yang berlangsung dalam Diskusi Terbuka Creative Commons Indonesia dengan mengakses [tautan ini](meet.google.com/ngt-zidq-bqo).
 
 Susunan acara:
-
-* 13.00-13.30: Pemaparan Capaian-Capaian Creative Commons Indonesia
-
-* 13.30-14.00: Pengenalan Konsep Jaringan Global Creative Commons
-
-* 14.00-15.30: Diskusi “Rencana Strategi Pemajuan Lisensi Creative Commons di Indonesia”
-
-* 15.30-16.00: Penetapan Struktur Koordinator dan Pengurus Creative Commons Chapter Indonesia
+  * 13\.00-13.30: Pemaparan Capaian-Capaian Creative Commons Indonesia
+  * 13\.30-14.00: Pengenalan Konsep Jaringan Global Creative Commons
+  * 14\.00-15.30: Diskusi “Rencana Strategi Pemajuan Lisensi Creative Commons di Indonesia”
+  * 15\.30-16.00: Penetapan Struktur Koordinator dan Pengurus Creative Commons Chapter Indonesia
