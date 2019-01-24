@@ -54,7 +54,7 @@ Anda dapat turut serta berpartisipasi dalam forum ini, baik secara daring (onlin
   * Anda juga dapat bergabung dalam percakapan yang berlangsung dalam Diskusi Terbuka Creative Commons Indonesia dengan mengakses [tautan ini](meet.google.com/ngt-zidq-bqo).
 
 Susunan acara:
-13\.00-13.30: Pemaparan Capaian-Capaian Creative Commons Indonesia
-13\.30-14.00: Pengenalan Konsep Jaringan Global Creative Commons
-14\.00-15.30: Diskusi “Rencana Strategi Pemajuan Lisensi Creative Commons di Indonesia”
-15\.30-16.00: Penetapan Struktur Koordinator dan Pengurus Creative Commons Chapter Indonesia
+  * 13\.00-13.30: Pemaparan Capaian-Capaian Creative Commons Indonesia
+  * 13\.30-14.00: Pengenalan Konsep Jaringan Global Creative Commons
+  * 14\.00-15.30: Diskusi “Rencana Strategi Pemajuan Lisensi Creative Commons di Indonesia”
+  * 15\.30-16.00: Penetapan Struktur Koordinator dan Pengurus Creative Commons Chapter Indonesia
