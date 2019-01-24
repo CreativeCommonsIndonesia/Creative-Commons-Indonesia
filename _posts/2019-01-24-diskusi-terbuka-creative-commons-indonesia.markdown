@@ -10,7 +10,7 @@ comments: true
 img: "/uploads/poster-diskusi-cc-01-a99234.jpg"
 ---
 
-![poster-diskusi-cc-01-a99234.jpg](/uploads/poster-diskusi-cc-01-a99234.jpg)(https://manage.siteleaf.com/api/v2/sites/58a15a68c1d6701a51c08017/source/_uploads/%5BSPCCID%5D%2013%20Januari%202019%20Lokakarya%20CCID%20di%20Pekanbaru%20FA.jpeg?download){: .img-responsive .center-block }{: width="500"}
+![poster-diskusi-cc-noinfo-01.jpg](/uploads/poster-diskusi-cc-noinfo-01.jpg){: .img-responsive .center-block }{: width="500"}
 
 **Pendahuluan**
 Creative Commons (CC) adalah organisasi nirlaba yang berpusat di Mountain View, Canada, dengan jaringan afiliasi yang tersebar di berbagai negara.
@@ -57,7 +57,11 @@ Anda dapat turut serta berpartisipasi dalam forum ini, baik secara daring (onlin
   * Anda juga dapat bergabung dalam percakapan yang berlangsung dalam Diskusi Terbuka Creative Commons Indonesia dengan mengakses [tautan ini](meet.google.com/ngt-zidq-bqo).
 
 Susunan acara:
-  * 13\.00-13.30: Pemaparan Capaian-Capaian Creative Commons Indonesia
-  * 13\.30-14.00: Pengenalan Konsep Jaringan Global Creative Commons
-  * 14\.00-15.30: Diskusi “Rencana Strategi Pemajuan Lisensi Creative Commons di Indonesia”
-  * 15\.30-16.00: Penetapan Struktur Koordinator dan Pengurus Creative Commons Chapter Indonesia
+
+* 13.00-13.30: Pemaparan Capaian-Capaian Creative Commons Indonesia
+
+* 13.30-14.00: Pengenalan Konsep Jaringan Global Creative Commons
+
+* 14.00-15.30: Diskusi “Rencana Strategi Pemajuan Lisensi Creative Commons di Indonesia”
+
+* 15.30-16.00: Penetapan Struktur Koordinator dan Pengurus Creative Commons Chapter Indonesia
