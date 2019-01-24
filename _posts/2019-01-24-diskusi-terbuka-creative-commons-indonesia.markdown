@@ -10,7 +10,7 @@ comments: true
 img: "/uploads/poster-diskusi-cc-noinfo-01.jpg"
 ---
 
-(/uploads/poster-diskusi-cc-noinfo-01.jpg){: .img-responsive .center-block }{: width="500"}
+![poster-diskusi-cc-noinfo-01.jpg](/uploads/poster-diskusi-cc-noinfo-01.jpg){: .img-responsive .center-block }{: width="500"}
 
 **Pendahuluan**
 Creative Commons (CC) adalah organisasi nirlaba yang berpusat di Mountain View, Canada, dengan jaringan afiliasi yang tersebar di berbagai negara.
