@@ -10,6 +10,8 @@ comments: true
 img: "/uploads/poster-diskusi-cc-noinfo-01.jpg"
 ---
 
+![poster-diskusi-cc-noinfo-01.jpg](/uploads/poster-diskusi-cc-noinfo-01.jpg){: .img-responsive .center-block }{: width="300"}
+
 **Pendahuluan**
 Creative Commons (CC) adalah organisasi nirlaba yang berpusat di Mountain View, Canada, dengan jaringan afiliasi yang tersebar di berbagai negara.
 
@@ -25,7 +27,7 @@ Creative Commons Indonesia (CCID) adalah salah satu afiliasi di jaringan afilias
   Sosialisasi adalah serangkaian proses fasilitasi atau penyediaan ilmu pengetahuan tentang lisensi CC yang dilaksanakan baik secara daring maupun luring. Aktivitas sosialisasi daring kami laksanakan dengan terus memublikasikan materi komunikasi (artikel, infografik, dan lain-lain) yang berkaitan dengan penerapan lisensi CC.  Aktivitas sosialisasi luring kami laksanakan dengan mengadakan serangkaian lokakarya baik yang bertema umum maupun spesifik. Misalnya pengadaan sesi perkenalan tentang lisensi CC yang dibuka untuk umum atau memberikan konsultasi mengenai penerapan lisensi CC dalam lokakarya maupun forum diskusi kelompok terpumpun yang diselenggarakan oleh suatu institusi.
 
 **Keterlibatan Anda**
-![poster-diskusi-cc-noinfo-01.jpg](/uploads/poster-diskusi-cc-noinfo-01.jpg){: .img-responsive .center-block }{: width="500"}
+
 * Diskusi Terbuka “Rencana Strategis Pemajuan Lisensi Creative Commons di Indonesia”
   Proyek CCID merasa perlu adanya suatu forum Diskusi Terbuka yang melibatkan setiap aktor kunci dan/atau pemangku kepentingan untuk bersama-sama merumuskan masa depan pemajuan lisensi Creative Commons di Indonesia. Forum tersebut diharapkan dapat memunculkan ide-ide segar dari para pesertanya untuk menjawab tantangan dan kebutuhan dalam aktivitas-aktivitas yang berkaitan dengan penerapan lisensi Creative Commons di Indonesia maupun fungsi proyek CCID sebagai sistem pendukung.
 
