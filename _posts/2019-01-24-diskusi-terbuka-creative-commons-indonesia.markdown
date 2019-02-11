@@ -7,6 +7,7 @@ tags:
 - Creative Commons
 author: ccid
 comments: true
+img: "/uploads/poster-diskusi-cc-noinfo-01.jpg"
 ---
 
 **Pendahuluan**
