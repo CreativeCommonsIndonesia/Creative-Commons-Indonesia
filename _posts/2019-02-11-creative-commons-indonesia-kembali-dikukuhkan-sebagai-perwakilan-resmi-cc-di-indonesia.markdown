@@ -34,6 +34,7 @@ Akses berkas-berkas dokumentasi dari diskusi terbuka CCID melalui [pranala berik
 * Rekaman Suara Diskusi Terbuka CCID - 20190126 - 13.00-16.00 WIB
 * Materi Presentasi Diskusi Terbuka CCID - 20190126 - 13.00-14.00 WIB
 * Notula Diskusi Terbuka CCID - 20190126 - 13.00-16.00 WIB
+* You can also access the english version [here](https://network.creativecommons.org/chapters/cc-indonesia/).
 
 Silakan perhatikan konten masing-masing berkas dengan cermat, kami nantikan kontribusi Anda!
 
