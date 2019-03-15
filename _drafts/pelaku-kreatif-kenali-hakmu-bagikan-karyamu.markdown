@@ -3,7 +3,7 @@ title: 'Pelaku Kreatif: Kenali Hakmu, Bagikan Karyamu'
 date: 2019-03-15 16:26:00 +07:00
 ---
 
-Badan Ekonomi Kreatif (BEKRAF) dan Creative Commons Indonesia (CCID)  bekerja sama untuk menyelenggarakan acara bertajuk “Pelaku Kreatif: Kenali Hakmu, Bagikan Karyamu” di Easparc Hotel Yogyakarta. Pada Rabu, 10 April 2019 pukul 14.00-22.00. Acara ini nantinya dibagi menjadi dua sesi yakni pertama sesi **Kenali Hakmu**  dan **Bagikan Karyamu. **Disela kedua sesi tersebut akan dimeriahkan dengan penampilan musik dari  Sungai dan Bottlesmoker.
+Badan Ekonomi Kreatif (BEKRAF) dan Creative Commons Indonesia (CCID)  bekerja sama untuk menyelenggarakan acara bertajuk “Pelaku Kreatif: Kenali Hakmu, Bagikan Karyamu” di Easparc Hotel Yogyakarta. Acara akan disengelarakan pada Rabu, 10 April 2019 pukul 14.00-22.00. Rangkaian  dibagi menjadi dua sesi yakni pertama sesi **Kenali Hakmu**  dan **Bagikan Karyamu. **Disela kedua sesi tersebut akan dimeriahkan dengan penampilan musik dari  Sungai dan Bottlesmoker.
 
 **Kenali Hakmu** 
 
