@@ -3,7 +3,7 @@ title: 'Pelaku Kreatif: Kenali Hakmu, Bagikan Karyamu'
 date: 2019-03-15 16:26:00 +07:00
 ---
 
-Badan Ekonomi Kreatif (BEKRAF) dan Creative Commons Indonesia (CCID)  bekerja sama untuk menyelenggarakan acara bertajuk “Pelaku Kreatif: Kenali Hakmu, Bagikan Karyamu”. Pada acara ini nantinya dibagi menjadi dua sesi yakni pertama sesi **Kenali Hakmu**  dan **Bagikan Karyamu**
+Badan Ekonomi Kreatif (BEKRAF) dan Creative Commons Indonesia (CCID)  bekerja sama untuk menyelenggarakan acara bertajuk “Pelaku Kreatif: Kenali Hakmu, Bagikan Karyamu” di Easparc Hotel Yogyakarta. Pada Rabu, 10 April 2019 pukul 14.00-22.00. Acara ini nantinya dibagi menjadi dua sesi yakni pertama sesi **Kenali Hakmu**  dan **Bagikan Karyamu. **Disela kedua sesi tersebut akan dimeriahkan dengan penampilan musik dari  Sungai dan Bottlesmoker.
 
 **Kenali Hakmu** 
 
@@ -13,7 +13,7 @@ Pada sesi  ini peserta akan dijelaskan menengenai hak-hak apa saja yang mereka k
 
 Pada sesi kedua ini, akan diadakan gelar wicara yang bertema "Pengenalan Lisensi CC dan Model Bisnis Terbuka serta Peluang Penerapannya bagi Pelaku Kreatif di Indonesia" ini akan dimoderatori oleh Ivan Lanin selaku wikipediawan bahasa indonesia dan Direktur Proxsis Consulting. Adapun pematerinya yakni Arie Juliano Gema selaku Deputi Fasilitasi Hak Kekayaan Intelektual dan Regulasi yang nanti akan membahas mengenai lisensi Creative Commons dan model bisnis terbuka yang merujuk pada buku made with CC. Kemudian juga dihadirkan pula dua praktisi model bisnis terbuka yakni Wok The Rock sebagai pendiri Netlabel Yes No Wave dan Rania Amina selaku Perwakilan Komunitas Desain Grafis GimpScape ID. Keduanya akan berbagi pengalaman mengenai praktek model bisnis terbuka yang telah mereka jalankan.
 
-Disela-sela kedua sesi tersebut juga akan ada penampilan musik dari Sungai dan Bottelsmoker selaku pemusik yang menerapkan lisensi CC pada ciptaannya. Kemdian diluncurkan juga buku terjemahan bahasa indonesia "made with CC" yang akan dibagikan ke peserta yang sudah mendaftar. 
+Disela-sela kedua sesi tersebut juga akan ada penampilan musik dari Sungai dan Bottelsmoker selaku pemusik yang menerapkan lisensi CC pada ciptaannya. Selain selama berlangsungnya acara tersedia juga stan Wikimedia Indonesia, CCID, Gimpscape ID, dan Yes No Shop. Kemudian akan diluncurkan juga buku terjemahan bahasa indonesia "made with CC" yang akan dibagikan ke peserta yang sudah mendaftar. 
 
 **Latar belakang Acara**
 
