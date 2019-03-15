@@ -31,4 +31,4 @@ Hal yang kemudian menjadi pertanyaan adalah apakah pelaku kreatif yang membagika
 
 **Peluncuran Terjemahan Buku Made With CC **
 
-Dalam rangka menawarkan gagasan model bisnis terbuka ini di Indonesia, Creative Commons Indonesia (CCID) telah merampungkan penerjemahan buku *Made With Creative Commons *yang diterjemahkan oleh** [Ano Jumisa ](http://www.anojumisa.com/)**dari bahasa Inggris ke bahasa Indonesia. Pada kesempatan ini, CCID bermaksud mengajak pelaku kreatif secara bersama-sama  membedah isi buku tersebut dan mengeksplorasi kemungkinan penerapannya di Indonesia.
+Dalam rangka menawarkan gagasan model bisnis terbuka ini di Indonesia, Creative Commons Indonesia (CCID) telah merampungkan penerjemahan buku *Made With Creative Commons *yang diterjemahkan oleh** [Ano Jumisa ](http://www.anojumisa.com/)**dari bahasa Inggris ke bahasa Indonesia. Pada kesempatan ini, CCID bermaksud mengajak pelaku kreatif secara bersama-sama  membedah isi buku tersebut dan mengeksplorasi kemungkinan penerapannya di Indonesia. Lihat juga ulasan mengenai buku made with CC[ di sini](http://creativecommons.or.id/2018/08/literatur-terbaru-tentang-model-bisnis-terbuka-made-with-cc/ r)
