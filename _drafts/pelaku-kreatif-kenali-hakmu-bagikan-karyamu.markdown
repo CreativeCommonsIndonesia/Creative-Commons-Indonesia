@@ -27,4 +27,8 @@ Beranjak dari permasalahan ini, Creative Commons, organisasi nirlaba yang berked
 
 **Model Bisnis Terbuka**
 
-Hal yang kemudian menjadi pertanyaan adalah apakah pelaku kreatif yang membagikan karyanya dengan lisensi CC dapat memperoleh keuntungan secara materi? Tentu bisa. Model bisnis terbuka (*open business model*) dapat menjadi salah satu alternatif bagi para pelaku kreatif untuk memperoleh keuntungan sambil membagikan manfaat dari karyanya. Model bisnis tersebut telah dikaji dan dijabarkan secara sistematis dan terperinci di dalam buku *Made With Creative Commons*. Dalam rangka menawarkan gagasan model bisnis terbuka ini di Indonesia, Creative Commons Indonesia (CCID) telah merampungkan penerjemahan buku *Made With Creative Commons *ke dalam versi bahasa Indonesia. Pada kesempatan ini, CCID bermaksud untuk mengajak kepada pelaku kreatif secara bersama-sama untuk membedah isi buku tersebut dan mengeksplorasi kemungkinan penerapannya di Indonesia.
+Hal yang kemudian menjadi pertanyaan adalah apakah pelaku kreatif yang membagikan karyanya dengan lisensi CC dapat memperoleh keuntungan secara materi? Tentu bisa. Model bisnis terbuka (*open business model*) dapat menjadi salah satu alternatif bagi para pelaku kreatif untuk memperoleh keuntungan sambil membagikan manfaat dari karyanya. Model bisnis tersebut telah dikaji dan dijabarkan secara sistematis dan terperinci di dalam buku *Made With Creative Commons*. 
+
+**Peluncuran Terjemahan Buku Made With CC **
+
+Dalam rangka menawarkan gagasan model bisnis terbuka ini di Indonesia, Creative Commons Indonesia (CCID) telah merampungkan penerjemahan buku *Made With Creative Commons *yang diterjemahkan oleh [Ano Jumisa ](http://www.anojumisa.com/)dari bahasa Inggris ke bahasa Indonesia. Pada kesempatan ini, CCID bermaksud untuk mengajak kepada pelaku kreatif secara bersama-sama untuk membedah isi buku tersebut dan mengeksplorasi kemungkinan penerapannya di Indonesia.
