@@ -7,7 +7,7 @@ Badan Ekonomi Kreatif (BEKRAF) dan Creative Commons Indonesia (CCID)  bekerja sa
 
 **Kenali Hakmu** 
 
-Pada sesi  ini peserta akan dijelaskan menengenai hak-hak apa saja yang mereka ketahui khusunya hak cipta pada ciptaannya. Pemaparan materi yang bertajuk "Sosialisasi Hak Cipta Bagi Pelaku Kreatif" ini akan dipaparkan oleh perwakilan bekraf yakni XXXX, dan juga akademisi dari UGM yang bergelut dibidang HAKI yakni XXXX serta pemusik Bottelsmoker yakni Angkuy yang juga merupakan pengajar di universitas Padjadjaran. Pada sesi ini Harsa Wahyu Ramadhan selaku perwakilan dari CCID akan memandu jalannya sesi pertama ini.
+Pada sesi  ini  akan dijelaskan menengenai hak-hak apa saja yang perlu  diketahui khusunya oleh pelaku kreatif mengenai hak cipta. Pemaparan materi yang bertajuk "Sosialisasi Hak Cipta Bagi Pelaku Kreatif" ini akan dipaparkan oleh perwakilan bekraf yakni XXXX, dan juga akademisi dari UGM yang bergelut dibidang HAKI yakni XXXX serta pemusik Bottelsmoker yakni Angkuy yang juga merupakan pengajar di universitas Padjadjaran. Pada sesi ini Harsa Wahyu Ramadhan selaku perwakilan dari CCID akan memandu jalannya sesi pertama ini.
 
 **Bagikan Karyamu**
 
