@@ -37,4 +37,20 @@ Lihat juga ulasan mengenai buku made with CC\[ di sini\](http://creativecommons.
 
 **Pendaftaran Acara**
 
-Acara "Pelaku Kreatif: Kenali Hakmu, Bagikan Karyamu" ini  terbuka untuk umum dan gratis. Bagi yang ingin mendaftar dapat mengisi formulir pendaftaran pada pranala beriku: 
+Acara "Pelaku Kreatif: Kenali Hakmu, Bagikan Karyamu" ini  terbuka untuk umum dan gratis. Dengan susunan acara sebagai berikut:
+
+14\.00-14.30  Pendaftaran
+\
+15\.00- 15.30 Pembukaan
+\
+15\.30-17.30  Sosialisasi Hak Cipta Bagi Pelaku Kreatif
+\
+17\.30-18.30  Penampilan musik Sungai dan ISHOMA
+\
+18\.30-20.00  Gelar Wicara Pengenalan Lisensi CC dan Model Bisnis Terbuka serta                              Peluang Penerapannya bagi Pelaku Kreatif di Indonesia
+\
+20\.00-20.30  Pengumuman & Penutupan
+\
+20\.30-22.00  Hiburan Musik oleh Bottlesmoker
+
+Bagi yang ingin mendaftar dapat mengisi formulir pendaftaran pada pranala berikut 
