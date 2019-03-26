@@ -7,7 +7,7 @@ Badan Ekonomi Kreatif (BEKRAF) dan Creative Commons Indonesia (CCID)  bekerja sa
 
 **Kenali Hakmu**
 
-Pada sesi  ini  akan dijelaskan menengenai hak-hak apa saja yang perlu  diketahui khusunya oleh pelaku kreatif mengenai hak cipta. Pemaparan materi yang bertajuk "Sosialisasi Hak Cipta Bagi Pelaku Kreatif" ini akan dipaparkan oleh Direktur Fasilitasi HKI BEKRAF Indonesia yakni **Dr. Ir. Robinson Sinaga, S.H., L.L.M **dan juga akademisi dari Universitas Gajah Mada yakni **Prof. Tomi Suryo Utomo S.H., LL.M., Ph.D **serta pemusik Bottelsmoker yakni **Anggung Suherman** yang juga merupakan pengajar di universitas Padjadjaran. Pada sesi ini Harsa Wahyu Ramadhan selaku perwakilan dari CCID akan memandu jalannya sesi pertama ini.
+Pada sesi  ini  akan dijelaskan menengenai hak-hak apa saja yang perlu  diketahui khusunya oleh pelaku kreatif mengenai hak cipta. Pemaparan materi yang bertajuk "Sosialisasi Hak Cipta Bagi Pelaku Kreatif" ini akan dipaparkan oleh Direktur Fasilitasi HKI BEKRAF Indonesia yakni \*\*Dr. Ir. Robinson Sinaga, S.H., L.L.M \*\*dan juga akademisi dari Universitas Gajah Mada yakni \*\*Prof. Tomi Suryo Utomo S.H., LL.M., Ph.D \*\*serta pemusik Bottelsmoker yakni **Anggung Suherman** yang juga merupakan pengajar di universitas Padjadjaran. Pada sesi ini Harsa Wahyu Ramadhan selaku perwakilan dari CCID akan memandu jalannya sesi pertama ini.
 
 **Bagikan Karyamu**
 
@@ -31,27 +31,18 @@ Hal yang kemudian menjadi pertanyaan adalah apakah pelaku kreatif yang membagika
 
 **Peluncuran Terjemahan Buku Made With CC**
 
-Dalam rangka menawarkan gagasan model bisnis terbuka ini di Indonesia, Creative Commons Indonesia (CCID) telah merampungkan penerjemahan buku *Made With Creative Commons *yang diterjemahkan oleh **[Ano Jumisa ](http://www.anojumisa.com/)**[ ](http://www.anojumisa.com/)dari bahasa Inggris ke bahasa Indonesia. Pada kesempatan ini, CCID bermaksud mengajak pelaku kreatif secara bersama-sama  membedah isi buku tersebut dan mengeksplorasi kemungkinan penerapannya di Indonesia. 
+Dalam rangka menawarkan gagasan model bisnis terbuka ini di Indonesia, Creative Commons Indonesia (CCID) telah merampungkan penerjemahan buku \*Made With Creative Commons \*yang diterjemahkan oleh **[Ano Jumisa ](http://www.anojumisa.com/)**[ ](http://www.anojumisa.com/)dari bahasa Inggris ke bahasa Indonesia. Pada kesempatan ini, CCID bermaksud mengajak pelaku kreatif secara bersama-sama  membedah isi buku tersebut dan mengeksplorasi kemungkinan penerapannya di Indonesia.
 
 Lihat juga ulasan mengenai buku made with CC\[ di sini\](http://creativecommons.or.id/2018/08/literatur-terbaru-tentang-model-bisnis-terbuka-made-with-cc/ r)
 
 **Pendaftaran Acara**
 
-Acara "Pelaku Kreatif: Kenali Hakmu, Bagikan Karyamu" ini  terbuka untuk umum dan gratis. Dengan susunan acara sebagai berikut:
+Acara "Pelaku Kreatif: Kenali Hakmu, Bagikan Karyamu" ini  terbuka untuk umum dan gratis. Acara akan disengelarakan di Hotel Easparc Jogjakarta pada Rabu 10 April 2017,  pukul 14.00-22.00 WIB.  Dengan konten acara sebagai berikut:
 
-14\.00-14.30  Pendaftaran
-\
-15\.00- 15.30 Pembukaan
-\
-15\.30-17.30  Sosialisasi Hak Cipta Bagi Pelaku Kreatif
-\
-17\.30-18.30  Penampilan musik Sungai dan ISHOMA
-\
-18\.30-20.00  Gelar Wicara Pengenalan Lisensi CC dan Model Bisnis Terbuka serta                              Peluang Penerapannya bagi Pelaku Kreatif di Indonesia
-\
-20\.00-20.30  Pengumuman & Penutupan
-\
-20\.30-22.00  Hiburan Musik oleh Bottlesmoker
+1.  Sosialisasi Hak Cipta Bagi Pelaku Kreatif
 
-Bagi yang ingin mendaftar dapat mengisi formulir pendaftaran pada pranala berikut bit.ly/daftarKHBK
+2. Gelar Wicara Pengenalan Lisensi CC dan Model Bisnis Terbuka serta                              Peluang Penerapannya bagi Pelaku Kreatif di Indonesia
 
+3.  Penampilan musik Sungai dan Bottlesmoker
+
+   Bagi yang ingin mendaftar dapat mengisi formulir pendaftaran pada pranala berikut bit.ly/daftarKHBK
