@@ -53,4 +53,5 @@ Acara "Pelaku Kreatif: Kenali Hakmu, Bagikan Karyamu" ini  terbuka untuk umum da
 \
 20\.30-22.00  Hiburan Musik oleh Bottlesmoker
 
-Bagi yang ingin mendaftar dapat mengisi formulir pendaftaran pada pranala berikut 
+Bagi yang ingin mendaftar dapat mengisi formulir pendaftaran pada pranala berikut bit.ly/daftarKHBK
+
