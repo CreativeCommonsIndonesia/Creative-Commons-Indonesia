@@ -1,6 +1,6 @@
 ---
 title: Para Pelaku Kreatif, Ayo Kenali Hakmu dan Bagikan Karyamu!
-date: 2019-03-15 16:26:00 +07:00
+date: 2019-03-26 16:26:00 +07:00
 ---
 
 Sebagai pelaku kreatif di ranah digital, apakah kalian pernah berpikir, “Kalau saya membagikan karya saya secara gratis di Internet, apakah berarti orang lain bisa memanfaatkannya sedangkan saya tidak mendapat apa-apa?” Atau mungkin, kalian bertanya-tanya, “Bagaimana caranya agar karya saya bisa tersebar luas di Internet tetapi saya tetap bisa mendapat pemasukan?”
