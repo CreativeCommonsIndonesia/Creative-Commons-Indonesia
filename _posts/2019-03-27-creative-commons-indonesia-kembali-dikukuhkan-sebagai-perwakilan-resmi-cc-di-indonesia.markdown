@@ -1,7 +1,7 @@
 ---
 title: Creative Commons Indonesia Kembali Dikukuhkan Sebagai Perwakilan Resmi CC di
   Indonesia
-date: 2019-02-11 14:24:00 +07:00
+date: 2019-03-27 14:24:00 +07:00
 categories:
 - Acara
 tags:
