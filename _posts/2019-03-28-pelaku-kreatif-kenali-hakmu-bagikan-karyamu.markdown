@@ -1,10 +1,21 @@
 ---
 title: Para Pelaku Kreatif, Ayo Kenali Hakmu dan Bagikan Karyamu!
-date: 2019-03-26 16:26:00 +07:00
+date: 2019-03-28 16:26:00 +07:00
+categories:
+- Acara
 tags:
-- BEKRAF
-- Peluncuran Creative Commons Indonesia
+- hak cipta
+- hak kekayaan intelektual
+- sosialisasi
+- bekraf
+- bekraf ri
+- bekraf indonesia
+- indonesia
+- yogyakarta
+- creative commons
 img: "/uploads/Poster%20acara%20KHBK.jpeg"
+comments: true
+author: ccid
 ---
 
 ![Poster acara KHBK.jpeg](/uploads/Poster%20acara%20KHBK.jpeg){: .img-responsive .center-block }{: width="500"}<center>
@@ -19,8 +30,9 @@ Pada “Bagikan Karyamu”, akan diadakan gelar wicara membahas model bisnis ter
 
 Selain diskusi, acara juga akan dimeriahkan dengan hiburan musik dari Sungai dan diakhiri dengan penampilan dari Bottlesmoker.
 
-Acara ini akan diadakan pada Rabu, 10 April 2019 (pkl. 14.00-22.00) di Hotel Eastparc, Jogjakarta.
+Acara ini akan diadakan pada Rabu, 10 April 2019, 14.00-22.00 WIB, di Eastparc Hotel Yogyakarta
 
 **Pendaftaran**
-Acara ini terbuka untuk umum dan gratis, namun terbatas untuk 100 orang peserta. Peserta terdaftar akan mendapatkan buku Made with Creative Commons bahasa Indonesia.
-Ayo mendaftar sebelum kehabisan! Isi formulir [di sini](https://docs.google.com/forms/d/e/1FAIpQLSd0Hbd5IZBgO2m68f1Q7crsvXOhpi8KzXX2k3szEmh67_yloA/viewform) atau  **bit.ly/daftarKHBK**
+Acara ini terbuka untuk umum, tidak dipungut biaya dan terbatas untuk 100 orang peserta. Dalam acara ini peserta juga akan mendapatkan buku terjemahan Made with Creative Commons dalam versi bahasa Indonesia. 
+
+Kami mengundang Anda untuk membaca informasi lebih lanjut mengenai pendaftaran peserta dan mendaftarkan diri Anda dengan mengklik [**tautan ini**](https://docs.google.com/forms/d/e/1FAIpQLSd0Hbd5IZBgO2m68f1Q7crsvXOhpi8KzXX2k3szEmh67_yloA/viewform)!
