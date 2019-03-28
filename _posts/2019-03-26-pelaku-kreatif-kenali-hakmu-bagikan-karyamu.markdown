@@ -3,6 +3,8 @@ title: Para Pelaku Kreatif, Ayo Kenali Hakmu dan Bagikan Karyamu!
 date: 2019-03-26 16:26:00 +07:00
 ---
 
+![Poster acara KHBK.jpeg](/uploads/Poster%20acara%20KHBK.jpeg){: .img-responsive .center-block }{: width="500"}<center><small><i>Foto oleh Susi Harja Hunusalela</i></small></center>
+
 Sebagai pelaku kreatif di ranah digital, apakah kalian pernah berpikir, “Kalau saya membagikan karya saya secara gratis di Internet, apakah berarti orang lain bisa memanfaatkannya sedangkan saya tidak mendapat apa-apa?” Atau mungkin, kalian bertanya-tanya, “Bagaimana caranya agar karya saya bisa tersebar luas di Internet tetapi saya tetap bisa mendapat pemasukan?”
 
 Apabila ya, jawaban dari pertanyaan-pertanyaan tersebut dapat kalian temukan di acara “Pelaku Kreatif: Kenali Hakmu, Bagikan Karyamu” yang diselenggarakan oleh Badan Ekonomi Kreatif (BEKRAF) dan Creative Commons Indonesia (CCID). Acara akan dibagi menjadi dua bagian yaitu Kenali Hakmu dan Bagikan Karyamu.
