@@ -4,6 +4,7 @@ date: 2019-03-26 16:26:00 +07:00
 tags:
 - BEKRAF
 - Peluncuran Creative Commons Indonesia
+img: "/uploads/Poster%20acara%20KHBK.jpeg"
 ---
 
 ![Poster acara KHBK.jpeg](/uploads/Poster%20acara%20KHBK.jpeg){: .img-responsive .center-block }{: width="500"}<center>
