@@ -1,6 +1,9 @@
 ---
 title: Para Pelaku Kreatif, Ayo Kenali Hakmu dan Bagikan Karyamu!
 date: 2019-03-26 16:26:00 +07:00
+tags:
+- BEKRAF
+- Peluncuran Creative Commons Indonesia
 ---
 
 ![Poster acara KHBK.jpeg](/uploads/Poster%20acara%20KHBK.jpeg){: .img-responsive .center-block }{: width="500"}<center><small><i>Foto oleh Susi Harja Hunusalela</i></small></center>
