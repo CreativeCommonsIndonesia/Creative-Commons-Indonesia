@@ -11,7 +11,7 @@ tags:
 author: ccid
 comments: true
 img: "/uploads/translat.jpg"
-featured: true
+Key: 
 ---
 
 ![New-Old Legal Code.jpg](/uploads/New-Old%20Legal%20Code.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>Tampilan lama dan baru laman ketentuan lisensi lengkap Creative Commons</i></small></center>
