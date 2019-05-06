@@ -21,6 +21,7 @@ tags:
 author: ccid
 img: "/uploads/Header%20Web%20FINAL-e76350.jpg"
 comments: true
+featured: true
 ---
 
 ![Header Web FINAL-e76350.jpg](/uploads/Header%20Web%20FINAL-e76350.jpg){: .img-responsive .center-block }{: width="500"}

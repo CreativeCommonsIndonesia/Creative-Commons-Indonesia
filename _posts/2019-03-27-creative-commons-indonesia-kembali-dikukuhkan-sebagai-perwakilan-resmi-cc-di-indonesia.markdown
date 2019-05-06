@@ -17,6 +17,7 @@ tags:
 img: "/uploads/Thumbnail.JPG"
 author: ccid
 comments: true
+featured: true
 ---
 
 ![Thumbnail.JPG](/uploads/Thumbnail.JPG){: .img-responsive .center-block }{: width="500"}<center><small><i>Foto oleh Susi Harja Hunusalela</i></small></center>
