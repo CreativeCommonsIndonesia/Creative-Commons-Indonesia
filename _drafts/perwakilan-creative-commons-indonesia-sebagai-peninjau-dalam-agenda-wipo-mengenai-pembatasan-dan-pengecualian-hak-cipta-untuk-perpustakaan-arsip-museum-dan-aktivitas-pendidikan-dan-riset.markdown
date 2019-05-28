@@ -99,3 +99,5 @@ Acara kemudian ditutup oleh Sylvie Forbin dan Simon Seow dari Kementerian Hukum 
 Laporan dibuat oleh Harsa Wahyu Ramadhan
 
 https://docs.google.com/document/d/1ySjCWs9XxvUIyPXhPqSqoQ7pmYnrMYeBkMPHA9QjBCk/edit#
+
+https://drive.google.com/drive/u/2/folders/1H_9bnORbLuMFiUQo4uvrhnMQOTNDSqJ-
