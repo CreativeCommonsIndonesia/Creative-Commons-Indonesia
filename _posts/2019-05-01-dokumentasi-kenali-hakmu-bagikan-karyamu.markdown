@@ -15,10 +15,10 @@ tags:
 - Made with CC
 img: "/uploads/CCIDxBEKRAF%20KHBK.JPG"
 comments: true
-Field name: 
+author: ccid
 ---
 
-[CCIDxBEKRAF KHBK.JPG](/uploads/CCIDxBEKRAF%20KHBK.JPG)
+![CCIDxBEKRAF KHBK.JPG](/uploads/CCIDxBEKRAF%20KHBK.JPG){: .img-responsive .center-block }{: width="500"}<center>
 
 Pada tanggal 10 April 2019 lalu Creative Commons Indonesia (CC Indonesia) dan Badan Ekonomi Kreatif Republik Indonesia (BEKRAF RI) menyelenggarakan acara bertajuk "Kenali Hakmu, Bagikan Karyamu" (KHBK) di Eastparc Hotel Yogyakarta. Acara ini diadakan dari pukul 14.00-22.00 dengan 2 sesi diskusi terpisah yaitu:
 
@@ -37,6 +37,8 @@ Sesi ini diadakan untuk memberikan pemahaman dasar kepada para peserta tentang k
 
 Sesi ini diadakan untuk memberikan memperkenalkan konsep model bisnis terbuka kepada para peserta melalui pandangan umum pakar ekonomi kreatif serta studi kasus dari para pemateri yang dipertemukan dengan teori-teori yang terdapat dalam buku Made with Creative Commons.
 Setiap pemateri memiliki kepakaran di bidangnya masing-masing yang diharapkan dapat memberikan gambaran atau penjelasan yang dapat menjadi solusi atau menjawab pertanyaan dari para peserta.
+
+![Poster acara KHBK.jpeg](/uploads/Poster%20acara%20KHBK.jpeg){: .img-responsive .center-block }{: width="500"}<center>
 
 Silakan akses dokumentasi acara KHBK berikut:
 * [Dokumentasi foto](https://drive.google.com/drive/u/0/folders/1e-2g7kesDHJ8ZeL_7lZuuMrfHVAt8Gxk)
