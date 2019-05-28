@@ -43,6 +43,6 @@ Salah satu pembeda terbesar pada gelaran konferensi tahun ini adalah pemisahan p
 
 ![Karya Florens Debora di Meja Informasi CCGS 2019 (FA).jpg](/uploads/Karya%20Florens%20Debora%20di%20Meja%20Informasi%20CCGS%202019%20(FA).jpg)
 
-Rincian masing-masing sesi yang kami ikuti di konferensi ini dapat Anda baca di laman wiki kami.
+Rincian masing-masing sesi yang kami ikuti di konferensi ini dapat Anda baca di laman wiki kami (belum tersedia).
 
 ![Tim CCID di CC Global Summit 2019 oleh Sebastian Ter Burg.jpg](/uploads/Tim%20CCID%20di%20CC%20Global%20Summit%202019%20oleh%20Sebastian%20Ter%20Burg.jpg)
