@@ -21,7 +21,5 @@ Ada empat kategori isu yang dapat dijawab masing-masing negara anggota, yakni: P
 
 | Header | Header | Right  |
 | ------ | ------ | -----: |
-|  Cell  |  Cell  |   
-* $10
-* $15  |
+|  Cell  |  Cell  |   $10  |
 |  Cell  |  Cell  |   $20  |
