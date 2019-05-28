@@ -97,3 +97,5 @@ Kesimpulan CCID dari acara ini adalah perlu adanya standar internasional yang me
 Acara kemudian ditutup oleh Sylvie Forbin dan Simon Seow dari Kementerian Hukum Singapura.
 
 Laporan dibuat oleh Harsa Wahyu Ramadhan
+
+https://docs.google.com/document/d/1ySjCWs9XxvUIyPXhPqSqoQ7pmYnrMYeBkMPHA9QjBCk/edit#
