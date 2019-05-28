@@ -2,7 +2,7 @@
 title: Perwakilan Creative Commons Indonesia sebagai Peninjau dalam Agenda WIPO mengenai
   Pembatasan dan Pengecualian Hak Cipta untuk Perpustakaan, Arsip, Museum, dan Aktivitas
   Pendidikan dan Riset di Singapura
-date: 2019-05-28 10:52:00 +07:00
+date: 2019-05-03 10:52:00 +07:00
 author: ccid
 img: 
 ---
