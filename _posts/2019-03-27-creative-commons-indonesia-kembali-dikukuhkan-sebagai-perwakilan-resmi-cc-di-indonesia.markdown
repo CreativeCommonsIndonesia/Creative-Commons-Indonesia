@@ -36,3 +36,6 @@ Akses berkas-berkas dokumentasi dari diskusi terbuka CCID melalui [pranala berik
 Silakan perhatikan konten masing-masing berkas dengan cermat, kami nantikan kontribusi Anda!
 
 NB: Kami berencana untuk segera menyelenggarakan diskusi terbuka CCID kedua secara daring. Nantikan informasinya!
+
+Akses notula diskusi terbuka kedua [di sini](https://docs.google.com/document/d/1MEGhKXhTVMLdPElAWDivMn0S03Fjf4c2mee7K63RHMo/edit)!
+Akses notula diskusi terbuka ketiga [di sini](https://docs.google.com/document/d/1TqpuaTTEwZgqczY9n8YfS9KM8KPQ-qFawOlAw0niA1o/edit?ts=5cbedd1c)!
