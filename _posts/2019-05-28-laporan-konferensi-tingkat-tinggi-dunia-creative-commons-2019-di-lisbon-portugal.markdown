@@ -16,6 +16,7 @@ tags:
 author: ccid
 img: "/uploads/Seluruh%20Perwakilan%20Lokal%20Jaringan%20Global%20CC%20di%20CCGS%202019%20oleh%20Sebastian%20Ter%20Burg.jpg"
 comments: true
+featured: true
 ---
 
 ![Seluruh Perwakilan Lokal Jaringan Global CC di CCGS 2019 oleh Sebastian Ter Burg.jpg](/uploads/Seluruh%20Perwakilan%20Lokal%20Jaringan%20Global%20CC%20di%20CCGS%202019%20oleh%20Sebastian%20Ter%20Burg.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>Seluruh perwakilan lokal CC pada sesi pemantapan strategi jaringan global CC. Foto oleh <a href="https://www.flickr.com/photos/ter-burg/">Sebastiaan ter Burg</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>, melalui <a href="https://www.flickr.com/photos/ter-burg/33962819478/in/album-72157708410802765/">Flickr</a>. </i></small></center>
