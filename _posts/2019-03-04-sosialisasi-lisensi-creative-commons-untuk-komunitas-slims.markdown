@@ -14,11 +14,11 @@ tags:
 - hak cipta
 - lisensi creative commons
 author: ccid
-img: "/uploads/800px-SPCCID_27_April_Lokakarya_Hak_Cipta_dan_Lisensi_CC_di_Wikinusantara_2019.jpg"
+img: "/uploads/WhatsApp%20Image%202019-03-25%20at%203.30.54%20PM.jpeg"
 comments: true
 ---
 
-![800px-SPCCID_27_April_Lokakarya_Hak_Cipta_dan_Lisensi_CC_di_Wikinusantara_2019.jpg](/uploads/800px-SPCCID_27_April_Lokakarya_Hak_Cipta_dan_Lisensi_CC_di_Wikinusantara_2019.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>Foto oleh SLiMS Jakarta</i></small></center>
+![WhatsApp Image 2019-03-25 at 3.30.54 PM.jpeg](/uploads/WhatsApp%20Image%202019-03-25%20at%203.30.54%20PM.jpeg){: .img-responsive .center-block }{: width="500"}<center><small><i>Foto oleh SLiMS Jakarta</i></small></center>
 
 Pada hari Sabtu (3/3/2018) lalu, CCID diwakili Hilman Fathoni memberikan paparan dasar tentang lisensi Creative Commons pada helatan Sinau SLiMS Jakarta 2019 di Universitas Islam 45 Bekasi. Koleksi-koleksi perpustakaan yang meliputi buku, jurnal ilmiah, hingga karya fotografi merupakan bagian dari obyek-obyek pelindungan hak cipta, baik yang formatnya elektronik maupun fisik. Untuk itu perlu adanya pengetahuan mendasar mengenai hal-hal terkait pengumuman ciptaan kepada para pustakawan. Setelah para pustakawan mendapatkan pengetahuan tentang hal ini, diharapkan mereka dapat memahami apa yang boleh dan tidak boleh mereka lakukan pada suatu ciptaan. 
 
