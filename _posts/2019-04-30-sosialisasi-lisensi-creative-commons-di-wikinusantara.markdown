@@ -17,7 +17,7 @@ img: "/uploads/800px-SPCCID_27_April_Lokakarya_Hak_Cipta_dan_Lisensi_CC_di_Wikin
 comments: true
 ---
 
-![800px-SPCCID_27_April_Lokakarya_Hak_Cipta_dan_Lisensi_CC_di_Wikinusantara_2019.jpg](/uploads/800px-SPCCID_27_April_Lokakarya_Hak_Cipta_dan_Lisensi_CC_di_Wikinusantara_2019.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>Foto oleh SLiMS Jakarta</i></small></center>
+![800px-SPCCID_27_April_Lokakarya_Hak_Cipta_dan_Lisensi_CC_di_Wikinusantara_2019.jpg](/uploads/800px-SPCCID_27_April_Lokakarya_Hak_Cipta_dan_Lisensi_CC_di_Wikinusantara_2019.jpg){: .img-responsive .center-block }{: width="500"}<center><small><i>Foto oleh Fitriayu/CC BY</i></small></center>
 
 Pada hari Sabtu (27/4/2018) lalu, CCID diwakili Hilman Fathoni memberikan paparan dasar tentang lisensi Creative Commons dan Hak Cipta di Proyek Wikimedia pada helatan Wikinusantara di Hotel Innside Yogyakarta. Konten proyek Wikimedia meliputi teks, gambar, video, hingga basis data merupakan bagian obyek pelindungan hak cipta. Untuk itu perlu adanya pengetahuan mendasar mengenai hal-hal terkait pengumuman ciptaan kepada para pegiat konten Wikimedia. Setelah para pegiat mendapatkan pengetahuan tentang hal ini, diharapkan mereka dapat memahami apa yang boleh dan tidak boleh mereka lakukan pada suatu ciptaan dan memahami hak apa saja yang mereka "serahkan" saat berkontribusi pada proyek-proyek Wikimedia. 
 
